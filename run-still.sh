@@ -46,7 +46,7 @@ K_p="3.000"
 K_i="0.300"
 K_d="2.000"
 
-dataFilename="$( date '+%F' )_run.txt"
+dataFilename="./runs/$( date '+%F' )_run.txt"
 
 write_row()
 {

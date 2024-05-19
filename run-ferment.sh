@@ -20,8 +20,8 @@ headers2=('' '' 'T amb' 'T boil' 'Tboil')
 headers3=('Time' 'PWM' '(C)' '(C)' 'tgt(C)')
 horizLine="-----------------------------------------------"
 spacings=(10 6 7 7 7)
-boilerTarget="74"
-PWM="40"
+boilerTarget="65"
+PWM="25"
 mPWM=$(( PWM * 1000 ))
 now=$( date '+%H:%M:%S' )
 prevNowNs=$( date '+%s%N' )
@@ -34,9 +34,9 @@ mDeltaTArray=()
 fixedPWM=""
 
 # PID constants, must have 3 places after decimal
-K_p="3.000"
+K_p="1.000"
 K_i="0.300"
-K_d="2.000"
+K_d="1.000"
 
 dataFilename="./runs/$( date '+%F' )_ferment.txt"
 
@@ -273,7 +273,7 @@ main()
       stillheadTemp="$(get_temp '28-032197794fef')"
       coolInletTemp="$(get_temp '28-0321977926b2')"
       coolOutletTemp="$(get_temp '28-032197797070')"
-      if [[-z fixedPWM]]; then
+      if [[ -z $fixedPWM ]]; then
         dataRow=($now $PWM $ambTemp $boilerTemp $boilerTarget)
       else
         dataRow=($now $fixedPWM $ambTemp $boilerTemp $boilerTarget)

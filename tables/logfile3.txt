@@ -1,0 +1,8585 @@
+Tamb: 29.687
+set_offset_A: 189987.77777777778
+weight (mg): 2
+read time (s): 1.689
+Tamb: 29.687
+set_offset_A: 189990.0
+weight (mg): -15
+read time (s): 1.755
+Tamb: 29.687
+set_offset_A: 189974.0
+weight (mg): 0
+read time (s): 1.737
+Tamb: 29.75
+set_offset_A: 189986.0
+weight (mg): -15
+read time (s): 1.709
+Tamb: 29.75
+set_offset_A: 189959.33333333334
+weight (mg): 32
+read time (s): 1.776
+Tamb: 29.687
+set_offset_A: 189990.66666666666
+weight (mg): -4
+read time (s): 1.735
+Tamb: 29.687
+set_offset_A: 189989.88888888888
+weight (mg): 1
+read time (s): 1.708
+Tamb: 29.75
+set_offset_A: 190001.66666666666
+weight (mg): -27
+read time (s): 1.775
+Tamb: 29.687
+set_offset_A: 189990.55555555556
+weight (mg): 1
+read time (s): 1.736
+Tamb: 29.75
+set_offset_A: 190000.66666666666
+weight (mg): -1
+read time (s): 1.708
+Tamb: 29.75
+set_offset_A: 189977.66666666666
+weight (mg): 19
+read time (s): 1.774
+Tamb: 29.687
+set_offset_A: 189996.33333333334
+weight (mg): -33
+read time (s): 1.733
+Tamb: 29.75
+set_offset_A: 189980.55555555556
+weight (mg): -22
+read time (s): 1.728
+Tamb: 29.625
+set_offset_A: 189980.11111111112
+weight (mg): 5
+read time (s): 1.7
+Tamb: 29.687
+set_offset_A: 190007.88888888888
+weight (mg): -15
+read time (s): 1.767
+Tamb: 29.687
+set_offset_A: 189993.0
+weight (mg): -4
+read time (s): 1.749
+Tamb: 29.625
+set_offset_A: 190001.0
+weight (mg): 28
+read time (s): 1.721
+Tamb: 29.687
+set_offset_A: 189997.33333333334
+weight (mg): 7
+read time (s): 1.695
+Tamb: 29.687
+set_offset_A: 190023.0
+weight (mg): -5
+read time (s): 1.763
+Tamb: 29.687
+set_offset_A: 190013.33333333334
+weight (mg): -16
+read time (s): 1.721
+Tamb: 29.687
+set_offset_A: 190005.22222222222
+weight (mg): 18
+read time (s): 1.693
+Tamb: 29.687
+set_offset_A: 190006.22222222222
+weight (mg): 16
+read time (s): 1.759
+Tamb: 29.687
+set_offset_A: 190007.0
+weight (mg): 0
+read time (s): 1.719
+Tamb: 29.687
+set_offset_A: 189996.33333333334
+weight (mg): -24
+read time (s): 1.689
+Tamb: 29.687
+set_offset_A: 190021.88888888888
+weight (mg): -12
+read time (s): 1.754
+Tamb: 29.687
+set_offset_A: 190013.22222222222
+weight (mg): -3
+read time (s): 1.714
+Tamb: 29.687
+set_offset_A: 190025.0
+weight (mg): -15
+read time (s): 1.686
+Tamb: 29.687
+set_offset_A: 190009.33333333334
+weight (mg): 5
+read time (s): 1.752
+Tamb: 29.687
+set_offset_A: 190016.88888888888
+weight (mg): 18
+read time (s): 1.711
+Tamb: 29.687
+set_offset_A: 190007.88888888888
+weight (mg): -14
+read time (s): 1.777
+Tamb: 29.687
+set_offset_A: 190011.22222222222
+weight (mg): -24
+read time (s): 1.735
+Tamb: 29.687
+set_offset_A: 190009.66666666666
+weight (mg): 12
+read time (s): 1.709
+Tamb: 29.687
+set_offset_A: 190025.88888888888
+weight (mg): 4
+read time (s): 1.775
+Tamb: 29.687
+set_offset_A: 190010.11111111112
+weight (mg): -28
+read time (s): 1.733
+Tamb: 29.625
+set_offset_A: 190011.88888888888
+weight (mg): 23
+read time (s): 1.706
+Tamb: 29.687
+set_offset_A: 190035.44444444444
+weight (mg): -7
+read time (s): 1.772
+Tamb: 29.687
+set_offset_A: 190011.0
+weight (mg): -66
+read time (s): 1.731
+Tamb: 29.625
+set_offset_A: 190021.88888888888
+weight (mg): 6
+read time (s): 1.704
+Tamb: 29.625
+set_offset_A: 190030.44444444444
+weight (mg): -24
+read time (s): 1.77
+Tamb: 29.625
+set_offset_A: 189991.88888888888
+weight (mg): 35
+read time (s): 1.74
+Tamb: 29.625
+set_offset_A: 190023.77777777778
+weight (mg): 5
+read time (s): 1.713
+Tamb: 29.562
+set_offset_A: 190029.33333333334
+weight (mg): -6
+read time (s): 1.778
+Tamb: 29.625
+set_offset_A: 190026.55555555556
+weight (mg): -22
+read time (s): 1.738
+Tamb: 29.562
+set_offset_A: 190025.55555555556
+weight (mg): -7
+read time (s): 1.711
+Tamb: 29.5
+set_offset_A: 190033.55555555556
+weight (mg): -20
+read time (s): 1.778
+Tamb: 29.5
+set_offset_A: 190046.22222222222
+weight (mg): -33
+read time (s): 1.761
+Tamb: 29.562
+set_offset_A: 190029.55555555556
+weight (mg): -1
+read time (s): 1.733
+Tamb: 29.5
+set_offset_A: 190042.77777777778
+weight (mg): -5
+read time (s): 1.705
+Tamb: 29.562
+set_offset_A: 190047.11111111112
+weight (mg): -1
+read time (s): 1.772
+Tamb: 29.562
+set_offset_A: 190031.0
+weight (mg): 15
+read time (s): 1.73
+Tamb: 29.562
+set_offset_A: 190034.55555555556
+weight (mg): 7
+read time (s): 1.703
+Tamb: 29.562
+set_offset_A: 190010.11111111112
+weight (mg): -11
+read time (s): 1.77
+Tamb: 29.437
+set_offset_A: 190042.33333333334
+weight (mg): 3
+read time (s): 1.728
+Tamb: 29.5
+set_offset_A: 190023.55555555556
+weight (mg): -18
+read time (s): 1.701
+Tamb: 29.437
+set_offset_A: 190045.11111111112
+weight (mg): 4
+read time (s): 1.768
+Tamb: 29.5
+set_offset_A: 190048.11111111112
+weight (mg): 39
+read time (s): 1.727
+Tamb: 29.437
+set_offset_A: 190061.66666666666
+weight (mg): 2
+read time (s): 1.699
+Tamb: 29.437
+set_offset_A: 190081.88888888888
+weight (mg): -32
+read time (s): 1.765
+Tamb: 29.437
+set_offset_A: 190052.11111111112
+weight (mg): 18
+read time (s): 1.724
+Tamb: 29.437
+set_offset_A: 190068.33333333334
+weight (mg): 21
+read time (s): 1.698
+Tamb: 29.375
+set_offset_A: 190047.66666666666
+weight (mg): 20
+read time (s): 1.776
+Tamb: 29.375
+set_offset_A: 190058.55555555556
+weight (mg): -1
+read time (s): 1.735
+Tamb: 29.437
+set_offset_A: 190085.33333333334
+weight (mg): -8
+read time (s): 1.708
+Tamb: 29.437
+set_offset_A: 190076.22222222222
+weight (mg): -5
+read time (s): 1.774
+Tamb: 29.437
+set_offset_A: 190074.77777777778
+weight (mg): 4
+read time (s): 1.733
+Tamb: 29.375
+set_offset_A: 190074.33333333334
+weight (mg): -27
+read time (s): 1.706
+Tamb: 29.437
+set_offset_A: 190081.22222222222
+weight (mg): -3
+read time (s): 1.772
+Tamb: 29.375
+set_offset_A: 190104.33333333334
+weight (mg): -9
+read time (s): 1.731
+Tamb: 29.312
+set_offset_A: 190094.44444444444
+weight (mg): 15
+read time (s): 1.705
+Tamb: 29.375
+set_offset_A: 190091.88888888888
+weight (mg): 13
+read time (s): 1.77
+Tamb: 29.312
+set_offset_A: 190084.33333333334
+weight (mg): -7
+read time (s): 1.755
+Tamb: 29.375
+set_offset_A: 190047.0
+weight (mg): -5
+read time (s): 1.727
+Tamb: 29.312
+set_offset_A: 190115.66666666666
+weight (mg): -26
+read time (s): 1.7
+Tamb: 29.312
+set_offset_A: 190102.88888888888
+weight (mg): -6
+read time (s): 1.766
+Tamb: 29.312
+set_offset_A: 190126.11111111112
+weight (mg): -4
+read time (s): 1.725
+Tamb: 29.375
+set_offset_A: 190101.0
+weight (mg): 4
+read time (s): 1.698
+Tamb: 29.312
+set_offset_A: 190089.33333333334
+weight (mg): 24
+read time (s): 1.763
+Tamb: 29.312
+set_offset_A: 190094.22222222222
+weight (mg): 9
+read time (s): 1.744
+Tamb: 29.312
+set_offset_A: 190115.88888888888
+weight (mg): 8
+read time (s): 1.725
+Tamb: 29.312
+set_offset_A: 190132.55555555556
+weight (mg): -5
+read time (s): 1.699
+Tamb: 29.312
+set_offset_A: 190108.11111111112
+weight (mg): 5
+read time (s): 1.766
+Tamb: 29.25
+set_offset_A: 190133.55555555556
+weight (mg): -27
+read time (s): 1.748
+Tamb: 29.312
+set_offset_A: 190134.55555555556
+weight (mg): -10
+read time (s): 1.72
+Tamb: 29.312
+set_offset_A: 190128.66666666666
+weight (mg): -3
+read time (s): 1.693
+Tamb: 29.312
+set_offset_A: 190130.88888888888
+weight (mg): -19
+read time (s): 1.758
+Tamb: 29.312
+set_offset_A: 190116.33333333334
+weight (mg): 14
+read time (s): 1.718
+Tamb: 29.25
+set_offset_A: 190137.88888888888
+weight (mg): -3
+read time (s): 1.69
+Tamb: 29.25
+set_offset_A: 190098.44444444444
+weight (mg): 24
+read time (s): 1.757
+Tamb: 29.187
+set_offset_A: 190138.55555555556
+weight (mg): 0
+read time (s): 1.716
+Tamb: 29.187
+set_offset_A: 190114.55555555556
+weight (mg): 25
+read time (s): 1.688
+Tamb: 29.187
+set_offset_A: 190141.22222222222
+weight (mg): -16
+read time (s): 1.755
+Tamb: 29.187
+set_offset_A: 190147.22222222222
+weight (mg): -16
+read time (s): 1.713
+Tamb: 29.187
+set_offset_A: 190144.11111111112
+weight (mg): -33
+read time (s): 1.686
+Tamb: 29.187
+set_offset_A: 190155.0
+weight (mg): -26
+read time (s): 1.762
+Tamb: 29.187
+set_offset_A: 190164.77777777778
+weight (mg): -15
+read time (s): 1.72
+Tamb: 29.187
+set_offset_A: 190164.77777777778
+weight (mg): -10
+read time (s): 1.691
+Tamb: 29.125
+set_offset_A: 190155.33333333334
+weight (mg): 19
+read time (s): 1.757
+Tamb: 29.187
+set_offset_A: 190141.33333333334
+weight (mg): 0
+read time (s): 1.716
+Tamb: 29.125
+set_offset_A: 190161.22222222222
+weight (mg): -9
+read time (s): 1.689
+Tamb: 29.187
+set_offset_A: 190165.11111111112
+weight (mg): -33
+read time (s): 1.755
+Tamb: 29.125
+set_offset_A: 190161.77777777778
+weight (mg): 13
+read time (s): 1.728
+Tamb: 29.125
+set_offset_A: 190172.11111111112
+weight (mg): 6
+read time (s): 1.7
+Tamb: 29.125
+set_offset_A: 190167.55555555556
+weight (mg): -1
+read time (s): 1.767
+Tamb: 29.125
+set_offset_A: 190180.55555555556
+weight (mg): 14
+read time (s): 1.726
+Tamb: 29.125
+set_offset_A: 190173.66666666666
+weight (mg): 3
+read time (s): 1.697
+Tamb: 29.187
+set_offset_A: 190183.88888888888
+weight (mg): 4
+read time (s): 1.763
+Tamb: 29.125
+set_offset_A: 190185.66666666666
+weight (mg): -20
+read time (s): 1.722
+Tamb: 29.125
+set_offset_A: 190182.0
+weight (mg): 23
+read time (s): 1.695
+Tamb: 29.125
+set_offset_A: 190181.55555555556
+weight (mg): 16
+read time (s): 1.761
+Tamb: 29.125
+set_offset_A: 190178.11111111112
+weight (mg): 3
+read time (s): 1.72
+Tamb: 29.125
+set_offset_A: 190123.77777777778
+weight (mg): 0
+read time (s): 1.693
+Tamb: 29.062
+set_offset_A: 190214.66666666666
+weight (mg): -19
+read time (s): 1.759
+Tamb: 29.062
+set_offset_A: 190208.77777777778
+weight (mg): -10
+read time (s): 1.718
+Tamb: 29.062
+set_offset_A: 190213.66666666666
+weight (mg): -14
+read time (s): 1.691
+Tamb: 29.062
+set_offset_A: 190201.88888888888
+weight (mg): 11
+read time (s): 1.757
+Tamb: 29.062
+set_offset_A: 190194.55555555556
+weight (mg): -18
+read time (s): 1.717
+Tamb: 29.062
+set_offset_A: 190208.77777777778
+weight (mg): 17
+read time (s): 1.691
+Tamb: 29.062
+set_offset_A: 190197.33333333334
+weight (mg): 2
+read time (s): 1.755
+Tamb: 29.062
+set_offset_A: 190193.55555555556
+weight (mg): 24
+read time (s): 1.713
+Tamb: 29.062
+set_offset_A: 190204.33333333334
+weight (mg): -15
+read time (s): 1.687
+Tamb: 29.062
+set_offset_A: 190216.11111111112
+weight (mg): -9
+read time (s): 1.754
+Tamb: 29.062
+set_offset_A: 190220.44444444444
+weight (mg): 0
+read time (s): 1.714
+Tamb: 29.062
+set_offset_A: 190219.33333333334
+weight (mg): -5
+read time (s): 1.686
+Tamb: 29.0
+set_offset_A: 190220.77777777778
+weight (mg): -13
+read time (s): 1.772
+Tamb: 29.062
+set_offset_A: 190219.44444444444
+weight (mg): -5
+read time (s): 1.731
+Tamb: 29.062
+set_offset_A: 190231.22222222222
+weight (mg): -3
+read time (s): 1.703
+Tamb: 29.0
+set_offset_A: 190224.77777777778
+weight (mg): 0
+read time (s): 1.77
+Tamb: 29.0
+set_offset_A: 190226.22222222222
+weight (mg): -7
+read time (s): 1.729
+Tamb: 29.0
+set_offset_A: 190220.11111111112
+weight (mg): -1
+read time (s): 1.703
+Tamb: 28.937
+set_offset_A: 190243.11111111112
+weight (mg): 3
+read time (s): 1.768
+Tamb: 29.0
+set_offset_A: 190217.0
+weight (mg): 48
+read time (s): 1.727
+Tamb: 29.0
+set_offset_A: 190235.55555555556
+weight (mg): -27
+read time (s): 1.7
+Tamb: 29.0
+set_offset_A: 190238.66666666666
+weight (mg): -27
+read time (s): 1.765
+Tamb: 29.0
+set_offset_A: 190233.11111111112
+weight (mg): -13
+read time (s): 1.742
+Tamb: 28.937
+set_offset_A: 190227.66666666666
+weight (mg): 18
+read time (s): 1.715
+Tamb: 28.937
+set_offset_A: 190259.55555555556
+weight (mg): -30
+read time (s): 1.687
+Tamb: 28.937
+set_offset_A: 190252.11111111112
+weight (mg): 15
+read time (s): 1.753
+Tamb: 28.937
+set_offset_A: 190249.55555555556
+weight (mg): 19
+read time (s): 1.712
+Tamb: 28.937
+set_offset_A: 190264.11111111112
+weight (mg): -14
+read time (s): 1.691
+Tamb: 28.937
+set_offset_A: 190279.22222222222
+weight (mg): -15
+read time (s): 1.764
+Tamb: 28.937
+set_offset_A: 190259.77777777778
+weight (mg): 5
+read time (s): 1.724
+Tamb: 28.875
+set_offset_A: 190263.0
+weight (mg): -10
+read time (s): 1.696
+Tamb: 28.937
+set_offset_A: 190259.33333333334
+weight (mg): -20
+read time (s): 1.762
+Tamb: 28.875
+set_offset_A: 190249.33333333334
+weight (mg): 18
+read time (s): 1.708
+Tamb: 28.875
+set_offset_A: 190251.55555555556
+weight (mg): 32
+read time (s): 1.695
+Tamb: 28.875
+set_offset_A: 190285.44444444444
+weight (mg): -5
+read time (s): 1.765
+Tamb: 28.875
+set_offset_A: 190272.0
+weight (mg): 22
+read time (s): 1.724
+Tamb: 28.875
+set_offset_A: 190291.77777777778
+weight (mg): 7
+read time (s): 1.697
+Tamb: 28.875
+set_offset_A: 190287.33333333334
+weight (mg): -11
+read time (s): 1.764
+Tamb: 28.875
+set_offset_A: 190286.11111111112
+weight (mg): 14
+read time (s): 1.723
+Tamb: 28.812
+set_offset_A: 190288.11111111112
+weight (mg): -7
+read time (s): 1.695
+Tamb: 28.812
+set_offset_A: 190297.55555555556
+weight (mg): -11
+read time (s): 1.761
+Tamb: 28.812
+set_offset_A: 190312.33333333334
+weight (mg): -23
+read time (s): 1.721
+Tamb: 28.875
+set_offset_A: 190280.44444444444
+weight (mg): 26
+read time (s): 1.693
+Tamb: 28.812
+set_offset_A: 190293.66666666666
+weight (mg): 22
+read time (s): 1.759
+Tamb: 28.812
+set_offset_A: 190292.88888888888
+weight (mg): 16
+read time (s): 1.718
+Tamb: 28.812
+set_offset_A: 190305.88888888888
+weight (mg): -14
+read time (s): 1.691
+Tamb: 28.75
+set_offset_A: 190296.77777777778
+weight (mg): -22
+read time (s): 1.756
+Tamb: 28.75
+set_offset_A: 190294.11111111112
+weight (mg): 6
+read time (s): 1.716
+Tamb: 28.875
+set_offset_A: 190303.55555555556
+weight (mg): -10
+read time (s): 1.688
+Tamb: 28.812
+set_offset_A: 190310.66666666666
+weight (mg): 1
+read time (s): 1.755
+Tamb: 28.812
+set_offset_A: 190313.0
+weight (mg): 35
+read time (s): 1.714
+Tamb: 28.812
+set_offset_A: 190322.77777777778
+weight (mg): 22
+read time (s): 1.779
+Tamb: 28.812
+set_offset_A: 190302.33333333334
+weight (mg): 15
+read time (s): 1.738
+Tamb: 28.812
+set_offset_A: 190317.66666666666
+weight (mg): 4
+read time (s): 1.711
+Tamb: 28.812
+set_offset_A: 190327.11111111112
+weight (mg): -15
+read time (s): 1.777
+Tamb: 28.812
+set_offset_A: 190333.11111111112
+weight (mg): -25
+read time (s): 1.737
+Tamb: 28.75
+set_offset_A: 190317.55555555556
+weight (mg): 24
+read time (s): 1.708
+Tamb: 28.75
+set_offset_A: 190353.66666666666
+weight (mg): -7
+read time (s): 1.775
+Tamb: 28.75
+set_offset_A: 190320.33333333334
+weight (mg): -8
+read time (s): 1.734
+Tamb: 28.75
+set_offset_A: 190326.33333333334
+weight (mg): 20
+read time (s): 1.706
+Tamb: 28.75
+set_offset_A: 190356.66666666666
+weight (mg): -34
+read time (s): 1.772
+Tamb: 28.75
+set_offset_A: 190335.33333333334
+weight (mg): -13
+read time (s): 1.731
+Tamb: 28.75
+set_offset_A: 190346.33333333334
+weight (mg): 13
+read time (s): 1.703
+Tamb: 28.687
+set_offset_A: 190339.66666666666
+weight (mg): -23
+read time (s): 1.77
+Tamb: 28.687
+set_offset_A: 190355.44444444444
+weight (mg): -8
+read time (s): 1.734
+Tamb: 28.687
+set_offset_A: 190358.66666666666
+weight (mg): -12
+read time (s): 1.707
+Tamb: 28.687
+set_offset_A: 190377.77777777778
+weight (mg): -2
+read time (s): 1.772
+Tamb: 28.687
+set_offset_A: 190366.33333333334
+weight (mg): -51
+read time (s): 1.732
+Tamb: 28.687
+set_offset_A: 190371.44444444444
+weight (mg): -10
+read time (s): 1.705
+Tamb: 28.687
+set_offset_A: 190355.0
+weight (mg): -13
+read time (s): 1.771
+Tamb: 28.687
+set_offset_A: 190367.22222222222
+weight (mg): 11
+read time (s): 1.716
+Tamb: 28.687
+set_offset_A: 190373.77777777778
+weight (mg): -9
+read time (s): 1.704
+Tamb: 28.687
+set_offset_A: 190385.0
+weight (mg): -17
+read time (s): 1.769
+Tamb: 28.687
+set_offset_A: 190379.11111111112
+weight (mg): 5
+read time (s): 1.715
+Tamb: 28.625
+set_offset_A: 190389.22222222222
+weight (mg): -26
+read time (s): 1.701
+Tamb: 28.625
+set_offset_A: 190384.22222222222
+weight (mg): -2
+read time (s): 1.768
+Tamb: 28.625
+set_offset_A: 190373.33333333334
+weight (mg): 13
+read time (s): 1.712
+Tamb: 28.687
+set_offset_A: 190391.88888888888
+weight (mg): -1
+read time (s): 1.699
+Tamb: 28.625
+set_offset_A: 190392.0
+weight (mg): 10
+read time (s): 1.764
+Tamb: 28.625
+set_offset_A: 190389.77777777778
+weight (mg): -2
+read time (s): 1.711
+Tamb: 28.625
+set_offset_A: 190392.55555555556
+weight (mg): -11
+read time (s): 1.698
+Tamb: 28.625
+set_offset_A: 190389.77777777778
+weight (mg): 24
+read time (s): 1.763
+Tamb: 28.625
+set_offset_A: 190404.44444444444
+weight (mg): -19
+read time (s): 1.71
+Tamb: 28.562
+set_offset_A: 190395.0
+weight (mg): 5
+read time (s): 1.697
+Tamb: 28.5
+set_offset_A: 190392.33333333334
+weight (mg): -13
+read time (s): 1.763
+Tamb: 28.5
+set_offset_A: 190392.55555555556
+weight (mg): 11
+read time (s): 1.709
+Tamb: 28.5
+set_offset_A: 190392.66666666666
+weight (mg): 25
+read time (s): 1.695
+Tamb: 28.437
+set_offset_A: 190411.55555555556
+weight (mg): 19
+read time (s): 1.762
+Tamb: 28.437
+set_offset_A: 190419.55555555556
+weight (mg): 2
+read time (s): 1.614
+Tamb: 28.437
+set_offset_A: 190427.22222222222
+weight (mg): -14
+read time (s): 1.708
+Tamb: 28.437
+set_offset_A: 190424.0
+weight (mg): -12
+read time (s): 1.747
+Tamb: 28.375
+set_offset_A: 190428.11111111112
+weight (mg): -12
+read time (s): 1.719
+Tamb: 28.375
+set_offset_A: 190437.33333333334
+weight (mg): -28
+read time (s): 1.691
+Tamb: 28.375
+set_offset_A: 190454.77777777778
+weight (mg): -26
+read time (s): 1.758
+Tamb: 28.312
+set_offset_A: 190459.0
+weight (mg): 11
+read time (s): 1.704
+Tamb: 28.375
+set_offset_A: 190463.66666666666
+weight (mg): -12
+read time (s): 1.69
+Tamb: 28.312
+set_offset_A: 190468.22222222222
+weight (mg): -3
+read time (s): 1.757
+Tamb: 28.375
+set_offset_A: 190478.44444444444
+weight (mg): -3
+read time (s): 1.702
+Tamb: 28.312
+set_offset_A: 190474.0
+weight (mg): -15
+read time (s): 1.689
+Tamb: 28.312
+set_offset_A: 190483.33333333334
+weight (mg): -10
+read time (s): 1.777
+Tamb: 28.312
+set_offset_A: 190492.11111111112
+weight (mg): 12
+read time (s): 1.721
+Tamb: 28.312
+set_offset_A: 190522.22222222222
+weight (mg): -17
+read time (s): 1.708
+Tamb: 28.312
+set_offset_A: 190503.55555555556
+weight (mg): -19
+read time (s): 1.773
+Tamb: 28.375
+set_offset_A: 190519.77777777778
+weight (mg): -2
+read time (s): 1.719
+Tamb: 28.312
+set_offset_A: 190522.11111111112
+weight (mg): -25
+read time (s): 1.705
+Tamb: 28.312
+set_offset_A: 190507.88888888888
+weight (mg): 19
+read time (s): 1.77
+Tamb: 28.375
+set_offset_A: 190504.22222222222
+weight (mg): 4
+read time (s): 1.715
+Tamb: 28.312
+set_offset_A: 190524.44444444444
+weight (mg): 4
+read time (s): 1.701
+Tamb: 28.25
+set_offset_A: 190527.77777777778
+weight (mg): -25
+read time (s): 1.768
+Tamb: 28.312
+set_offset_A: 190550.22222222222
+weight (mg): -48
+read time (s): 1.713
+Tamb: 28.312
+set_offset_A: 190540.77777777778
+weight (mg): -11
+read time (s): 1.699
+Tamb: 28.25
+set_offset_A: 190548.66666666666
+weight (mg): 7
+read time (s): 1.765
+Tamb: 28.25
+set_offset_A: 190554.77777777778
+weight (mg): -9
+read time (s): 1.71
+Tamb: 28.25
+set_offset_A: 190552.22222222222
+weight (mg): -4
+read time (s): 1.696
+Tamb: 28.312
+set_offset_A: 190539.55555555556
+weight (mg): 18
+read time (s): 1.762
+Tamb: 28.312
+set_offset_A: 190548.11111111112
+weight (mg): 35
+read time (s): 1.707
+Tamb: 28.312
+set_offset_A: 190555.22222222222
+weight (mg): -23
+read time (s): 1.694
+Tamb: 28.312
+set_offset_A: 190548.66666666666
+weight (mg): 8
+read time (s): 1.692
+Tamb: 28.312
+set_offset_A: 190532.11111111112
+weight (mg): -14
+read time (s): 1.757
+Tamb: 28.312
+set_offset_A: 190563.88888888888
+weight (mg): -4
+read time (s): 1.703
+Tamb: 28.375
+set_offset_A: 190552.33333333334
+weight (mg): -20
+read time (s): 1.689
+Tamb: 28.375
+set_offset_A: 190568.66666666666
+weight (mg): 13
+read time (s): 1.775
+Tamb: 28.312
+set_offset_A: 190576.66666666666
+weight (mg): -12
+read time (s): 1.72
+Tamb: 28.375
+set_offset_A: 190562.77777777778
+weight (mg): 7
+read time (s): 1.707
+Tamb: 28.312
+set_offset_A: 190563.33333333334
+weight (mg): 8
+read time (s): 1.772
+Tamb: 28.375
+set_offset_A: 190570.22222222222
+weight (mg): 4
+read time (s): 1.718
+Tamb: 28.375
+set_offset_A: 190577.44444444444
+weight (mg): 28
+read time (s): 1.704
+Tamb: 28.375
+set_offset_A: 190590.0
+weight (mg): -2
+read time (s): 1.771
+Tamb: 28.375
+set_offset_A: 190561.0
+weight (mg): 15
+read time (s): 1.715
+Tamb: 28.375
+set_offset_A: 190589.11111111112
+weight (mg): -5
+read time (s): 1.701
+Tamb: 28.375
+set_offset_A: 190568.44444444444
+weight (mg): 22
+read time (s): 1.767
+Tamb: 28.375
+set_offset_A: 190562.77777777778
+weight (mg): 3
+read time (s): 1.712
+Tamb: 28.375
+set_offset_A: 190575.44444444444
+weight (mg): -27
+read time (s): 1.698
+Tamb: 28.375
+set_offset_A: 190577.55555555556
+weight (mg): -7
+read time (s): 1.765
+Tamb: 28.375
+set_offset_A: 190580.11111111112
+weight (mg): -2
+read time (s): 1.71
+Tamb: 28.375
+set_offset_A: 190582.55555555556
+weight (mg): -1
+read time (s): 1.696
+Tamb: 28.437
+set_offset_A: 190590.33333333334
+weight (mg): -10
+read time (s): 1.763
+Tamb: 28.375
+set_offset_A: 190571.44444444444
+weight (mg): 13
+read time (s): 1.708
+Tamb: 28.375
+set_offset_A: 190582.22222222222
+weight (mg): 21
+read time (s): 2.288
+Tamb: 28.375
+set_offset_A: 190608.55555555556
+weight (mg): -35
+read time (s): 1.696
+Tamb: 28.437
+set_offset_A: 190599.66666666666
+weight (mg): -11
+read time (s): 2.288
+Tamb: 28.437
+set_offset_A: 190583.55555555556
+weight (mg): -14
+read time (s): 1.724
+Tamb: 28.437
+set_offset_A: 190577.0
+weight (mg): -9
+read time (s): 1.698
+Tamb: 28.437
+set_offset_A: 190591.44444444444
+weight (mg): 10
+read time (s): 1.764
+Tamb: 28.437
+set_offset_A: 190582.33333333334
+weight (mg): 5
+read time (s): 1.708
+Tamb: 28.437
+set_offset_A: 190571.11111111112
+weight (mg): 9
+read time (s): 1.695
+Tamb: 28.437
+set_offset_A: 190581.0
+weight (mg): -1
+read time (s): 1.687
+Tamb: 28.437
+set_offset_A: 190578.0
+weight (mg): -10
+read time (s): 1.761
+Tamb: 28.5
+set_offset_A: 190566.88888888888
+weight (mg): 6
+read time (s): 1.613
+Tamb: 28.437
+set_offset_A: 190577.55555555556
+weight (mg): -23
+read time (s): 1.707
+Tamb: 28.437
+set_offset_A: 190570.11111111112
+weight (mg): 2
+read time (s): 1.652
+Tamb: 28.437
+set_offset_A: 190572.44444444444
+weight (mg): 24
+read time (s): 1.731
+Tamb: 28.437
+set_offset_A: 190570.22222222222
+weight (mg): 13
+read time (s): 1.772
+Tamb: 28.437
+set_offset_A: 190558.11111111112
+weight (mg): 27
+read time (s): 1.837
+Tamb: 28.437
+set_offset_A: 190564.0
+weight (mg): 3
+read time (s): 1.689
+Tamb: 28.437
+set_offset_A: 190564.11111111112
+weight (mg): 11
+read time (s): 1.689
+Tamb: 28.437
+set_offset_A: 190581.44444444444
+weight (mg): -18
+read time (s): 1.772
+Tamb: 28.437
+set_offset_A: 190573.66666666666
+weight (mg): 11
+read time (s): 1.726
+Tamb: 28.437
+set_offset_A: 190581.11111111112
+weight (mg): -19
+read time (s): 1.711
+Tamb: 28.437
+set_offset_A: 190557.33333333334
+weight (mg): -7
+read time (s): 1.777
+Tamb: 28.437
+set_offset_A: 190554.66666666666
+weight (mg): -34
+read time (s): 1.724
+Tamb: 28.437
+set_offset_A: 190557.0
+weight (mg): -16
+read time (s): 1.71
+Tamb: 28.437
+set_offset_A: 190556.22222222222
+weight (mg): -5
+read time (s): 1.776
+Tamb: 28.437
+set_offset_A: 190571.55555555556
+weight (mg): -4
+read time (s): 1.719
+Tamb: 28.437
+set_offset_A: 190576.77777777778
+weight (mg): -10
+read time (s): 1.707
+Tamb: 28.437
+set_offset_A: 190548.22222222222
+weight (mg): 28
+read time (s): 1.773
+Tamb: 28.375
+set_offset_A: 190558.55555555556
+weight (mg): 22
+read time (s): 1.72
+Tamb: 28.437
+set_offset_A: 190563.22222222222
+weight (mg): -2
+read time (s): 1.73
+Tamb: 28.437
+set_offset_A: 190562.0
+weight (mg): -10
+read time (s): 1.702
+Tamb: 28.375
+set_offset_A: 190577.22222222222
+weight (mg): -33
+read time (s): 1.768
+Tamb: 28.375
+set_offset_A: 190568.44444444444
+weight (mg): -2
+read time (s): 1.714
+Tamb: 28.375
+set_offset_A: 190561.22222222222
+weight (mg): 36
+read time (s): 1.7
+Tamb: 28.375
+set_offset_A: 190564.11111111112
+weight (mg): 21
+read time (s): 1.775
+Tamb: 28.375
+set_offset_A: 190567.11111111112
+weight (mg): -15
+read time (s): 1.722
+Tamb: 28.375
+set_offset_A: 190565.11111111112
+weight (mg): 0
+read time (s): 1.708
+Tamb: 28.375
+set_offset_A: 190587.88888888888
+weight (mg): -17
+read time (s): 1.774
+Tamb: 28.375
+set_offset_A: 190580.11111111112
+weight (mg): -39
+read time (s): 1.72
+Tamb: 28.375
+set_offset_A: 190569.33333333334
+weight (mg): -19
+read time (s): 1.705
+Tamb: 28.312
+set_offset_A: 190555.88888888888
+weight (mg): 13
+read time (s): 1.772
+Tamb: 28.312
+set_offset_A: 190583.33333333334
+weight (mg): -3
+read time (s): 1.717
+Tamb: 28.25
+set_offset_A: 190569.11111111112
+weight (mg): 4
+read time (s): 1.703
+Tamb: 28.312
+set_offset_A: 190584.77777777778
+weight (mg): 7
+read time (s): 1.769
+Tamb: 28.25
+set_offset_A: 190573.44444444444
+weight (mg): -25
+read time (s): 1.715
+Tamb: 28.312
+set_offset_A: 190587.0
+weight (mg): -21
+read time (s): 1.701
+Tamb: 28.25
+set_offset_A: 190583.88888888888
+weight (mg): 4
+read time (s): 1.768
+Tamb: 28.312
+set_offset_A: 190585.11111111112
+weight (mg): 29
+read time (s): 1.713
+Tamb: 28.25
+set_offset_A: 190587.55555555556
+weight (mg): 5
+read time (s): 1.713
+Tamb: 28.25
+set_offset_A: 190596.88888888888
+weight (mg): -4
+read time (s): 1.687
+Tamb: 28.25
+set_offset_A: 190570.0
+weight (mg): 26
+read time (s): 1.753
+Tamb: 28.25
+set_offset_A: 190594.44444444444
+weight (mg): -11
+read time (s): 1.698
+Tamb: 28.25
+set_offset_A: 190598.22222222222
+weight (mg): -10
+read time (s): 1.779
+Tamb: 28.25
+set_offset_A: 190616.33333333334
+weight (mg): -22
+read time (s): 1.724
+Tamb: 28.25
+set_offset_A: 190569.88888888888
+weight (mg): 34
+read time (s): 1.71
+Tamb: 28.25
+set_offset_A: 190620.44444444444
+weight (mg): -19
+read time (s): 1.776
+Tamb: 28.187
+set_offset_A: 190613.77777777778
+weight (mg): 1
+read time (s): 1.721
+Tamb: 28.187
+set_offset_A: 190615.44444444444
+weight (mg): -10
+read time (s): 1.707
+Tamb: 28.187
+set_offset_A: 190615.77777777778
+weight (mg): -29
+read time (s): 1.705
+Tamb: 28.187
+set_offset_A: 190610.11111111112
+weight (mg): -10
+read time (s): 1.771
+Tamb: 28.187
+set_offset_A: 190611.88888888888
+weight (mg): -32
+read time (s): 1.717
+Tamb: 28.125
+set_offset_A: 190611.77777777778
+weight (mg): 7
+read time (s): 1.703
+Tamb: 28.187
+set_offset_A: 190614.33333333334
+weight (mg): -29
+read time (s): 1.769
+Tamb: 28.125
+set_offset_A: 190613.22222222222
+weight (mg): 3
+read time (s): 1.719
+Tamb: 28.125
+set_offset_A: 190632.44444444444
+weight (mg): -34
+read time (s): 1.705
+Tamb: 28.187
+set_offset_A: 190611.33333333334
+weight (mg): -4
+read time (s): 1.771
+Tamb: 28.187
+set_offset_A: 190635.77777777778
+weight (mg): -1
+read time (s): 1.717
+Tamb: 28.125
+set_offset_A: 190629.33333333334
+weight (mg): -25
+read time (s): 1.704
+Tamb: 28.187
+set_offset_A: 190649.77777777778
+weight (mg): -41
+read time (s): 1.769
+Tamb: 28.125
+set_offset_A: 190639.55555555556
+weight (mg): -22
+read time (s): 1.715
+Tamb: 28.125
+set_offset_A: 190634.22222222222
+weight (mg): 21
+read time (s): 1.701
+Tamb: 28.125
+set_offset_A: 190651.22222222222
+weight (mg): 14
+read time (s): 1.767
+Tamb: 28.125
+set_offset_A: 190625.88888888888
+weight (mg): 36
+read time (s): 1.713
+Tamb: 28.125
+set_offset_A: 190646.44444444444
+weight (mg): -12
+read time (s): 1.699
+Tamb: 28.125
+set_offset_A: 190646.88888888888
+weight (mg): 18
+read time (s): 1.765
+Tamb: 28.062
+set_offset_A: 190650.11111111112
+weight (mg): -33
+read time (s): 1.71
+Tamb: 28.125
+set_offset_A: 190659.88888888888
+weight (mg): 4
+read time (s): 1.698
+Tamb: 28.125
+set_offset_A: 190657.55555555556
+weight (mg): 17
+read time (s): 1.764
+Tamb: 28.062
+set_offset_A: 190665.88888888888
+weight (mg): -8
+read time (s): 1.708
+Tamb: 28.062
+set_offset_A: 190676.44444444444
+weight (mg): -37
+read time (s): 1.696
+Tamb: 28.062
+set_offset_A: 190663.33333333334
+weight (mg): 11
+read time (s): 1.747
+Tamb: 28.062
+set_offset_A: 190666.55555555556
+weight (mg): 1
+read time (s): 1.719
+Tamb: 28.062
+set_offset_A: 190672.22222222222
+weight (mg): -25
+read time (s): 1.692
+Tamb: 28.062
+set_offset_A: 190685.77777777778
+weight (mg): -12
+read time (s): 1.759
+Tamb: 28.062
+set_offset_A: 190689.11111111112
+weight (mg): 10
+read time (s): 1.704
+Tamb: 28.0
+set_offset_A: 190677.33333333334
+weight (mg): -3
+read time (s): 1.69
+Tamb: 28.0
+set_offset_A: 190676.44444444444
+weight (mg): -31
+read time (s): 1.77
+Tamb: 28.062
+set_offset_A: 190692.0
+weight (mg): 11
+read time (s): 1.714
+Tamb: 28.062
+set_offset_A: 190677.55555555556
+weight (mg): -16
+read time (s): 1.701
+Tamb: 28.0
+set_offset_A: 190686.66666666666
+weight (mg): 18
+read time (s): 1.767
+Tamb: 28.062
+set_offset_A: 190699.22222222222
+weight (mg): -37
+read time (s): 1.712
+Tamb: 28.0
+set_offset_A: 190699.55555555556
+weight (mg): 0
+read time (s): 1.701
+Tamb: 28.0
+set_offset_A: 190706.0
+weight (mg): -4
+read time (s): 1.767
+Tamb: 28.0
+set_offset_A: 190706.11111111112
+weight (mg): 7
+read time (s): 1.711
+Tamb: 28.0
+set_offset_A: 190708.11111111112
+weight (mg): -35
+read time (s): 1.697
+Tamb: 28.0
+set_offset_A: 190713.88888888888
+weight (mg): -39
+read time (s): 1.763
+Tamb: 28.0
+set_offset_A: 190691.77777777778
+weight (mg): 34
+read time (s): 1.708
+Tamb: 28.0
+set_offset_A: 190706.11111111112
+weight (mg): 30
+read time (s): 1.695
+Tamb: 27.937
+set_offset_A: 190713.0
+weight (mg): -10
+read time (s): 1.761
+Tamb: 27.937
+set_offset_A: 190729.11111111112
+weight (mg): -31
+read time (s): 1.706
+Tamb: 28.0
+set_offset_A: 190729.22222222222
+weight (mg): 0
+read time (s): 1.692
+Tamb: 27.937
+set_offset_A: 190727.11111111112
+weight (mg): 5
+read time (s): 1.759
+Tamb: 28.0
+set_offset_A: 190735.11111111112
+weight (mg): -40
+read time (s): 1.704
+Tamb: 28.0
+set_offset_A: 190738.55555555556
+weight (mg): 2
+read time (s): 1.69
+Tamb: 27.937
+set_offset_A: 190734.77777777778
+weight (mg): 15
+read time (s): 1.756
+Tamb: 27.937
+set_offset_A: 190739.88888888888
+weight (mg): -5
+read time (s): 1.701
+Tamb: 27.937
+set_offset_A: 190741.88888888888
+weight (mg): -1
+read time (s): 1.688
+Tamb: 27.937
+set_offset_A: 190747.11111111112
+weight (mg): -7
+read time (s): 1.74
+Tamb: 27.937
+set_offset_A: 190765.88888888888
+weight (mg): -18
+read time (s): 1.714
+Tamb: 27.937
+set_offset_A: 190758.77777777778
+weight (mg): -10
+read time (s): 1.779
+Tamb: 27.937
+set_offset_A: 190745.11111111112
+weight (mg): 16
+read time (s): 1.724
+Tamb: 27.875
+set_offset_A: 190750.33333333334
+weight (mg): 13
+read time (s): 1.711
+Tamb: 27.937
+set_offset_A: 190720.66666666666
+weight (mg): -20
+read time (s): 1.777
+Tamb: 27.875
+set_offset_A: 190783.66666666666
+weight (mg): -32
+read time (s): 1.723
+Tamb: 27.875
+set_offset_A: 190786.33333333334
+weight (mg): 10
+read time (s): 1.709
+Tamb: 27.812
+set_offset_A: 190780.44444444444
+weight (mg): 7
+read time (s): 1.775
+Tamb: 27.875
+set_offset_A: 190787.11111111112
+weight (mg): -15
+read time (s): 1.721
+Tamb: 27.812
+set_offset_A: 190788.66666666666
+weight (mg): -14
+read time (s): 1.707
+Tamb: 27.875
+set_offset_A: 190772.44444444444
+weight (mg): 0
+read time (s): 1.759
+Tamb: 27.812
+set_offset_A: 190792.55555555556
+weight (mg): -1
+read time (s): 1.718
+Tamb: 27.875
+set_offset_A: 190807.55555555556
+weight (mg): -22
+read time (s): 1.705
+Tamb: 27.812
+set_offset_A: 190806.22222222222
+weight (mg): -20
+read time (s): 1.758
+Tamb: 27.812
+set_offset_A: 190778.66666666666
+weight (mg): 24
+read time (s): 1.717
+Tamb: 27.812
+set_offset_A: 190803.0
+weight (mg): -22
+read time (s): 1.703
+Tamb: 27.75
+set_offset_A: 190786.44444444444
+weight (mg): -25
+read time (s): 1.756
+Tamb: 27.687
+set_offset_A: 190822.77777777778
+weight (mg): -16
+read time (s): 1.714
+Tamb: 27.75
+set_offset_A: 190833.55555555556
+weight (mg): -29
+read time (s): 1.701
+Tamb: 27.75
+set_offset_A: 190851.88888888888
+weight (mg): -23
+read time (s): 1.753
+Tamb: 27.687
+set_offset_A: 190818.0
+weight (mg): 17
+read time (s): 1.713
+Tamb: 27.75
+set_offset_A: 190809.66666666666
+weight (mg): 7
+read time (s): 1.719
+Tamb: 27.75
+set_offset_A: 190853.66666666666
+weight (mg): 9
+read time (s): 1.774
+Tamb: 27.687
+set_offset_A: 190856.0
+weight (mg): -23
+read time (s): 1.733
+Tamb: 27.687
+set_offset_A: 190844.55555555556
+weight (mg): 18
+read time (s): 1.719
+Tamb: 27.687
+set_offset_A: 190861.88888888888
+weight (mg): -26
+read time (s): 1.697
+Tamb: 27.687
+set_offset_A: 190844.66666666666
+weight (mg): -18
+read time (s): 1.778
+Tamb: 27.562
+set_offset_A: 190869.22222222222
+weight (mg): -11
+read time (s): 1.723
+Tamb: 27.625
+set_offset_A: 190874.55555555556
+weight (mg): 13
+read time (s): 1.71
+Tamb: 27.625
+set_offset_A: 190835.11111111112
+weight (mg): 11
+read time (s): 1.762
+Tamb: 27.562
+set_offset_A: 190897.0
+weight (mg): -44
+read time (s): 1.722
+Tamb: 27.625
+set_offset_A: 190899.44444444444
+weight (mg): -22
+read time (s): 1.708
+Tamb: 27.625
+set_offset_A: 190912.22222222222
+weight (mg): -21
+read time (s): 1.762
+Tamb: 27.625
+set_offset_A: 190897.33333333334
+weight (mg): 4
+read time (s): 1.72
+Tamb: 27.562
+set_offset_A: 190915.88888888888
+weight (mg): -28
+read time (s): 1.707
+Tamb: 27.562
+set_offset_A: 190910.11111111112
+weight (mg): -5
+read time (s): 1.766
+Tamb: 27.5
+set_offset_A: 190921.55555555556
+weight (mg): -30
+read time (s): 1.725
+Tamb: 27.562
+set_offset_A: 190924.0
+weight (mg): 30
+read time (s): 1.711
+Tamb: 27.562
+set_offset_A: 190931.0
+weight (mg): -3
+read time (s): 1.764
+Tamb: 27.562
+set_offset_A: 190930.77777777778
+weight (mg): -12
+read time (s): 1.723
+Tamb: 27.5
+set_offset_A: 190949.44444444444
+weight (mg): -3
+read time (s): 1.709
+Tamb: 27.5
+set_offset_A: 190951.66666666666
+weight (mg): -27
+read time (s): 1.761
+Tamb: 27.5
+set_offset_A: 190950.11111111112
+weight (mg): -8
+read time (s): 1.721
+Tamb: 27.5
+set_offset_A: 190942.44444444444
+weight (mg): 9
+read time (s): 1.707
+Tamb: 27.5
+set_offset_A: 190959.0
+weight (mg): 19
+read time (s): 1.76
+Tamb: 27.5
+set_offset_A: 190948.0
+weight (mg): 9
+read time (s): 1.72
+Tamb: 27.5
+set_offset_A: 190980.11111111112
+weight (mg): 2
+read time (s): 1.705
+Tamb: 27.437
+set_offset_A: 190965.55555555556
+weight (mg): 11
+read time (s): 1.757
+Tamb: 27.437
+set_offset_A: 190974.55555555556
+weight (mg): -13
+read time (s): 1.717
+Tamb: 27.437
+set_offset_A: 191001.44444444444
+weight (mg): -9
+read time (s): 1.731
+Tamb: 27.437
+set_offset_A: 190969.44444444444
+weight (mg): 5
+read time (s): 1.716
+Tamb: 27.437
+set_offset_A: 191000.77777777778
+weight (mg): -16
+read time (s): 1.728
+Tamb: 27.437
+set_offset_A: 190996.88888888888
+weight (mg): -39
+read time (s): 1.687
+Tamb: 27.437
+set_offset_A: 190996.55555555556
+weight (mg): 8
+read time (s): 1.767
+Tamb: 27.437
+set_offset_A: 191015.88888888888
+weight (mg): -20
+read time (s): 1.713
+Tamb: 27.437
+set_offset_A: 191027.0
+weight (mg): -19
+read time (s): 1.726
+Tamb: 27.437
+set_offset_A: 191020.55555555556
+weight (mg): 22
+read time (s): 1.777
+Tamb: 27.437
+set_offset_A: 191027.77777777778
+weight (mg): -7
+read time (s): 1.751
+Tamb: 27.437
+set_offset_A: 191036.88888888888
+weight (mg): 21
+read time (s): 1.725
+Tamb: 27.437
+set_offset_A: 191018.66666666666
+weight (mg): 27
+read time (s): 1.711
+Tamb: 27.375
+set_offset_A: 191040.66666666666
+weight (mg): 31
+read time (s): 1.764
+Tamb: 27.375
+set_offset_A: 191048.77777777778
+weight (mg): -20
+read time (s): 1.723
+Tamb: 27.375
+set_offset_A: 191037.44444444444
+weight (mg): -11
+read time (s): 1.709
+Tamb: 27.375
+set_offset_A: 191067.22222222222
+weight (mg): -32
+read time (s): 1.761
+Tamb: 27.312
+set_offset_A: 191052.55555555556
+weight (mg): -14
+read time (s): 1.72
+Tamb: 27.375
+set_offset_A: 191071.66666666666
+weight (mg): -19
+read time (s): 2.103
+Tamb: 27.312
+set_offset_A: 191064.55555555556
+weight (mg): -13
+read time (s): 1.693
+Tamb: 27.312
+set_offset_A: 191071.33333333334
+weight (mg): 18
+read time (s): 1.734
+Tamb: 27.312
+set_offset_A: 191081.22222222222
+weight (mg): -3
+read time (s): 1.692
+Tamb: 27.312
+set_offset_A: 191098.33333333334
+weight (mg): -51
+read time (s): 1.772
+Tamb: 27.312
+set_offset_A: 191104.88888888888
+weight (mg): 13
+read time (s): 1.717
+Tamb: 27.312
+set_offset_A: 191090.66666666666
+weight (mg): 27
+read time (s): 1.703
+Tamb: 27.312
+set_offset_A: 191099.66666666666
+weight (mg): 8
+read time (s): 1.756
+Tamb: 27.312
+set_offset_A: 191108.22222222222
+weight (mg): 0
+read time (s): 1.715
+Tamb: 27.312
+set_offset_A: 191112.22222222222
+weight (mg): 36
+read time (s): 1.701
+Tamb: 27.312
+set_offset_A: 191117.22222222222
+weight (mg): -21
+read time (s): 1.755
+Tamb: 27.25
+set_offset_A: 191123.88888888888
+weight (mg): 3
+read time (s): 1.713
+Tamb: 27.312
+set_offset_A: 191124.22222222222
+weight (mg): 1
+read time (s): 1.7
+Tamb: 27.25
+set_offset_A: 191120.0
+weight (mg): -3
+read time (s): 1.752
+Tamb: 27.25
+set_offset_A: 191131.22222222222
+weight (mg): -3
+read time (s): 1.71
+Tamb: 27.25
+set_offset_A: 191140.11111111112
+weight (mg): 17
+read time (s): 1.697
+Tamb: 27.25
+set_offset_A: 191159.77777777778
+weight (mg): -19
+read time (s): 1.75
+Tamb: 27.25
+set_offset_A: 191147.55555555556
+weight (mg): -8
+read time (s): 1.709
+Tamb: 27.25
+set_offset_A: 191167.22222222222
+weight (mg): 3
+read time (s): 1.696
+Tamb: 27.25
+set_offset_A: 191146.33333333334
+weight (mg): -10
+read time (s): 1.747
+Tamb: 27.187
+set_offset_A: 191167.88888888888
+weight (mg): -23
+read time (s): 1.726
+Tamb: 27.187
+set_offset_A: 191160.33333333334
+weight (mg): 3
+read time (s): 1.712
+Tamb: 27.187
+set_offset_A: 191185.22222222222
+weight (mg): 5
+read time (s): 1.766
+Tamb: 27.187
+set_offset_A: 191182.66666666666
+weight (mg): -19
+read time (s): 1.726
+Tamb: 27.187
+set_offset_A: 191189.66666666666
+weight (mg): 17
+read time (s): 1.711
+Tamb: 27.187
+set_offset_A: 191193.88888888888
+weight (mg): -21
+read time (s): 1.764
+Tamb: 27.125
+set_offset_A: 191197.88888888888
+weight (mg): 39
+read time (s): 1.723
+Tamb: 27.187
+set_offset_A: 191180.0
+weight (mg): 3
+read time (s): 1.71
+Tamb: 27.125
+set_offset_A: 191208.0
+weight (mg): -12
+read time (s): 1.762
+Tamb: 27.125
+set_offset_A: 191195.33333333334
+weight (mg): 12
+read time (s): 1.721
+Tamb: 27.062
+set_offset_A: 191200.44444444444
+weight (mg): 17
+read time (s): 1.707
+Tamb: 27.125
+set_offset_A: 191225.11111111112
+weight (mg): -37
+read time (s): 1.76
+Tamb: 27.125
+set_offset_A: 191232.11111111112
+weight (mg): 1
+read time (s): 1.719
+Tamb: 27.062
+set_offset_A: 191214.33333333334
+weight (mg): -7
+read time (s): 1.705
+Tamb: 27.125
+set_offset_A: 191232.0
+weight (mg): -7
+read time (s): 1.758
+Tamb: 27.125
+set_offset_A: 191226.44444444444
+weight (mg): -5
+read time (s): 1.717
+Tamb: 27.125
+set_offset_A: 191235.55555555556
+weight (mg): 8
+read time (s): 1.689
+Tamb: 27.062
+set_offset_A: 191263.22222222222
+weight (mg): -31
+read time (s): 1.689
+Tamb: 27.062
+set_offset_A: 191247.88888888888
+weight (mg): -23
+read time (s): 1.756
+Tamb: 27.062
+set_offset_A: 191251.44444444444
+weight (mg): 1
+read time (s): 1.716
+Tamb: 27.062
+set_offset_A: 191261.33333333334
+weight (mg): -19
+read time (s): 1.688
+Tamb: 27.0
+set_offset_A: 191267.88888888888
+weight (mg): -15
+read time (s): 1.754
+Tamb: 27.062
+set_offset_A: 191275.55555555556
+weight (mg): 20
+read time (s): 1.713
+Tamb: 27.0
+set_offset_A: 191283.88888888888
+weight (mg): -9
+read time (s): 1.779
+Tamb: 27.0
+set_offset_A: 191283.44444444444
+weight (mg): 0
+read time (s): 1.738
+Tamb: 27.0
+set_offset_A: 191279.77777777778
+weight (mg): 20
+read time (s): 1.711
+Tamb: 27.0
+set_offset_A: 191297.22222222222
+weight (mg): 27
+read time (s): 1.777
+Tamb: 27.0
+set_offset_A: 191303.66666666666
+weight (mg): 16
+read time (s): 1.736
+Tamb: 27.0
+set_offset_A: 191293.0
+weight (mg): -7
+read time (s): 1.71
+Tamb: 26.937
+set_offset_A: 191309.11111111112
+weight (mg): -21
+read time (s): 1.702
+Tamb: 27.0
+set_offset_A: 191308.88888888888
+weight (mg): 15
+read time (s): 1.767
+Tamb: 26.937
+set_offset_A: 191318.44444444444
+weight (mg): -7
+read time (s): 1.726
+Tamb: 27.0
+set_offset_A: 191332.66666666666
+weight (mg): -29
+read time (s): 1.699
+Tamb: 27.0
+set_offset_A: 191341.33333333334
+weight (mg): -10
+read time (s): 1.765
+Tamb: 26.937
+set_offset_A: 191362.33333333334
+weight (mg): -11
+read time (s): 1.724
+Tamb: 26.937
+set_offset_A: 191354.66666666666
+weight (mg): -19
+read time (s): 1.702
+Tamb: 26.937
+set_offset_A: 191349.33333333334
+weight (mg): 3
+read time (s): 1.768
+Tamb: 26.937
+set_offset_A: 191354.44444444444
+weight (mg): -4
+read time (s): 1.727
+Tamb: 26.937
+set_offset_A: 191351.0
+weight (mg): -7
+read time (s): 1.698
+Tamb: 26.937
+set_offset_A: 191369.33333333334
+weight (mg): 8
+read time (s): 1.764
+Tamb: 26.875
+set_offset_A: 191383.0
+weight (mg): -12
+read time (s): 1.723
+Tamb: 26.937
+set_offset_A: 191368.55555555556
+weight (mg): 19
+read time (s): 1.695
+Tamb: 26.937
+set_offset_A: 191390.55555555556
+weight (mg): -9
+read time (s): 1.761
+Tamb: 26.875
+set_offset_A: 191400.22222222222
+weight (mg): 12
+read time (s): 1.72
+Tamb: 26.875
+set_offset_A: 191401.55555555556
+weight (mg): 6
+read time (s): 1.693
+Tamb: 26.937
+set_offset_A: 191396.66666666666
+weight (mg): 0
+read time (s): 1.759
+Tamb: 26.875
+set_offset_A: 191403.44444444444
+weight (mg): -30
+read time (s): 1.718
+Tamb: 26.875
+set_offset_A: 191419.77777777778
+weight (mg): -2
+read time (s): 1.691
+Tamb: 26.875
+set_offset_A: 191412.44444444444
+weight (mg): 3
+read time (s): 1.757
+Tamb: 26.875
+set_offset_A: 191422.22222222222
+weight (mg): -15
+read time (s): 1.716
+Tamb: 26.875
+set_offset_A: 191421.22222222222
+weight (mg): 13
+read time (s): 1.689
+Tamb: 26.875
+set_offset_A: 191435.11111111112
+weight (mg): -34
+read time (s): 1.755
+Tamb: 26.812
+set_offset_A: 191456.66666666666
+weight (mg): -48
+read time (s): 1.714
+Tamb: 26.812
+set_offset_A: 191446.33333333334
+weight (mg): 20
+read time (s): 1.781
+Tamb: 26.812
+set_offset_A: 191452.88888888888
+weight (mg): 2
+read time (s): 1.74
+Tamb: 26.812
+set_offset_A: 191453.11111111112
+weight (mg): -14
+read time (s): 1.713
+Tamb: 26.812
+set_offset_A: 191460.77777777778
+weight (mg): 15
+read time (s): 1.779
+Tamb: 26.75
+set_offset_A: 191477.55555555556
+weight (mg): -46
+read time (s): 1.738
+Tamb: 26.75
+set_offset_A: 191468.88888888888
+weight (mg): 13
+read time (s): 1.711
+Tamb: 26.75
+set_offset_A: 191488.66666666666
+weight (mg): -49
+read time (s): 1.778
+Tamb: 26.75
+set_offset_A: 191465.11111111112
+weight (mg): 47
+read time (s): 1.736
+Tamb: 26.812
+set_offset_A: 191475.55555555556
+weight (mg): 1
+read time (s): 1.709
+Tamb: 26.75
+set_offset_A: 191496.55555555556
+weight (mg): -12
+read time (s): 1.775
+Tamb: 26.687
+set_offset_A: 191513.0
+weight (mg): -4
+read time (s): 1.735
+Tamb: 26.687
+set_offset_A: 191516.77777777778
+weight (mg): -27
+read time (s): 1.708
+Tamb: 26.687
+set_offset_A: 191521.66666666666
+weight (mg): -28
+read time (s): 1.775
+Tamb: 26.687
+set_offset_A: 191525.88888888888
+weight (mg): 1
+read time (s): 1.733
+Tamb: 26.687
+set_offset_A: 191533.55555555556
+weight (mg): 9
+read time (s): 1.706
+Tamb: 26.687
+set_offset_A: 191517.55555555556
+weight (mg): -3
+read time (s): 1.772
+Tamb: 26.687
+set_offset_A: 191553.22222222222
+weight (mg): -2
+read time (s): 1.731
+Tamb: 26.687
+set_offset_A: 191548.33333333334
+weight (mg): -6
+read time (s): 1.704
+Tamb: 26.687
+set_offset_A: 191562.55555555556
+weight (mg): -19
+read time (s): 1.694
+Tamb: 26.625
+set_offset_A: 191560.44444444444
+weight (mg): 2
+read time (s): 1.759
+Tamb: 26.687
+set_offset_A: 191565.55555555556
+weight (mg): 19
+read time (s): 1.719
+Tamb: 26.625
+set_offset_A: 191573.55555555556
+weight (mg): -22
+read time (s): 1.715
+Tamb: 26.625
+set_offset_A: 191577.88888888888
+weight (mg): -30
+read time (s): 1.688
+Tamb: 26.625
+set_offset_A: 191578.77777777778
+weight (mg): 10
+read time (s): 1.754
+Tamb: 26.562
+set_offset_A: 191600.33333333334
+weight (mg): 30
+read time (s): 1.735
+Tamb: 26.625
+set_offset_A: 191596.66666666666
+weight (mg): -54
+read time (s): 1.708
+Tamb: 26.625
+set_offset_A: 191583.11111111112
+weight (mg): 2
+read time (s): 1.775
+Tamb: 26.625
+set_offset_A: 191591.11111111112
+weight (mg): -1
+read time (s): 1.733
+Tamb: 26.562
+set_offset_A: 191612.11111111112
+weight (mg): -8
+read time (s): 1.707
+Tamb: 26.562
+set_offset_A: 191616.55555555556
+weight (mg): 39
+read time (s): 1.772
+Tamb: 26.562
+set_offset_A: 191622.44444444444
+weight (mg): -15
+read time (s): 1.731
+Tamb: 26.562
+set_offset_A: 191619.33333333334
+weight (mg): -23
+read time (s): 1.703
+Tamb: 26.562
+set_offset_A: 191623.0
+weight (mg): 6
+read time (s): 1.77
+Tamb: 26.562
+set_offset_A: 191636.44444444444
+weight (mg): -21
+read time (s): 1.729
+Tamb: 26.5
+set_offset_A: 191635.55555555556
+weight (mg): 26
+read time (s): 1.701
+Tamb: 26.562
+set_offset_A: 191648.11111111112
+weight (mg): 4
+read time (s): 1.767
+Tamb: 26.562
+set_offset_A: 191651.88888888888
+weight (mg): 13
+read time (s): 1.727
+Tamb: 26.5
+set_offset_A: 191647.66666666666
+weight (mg): 21
+read time (s): 1.699
+Tamb: 26.5
+set_offset_A: 191650.22222222222
+weight (mg): 43
+read time (s): 1.766
+Tamb: 26.5
+set_offset_A: 191658.77777777778
+weight (mg): -12
+read time (s): 1.724
+Tamb: 26.5
+set_offset_A: 191669.77777777778
+weight (mg): -1
+read time (s): 1.697
+Tamb: 26.5
+set_offset_A: 191664.66666666666
+weight (mg): 12
+read time (s): 1.763
+Tamb: 26.5
+set_offset_A: 191667.44444444444
+weight (mg): 32
+read time (s): 1.723
+Tamb: 26.5
+set_offset_A: 191678.33333333334
+weight (mg): 22
+read time (s): 1.695
+Tamb: 26.5
+set_offset_A: 191685.0
+weight (mg): 11
+read time (s): 1.764
+Tamb: 26.437
+set_offset_A: 191707.55555555556
+weight (mg): 4
+read time (s): 1.723
+Tamb: 26.5
+set_offset_A: 191699.22222222222
+weight (mg): -37
+read time (s): 1.695
+Tamb: 26.5
+set_offset_A: 191697.77777777778
+weight (mg): -6
+read time (s): 1.759
+Tamb: 26.5
+set_offset_A: 191711.66666666666
+weight (mg): 24
+read time (s): 1.719
+Tamb: 26.437
+set_offset_A: 191703.88888888888
+weight (mg): -11
+read time (s): 1.692
+Tamb: 26.437
+set_offset_A: 191729.33333333334
+weight (mg): 3
+read time (s): 1.758
+Tamb: 26.437
+set_offset_A: 191726.77777777778
+weight (mg): -34
+read time (s): 1.717
+Tamb: 26.437
+set_offset_A: 191740.88888888888
+weight (mg): -2
+read time (s): 1.69
+Tamb: 26.437
+set_offset_A: 191747.44444444444
+weight (mg): 9
+read time (s): 1.757
+Tamb: 26.5
+set_offset_A: 191729.0
+weight (mg): -5
+read time (s): 1.716
+Tamb: 26.437
+set_offset_A: 191747.0
+weight (mg): -17
+read time (s): 1.688
+Tamb: 26.437
+set_offset_A: 191767.66666666666
+weight (mg): -28
+read time (s): 1.755
+Tamb: 26.375
+set_offset_A: 191775.33333333334
+weight (mg): -24
+read time (s): 1.714
+Tamb: 26.375
+set_offset_A: 191758.11111111112
+weight (mg): 19
+read time (s): 1.781
+Tamb: 26.437
+set_offset_A: 191770.44444444444
+weight (mg): -2
+read time (s): 1.74
+Tamb: 26.375
+set_offset_A: 191778.22222222222
+weight (mg): -29
+read time (s): 1.713
+Tamb: 26.375
+set_offset_A: 191770.22222222222
+weight (mg): 5
+read time (s): 1.779
+Tamb: 26.375
+set_offset_A: 191789.22222222222
+weight (mg): 4
+read time (s): 1.738
+Tamb: 26.375
+set_offset_A: 191789.44444444444
+weight (mg): 9
+read time (s): 1.711
+Tamb: 26.375
+set_offset_A: 191782.11111111112
+weight (mg): 9
+read time (s): 1.777
+Tamb: 26.375
+set_offset_A: 191805.0
+weight (mg): 0
+read time (s): 1.736
+Tamb: 26.375
+set_offset_A: 191797.0
+weight (mg): -14
+read time (s): 1.709
+Tamb: 26.375
+set_offset_A: 191804.44444444444
+weight (mg): 1
+read time (s): 1.777
+Tamb: 26.375
+set_offset_A: 191810.11111111112
+weight (mg): 16
+read time (s): 1.734
+Tamb: 26.312
+set_offset_A: 191817.88888888888
+weight (mg): -31
+read time (s): 1.707
+Tamb: 26.312
+set_offset_A: 191825.44444444444
+weight (mg): -23
+read time (s): 1.774
+Tamb: 26.312
+set_offset_A: 191826.11111111112
+weight (mg): -7
+read time (s): 1.732
+Tamb: 26.312
+set_offset_A: 191847.66666666666
+weight (mg): -8
+read time (s): 1.705
+Tamb: 26.312
+set_offset_A: 191831.44444444444
+weight (mg): -6
+read time (s): 1.772
+Tamb: 26.312
+set_offset_A: 191851.88888888888
+weight (mg): -21
+read time (s): 1.731
+Tamb: 26.25
+set_offset_A: 191840.55555555556
+weight (mg): 19
+read time (s): 1.703
+Tamb: 26.25
+set_offset_A: 191850.88888888888
+weight (mg): 4
+read time (s): 1.77
+Tamb: 26.312
+set_offset_A: 191851.88888888888
+weight (mg): 7
+read time (s): 1.729
+Tamb: 26.25
+set_offset_A: 191877.88888888888
+weight (mg): -51
+read time (s): 1.702
+Tamb: 26.25
+set_offset_A: 191856.88888888888
+weight (mg): 26
+read time (s): 1.774
+Tamb: 26.25
+set_offset_A: 191868.66666666666
+weight (mg): -1
+read time (s): 1.733
+Tamb: 26.25
+set_offset_A: 191874.11111111112
+weight (mg): 13
+read time (s): 1.706
+Tamb: 26.25
+set_offset_A: 191878.33333333334
+weight (mg): -10
+read time (s): 1.772
+Tamb: 26.25
+set_offset_A: 191880.33333333334
+weight (mg): -7
+read time (s): 1.731
+Tamb: 26.25
+set_offset_A: 191873.11111111112
+weight (mg): 1
+read time (s): 1.703
+Tamb: 26.25
+set_offset_A: 191888.33333333334
+weight (mg): 18
+read time (s): 1.769
+Tamb: 26.187
+set_offset_A: 191917.88888888888
+weight (mg): -29
+read time (s): 1.728
+Tamb: 26.25
+set_offset_A: 191894.44444444444
+weight (mg): 10
+read time (s): 1.701
+Tamb: 26.25
+set_offset_A: 191917.77777777778
+weight (mg): -49
+read time (s): 1.768
+Tamb: 26.25
+set_offset_A: 191910.77777777778
+weight (mg): -5
+read time (s): 1.752
+Tamb: 26.25
+set_offset_A: 191924.0
+weight (mg): 0
+read time (s): 1.725
+Tamb: 26.187
+set_offset_A: 191929.33333333334
+weight (mg): -22
+read time (s): 1.697
+Tamb: 26.187
+set_offset_A: 191941.0
+weight (mg): -23
+read time (s): 1.764
+Tamb: 26.25
+set_offset_A: 191933.77777777778
+weight (mg): -5
+read time (s): 1.723
+Tamb: 26.187
+set_offset_A: 191939.33333333334
+weight (mg): -4
+read time (s): 1.695
+Tamb: 26.187
+set_offset_A: 191936.77777777778
+weight (mg): 4
+read time (s): 1.762
+Tamb: 26.187
+set_offset_A: 191945.44444444444
+weight (mg): -5
+read time (s): 1.72
+Tamb: 26.187
+set_offset_A: 191952.11111111112
+weight (mg): 0
+read time (s): 2.017
+Tamb: 26.187
+set_offset_A: 191945.66666666666
+weight (mg): -5
+read time (s): 1.705
+Tamb: 26.187
+set_offset_A: 191974.77777777778
+weight (mg): -26
+read time (s): 1.733
+Tamb: 26.187
+set_offset_A: 191967.0
+weight (mg): 0
+read time (s): 1.692
+Tamb: 26.187
+set_offset_A: 191964.77777777778
+weight (mg): -25
+read time (s): 1.759
+Tamb: 26.125
+set_offset_A: 191948.44444444444
+weight (mg): 11
+read time (s): 1.718
+Tamb: 26.125
+set_offset_A: 191972.11111111112
+weight (mg): 32
+read time (s): 1.69
+Tamb: 26.125
+set_offset_A: 192011.88888888888
+weight (mg): -20
+read time (s): 1.757
+Tamb: 26.125
+set_offset_A: 191979.55555555556
+weight (mg): 3
+read time (s): 1.715
+Tamb: 26.125
+set_offset_A: 191975.66666666666
+weight (mg): -6
+read time (s): 1.781
+Tamb: 26.125
+set_offset_A: 191980.77777777778
+weight (mg): 5
+read time (s): 1.74
+Tamb: 26.125
+set_offset_A: 192017.22222222222
+weight (mg): -47
+read time (s): 1.734
+Tamb: 26.125
+set_offset_A: 192004.0
+weight (mg): 11
+read time (s): 1.707
+Tamb: 26.125
+set_offset_A: 192002.77777777778
+weight (mg): -9
+read time (s): 1.773
+Tamb: 26.125
+set_offset_A: 192012.88888888888
+weight (mg): -6
+read time (s): 1.73
+Tamb: 26.125
+set_offset_A: 192012.11111111112
+weight (mg): -22
+read time (s): 1.702
+Tamb: 26.125
+set_offset_A: 192024.66666666666
+weight (mg): -6
+read time (s): 1.769
+Tamb: 26.125
+set_offset_A: 192010.77777777778
+weight (mg): 18
+read time (s): 1.728
+Tamb: 26.062
+set_offset_A: 192026.11111111112
+weight (mg): -8
+read time (s): 1.702
+Tamb: 26.062
+set_offset_A: 192026.33333333334
+weight (mg): 1
+read time (s): 1.696
+Tamb: 26.125
+set_offset_A: 192043.55555555556
+weight (mg): 20
+read time (s): 1.764
+Tamb: 26.062
+set_offset_A: 192015.11111111112
+weight (mg): 15
+read time (s): 1.726
+Tamb: 26.062
+set_offset_A: 192060.55555555556
+weight (mg): 7
+read time (s): 1.698
+Tamb: 26.062
+set_offset_A: 192057.44444444444
+weight (mg): -30
+read time (s): 1.765
+Tamb: 26.0
+set_offset_A: 192059.77777777778
+weight (mg): -10
+read time (s): 1.734
+Tamb: 26.0
+set_offset_A: 192063.55555555556
+weight (mg): -27
+read time (s): 1.707
+Tamb: 26.062
+set_offset_A: 192070.77777777778
+weight (mg): 16
+read time (s): 1.775
+Tamb: 26.0
+set_offset_A: 192066.0
+weight (mg): 0
+read time (s): 2.055
+Tamb: 26.0
+set_offset_A: 192069.22222222222
+weight (mg): -5
+read time (s): 1.743
+Tamb: 26.062
+set_offset_A: 192077.88888888888
+weight (mg): 11
+read time (s): 1.702
+Tamb: 26.0
+set_offset_A: 192073.33333333334
+weight (mg): 6
+read time (s): 1.767
+Tamb: 26.062
+set_offset_A: 192079.44444444444
+weight (mg): 18
+read time (s): 1.726
+Tamb: 26.0
+set_offset_A: 192084.66666666666
+weight (mg): 7
+read time (s): 1.699
+Tamb: 26.0
+set_offset_A: 192096.33333333334
+weight (mg): 3
+read time (s): 1.766
+Tamb: 26.0
+set_offset_A: 192095.0
+weight (mg): -17
+read time (s): 1.724
+Tamb: 26.062
+set_offset_A: 192095.0
+weight (mg): 13
+read time (s): 1.696
+Tamb: 26.0
+set_offset_A: 192108.77777777778
+weight (mg): 25
+read time (s): 1.761
+Tamb: 26.0
+set_offset_A: 192106.77777777778
+weight (mg): -19
+read time (s): 1.72
+Tamb: 25.937
+set_offset_A: 192104.22222222222
+weight (mg): -18
+read time (s): 1.692
+Tamb: 25.937
+set_offset_A: 192099.77777777778
+weight (mg): 3
+read time (s): 1.758
+Tamb: 25.937
+set_offset_A: 192131.88888888888
+weight (mg): -31
+read time (s): 1.717
+Tamb: 25.937
+set_offset_A: 192123.33333333334
+weight (mg): 7
+read time (s): 1.69
+Tamb: 25.937
+set_offset_A: 192131.22222222222
+weight (mg): -28
+read time (s): 1.756
+Tamb: 25.937
+set_offset_A: 192132.66666666666
+weight (mg): -36
+read time (s): 1.715
+Tamb: 25.937
+set_offset_A: 192138.77777777778
+weight (mg): -9
+read time (s): 1.69
+Tamb: 25.937
+set_offset_A: 192134.66666666666
+weight (mg): 12
+read time (s): 1.756
+Tamb: 25.937
+set_offset_A: 192146.0
+weight (mg): -52
+read time (s): 1.714
+Tamb: 25.875
+set_offset_A: 192143.0
+weight (mg): -2
+read time (s): 1.781
+Tamb: 25.937
+set_offset_A: 192146.44444444444
+weight (mg): -8
+read time (s): 1.74
+Tamb: 25.875
+set_offset_A: 192161.44444444444
+weight (mg): -3
+read time (s): 1.713
+Tamb: 25.875
+set_offset_A: 192161.66666666666
+weight (mg): -18
+read time (s): 1.78
+Tamb: 25.875
+set_offset_A: 192156.11111111112
+weight (mg): -20
+read time (s): 1.738
+Tamb: 25.875
+set_offset_A: 192159.66666666666
+weight (mg): 40
+read time (s): 1.711
+Tamb: 25.875
+set_offset_A: 192182.77777777778
+weight (mg): -49
+read time (s): 1.777
+Tamb: 25.937
+set_offset_A: 192169.66666666666
+weight (mg): 6
+read time (s): 1.736
+Tamb: 25.875
+set_offset_A: 192184.66666666666
+weight (mg): -25
+read time (s): 1.709
+Tamb: 25.875
+set_offset_A: 192187.11111111112
+weight (mg): 7
+read time (s): 1.776
+Tamb: 25.875
+set_offset_A: 192171.55555555556
+weight (mg): 36
+read time (s): 1.734
+Tamb: 25.875
+set_offset_A: 192197.22222222222
+weight (mg): -6
+read time (s): 1.707
+Tamb: 25.875
+set_offset_A: 192197.55555555556
+weight (mg): 21
+read time (s): 1.773
+Tamb: 25.875
+set_offset_A: 192182.44444444444
+weight (mg): 13
+read time (s): 1.732
+Tamb: 25.812
+set_offset_A: 192193.33333333334
+weight (mg): -2
+read time (s): 1.704
+Tamb: 25.812
+set_offset_A: 192195.88888888888
+weight (mg): 32
+read time (s): 1.771
+Tamb: 25.812
+set_offset_A: 192221.77777777778
+weight (mg): -3
+read time (s): 1.73
+Tamb: 25.812
+set_offset_A: 192227.77777777778
+weight (mg): -4
+read time (s): 1.703
+Tamb: 25.812
+set_offset_A: 192224.77777777778
+weight (mg): 10
+read time (s): 1.77
+Tamb: 25.812
+set_offset_A: 192225.55555555556
+weight (mg): -27
+read time (s): 1.728
+Tamb: 25.812
+set_offset_A: 192244.44444444444
+weight (mg): -51
+read time (s): 1.701
+Tamb: 25.75
+set_offset_A: 192239.33333333334
+weight (mg): -2
+read time (s): 1.768
+Tamb: 25.75
+set_offset_A: 192233.77777777778
+weight (mg): 10
+read time (s): 1.751
+Tamb: 25.75
+set_offset_A: 192241.55555555556
+weight (mg): 29
+read time (s): 1.724
+Tamb: 25.75
+set_offset_A: 192245.77777777778
+weight (mg): -22
+read time (s): 1.696
+Tamb: 25.687
+set_offset_A: 192248.66666666666
+weight (mg): -21
+read time (s): 1.762
+Tamb: 25.75
+set_offset_A: 192247.44444444444
+weight (mg): -3
+read time (s): 1.721
+Tamb: 25.75
+set_offset_A: 192250.66666666666
+weight (mg): 11
+read time (s): 1.693
+Tamb: 25.75
+set_offset_A: 192266.77777777778
+weight (mg): 11
+read time (s): 1.78
+Tamb: 25.75
+set_offset_A: 192260.44444444444
+weight (mg): -7
+read time (s): 1.737
+Tamb: 25.75
+set_offset_A: 192271.44444444444
+weight (mg): 18
+read time (s): 1.709
+Tamb: 25.75
+set_offset_A: 192259.77777777778
+weight (mg): 25
+read time (s): 1.692
+Tamb: 25.687
+set_offset_A: 192284.0
+weight (mg): -3
+read time (s): 1.762
+Tamb: 25.687
+set_offset_A: 192286.22222222222
+weight (mg): 0
+read time (s): 1.74
+Tamb: 25.75
+set_offset_A: 192301.11111111112
+weight (mg): -18
+read time (s): 1.712
+Tamb: 25.687
+set_offset_A: 192289.22222222222
+weight (mg): 7
+read time (s): 1.779
+Tamb: 25.687
+set_offset_A: 192294.88888888888
+weight (mg): -7
+read time (s): 1.738
+Tamb: 25.687
+set_offset_A: 192313.55555555556
+weight (mg): -16
+read time (s): 1.711
+Tamb: 25.687
+set_offset_A: 192294.0
+weight (mg): 19
+read time (s): 1.778
+Tamb: 25.687
+set_offset_A: 192297.88888888888
+weight (mg): -16
+read time (s): 1.735
+Tamb: 25.625
+set_offset_A: 192321.0
+weight (mg): -64
+read time (s): 1.708
+Tamb: 25.687
+set_offset_A: 192322.44444444444
+weight (mg): 12
+read time (s): 1.774
+Tamb: 25.625
+set_offset_A: 192326.77777777778
+weight (mg): -5
+read time (s): 1.741
+Tamb: 25.687
+set_offset_A: 192312.0
+weight (mg): 14
+read time (s): 1.713
+Tamb: 25.687
+set_offset_A: 192323.77777777778
+weight (mg): 5
+read time (s): 1.779
+Tamb: 25.625
+set_offset_A: 192313.33333333334
+weight (mg): -12
+read time (s): 1.739
+Tamb: 25.625
+set_offset_A: 192334.33333333334
+weight (mg): -5
+read time (s): 1.711
+Tamb: 25.625
+set_offset_A: 192344.33333333334
+weight (mg): 4
+read time (s): 1.777
+Tamb: 25.625
+set_offset_A: 192345.22222222222
+weight (mg): -4
+read time (s): 1.737
+Tamb: 25.625
+set_offset_A: 192330.44444444444
+weight (mg): 14
+read time (s): 1.709
+Tamb: 25.562
+set_offset_A: 192342.55555555556
+weight (mg): -26
+read time (s): 1.775
+Tamb: 25.625
+set_offset_A: 192342.55555555556
+weight (mg): -7
+read time (s): 1.734
+Tamb: 25.625
+set_offset_A: 192351.0
+weight (mg): 3
+read time (s): 1.732
+Tamb: 25.625
+set_offset_A: 192358.55555555556
+weight (mg): 37
+read time (s): 1.703
+Tamb: 25.562
+set_offset_A: 192370.0
+weight (mg): -5
+read time (s): 1.768
+Tamb: 25.562
+set_offset_A: 192370.22222222222
+weight (mg): -9
+read time (s): 1.728
+Tamb: 25.562
+set_offset_A: 192374.22222222222
+weight (mg): 9
+read time (s): 1.702
+Tamb: 25.562
+set_offset_A: 192380.22222222222
+weight (mg): 7
+read time (s): 1.769
+Tamb: 25.562
+set_offset_A: 192384.77777777778
+weight (mg): 1
+read time (s): 1.733
+Tamb: 25.562
+set_offset_A: 192386.88888888888
+weight (mg): 8
+read time (s): 1.705
+Tamb: 25.562
+set_offset_A: 192403.22222222222
+weight (mg): -4
+read time (s): 1.772
+Tamb: 25.562
+set_offset_A: 192396.22222222222
+weight (mg): -6
+read time (s): 1.73
+Tamb: 25.562
+set_offset_A: 192403.33333333334
+weight (mg): -19
+read time (s): 1.723
+Tamb: 25.562
+set_offset_A: 192421.66666666666
+weight (mg): 7
+read time (s): 1.697
+Tamb: 25.562
+set_offset_A: 192412.0
+weight (mg): 27
+read time (s): 1.762
+Tamb: 25.562
+set_offset_A: 192406.22222222222
+weight (mg): 11
+read time (s): 1.721
+Tamb: 25.5
+set_offset_A: 192415.66666666666
+weight (mg): 9
+read time (s): 1.694
+Tamb: 25.5
+set_offset_A: 192419.55555555556
+weight (mg): -6
+read time (s): 1.76
+Tamb: 25.5
+set_offset_A: 192435.44444444444
+weight (mg): -5
+read time (s): 1.719
+Tamb: 25.5
+set_offset_A: 192431.55555555556
+weight (mg): -2
+read time (s): 1.692
+Tamb: 25.5
+set_offset_A: 192439.77777777778
+weight (mg): -9
+read time (s): 1.758
+Tamb: 25.5
+set_offset_A: 192442.33333333334
+weight (mg): -18
+read time (s): 1.717
+Tamb: 25.437
+set_offset_A: 192452.22222222222
+weight (mg): -12
+read time (s): 1.713
+Tamb: 25.5
+set_offset_A: 192444.55555555556
+weight (mg): 20
+read time (s): 1.781
+Tamb: 25.437
+set_offset_A: 192440.22222222222
+weight (mg): 33
+read time (s): 1.739
+Tamb: 25.437
+set_offset_A: 192472.0
+weight (mg): -14
+read time (s): 1.713
+Tamb: 25.437
+set_offset_A: 192461.66666666666
+weight (mg): -12
+read time (s): 1.779
+Tamb: 25.437
+set_offset_A: 192463.44444444444
+weight (mg): -9
+read time (s): 1.737
+Tamb: 25.437
+set_offset_A: 192473.77777777778
+weight (mg): -13
+read time (s): 1.715
+Tamb: 25.375
+set_offset_A: 192456.44444444444
+weight (mg): 35
+read time (s): 1.781
+Tamb: 25.437
+set_offset_A: 192484.11111111112
+weight (mg): 5
+read time (s): 1.74
+Tamb: 25.375
+set_offset_A: 192475.22222222222
+weight (mg): -24
+read time (s): 1.711
+Tamb: 25.437
+set_offset_A: 192466.22222222222
+weight (mg): 10
+read time (s): 1.777
+Tamb: 25.437
+set_offset_A: 192482.77777777778
+weight (mg): 16
+read time (s): 1.737
+Tamb: 25.437
+set_offset_A: 192476.33333333334
+weight (mg): 11
+read time (s): 1.714
+Tamb: 25.375
+set_offset_A: 192504.88888888888
+weight (mg): -4
+read time (s): 1.78
+Tamb: 25.375
+set_offset_A: 192500.77777777778
+weight (mg): -7
+read time (s): 1.739
+Tamb: 25.375
+set_offset_A: 192518.88888888888
+weight (mg): -3
+read time (s): 1.712
+Tamb: 25.375
+set_offset_A: 192514.66666666666
+weight (mg): 4
+read time (s): 1.778
+Tamb: 25.375
+set_offset_A: 192516.33333333334
+weight (mg): 15
+read time (s): 1.737
+Tamb: 25.312
+set_offset_A: 192518.55555555556
+weight (mg): -16
+read time (s): 1.71
+Tamb: 25.312
+set_offset_A: 192522.22222222222
+weight (mg): -9
+read time (s): 1.777
+Tamb: 25.312
+set_offset_A: 192540.44444444444
+weight (mg): -1
+read time (s): 1.734
+Tamb: 25.312
+set_offset_A: 192526.22222222222
+weight (mg): 23
+read time (s): 1.707
+Tamb: 25.375
+set_offset_A: 192551.66666666666
+weight (mg): 26
+read time (s): 1.774
+Tamb: 25.312
+set_offset_A: 192543.33333333334
+weight (mg): 1
+read time (s): 1.732
+Tamb: 25.312
+set_offset_A: 192538.88888888888
+weight (mg): -9
+read time (s): 1.714
+Tamb: 25.312
+set_offset_A: 192556.33333333334
+weight (mg): 1
+read time (s): 1.78
+Tamb: 25.312
+set_offset_A: 192548.22222222222
+weight (mg): -7
+read time (s): 1.739
+Tamb: 25.312
+set_offset_A: 192566.88888888888
+weight (mg): -7
+read time (s): 1.715
+Tamb: 25.312
+set_offset_A: 192556.0
+weight (mg): -21
+read time (s): 1.781
+Tamb: 25.312
+set_offset_A: 192550.66666666666
+weight (mg): 24
+read time (s): 1.745
+Tamb: 25.312
+set_offset_A: 192570.44444444444
+weight (mg): -1
+read time (s): 1.725
+Tamb: 25.312
+set_offset_A: 192564.88888888888
+weight (mg): 12
+read time (s): 1.697
+Tamb: 25.312
+set_offset_A: 192579.88888888888
+weight (mg): -3
+read time (s): 1.692
+Tamb: 25.25
+set_offset_A: 192585.22222222222
+weight (mg): -6
+read time (s): 1.76
+Tamb: 25.25
+set_offset_A: 192591.44444444444
+weight (mg): -17
+read time (s): 1.718
+Tamb: 25.25
+set_offset_A: 192583.22222222222
+weight (mg): 31
+read time (s): 1.692
+Tamb: 25.25
+set_offset_A: 192596.66666666666
+weight (mg): -28
+read time (s): 1.758
+Tamb: 25.25
+set_offset_A: 192618.22222222222
+weight (mg): -7
+read time (s): 1.717
+Tamb: 25.25
+set_offset_A: 192598.44444444444
+weight (mg): 12
+read time (s): 1.69
+Tamb: 25.187
+set_offset_A: 192599.66666666666
+weight (mg): 36
+read time (s): 1.757
+Tamb: 25.25
+set_offset_A: 192608.66666666666
+weight (mg): 22
+read time (s): 1.715
+Tamb: 25.187
+set_offset_A: 192608.0
+weight (mg): 13
+read time (s): 1.781
+Tamb: 25.187
+set_offset_A: 192632.55555555556
+weight (mg): -21
+read time (s): 1.748
+Tamb: 25.187
+set_offset_A: 192616.66666666666
+weight (mg): -7
+read time (s): 1.722
+Tamb: 25.187
+set_offset_A: 192636.11111111112
+weight (mg): -10
+read time (s): 1.696
+Tamb: 25.125
+set_offset_A: 192652.66666666666
+weight (mg): -6
+read time (s): 1.76
+Tamb: 25.125
+set_offset_A: 192650.0
+weight (mg): 0
+read time (s): 1.718
+Tamb: 25.187
+set_offset_A: 192649.44444444444
+weight (mg): 5
+read time (s): 1.69
+Tamb: 25.125
+set_offset_A: 192646.44444444444
+weight (mg): 43
+read time (s): 2.08
+Tamb: 25.125
+set_offset_A: 192659.22222222222
+weight (mg): -2
+read time (s): 1.755
+Tamb: 25.125
+set_offset_A: 192657.66666666666
+weight (mg): -13
+read time (s): 1.697
+Tamb: 25.125
+set_offset_A: 192671.44444444444
+weight (mg): -29
+read time (s): 1.764
+Tamb: 25.125
+set_offset_A: 192662.88888888888
+weight (mg): 9
+read time (s): 1.723
+Tamb: 25.125
+set_offset_A: 192680.33333333334
+weight (mg): -7
+read time (s): 1.696
+Tamb: 25.062
+set_offset_A: 192681.55555555556
+weight (mg): 13
+read time (s): 1.763
+Tamb: 25.125
+set_offset_A: 192689.77777777778
+weight (mg): -13
+read time (s): 1.721
+Tamb: 25.125
+set_offset_A: 192679.88888888888
+weight (mg): 20
+read time (s): 1.694
+Tamb: 25.062
+set_offset_A: 192690.0
+weight (mg): 6
+read time (s): 1.76
+Tamb: 25.062
+set_offset_A: 192706.44444444444
+weight (mg): 3
+read time (s): 1.727
+Tamb: 25.062
+set_offset_A: 192702.88888888888
+weight (mg): 1
+read time (s): 1.7
+Tamb: 25.062
+set_offset_A: 192720.11111111112
+weight (mg): 8
+read time (s): 1.699
+Tamb: 25.062
+set_offset_A: 192713.66666666666
+weight (mg): 10
+read time (s): 1.765
+Tamb: 25.062
+set_offset_A: 192727.88888888888
+weight (mg): 7
+read time (s): 1.724
+Tamb: 25.062
+set_offset_A: 192737.77777777778
+weight (mg): -26
+read time (s): 1.697
+Tamb: 25.062
+set_offset_A: 192738.33333333334
+weight (mg): -25
+read time (s): 1.773
+Tamb: 25.062
+set_offset_A: 192741.55555555556
+weight (mg): -21
+read time (s): 1.733
+Tamb: 25.062
+set_offset_A: 192741.77777777778
+weight (mg): -30
+read time (s): 1.705
+Tamb: 25.062
+set_offset_A: 192742.88888888888
+weight (mg): -26
+read time (s): 1.77
+Tamb: 25.062
+set_offset_A: 192740.0
+weight (mg): 22
+read time (s): 1.731
+Tamb: 25.0
+set_offset_A: 192764.44444444444
+weight (mg): -6
+read time (s): 1.73
+Tamb: 25.0
+set_offset_A: 192783.66666666666
+weight (mg): -27
+read time (s): 1.714
+Tamb: 25.0
+set_offset_A: 192775.77777777778
+weight (mg): -5
+read time (s): 1.78
+Tamb: 25.0
+set_offset_A: 192763.55555555556
+weight (mg): -5
+read time (s): 1.738
+Tamb: 25.0
+set_offset_A: 192777.11111111112
+weight (mg): -17
+read time (s): 1.711
+Tamb: 25.0
+set_offset_A: 192768.66666666666
+weight (mg): -9
+read time (s): 1.777
+Tamb: 25.0
+set_offset_A: 192779.88888888888
+weight (mg): -4
+read time (s): 1.737
+Tamb: 25.0
+set_offset_A: 192785.0
+weight (mg): 0
+read time (s): 1.71
+Tamb: 24.937
+set_offset_A: 192791.22222222222
+weight (mg): 8
+read time (s): 1.778
+Tamb: 25.0
+set_offset_A: 192786.88888888888
+weight (mg): 31
+read time (s): 1.737
+Tamb: 24.937
+set_offset_A: 192818.55555555556
+weight (mg): -6
+read time (s): 1.71
+Tamb: 24.937
+set_offset_A: 192794.55555555556
+weight (mg): 17
+read time (s): 1.776
+Tamb: 24.937
+set_offset_A: 192809.77777777778
+weight (mg): -4
+read time (s): 1.733
+Tamb: 24.937
+set_offset_A: 192795.88888888888
+weight (mg): 28
+read time (s): 1.707
+Tamb: 24.937
+set_offset_A: 192813.55555555556
+weight (mg): 21
+read time (s): 1.775
+Tamb: 24.937
+set_offset_A: 192830.0
+weight (mg): -5
+read time (s): 1.731
+Tamb: 24.937
+set_offset_A: 192842.0
+weight (mg): -29
+read time (s): 1.703
+Tamb: 24.937
+set_offset_A: 192838.55555555556
+weight (mg): -20
+read time (s): 1.771
+Tamb: 24.937
+set_offset_A: 192822.66666666666
+weight (mg): 37
+read time (s): 1.73
+Tamb: 24.937
+set_offset_A: 192849.33333333334
+weight (mg): 10
+read time (s): 1.703
+Tamb: 24.875
+set_offset_A: 192844.88888888888
+weight (mg): 6
+read time (s): 1.77
+Tamb: 24.875
+set_offset_A: 192851.66666666666
+weight (mg): -2
+read time (s): 1.729
+Tamb: 24.812
+set_offset_A: 192846.44444444444
+weight (mg): 4
+read time (s): 1.702
+Tamb: 24.812
+set_offset_A: 192861.77777777778
+weight (mg): 3
+read time (s): 1.768
+Tamb: 24.875
+set_offset_A: 192868.22222222222
+weight (mg): -7
+read time (s): 1.726
+Tamb: 24.812
+set_offset_A: 192866.11111111112
+weight (mg): 18
+read time (s): 1.699
+Tamb: 24.812
+set_offset_A: 192870.33333333334
+weight (mg): -1
+read time (s): 1.766
+Tamb: 24.812
+set_offset_A: 192860.66666666666
+weight (mg): 3
+read time (s): 1.725
+Tamb: 24.812
+set_offset_A: 192889.55555555556
+weight (mg): -31
+read time (s): 1.707
+Tamb: 24.812
+set_offset_A: 192889.77777777778
+weight (mg): 3
+read time (s): 1.763
+Tamb: 24.812
+set_offset_A: 192894.22222222222
+weight (mg): -12
+read time (s): 1.722
+Tamb: 24.812
+set_offset_A: 192894.0
+weight (mg): 11
+read time (s): 1.695
+Tamb: 24.812
+set_offset_A: 192897.0
+weight (mg): 10
+read time (s): 1.761
+Tamb: 24.812
+set_offset_A: 192900.77777777778
+weight (mg): -23
+read time (s): 1.72
+Tamb: 24.75
+set_offset_A: 192896.88888888888
+weight (mg): 11
+read time (s): 1.692
+Tamb: 24.812
+set_offset_A: 192920.88888888888
+weight (mg): 10
+read time (s): 1.758
+Tamb: 24.812
+set_offset_A: 192903.44444444444
+weight (mg): 37
+read time (s): 1.725
+Tamb: 24.812
+set_offset_A: 192916.0
+weight (mg): 0
+read time (s): 1.698
+Tamb: 24.812
+set_offset_A: 192914.22222222222
+weight (mg): 6
+read time (s): 1.764
+Tamb: 24.75
+set_offset_A: 192937.44444444444
+weight (mg): 2
+read time (s): 1.723
+Tamb: 24.75
+set_offset_A: 192942.77777777778
+weight (mg): -9
+read time (s): 1.695
+Tamb: 24.75
+set_offset_A: 192931.77777777778
+weight (mg): -12
+read time (s): 1.763
+Tamb: 24.75
+set_offset_A: 192920.77777777778
+weight (mg): 17
+read time (s): 1.721
+Tamb: 24.75
+set_offset_A: 192954.22222222222
+weight (mg): 1
+read time (s): 1.696
+Tamb: 24.75
+set_offset_A: 192961.22222222222
+weight (mg): -29
+read time (s): 1.762
+Tamb: 24.75
+set_offset_A: 192966.55555555556
+weight (mg): 8
+read time (s): 1.721
+Tamb: 24.687
+set_offset_A: 192945.88888888888
+weight (mg): 11
+read time (s): 1.696
+Tamb: 24.687
+set_offset_A: 192958.11111111112
+weight (mg): -21
+read time (s): 1.763
+Tamb: 24.687
+set_offset_A: 192978.77777777778
+weight (mg): -52
+read time (s): 1.721
+Tamb: 24.687
+set_offset_A: 192986.77777777778
+weight (mg): -11
+read time (s): 1.697
+Tamb: 24.687
+set_offset_A: 192966.88888888888
+weight (mg): 5
+read time (s): 1.763
+Tamb: 24.75
+set_offset_A: 192966.77777777778
+weight (mg): 28
+read time (s): 1.72
+Tamb: 24.687
+set_offset_A: 192989.0
+weight (mg): -22
+read time (s): 1.695
+Tamb: 24.687
+set_offset_A: 192971.11111111112
+weight (mg): -11
+read time (s): 1.761
+Tamb: 24.687
+set_offset_A: 192998.22222222222
+weight (mg): -1
+read time (s): 1.72
+Tamb: 24.625
+set_offset_A: 192988.33333333334
+weight (mg): 5
+read time (s): 1.692
+Tamb: 24.687
+set_offset_A: 193005.77777777778
+weight (mg): -11
+read time (s): 1.758
+Tamb: 24.687
+set_offset_A: 193003.33333333334
+weight (mg): -3
+read time (s): 1.718
+Tamb: 24.687
+set_offset_A: 193000.55555555556
+weight (mg): 50
+read time (s): 1.691
+Tamb: 24.625
+set_offset_A: 193012.22222222222
+weight (mg): 15
+read time (s): 1.757
+Tamb: 24.625
+set_offset_A: 193012.11111111112
+weight (mg): 1
+read time (s): 1.716
+Tamb: 24.625
+set_offset_A: 193030.22222222222
+weight (mg): -12
+read time (s): 1.783
+Tamb: 24.625
+set_offset_A: 193017.55555555556
+weight (mg): 8
+read time (s): 1.741
+Tamb: 24.625
+set_offset_A: 193033.77777777778
+weight (mg): -9
+read time (s): 1.714
+Tamb: 24.625
+set_offset_A: 193046.22222222222
+weight (mg): 5
+read time (s): 1.782
+Tamb: 24.625
+set_offset_A: 193033.66666666666
+weight (mg): 29
+read time (s): 1.739
+Tamb: 24.562
+set_offset_A: 193045.11111111112
+weight (mg): 8
+read time (s): 1.712
+Tamb: 24.562
+set_offset_A: 193045.77777777778
+weight (mg): -17
+read time (s): 1.779
+Tamb: 24.562
+set_offset_A: 193055.22222222222
+weight (mg): -2
+read time (s): 1.737
+Tamb: 24.562
+set_offset_A: 193049.66666666666
+weight (mg): 22
+read time (s): 1.709
+Tamb: 24.562
+set_offset_A: 193070.88888888888
+weight (mg): 1
+read time (s): 1.776
+Tamb: 24.562
+set_offset_A: 193071.0
+weight (mg): -4
+read time (s): 1.736
+Tamb: 24.562
+set_offset_A: 193051.66666666666
+weight (mg): 25
+read time (s): 1.713
+Tamb: 24.562
+set_offset_A: 193084.33333333334
+weight (mg): -4
+read time (s): 1.779
+Tamb: 24.562
+set_offset_A: 193067.66666666666
+weight (mg): 32
+read time (s): 1.739
+Tamb: 24.562
+set_offset_A: 193102.11111111112
+weight (mg): 1
+read time (s): 1.711
+Tamb: 24.562
+set_offset_A: 193087.33333333334
+weight (mg): 15
+read time (s): 1.778
+Tamb: 24.562
+set_offset_A: 193105.88888888888
+weight (mg): -2
+read time (s): 1.737
+Tamb: 24.5
+set_offset_A: 193108.44444444444
+weight (mg): -29
+read time (s): 1.71
+Tamb: 24.5
+set_offset_A: 193091.77777777778
+weight (mg): 4
+read time (s): 1.776
+Tamb: 24.5
+set_offset_A: 193100.33333333334
+weight (mg): 6
+read time (s): 1.735
+Tamb: 24.5
+set_offset_A: 193110.66666666666
+weight (mg): 6
+read time (s): 1.708
+Tamb: 24.5
+set_offset_A: 193108.77777777778
+weight (mg): -7
+read time (s): 1.774
+Tamb: 24.5
+set_offset_A: 193103.88888888888
+weight (mg): 1
+read time (s): 1.734
+Tamb: 24.5
+set_offset_A: 193129.33333333334
+weight (mg): -15
+read time (s): 1.706
+Tamb: 24.5
+set_offset_A: 193124.0
+weight (mg): 31
+read time (s): 1.772
+Tamb: 24.5
+set_offset_A: 193135.33333333334
+weight (mg): -11
+read time (s): 1.73
+Tamb: 24.437
+set_offset_A: 193140.33333333334
+weight (mg): -8
+read time (s): 1.702
+Tamb: 24.437
+set_offset_A: 193138.44444444444
+weight (mg): 3
+read time (s): 1.77
+Tamb: 24.437
+set_offset_A: 193138.44444444444
+weight (mg): -12
+read time (s): 1.731
+Tamb: 24.437
+set_offset_A: 193132.0
+weight (mg): 26
+read time (s): 1.704
+Tamb: 24.437
+set_offset_A: 193164.55555555556
+weight (mg): 3
+read time (s): 1.77
+Tamb: 24.437
+set_offset_A: 193151.55555555556
+weight (mg): 38
+read time (s): 1.729
+Tamb: 24.437
+set_offset_A: 193164.66666666666
+weight (mg): 3
+read time (s): 1.722
+Tamb: 24.375
+set_offset_A: 193161.88888888888
+weight (mg): 13
+read time (s): 1.695
+Tamb: 24.375
+set_offset_A: 193165.44444444444
+weight (mg): -20
+read time (s): 1.762
+Tamb: 24.375
+set_offset_A: 193178.33333333334
+weight (mg): -7
+read time (s): 1.721
+Tamb: 24.375
+set_offset_A: 193182.66666666666
+weight (mg): 10
+read time (s): 1.693
+Tamb: 24.375
+set_offset_A: 193198.33333333334
+weight (mg): -22
+read time (s): 1.759
+Tamb: 24.375
+set_offset_A: 193173.11111111112
+weight (mg): -8
+read time (s): 1.718
+Tamb: 24.375
+set_offset_A: 193197.0
+weight (mg): 15
+read time (s): 1.691
+Tamb: 24.312
+set_offset_A: 193204.11111111112
+weight (mg): -1
+read time (s): 1.757
+Tamb: 24.312
+set_offset_A: 193192.0
+weight (mg): 15
+read time (s): 1.715
+Tamb: 24.312
+set_offset_A: 193207.0
+weight (mg): 0
+read time (s): 1.693
+Tamb: 24.312
+set_offset_A: 193213.11111111112
+weight (mg): -2
+read time (s): 1.767
+Tamb: 24.312
+set_offset_A: 193214.22222222222
+weight (mg): 7
+read time (s): 1.743
+Tamb: 24.312
+set_offset_A: 193247.44444444444
+weight (mg): -18
+read time (s): 1.717
+Tamb: 24.312
+set_offset_A: 193217.22222222222
+weight (mg): 2
+read time (s): 1.783
+Tamb: 24.312
+set_offset_A: 193228.44444444444
+weight (mg): -4
+read time (s): 1.742
+Tamb: 24.25
+set_offset_A: 193242.0
+weight (mg): 1
+read time (s): 1.715
+Tamb: 24.25
+set_offset_A: 193241.77777777778
+weight (mg): 9
+read time (s): 1.781
+Tamb: 24.312
+set_offset_A: 193256.11111111112
+weight (mg): 11
+read time (s): 1.74
+Tamb: 24.25
+set_offset_A: 193242.77777777778
+weight (mg): 5
+read time (s): 1.714
+Tamb: 24.25
+set_offset_A: 193247.55555555556
+weight (mg): 1
+read time (s): 1.781
+Tamb: 24.25
+set_offset_A: 193258.88888888888
+weight (mg): 11
+read time (s): 1.739
+Tamb: 24.25
+set_offset_A: 193265.44444444444
+weight (mg): -10
+read time (s): 1.711
+Tamb: 24.25
+set_offset_A: 193269.44444444444
+weight (mg): -4
+read time (s): 1.778
+Tamb: 24.25
+set_offset_A: 193272.22222222222
+weight (mg): -31
+read time (s): 1.736
+Tamb: 24.25
+set_offset_A: 193276.55555555556
+weight (mg): 0
+read time (s): 1.709
+Tamb: 24.25
+set_offset_A: 193277.22222222222
+weight (mg): 14
+read time (s): 1.776
+Tamb: 24.187
+set_offset_A: 193279.22222222222
+weight (mg): -1
+read time (s): 1.734
+Tamb: 24.25
+set_offset_A: 193290.0
+weight (mg): 7
+read time (s): 1.707
+Tamb: 24.25
+set_offset_A: 193297.55555555556
+weight (mg): 2
+read time (s): 1.774
+Tamb: 24.187
+set_offset_A: 193309.88888888888
+weight (mg): -22
+read time (s): 1.731
+Tamb: 24.187
+set_offset_A: 193318.11111111112
+weight (mg): -7
+read time (s): 1.705
+Tamb: 24.187
+set_offset_A: 193300.44444444444
+weight (mg): 4
+read time (s): 1.772
+Tamb: 24.187
+set_offset_A: 193331.33333333334
+weight (mg): -33
+read time (s): 1.731
+Tamb: 24.187
+set_offset_A: 193328.44444444444
+weight (mg): -5
+read time (s): 1.703
+Tamb: 24.187
+set_offset_A: 193330.88888888888
+weight (mg): -5
+read time (s): 1.769
+Tamb: 24.125
+set_offset_A: 193341.22222222222
+weight (mg): -2
+read time (s): 1.726
+Tamb: 24.125
+set_offset_A: 193329.33333333334
+weight (mg): -1
+read time (s): 1.699
+Tamb: 24.125
+set_offset_A: 193345.11111111112
+weight (mg): 9
+read time (s): 1.765
+Tamb: 24.062
+set_offset_A: 193341.88888888888
+weight (mg): 21
+read time (s): 1.724
+Tamb: 24.125
+set_offset_A: 193359.0
+weight (mg): -6
+read time (s): 1.697
+Tamb: 24.125
+set_offset_A: 193357.33333333334
+weight (mg): -11
+read time (s): 1.763
+Tamb: 24.125
+set_offset_A: 193372.0
+weight (mg): -6
+read time (s): 1.722
+Tamb: 24.125
+set_offset_A: 193370.22222222222
+weight (mg): 5
+read time (s): 1.695
+Tamb: 24.062
+set_offset_A: 193346.66666666666
+weight (mg): 43
+read time (s): 1.762
+Tamb: 24.062
+set_offset_A: 193376.77777777778
+weight (mg): 16
+read time (s): 1.706
+Tamb: 24.062
+set_offset_A: 193379.44444444444
+weight (mg): -21
+read time (s): 1.692
+Tamb: 24.062
+set_offset_A: 193381.33333333334
+weight (mg): 2
+read time (s): 1.759
+Tamb: 24.0
+set_offset_A: 193388.22222222222
+weight (mg): -8
+read time (s): 1.718
+Tamb: 24.062
+set_offset_A: 193397.0
+weight (mg): 7
+read time (s): 1.691
+Tamb: 24.0
+set_offset_A: 193406.0
+weight (mg): -6
+read time (s): 1.757
+Tamb: 24.0
+set_offset_A: 193403.77777777778
+weight (mg): 4
+read time (s): 1.715
+Tamb: 24.0
+set_offset_A: 193401.11111111112
+weight (mg): -15
+read time (s): 1.781
+Tamb: 24.0
+set_offset_A: 193420.44444444444
+weight (mg): -16
+read time (s): 1.741
+Tamb: 23.937
+set_offset_A: 193424.11111111112
+weight (mg): 3
+read time (s): 1.713
+Tamb: 24.0
+set_offset_A: 193424.44444444444
+weight (mg): 2
+read time (s): 1.78
+Tamb: 23.937
+set_offset_A: 193436.11111111112
+weight (mg): 13
+read time (s): 1.739
+Tamb: 24.0
+set_offset_A: 193449.0
+weight (mg): -18
+read time (s): 1.711
+Tamb: 23.937
+set_offset_A: 193452.33333333334
+weight (mg): 6
+read time (s): 1.778
+Tamb: 23.937
+set_offset_A: 193459.0
+weight (mg): 25
+read time (s): 1.736
+Tamb: 23.937
+set_offset_A: 193444.11111111112
+weight (mg): 21
+read time (s): 1.709
+Tamb: 24.0
+set_offset_A: 193447.88888888888
+weight (mg): 11
+read time (s): 1.776
+Tamb: 23.937
+set_offset_A: 193462.66666666666
+weight (mg): -5
+read time (s): 1.734
+Tamb: 23.937
+set_offset_A: 193477.44444444444
+weight (mg): -33
+read time (s): 1.707
+Tamb: 23.937
+set_offset_A: 193479.0
+weight (mg): 10
+read time (s): 1.774
+Tamb: 23.937
+set_offset_A: 193485.44444444444
+weight (mg): 10
+read time (s): 1.732
+Tamb: 23.875
+set_offset_A: 193490.11111111112
+weight (mg): -26
+read time (s): 1.704
+Tamb: 23.937
+set_offset_A: 193485.0
+weight (mg): -9
+read time (s): 1.772
+Tamb: 23.875
+set_offset_A: 193500.44444444444
+weight (mg): 44
+read time (s): 1.73
+Tamb: 23.937
+set_offset_A: 193501.77777777778
+weight (mg): 13
+read time (s): 1.703
+Tamb: 23.875
+set_offset_A: 193521.22222222222
+weight (mg): 11
+read time (s): 1.769
+Tamb: 23.875
+set_offset_A: 193515.66666666666
+weight (mg): -5
+read time (s): 1.728
+Tamb: 23.875
+set_offset_A: 193529.88888888888
+weight (mg): -8
+read time (s): 1.702
+Tamb: 23.875
+set_offset_A: 193545.22222222222
+weight (mg): 10
+read time (s): 1.768
+Tamb: 23.875
+set_offset_A: 193535.44444444444
+weight (mg): -13
+read time (s): 1.727
+Tamb: 23.812
+set_offset_A: 193552.88888888888
+weight (mg): -8
+read time (s): 1.699
+Tamb: 23.812
+set_offset_A: 193527.44444444444
+weight (mg): 37
+read time (s): 1.765
+Tamb: 23.812
+set_offset_A: 193570.11111111112
+weight (mg): -27
+read time (s): 1.724
+Tamb: 23.812
+set_offset_A: 193532.11111111112
+weight (mg): -20
+read time (s): 1.697
+Tamb: 23.75
+set_offset_A: 193557.33333333334
+weight (mg): 2
+read time (s): 1.764
+Tamb: 23.75
+set_offset_A: 193565.11111111112
+weight (mg): 15
+read time (s): 1.724
+Tamb: 23.75
+set_offset_A: 193573.44444444444
+weight (mg): -3
+read time (s): 1.696
+Tamb: 23.75
+set_offset_A: 193555.88888888888
+weight (mg): 33
+read time (s): 1.762
+Tamb: 23.75
+set_offset_A: 193582.22222222222
+weight (mg): 23
+read time (s): 1.721
+Tamb: 23.75
+set_offset_A: 193566.88888888888
+weight (mg): 31
+read time (s): 1.694
+Tamb: 23.687
+set_offset_A: 193584.11111111112
+weight (mg): -1
+read time (s): 1.763
+Tamb: 23.75
+set_offset_A: 193601.0
+weight (mg): 19
+read time (s): 1.721
+Tamb: 23.75
+set_offset_A: 193590.88888888888
+weight (mg): -4
+read time (s): 1.693
+Tamb: 23.75
+set_offset_A: 193600.55555555556
+weight (mg): 14
+read time (s): 1.76
+Tamb: 23.75
+set_offset_A: 193614.88888888888
+weight (mg): -12
+read time (s): 1.718
+Tamb: 23.687
+set_offset_A: 193620.66666666666
+weight (mg): 25
+read time (s): 1.784
+Tamb: 23.687
+set_offset_A: 193623.66666666666
+weight (mg): 16
+read time (s): 1.744
+Tamb: 23.687
+set_offset_A: 193616.44444444444
+weight (mg): 14
+read time (s): 1.716
+Tamb: 23.687
+set_offset_A: 193636.55555555556
+weight (mg): -7
+read time (s): 1.783
+Tamb: 23.687
+set_offset_A: 193638.33333333334
+weight (mg): -31
+read time (s): 1.764
+Tamb: 23.625
+set_offset_A: 193645.66666666666
+weight (mg): -6
+read time (s): 1.737
+Tamb: 23.687
+set_offset_A: 193631.33333333334
+weight (mg): 16
+read time (s): 1.709
+Tamb: 23.687
+set_offset_A: 193649.11111111112
+weight (mg): 10
+read time (s): 1.776
+Tamb: 23.687
+set_offset_A: 193650.66666666666
+weight (mg): 19
+read time (s): 1.734
+Tamb: 23.625
+set_offset_A: 193662.33333333334
+weight (mg): 4
+read time (s): 1.707
+Tamb: 23.625
+set_offset_A: 193661.22222222222
+weight (mg): -5
+read time (s): 1.773
+Tamb: 23.625
+set_offset_A: 193673.11111111112
+weight (mg): -3
+read time (s): 1.732
+Tamb: 23.625
+set_offset_A: 193690.44444444444
+weight (mg): -7
+read time (s): 1.704
+Tamb: 23.625
+set_offset_A: 193683.88888888888
+weight (mg): -31
+read time (s): 1.771
+Tamb: 23.625
+set_offset_A: 193684.55555555556
+weight (mg): -10
+read time (s): 1.729
+Tamb: 23.625
+set_offset_A: 193692.0
+weight (mg): -22
+read time (s): 1.703
+Tamb: 23.625
+set_offset_A: 193701.33333333334
+weight (mg): 11
+read time (s): 1.769
+Tamb: 23.625
+set_offset_A: 193695.44444444444
+weight (mg): 27
+read time (s): 1.745
+Tamb: 23.625
+set_offset_A: 193715.11111111112
+weight (mg): 0
+read time (s): 1.719
+Tamb: 23.625
+set_offset_A: 193716.88888888888
+weight (mg): 1
+read time (s): 1.691
+Tamb: 23.562
+set_offset_A: 193714.88888888888
+weight (mg): 4
+read time (s): 1.758
+Tamb: 23.625
+set_offset_A: 193735.22222222222
+weight (mg): -31
+read time (s): 1.717
+Tamb: 23.562
+set_offset_A: 193725.33333333334
+weight (mg): 18
+read time (s): 1.783
+Tamb: 23.562
+set_offset_A: 193719.44444444444
+weight (mg): 27
+read time (s): 1.742
+Tamb: 23.562
+set_offset_A: 193740.33333333334
+weight (mg): 35
+read time (s): 1.714
+Tamb: 23.562
+set_offset_A: 193747.77777777778
+weight (mg): 10
+read time (s): 1.781
+Tamb: 23.562
+set_offset_A: 193734.55555555556
+weight (mg): 9
+read time (s): 1.739
+Tamb: 23.5
+set_offset_A: 193747.77777777778
+weight (mg): -4
+read time (s): 1.713
+Tamb: 23.5
+set_offset_A: 193782.88888888888
+weight (mg): -31
+read time (s): 1.778
+Tamb: 23.562
+set_offset_A: 193768.33333333334
+weight (mg): -18
+read time (s): 1.736
+Tamb: 23.5
+set_offset_A: 193767.22222222222
+weight (mg): -8
+read time (s): 1.708
+Tamb: 23.5
+set_offset_A: 193766.22222222222
+weight (mg): -4
+read time (s): 1.775
+Tamb: 23.5
+set_offset_A: 193770.88888888888
+weight (mg): 11
+read time (s): 1.733
+Tamb: 23.562
+set_offset_A: 193792.66666666666
+weight (mg): 7
+read time (s): 1.707
+Tamb: 23.5
+set_offset_A: 193799.0
+weight (mg): -26
+read time (s): 1.773
+Tamb: 23.5
+set_offset_A: 193784.66666666666
+weight (mg): -3
+read time (s): 1.732
+Tamb: 23.5
+set_offset_A: 193794.44444444444
+weight (mg): -19
+read time (s): 1.705
+Tamb: 23.5
+set_offset_A: 193780.33333333334
+weight (mg): 30
+read time (s): 1.771
+Tamb: 23.437
+set_offset_A: 193804.33333333334
+weight (mg): 7
+read time (s): 1.729
+Tamb: 23.437
+set_offset_A: 193812.88888888888
+weight (mg): -20
+read time (s): 1.703
+Tamb: 23.437
+set_offset_A: 193803.44444444444
+weight (mg): 9
+read time (s): 1.77
+Tamb: 23.437
+set_offset_A: 193820.55555555556
+weight (mg): 21
+read time (s): 1.729
+Tamb: 23.437
+set_offset_A: 193828.77777777778
+weight (mg): -29
+read time (s): 1.701
+Tamb: 23.437
+set_offset_A: 193837.55555555556
+weight (mg): -10
+read time (s): 1.768
+Tamb: 23.437
+set_offset_A: 193829.0
+weight (mg): 13
+read time (s): 1.726
+Tamb: 23.375
+set_offset_A: 193831.0
+weight (mg): -7
+read time (s): 1.699
+Tamb: 23.437
+set_offset_A: 193833.77777777778
+weight (mg): 8
+read time (s): 1.766
+Tamb: 23.437
+set_offset_A: 193831.33333333334
+weight (mg): -4
+read time (s): 1.725
+Tamb: 23.437
+set_offset_A: 193867.22222222222
+weight (mg): -12
+read time (s): 1.697
+Tamb: 23.375
+set_offset_A: 193848.66666666666
+weight (mg): 18
+read time (s): 1.765
+Tamb: 23.437
+set_offset_A: 193870.66666666666
+weight (mg): -38
+read time (s): 1.723
+Tamb: 23.437
+set_offset_A: 193857.77777777778
+weight (mg): -4
+read time (s): 1.695
+Tamb: 23.375
+set_offset_A: 193876.44444444444
+weight (mg): -15
+read time (s): 1.762
+Tamb: 23.375
+set_offset_A: 193861.88888888888
+weight (mg): 28
+read time (s): 1.721
+Tamb: 23.437
+set_offset_A: 193901.66666666666
+weight (mg): -17
+read time (s): 1.693
+Tamb: 23.437
+set_offset_A: 193884.33333333334
+weight (mg): 25
+read time (s): 1.759
+Tamb: 23.375
+set_offset_A: 193861.55555555556
+weight (mg): 19
+read time (s): 1.717
+Tamb: 23.375
+set_offset_A: 193889.11111111112
+weight (mg): 15
+read time (s): 1.69
+Tamb: 23.312
+set_offset_A: 193895.44444444444
+weight (mg): -18
+read time (s): 1.757
+Tamb: 23.375
+set_offset_A: 193921.66666666666
+weight (mg): -42
+read time (s): 1.738
+Tamb: 23.312
+set_offset_A: 193922.44444444444
+weight (mg): -47
+read time (s): 1.711
+Tamb: 23.375
+set_offset_A: 193904.44444444444
+weight (mg): 0
+read time (s): 1.775
+Tamb: 23.312
+set_offset_A: 193921.44444444444
+weight (mg): -16
+read time (s): 1.734
+Tamb: 23.312
+set_offset_A: 193918.11111111112
+weight (mg): 26
+read time (s): 1.706
+Tamb: 23.375
+set_offset_A: 193924.66666666666
+weight (mg): -3
+read time (s): 1.773
+Tamb: 23.312
+set_offset_A: 193931.77777777778
+weight (mg): -1
+read time (s): 1.731
+Tamb: 23.312
+set_offset_A: 193921.0
+weight (mg): 4
+read time (s): 1.704
+Tamb: 23.312
+set_offset_A: 193932.88888888888
+weight (mg): 10
+read time (s): 1.776
+Tamb: 23.312
+set_offset_A: 193934.33333333334
+weight (mg): 8
+read time (s): 1.737
+Tamb: 23.25
+set_offset_A: 193946.77777777778
+weight (mg): -4
+read time (s): 1.727
+Tamb: 23.312
+set_offset_A: 193952.55555555556
+weight (mg): 2
+read time (s): 1.699
+Tamb: 23.312
+set_offset_A: 193962.88888888888
+weight (mg): 0
+read time (s): 1.766
+Tamb: 23.25
+set_offset_A: 193962.77777777778
+weight (mg): -9
+read time (s): 1.711
+Tamb: 23.25
+set_offset_A: 193957.88888888888
+weight (mg): 12
+read time (s): 1.698
+Tamb: 23.25
+set_offset_A: 193976.55555555556
+weight (mg): -22
+read time (s): 1.764
+Tamb: 23.312
+set_offset_A: 193969.88888888888
+weight (mg): 5
+read time (s): 1.73
+Tamb: 23.312
+set_offset_A: 193969.55555555556
+weight (mg): 14
+read time (s): 1.701
+Tamb: 23.312
+set_offset_A: 193977.0
+weight (mg): -22
+read time (s): 1.768
+Tamb: 23.312
+set_offset_A: 193996.33333333334
+weight (mg): -23
+read time (s): 1.727
+Tamb: 23.25
+set_offset_A: 193995.0
+weight (mg): 3
+read time (s): 1.699
+Tamb: 23.25
+set_offset_A: 194003.11111111112
+weight (mg): -8
+read time (s): 1.766
+Tamb: 23.25
+set_offset_A: 193989.44444444444
+weight (mg): 12
+read time (s): 1.725
+Tamb: 23.25
+set_offset_A: 193991.77777777778
+weight (mg): 11
+read time (s): 1.7
+Tamb: 23.187
+set_offset_A: 194018.66666666666
+weight (mg): -17
+read time (s): 1.779
+Tamb: 23.25
+set_offset_A: 194015.44444444444
+weight (mg): -18
+read time (s): 1.737
+Tamb: 23.25
+set_offset_A: 194013.44444444444
+weight (mg): 5
+read time (s): 1.71
+Tamb: 23.187
+set_offset_A: 194006.11111111112
+weight (mg): -9
+read time (s): 1.777
+Tamb: 23.187
+set_offset_A: 194016.55555555556
+weight (mg): 19
+read time (s): 1.736
+Tamb: 23.187
+set_offset_A: 194038.0
+weight (mg): -17
+read time (s): 1.708
+Tamb: 23.187
+set_offset_A: 194014.33333333334
+weight (mg): 12
+read time (s): 1.774
+Tamb: 23.187
+set_offset_A: 194030.55555555556
+weight (mg): -1
+read time (s): 1.733
+Tamb: 23.187
+set_offset_A: 194037.77777777778
+weight (mg): 12
+read time (s): 1.705
+Tamb: 23.125
+set_offset_A: 194045.11111111112
+weight (mg): -14
+read time (s): 1.772
+Tamb: 23.187
+set_offset_A: 194055.0
+weight (mg): -7
+read time (s): 1.731
+Tamb: 23.125
+set_offset_A: 194053.0
+weight (mg): -28
+read time (s): 1.703
+Tamb: 23.125
+set_offset_A: 194063.55555555556
+weight (mg): 3
+read time (s): 1.77
+Tamb: 23.125
+set_offset_A: 194066.44444444444
+weight (mg): -11
+read time (s): 1.729
+Tamb: 23.125
+set_offset_A: 194064.22222222222
+weight (mg): 5
+read time (s): 1.702
+Tamb: 23.125
+set_offset_A: 194066.77777777778
+weight (mg): -12
+read time (s): 1.768
+Tamb: 23.125
+set_offset_A: 194077.33333333334
+weight (mg): -13
+read time (s): 1.727
+Tamb: 23.062
+set_offset_A: 194089.88888888888
+weight (mg): -7
+read time (s): 1.7
+Tamb: 23.062
+set_offset_A: 194084.44444444444
+weight (mg): -8
+read time (s): 1.766
+Tamb: 23.125
+set_offset_A: 194079.33333333334
+weight (mg): 7
+read time (s): 1.725
+Tamb: 23.125
+set_offset_A: 194096.66666666666
+weight (mg): -9
+read time (s): 1.697
+Tamb: 23.062
+set_offset_A: 194086.88888888888
+weight (mg): -6
+read time (s): 1.763
+Tamb: 23.062
+set_offset_A: 194102.44444444444
+weight (mg): -2
+read time (s): 1.722
+Tamb: 23.062
+set_offset_A: 194108.44444444444
+weight (mg): -24
+read time (s): 1.695
+Tamb: 23.125
+set_offset_A: 194102.33333333334
+weight (mg): 8
+read time (s): 1.762
+Tamb: 23.062
+set_offset_A: 194106.88888888888
+weight (mg): 11
+read time (s): 1.721
+Tamb: 23.125
+set_offset_A: 194109.22222222222
+weight (mg): -5
+read time (s): 1.693
+Tamb: 23.062
+set_offset_A: 194115.11111111112
+weight (mg): 9
+read time (s): 1.759
+Tamb: 23.062
+set_offset_A: 194134.44444444444
+weight (mg): -43
+read time (s): 1.718
+Tamb: 23.125
+set_offset_A: 194113.22222222222
+weight (mg): -13
+read time (s): 1.784
+Tamb: 23.062
+set_offset_A: 194127.66666666666
+weight (mg): 16
+read time (s): 1.743
+Tamb: 23.062
+set_offset_A: 194133.77777777778
+weight (mg): -21
+read time (s): 1.715
+Tamb: 23.062
+set_offset_A: 194147.55555555556
+weight (mg): -21
+read time (s): 1.783
+Tamb: 23.062
+set_offset_A: 194146.55555555556
+weight (mg): 2
+read time (s): 1.741
+Tamb: 23.062
+set_offset_A: 194135.22222222222
+weight (mg): 12
+read time (s): 1.713
+Tamb: 23.0
+set_offset_A: 194132.0
+weight (mg): 6
+read time (s): 1.78
+Tamb: 23.0
+set_offset_A: 194154.22222222222
+weight (mg): -1
+read time (s): 1.74
+Tamb: 23.0
+set_offset_A: 194152.44444444444
+weight (mg): 5
+read time (s): 1.712
+Tamb: 23.062
+set_offset_A: 194159.88888888888
+weight (mg): -17
+read time (s): 1.778
+Tamb: 23.0
+set_offset_A: 194150.88888888888
+weight (mg): -25
+read time (s): 1.737
+Tamb: 23.0
+set_offset_A: 194177.88888888888
+weight (mg): -17
+read time (s): 1.709
+Tamb: 23.0
+set_offset_A: 194180.11111111112
+weight (mg): -4
+read time (s): 1.692
+Tamb: 23.0
+set_offset_A: 194164.55555555556
+weight (mg): -1
+read time (s): 1.75
+Tamb: 23.0
+set_offset_A: 194187.44444444444
+weight (mg): 15
+read time (s): 2.016
+Tamb: 23.0
+set_offset_A: 194190.44444444444
+weight (mg): -19
+read time (s): 1.719
+Tamb: 23.0
+set_offset_A: 194193.88888888888
+weight (mg): 12
+read time (s): 1.754
+Tamb: 22.937
+set_offset_A: 194193.11111111112
+weight (mg): -30
+read time (s): 1.726
+Tamb: 23.0
+set_offset_A: 194207.88888888888
+weight (mg): -20
+read time (s): 1.7
+Tamb: 22.937
+set_offset_A: 194220.55555555556
+weight (mg): -15
+read time (s): 1.766
+Tamb: 22.937
+set_offset_A: 194217.44444444444
+weight (mg): -10
+read time (s): 1.711
+Tamb: 23.0
+set_offset_A: 194209.77777777778
+weight (mg): -38
+read time (s): 1.698
+Tamb: 23.0
+set_offset_A: 194217.66666666666
+weight (mg): -23
+read time (s): 1.764
+Tamb: 22.937
+set_offset_A: 194212.33333333334
+weight (mg): 26
+read time (s): 1.709
+Tamb: 22.937
+set_offset_A: 194211.66666666666
+weight (mg): 3
+read time (s): 1.715
+Tamb: 22.937
+set_offset_A: 194225.0
+weight (mg): -8
+read time (s): 1.782
+Tamb: 22.937
+set_offset_A: 194230.44444444444
+weight (mg): 9
+read time (s): 1.727
+Tamb: 22.875
+set_offset_A: 194234.11111111112
+weight (mg): -1
+read time (s): 1.713
+Tamb: 22.875
+set_offset_A: 194235.66666666666
+weight (mg): 0
+read time (s): 1.779
+Tamb: 22.937
+set_offset_A: 194254.33333333334
+weight (mg): -20
+read time (s): 1.724
+Tamb: 22.875
+set_offset_A: 194249.88888888888
+weight (mg): -16
+read time (s): 1.71
+Tamb: 22.875
+set_offset_A: 194251.88888888888
+weight (mg): -5
+read time (s): 1.778
+Tamb: 22.937
+set_offset_A: 194257.88888888888
+weight (mg): -40
+read time (s): 1.722
+Tamb: 22.875
+set_offset_A: 194265.44444444444
+weight (mg): 1
+read time (s): 1.706
+Tamb: 22.875
+set_offset_A: 194267.11111111112
+weight (mg): 3
+read time (s): 1.773
+Tamb: 22.875
+set_offset_A: 194243.33333333334
+weight (mg): 52
+read time (s): 1.732
+Tamb: 22.875
+set_offset_A: 194284.88888888888
+weight (mg): -5
+read time (s): 1.704
+Tamb: 22.875
+set_offset_A: 194277.55555555556
+weight (mg): 16
+read time (s): 1.772
+Tamb: 22.875
+set_offset_A: 194276.44444444444
+weight (mg): -36
+read time (s): 1.715
+Tamb: 22.812
+set_offset_A: 194283.66666666666
+weight (mg): -19
+read time (s): 1.702
+Tamb: 22.812
+set_offset_A: 194299.44444444444
+weight (mg): -8
+read time (s): 1.768
+Tamb: 22.875
+set_offset_A: 194294.22222222222
+weight (mg): -9
+read time (s): 1.728
+Tamb: 22.812
+set_offset_A: 194301.88888888888
+weight (mg): 8
+read time (s): 1.7
+Tamb: 22.812
+set_offset_A: 194320.22222222222
+weight (mg): -23
+read time (s): 1.768
+Tamb: 22.812
+set_offset_A: 194321.66666666666
+weight (mg): -24
+read time (s): 1.714
+Tamb: 22.812
+set_offset_A: 194309.33333333334
+weight (mg): -1
+read time (s): 1.701
+Tamb: 22.812
+set_offset_A: 194314.33333333334
+weight (mg): 13
+read time (s): 1.766
+Tamb: 22.812
+set_offset_A: 194312.55555555556
+weight (mg): 4
+read time (s): 1.712
+Tamb: 22.812
+set_offset_A: 194322.88888888888
+weight (mg): -19
+read time (s): 1.699
+Tamb: 22.812
+set_offset_A: 194309.44444444444
+weight (mg): 39
+read time (s): 1.765
+Tamb: 22.812
+set_offset_A: 194336.0
+weight (mg): -33
+read time (s): 1.709
+Tamb: 22.812
+set_offset_A: 194321.22222222222
+weight (mg): 26
+read time (s): 1.698
+Tamb: 22.812
+set_offset_A: 194337.22222222222
+weight (mg): -9
+read time (s): 1.784
+Tamb: 22.75
+set_offset_A: 194328.44444444444
+weight (mg): 13
+read time (s): 1.744
+Tamb: 22.75
+set_offset_A: 194332.77777777778
+weight (mg): 14
+read time (s): 1.731
+Tamb: 22.75
+set_offset_A: 194349.66666666666
+weight (mg): 17
+read time (s): 1.704
+Tamb: 22.812
+set_offset_A: 194339.77777777778
+weight (mg): 4
+read time (s): 1.77
+Tamb: 22.75
+set_offset_A: 194356.33333333334
+weight (mg): 3
+read time (s): 1.718
+Tamb: 22.75
+set_offset_A: 194355.44444444444
+weight (mg): -8
+read time (s): 1.704
+Tamb: 22.75
+set_offset_A: 194377.33333333334
+weight (mg): -7
+read time (s): 1.771
+Tamb: 22.75
+set_offset_A: 194376.77777777778
+weight (mg): -4
+read time (s): 1.716
+Tamb: 22.75
+set_offset_A: 194395.11111111112
+weight (mg): -4
+read time (s): 1.708
+Tamb: 22.75
+set_offset_A: 194387.66666666666
+weight (mg): 30
+read time (s): 1.775
+Tamb: 22.75
+set_offset_A: 194385.22222222222
+weight (mg): -16
+read time (s): 1.721
+Tamb: 22.75
+set_offset_A: 194374.22222222222
+weight (mg): 20
+read time (s): 1.708
+Tamb: 22.687
+set_offset_A: 194385.22222222222
+weight (mg): 3
+read time (s): 1.774
+Tamb: 22.687
+set_offset_A: 194375.11111111112
+weight (mg): 30
+read time (s): 1.719
+Tamb: 22.687
+set_offset_A: 194403.66666666666
+weight (mg): 21
+read time (s): 1.705
+Tamb: 22.687
+set_offset_A: 194415.77777777778
+weight (mg): -22
+read time (s): 1.771
+Tamb: 22.687
+set_offset_A: 194388.88888888888
+weight (mg): 12
+read time (s): 1.717
+Tamb: 22.687
+set_offset_A: 194419.88888888888
+weight (mg): -15
+read time (s): 1.703
+Tamb: 22.687
+set_offset_A: 194424.66666666666
+weight (mg): -1
+read time (s): 1.7
+Tamb: 22.687
+set_offset_A: 194417.88888888888
+weight (mg): 11
+read time (s): 1.767
+Tamb: 22.625
+set_offset_A: 194443.11111111112
+weight (mg): -18
+read time (s): 1.712
+Tamb: 22.687
+set_offset_A: 194435.0
+weight (mg): 0
+read time (s): 1.701
+Tamb: 22.625
+set_offset_A: 194436.55555555556
+weight (mg): -22
+read time (s): 1.767
+Tamb: 22.625
+set_offset_A: 194438.55555555556
+weight (mg): 3
+read time (s): 1.711
+Tamb: 22.625
+set_offset_A: 194437.44444444444
+weight (mg): 13
+read time (s): 1.699
+Tamb: 22.625
+set_offset_A: 194447.33333333334
+weight (mg): 8
+read time (s): 1.761
+Tamb: 22.625
+set_offset_A: 194446.55555555556
+weight (mg): -8
+read time (s): 1.734
+Tamb: 22.625
+set_offset_A: 194443.88888888888
+weight (mg): 19
+read time (s): 1.706
+Tamb: 22.562
+set_offset_A: 194456.88888888888
+weight (mg): 9
+read time (s): 1.772
+Tamb: 22.625
+set_offset_A: 194448.66666666666
+weight (mg): 18
+read time (s): 1.717
+Tamb: 22.562
+set_offset_A: 194484.88888888888
+weight (mg): -18
+read time (s): 1.704
+Tamb: 22.562
+set_offset_A: 194461.11111111112
+weight (mg): -25
+read time (s): 1.769
+Tamb: 22.562
+set_offset_A: 194469.22222222222
+weight (mg): -5
+read time (s): 1.712
+Tamb: 22.562
+set_offset_A: 194475.77777777778
+weight (mg): -8
+read time (s): 1.698
+Tamb: 22.562
+set_offset_A: 194489.0
+weight (mg): 15
+read time (s): 1.766
+Tamb: 22.562
+set_offset_A: 194476.33333333334
+weight (mg): 29
+read time (s): 1.71
+Tamb: 22.562
+set_offset_A: 194487.33333333334
+weight (mg): 40
+read time (s): 1.697
+Tamb: 22.5
+set_offset_A: 194483.22222222222
+weight (mg): 19
+read time (s): 1.774
+Tamb: 22.562
+set_offset_A: 194509.77777777778
+weight (mg): 0
+read time (s): 1.718
+Tamb: 22.562
+set_offset_A: 194501.11111111112
+weight (mg): 3
+read time (s): 1.705
+Tamb: 22.5
+set_offset_A: 194512.77777777778
+weight (mg): -24
+read time (s): 1.771
+Tamb: 22.5
+set_offset_A: 194525.11111111112
+weight (mg): -11
+read time (s): 1.715
+Tamb: 22.5
+set_offset_A: 194491.33333333334
+weight (mg): 21
+read time (s): 1.702
+Tamb: 22.5
+set_offset_A: 194513.11111111112
+weight (mg): -8
+read time (s): 1.769
+Tamb: 22.5
+set_offset_A: 194509.22222222222
+weight (mg): -5
+read time (s): 1.713
+Tamb: 22.5
+set_offset_A: 194523.77777777778
+weight (mg): -24
+read time (s): 1.7
+Tamb: 22.5
+set_offset_A: 194534.22222222222
+weight (mg): 0
+read time (s): 1.766
+Tamb: 22.562
+set_offset_A: 194537.22222222222
+weight (mg): 8
+read time (s): 1.736
+Tamb: 22.5
+set_offset_A: 194534.11111111112
+weight (mg): -16
+read time (s): 1.723
+Tamb: 22.562
+set_offset_A: 194536.55555555556
+weight (mg): -24
+read time (s): 1.694
+Tamb: 22.562
+set_offset_A: 194562.77777777778
+weight (mg): 3
+read time (s): 1.761
+Tamb: 22.5
+set_offset_A: 194547.44444444444
+weight (mg): 20
+read time (s): 1.708
+Tamb: 22.5
+set_offset_A: 194550.44444444444
+weight (mg): -14
+read time (s): 1.695
+Tamb: 22.5
+set_offset_A: 194553.22222222222
+weight (mg): -1
+read time (s): 1.775
+Tamb: 22.5
+set_offset_A: 194554.44444444444
+weight (mg): -11
+read time (s): 1.721
+Tamb: 22.5
+set_offset_A: 194548.22222222222
+weight (mg): 23
+read time (s): 1.707
+Tamb: 22.5
+set_offset_A: 194565.77777777778
+weight (mg): -10
+read time (s): 1.774
+Tamb: 22.5
+set_offset_A: 194573.11111111112
+weight (mg): 0
+read time (s): 1.728
+Tamb: 22.437
+set_offset_A: 194573.0
+weight (mg): -17
+read time (s): 1.715
+Tamb: 22.5
+set_offset_A: 194573.88888888888
+weight (mg): -22
+read time (s): 1.782
+Tamb: 22.437
+set_offset_A: 194560.88888888888
+weight (mg): 31
+read time (s): 1.726
+Tamb: 22.437
+set_offset_A: 194576.55555555556
+weight (mg): 1
+read time (s): 1.713
+Tamb: 22.5
+set_offset_A: 194584.88888888888
+weight (mg): 20
+read time (s): 1.78
+Tamb: 22.437
+set_offset_A: 194581.77777777778
+weight (mg): -2
+read time (s): 1.725
+Tamb: 22.5
+set_offset_A: 194576.22222222222
+weight (mg): 10
+read time (s): 1.711
+Tamb: 22.437
+set_offset_A: 194605.55555555556
+weight (mg): -17
+read time (s): 1.777
+Tamb: 22.437
+set_offset_A: 194610.77777777778
+weight (mg): 1
+read time (s): 1.722
+Tamb: 22.437
+set_offset_A: 194586.22222222222
+weight (mg): 4
+read time (s): 1.708
+Tamb: 22.437
+set_offset_A: 194589.33333333334
+weight (mg): 13
+read time (s): 1.775
+Tamb: 22.437
+set_offset_A: 194609.77777777778
+weight (mg): -2
+read time (s): 1.72
+Tamb: 22.437
+set_offset_A: 194613.33333333334
+weight (mg): -11
+read time (s): 1.707
+Tamb: 22.437
+set_offset_A: 194609.44444444444
+weight (mg): 16
+read time (s): 1.772
+Tamb: 22.437
+set_offset_A: 194619.88888888888
+weight (mg): 25
+read time (s): 1.717
+Tamb: 22.437
+set_offset_A: 194609.77777777778
+weight (mg): 20
+read time (s): 1.704
+Tamb: 22.375
+set_offset_A: 194625.44444444444
+weight (mg): -11
+read time (s): 1.768
+Tamb: 22.375
+set_offset_A: 194627.11111111112
+weight (mg): -12
+read time (s): 1.713
+Tamb: 22.375
+set_offset_A: 194634.0
+weight (mg): -14
+read time (s): 1.722
+Tamb: 22.375
+set_offset_A: 194638.88888888888
+weight (mg): 3
+read time (s): 1.695
+Tamb: 22.375
+set_offset_A: 194637.22222222222
+weight (mg): -3
+read time (s): 1.761
+Tamb: 22.375
+set_offset_A: 194631.0
+weight (mg): 14
+read time (s): 1.706
+Tamb: 22.375
+set_offset_A: 194642.88888888888
+weight (mg): -6
+read time (s): 1.693
+Tamb: 22.375
+set_offset_A: 194639.66666666666
+weight (mg): 21
+read time (s): 1.758
+Tamb: 22.375
+set_offset_A: 194652.88888888888
+weight (mg): -5
+read time (s): 1.703
+Tamb: 22.375
+set_offset_A: 194634.66666666666
+weight (mg): -2
+read time (s): 1.782
+Tamb: 22.312
+set_offset_A: 194655.22222222222
+weight (mg): -5
+read time (s): 1.729
+Tamb: 22.312
+set_offset_A: 194652.44444444444
+weight (mg): 2
+read time (s): 1.716
+Tamb: 22.312
+set_offset_A: 194654.11111111112
+weight (mg): -8
+read time (s): 1.782
+Tamb: 22.312
+set_offset_A: 194660.77777777778
+weight (mg): 10
+read time (s): 1.725
+Tamb: 22.312
+set_offset_A: 194660.88888888888
+weight (mg): 15
+read time (s): 1.713
+Tamb: 22.312
+set_offset_A: 194669.0
+weight (mg): -6
+read time (s): 1.78
+Tamb: 22.312
+set_offset_A: 194686.22222222222
+weight (mg): -18
+read time (s): 1.725
+Tamb: 22.375
+set_offset_A: 194668.33333333334
+weight (mg): 15
+read time (s): 1.711
+Tamb: 22.312
+set_offset_A: 194672.88888888888
+weight (mg): -37
+read time (s): 1.777
+Tamb: 22.312
+set_offset_A: 194675.11111111112
+weight (mg): 1
+read time (s): 1.722
+Tamb: 22.375
+set_offset_A: 194680.33333333334
+weight (mg): -17
+read time (s): 1.709
+Tamb: 22.312
+set_offset_A: 194710.55555555556
+weight (mg): -5
+read time (s): 1.774
+Tamb: 22.312
+set_offset_A: 194694.11111111112
+weight (mg): 8
+read time (s): 1.72
+Tamb: 22.312
+set_offset_A: 194678.66666666666
+weight (mg): 17
+read time (s): 1.706
+Tamb: 22.312
+set_offset_A: 194701.11111111112
+weight (mg): 19
+read time (s): 1.773
+Tamb: 22.312
+set_offset_A: 194702.11111111112
+weight (mg): -28
+read time (s): 1.718
+Tamb: 22.25
+set_offset_A: 194712.66666666666
+weight (mg): -2
+read time (s): 1.704
+Tamb: 22.25
+set_offset_A: 194710.66666666666
+weight (mg): 2
+read time (s): 1.77
+Tamb: 22.312
+set_offset_A: 194718.66666666666
+weight (mg): -19
+read time (s): 1.715
+Tamb: 22.25
+set_offset_A: 194715.66666666666
+weight (mg): 15
+read time (s): 1.701
+Tamb: 22.25
+set_offset_A: 194714.33333333334
+weight (mg): 10
+read time (s): 1.693
+Tamb: 22.25
+set_offset_A: 194704.77777777778
+weight (mg): -10
+read time (s): 1.759
+Tamb: 22.25
+set_offset_A: 194727.22222222222
+weight (mg): -18
+read time (s): 1.704
+Tamb: 22.25
+set_offset_A: 194708.44444444444
+weight (mg): 45
+read time (s): 1.785
+Tamb: 22.312
+set_offset_A: 194729.33333333334
+weight (mg): -5
+read time (s): 1.73
+Tamb: 22.25
+set_offset_A: 194736.0
+weight (mg): -37
+read time (s): 1.716
+Tamb: 22.25
+set_offset_A: 194726.33333333334
+weight (mg): 13
+read time (s): 1.783
+Tamb: 22.312
+set_offset_A: 194738.22222222222
+weight (mg): -8
+read time (s): 1.728
+Tamb: 22.25
+set_offset_A: 194727.11111111112
+weight (mg): -23
+read time (s): 1.715
+Tamb: 22.25
+set_offset_A: 194729.66666666666
+weight (mg): 20
+read time (s): 1.78
+Tamb: 22.25
+set_offset_A: 194744.66666666666
+weight (mg): -25
+read time (s): 1.749
+Tamb: 22.25
+set_offset_A: 194747.66666666666
+weight (mg): -26
+read time (s): 1.736
+Tamb: 22.25
+set_offset_A: 194754.55555555556
+weight (mg): -21
+read time (s): 1.709
+Tamb: 22.25
+set_offset_A: 194751.11111111112
+weight (mg): -9
+read time (s): 1.775
+Tamb: 22.25
+set_offset_A: 194746.77777777778
+weight (mg): -20
+read time (s): 1.72
+Tamb: 22.25
+set_offset_A: 194754.22222222222
+weight (mg): -6
+read time (s): 1.706
+Tamb: 22.25
+set_offset_A: 194741.77777777778
+weight (mg): 24
+read time (s): 1.775
+Tamb: 22.187
+set_offset_A: 194755.88888888888
+weight (mg): 18
+read time (s): 1.72
+Tamb: 22.25
+set_offset_A: 194753.11111111112
+weight (mg): 27
+read time (s): 1.706
+Tamb: 22.25
+set_offset_A: 194770.55555555556
+weight (mg): 7
+read time (s): 1.706
+Tamb: 22.25
+set_offset_A: 194769.55555555556
+weight (mg): 9
+read time (s): 1.772
+Tamb: 22.187
+set_offset_A: 194783.44444444444
+weight (mg): -34
+read time (s): 1.742
+Tamb: 22.25
+set_offset_A: 194780.44444444444
+weight (mg): -15
+read time (s): 1.729
+Tamb: 22.25
+set_offset_A: 194774.22222222222
+weight (mg): 6
+read time (s): 1.701
+Tamb: 22.187
+set_offset_A: 194779.22222222222
+weight (mg): 1
+read time (s): 1.768
+Tamb: 22.187
+set_offset_A: 194759.88888888888
+weight (mg): -20
+read time (s): 1.712
+Tamb: 22.25
+set_offset_A: 194794.22222222222
+weight (mg): 15
+read time (s): 1.7
+Tamb: 22.25
+set_offset_A: 194793.33333333334
+weight (mg): -6
+read time (s): 1.765
+Tamb: 22.187
+set_offset_A: 194785.11111111112
+weight (mg): -1
+read time (s): 1.71
+Tamb: 22.187
+set_offset_A: 194783.88888888888
+weight (mg): -13
+read time (s): 1.697
+Tamb: 22.187
+set_offset_A: 194802.0
+weight (mg): -2
+read time (s): 1.764
+Tamb: 22.187
+set_offset_A: 194797.0
+weight (mg): 23
+read time (s): 1.707
+Tamb: 22.187
+set_offset_A: 194814.77777777778
+weight (mg): -7
+read time (s): 1.693
+Tamb: 22.187
+set_offset_A: 194820.33333333334
+weight (mg): -34
+read time (s): 1.76
+Tamb: 22.187
+set_offset_A: 194805.66666666666
+weight (mg): 7
+read time (s): 1.706
+Tamb: 22.187
+set_offset_A: 194789.77777777778
+weight (mg): 18
+read time (s): 1.692
+Tamb: 22.187
+set_offset_A: 194800.88888888888
+weight (mg): 1
+read time (s): 1.758
+Tamb: 22.125
+set_offset_A: 194804.44444444444
+weight (mg): 3
+read time (s): 1.704
+Tamb: 22.187
+set_offset_A: 194812.11111111112
+weight (mg): 12
+read time (s): 1.785
+Tamb: 22.187
+set_offset_A: 194832.0
+weight (mg): -53
+read time (s): 1.729
+Tamb: 22.125
+set_offset_A: 194819.88888888888
+weight (mg): -8
+read time (s): 1.715
+Tamb: 22.125
+set_offset_A: 194820.88888888888
+weight (mg): -27
+read time (s): 1.782
+Tamb: 22.187
+set_offset_A: 194826.77777777778
+weight (mg): -21
+read time (s): 1.727
+Tamb: 22.125
+set_offset_A: 194826.11111111112
+weight (mg): 10
+read time (s): 1.713
+Tamb: 22.187
+set_offset_A: 194835.66666666666
+weight (mg): -15
+read time (s): 1.78
+Tamb: 22.125
+set_offset_A: 194831.0
+weight (mg): 11
+read time (s): 1.725
+Tamb: 22.125
+set_offset_A: 194821.33333333334
+weight (mg): 15
+read time (s): 1.712
+Tamb: 22.125
+set_offset_A: 194845.33333333334
+weight (mg): -51
+read time (s): 1.764
+Tamb: 22.125
+set_offset_A: 194847.33333333334
+weight (mg): 39
+read time (s): 1.728
+Tamb: 22.125
+set_offset_A: 194855.22222222222
+weight (mg): -4
+read time (s): 1.738
+Tamb: 22.125
+set_offset_A: 194839.11111111112
+weight (mg): 23
+read time (s): 1.711
+Tamb: 22.125
+set_offset_A: 194848.0
+weight (mg): 16
+read time (s): 1.763
+Tamb: 22.125
+set_offset_A: 194841.44444444444
+weight (mg): -28
+read time (s): 1.736
+Tamb: 22.062
+set_offset_A: 194869.77777777778
+weight (mg): -16
+read time (s): 1.709
+Tamb: 22.125
+set_offset_A: 194864.11111111112
+weight (mg): 8
+read time (s): 1.776
+Tamb: 22.062
+set_offset_A: 194856.33333333334
+weight (mg): -7
+read time (s): 1.72
+Tamb: 22.125
+set_offset_A: 194868.0
+weight (mg): -12
+read time (s): 1.728
+Tamb: 22.062
+set_offset_A: 194861.0
+weight (mg): 4
+read time (s): 1.781
+Tamb: 22.062
+set_offset_A: 194863.22222222222
+weight (mg): 12
+read time (s): 1.766
+Tamb: 22.062
+set_offset_A: 194882.55555555556
+weight (mg): -24
+read time (s): 1.751
+Tamb: 22.062
+set_offset_A: 194880.77777777778
+weight (mg): -9
+read time (s): 1.71
+Tamb: 22.062
+set_offset_A: 194870.33333333334
+weight (mg): 3
+read time (s): 1.697
+Tamb: 22.062
+set_offset_A: 194883.88888888888
+weight (mg): 10
+read time (s): 1.749
+Tamb: 22.062
+set_offset_A: 194879.88888888888
+weight (mg): 25
+read time (s): 1.708
+Tamb: 22.062
+set_offset_A: 194886.0
+weight (mg): 10
+read time (s): 1.695
+Tamb: 22.062
+set_offset_A: 194888.88888888888
+weight (mg): 12
+read time (s): 1.748
+Tamb: 22.0
+set_offset_A: 194901.44444444444
+weight (mg): 2
+read time (s): 1.707
+Tamb: 22.0
+set_offset_A: 194881.55555555556
+weight (mg): 16
+read time (s): 1.693
+Tamb: 22.0
+set_offset_A: 194911.44444444444
+weight (mg): 5
+read time (s): 1.77
+Tamb: 22.0
+set_offset_A: 194900.77777777778
+weight (mg): -16
+read time (s): 1.73
+Tamb: 22.0
+set_offset_A: 194909.0
+weight (mg): 1
+read time (s): 1.716
+Tamb: 21.937
+set_offset_A: 194907.44444444444
+weight (mg): -17
+read time (s): 1.697
+Tamb: 22.0
+set_offset_A: 194911.22222222222
+weight (mg): 13
+read time (s): 1.778
+Tamb: 22.0
+set_offset_A: 194915.22222222222
+weight (mg): 2
+read time (s): 1.737
+Tamb: 21.937
+set_offset_A: 194912.88888888888
+weight (mg): -6
+read time (s): 1.724
+Tamb: 21.937
+set_offset_A: 194923.0
+weight (mg): -12
+read time (s): 1.776
+Tamb: 21.937
+set_offset_A: 194918.22222222222
+weight (mg): 12
+read time (s): 1.736
+Tamb: 21.937
+set_offset_A: 194938.44444444444
+weight (mg): -29
+read time (s): 1.721
+Tamb: 21.937
+set_offset_A: 194935.55555555556
+weight (mg): -23
+read time (s): 1.774
+Tamb: 21.937
+set_offset_A: 194952.0
+weight (mg): -15
+read time (s): 1.733
+Tamb: 21.937
+set_offset_A: 194939.55555555556
+weight (mg): 13
+read time (s): 1.719
+Tamb: 21.937
+set_offset_A: 194952.0
+weight (mg): 8
+read time (s): 1.773
+Tamb: 21.937
+set_offset_A: 194957.11111111112
+weight (mg): -13
+read time (s): 1.732
+Tamb: 21.937
+set_offset_A: 194956.0
+weight (mg): -13
+read time (s): 1.718
+Tamb: 21.937
+set_offset_A: 194945.22222222222
+weight (mg): 5
+read time (s): 1.771
+Tamb: 21.937
+set_offset_A: 194970.88888888888
+weight (mg): -11
+read time (s): 1.729
+Tamb: 21.937
+set_offset_A: 194951.33333333334
+weight (mg): 50
+read time (s): 1.715
+Tamb: 21.875
+set_offset_A: 194968.44444444444
+weight (mg): 1
+read time (s): 1.769
+Tamb: 21.875
+set_offset_A: 194965.33333333334
+weight (mg): -16
+read time (s): 1.727
+Tamb: 21.875
+set_offset_A: 194977.11111111112
+weight (mg): -1
+read time (s): 1.711
+Tamb: 21.875
+set_offset_A: 194992.22222222222
+weight (mg): -9
+read time (s): 1.764
+Tamb: 21.875
+set_offset_A: 194979.44444444444
+weight (mg): -18
+read time (s): 1.722
+Tamb: 21.875
+set_offset_A: 194992.88888888888
+weight (mg): 5
+read time (s): 1.709
+Tamb: 21.812
+set_offset_A: 194997.88888888888
+weight (mg): -14
+read time (s): 1.762
+Tamb: 21.875
+set_offset_A: 194984.0
+weight (mg): 7
+read time (s): 1.72
+Tamb: 21.875
+set_offset_A: 194974.55555555556
+weight (mg): 9
+read time (s): 1.707
+Tamb: 21.875
+set_offset_A: 194980.11111111112
+weight (mg): -13
+read time (s): 1.76
+Tamb: 21.875
+set_offset_A: 195006.22222222222
+weight (mg): -16
+read time (s): 1.718
+Tamb: 21.875
+set_offset_A: 195000.0
+weight (mg): 12
+read time (s): 1.705
+Tamb: 21.812
+set_offset_A: 195003.77777777778
+weight (mg): -3
+read time (s): 1.757
+Tamb: 21.812
+set_offset_A: 195009.22222222222
+weight (mg): -19
+read time (s): 1.716
+Tamb: 21.812
+set_offset_A: 195019.66666666666
+weight (mg): -7
+read time (s): 1.702
+Tamb: 21.812
+set_offset_A: 195020.77777777778
+weight (mg): -22
+read time (s): 1.754
+Tamb: 21.812
+set_offset_A: 195006.77777777778
+weight (mg): 4
+read time (s): 1.714
+Tamb: 21.812
+set_offset_A: 195026.88888888888
+weight (mg): 5
+read time (s): 1.7
+Tamb: 21.812
+set_offset_A: 195037.55555555556
+weight (mg): -31
+read time (s): 1.753
+Tamb: 21.812
+set_offset_A: 195023.0
+weight (mg): -12
+read time (s): 1.711
+Tamb: 21.812
+set_offset_A: 195025.22222222222
+weight (mg): -26
+read time (s): 1.698
+Tamb: 21.812
+set_offset_A: 195023.88888888888
+weight (mg): -7
+read time (s): 1.751
+Tamb: 21.812
+set_offset_A: 195058.66666666666
+weight (mg): -27
+read time (s): 1.709
+Tamb: 21.75
+set_offset_A: 195031.11111111112
+weight (mg): 23
+read time (s): 1.696
+Tamb: 21.812
+set_offset_A: 195044.88888888888
+weight (mg): -3
+read time (s): 1.748
+Tamb: 21.75
+set_offset_A: 195029.77777777778
+weight (mg): 26
+read time (s): 1.706
+Tamb: 21.75
+set_offset_A: 195054.11111111112
+weight (mg): -10
+read time (s): 1.694
+Tamb: 21.75
+set_offset_A: 195065.55555555556
+weight (mg): -30
+read time (s): 1.733
+Tamb: 21.687
+set_offset_A: 195054.0
+weight (mg): 40
+read time (s): 1.72
+Tamb: 21.75
+set_offset_A: 195065.22222222222
+weight (mg): 5
+read time (s): 1.773
+Tamb: 21.687
+set_offset_A: 195063.77777777778
+weight (mg): -22
+read time (s): 1.731
+Tamb: 21.75
+set_offset_A: 195063.11111111112
+weight (mg): 15
+read time (s): 1.718
+Tamb: 21.75
+set_offset_A: 195056.66666666666
+weight (mg): 14
+read time (s): 1.769
+Tamb: 21.75
+set_offset_A: 195073.22222222222
+weight (mg): 7
+read time (s): 1.728
+Tamb: 21.75
+set_offset_A: 195070.66666666666
+weight (mg): 0
+read time (s): 1.715
+Tamb: 21.687
+set_offset_A: 195085.0
+weight (mg): 1
+read time (s): 1.768
+Tamb: 21.687
+set_offset_A: 195085.44444444444
+weight (mg): 15
+read time (s): 1.727
+Tamb: 21.687
+set_offset_A: 195076.77777777778
+weight (mg): -9
+read time (s): 1.713
+Tamb: 21.687
+set_offset_A: 195090.44444444444
+weight (mg): 10
+read time (s): 1.765
+Tamb: 21.687
+set_offset_A: 195102.66666666666
+weight (mg): -19
+read time (s): 1.724
+Tamb: 21.687
+set_offset_A: 195099.33333333334
+weight (mg): -10
+read time (s): 1.71
+Tamb: 21.687
+set_offset_A: 195100.0
+weight (mg): -7
+read time (s): 1.765
+Tamb: 21.687
+set_offset_A: 195075.22222222222
+weight (mg): 22
+read time (s): 1.723
+Tamb: 21.687
+set_offset_A: 195104.22222222222
+weight (mg): -3
+read time (s): 1.709
+Tamb: 21.687
+set_offset_A: 195102.77777777778
+weight (mg): -29
+read time (s): 1.762
+Tamb: 21.687
+set_offset_A: 195111.55555555556
+weight (mg): -18
+read time (s): 1.721
+Tamb: 21.687
+set_offset_A: 195134.11111111112
+weight (mg): -55
+read time (s): 1.708
+Tamb: 21.625
+set_offset_A: 195129.44444444444
+weight (mg): -1
+read time (s): 1.76
+Tamb: 21.625
+set_offset_A: 195152.88888888888
+weight (mg): -43
+read time (s): 1.718
+Tamb: 21.625
+set_offset_A: 195125.44444444444
+weight (mg): 5
+read time (s): 1.705
+Tamb: 21.562
+set_offset_A: 195149.22222222222
+weight (mg): -41
+read time (s): 1.758
+Tamb: 21.625
+set_offset_A: 195148.55555555556
+weight (mg): 18
+read time (s): 1.716
+Tamb: 21.625
+set_offset_A: 195138.44444444444
+weight (mg): 12
+read time (s): 1.703
+Tamb: 21.625
+set_offset_A: 195157.11111111112
+weight (mg): -38
+read time (s): 1.756
+Tamb: 21.625
+set_offset_A: 195159.33333333334
+weight (mg): -10
+read time (s): 1.714
+Tamb: 21.562
+set_offset_A: 195152.33333333334
+weight (mg): -1
+read time (s): 1.783
+Tamb: 21.562
+set_offset_A: 195150.22222222222
+weight (mg): 38
+read time (s): 1.741
+Tamb: 21.562
+set_offset_A: 195166.44444444444
+weight (mg): 1
+read time (s): 1.728
+Tamb: 21.625
+set_offset_A: 195166.88888888888
+weight (mg): -16
+read time (s): 1.704
+Tamb: 21.5
+set_offset_A: 195163.88888888888
+weight (mg): 22
+read time (s): 1.697
+Tamb: 21.562
+set_offset_A: 195169.88888888888
+weight (mg): 21
+read time (s): 1.75
+Tamb: 21.562
+set_offset_A: 195168.66666666666
+weight (mg): -9
+read time (s): 1.709
+Tamb: 21.5
+set_offset_A: 195171.0
+weight (mg): -10
+read time (s): 1.695
+Tamb: 21.5
+set_offset_A: 195181.0
+weight (mg): 18
+read time (s): 1.748
+Tamb: 21.5
+set_offset_A: 195162.11111111112
+weight (mg): 30
+read time (s): 1.706
+Tamb: 21.562
+set_offset_A: 195187.55555555556
+weight (mg): -25
+read time (s): 1.692
+Tamb: 21.5
+set_offset_A: 195208.77777777778
+weight (mg): -13
+read time (s): 1.745
+Tamb: 21.5
+set_offset_A: 195195.0
+weight (mg): 4
+read time (s): 1.723
+Tamb: 21.5
+set_offset_A: 195214.11111111112
+weight (mg): 13
+read time (s): 1.71
+Tamb: 21.5
+set_offset_A: 195198.33333333334
+weight (mg): 35
+read time (s): 1.764
+Tamb: 21.562
+set_offset_A: 195215.22222222222
+weight (mg): 12
+read time (s): 1.721
+Tamb: 21.5
+set_offset_A: 195206.33333333334
+weight (mg): -16
+read time (s): 1.708
+Tamb: 21.562
+set_offset_A: 195211.66666666666
+weight (mg): -21
+read time (s): 1.761
+Tamb: 21.5
+set_offset_A: 195215.55555555556
+weight (mg): 21
+read time (s): 1.719
+Tamb: 21.5
+set_offset_A: 195213.44444444444
+weight (mg): -12
+read time (s): 1.706
+Tamb: 21.5
+set_offset_A: 195212.0
+weight (mg): 25
+read time (s): 1.758
+Tamb: 21.5
+set_offset_A: 195231.11111111112
+weight (mg): -4
+read time (s): 1.717
+Tamb: 21.5
+set_offset_A: 195225.33333333334
+weight (mg): -7
+read time (s): 1.704
+Tamb: 21.437
+set_offset_A: 195243.66666666666
+weight (mg): -7
+read time (s): 1.756
+Tamb: 21.5
+set_offset_A: 195230.66666666666
+weight (mg): -12
+read time (s): 1.716
+Tamb: 21.437
+set_offset_A: 195245.55555555556
+weight (mg): -9
+read time (s): 1.702
+Tamb: 21.5
+set_offset_A: 195246.11111111112
+weight (mg): -23
+read time (s): 1.754
+Tamb: 21.5
+set_offset_A: 195248.22222222222
+weight (mg): -3
+read time (s): 1.713
+Tamb: 21.437
+set_offset_A: 195257.88888888888
+weight (mg): -16
+read time (s): 1.7
+Tamb: 21.5
+set_offset_A: 195256.77777777778
+weight (mg): 18
+read time (s): 1.752
+Tamb: 21.437
+set_offset_A: 195267.0
+weight (mg): 10
+read time (s): 1.711
+Tamb: 21.437
+set_offset_A: 195253.11111111112
+weight (mg): -20
+read time (s): 1.738
+Tamb: 21.437
+set_offset_A: 195268.44444444444
+weight (mg): -8
+read time (s): 1.77
+Tamb: 21.437
+set_offset_A: 195288.11111111112
+weight (mg): -15
+read time (s): 1.729
+Tamb: 21.437
+set_offset_A: 195265.77777777778
+weight (mg): 8
+read time (s): 1.715
+Tamb: 21.437
+set_offset_A: 195265.77777777778
+weight (mg): 3
+read time (s): 1.769
+Tamb: 21.437
+set_offset_A: 195293.33333333334
+weight (mg): -4
+read time (s): 1.728
+Tamb: 21.437
+set_offset_A: 195273.0
+weight (mg): -15
+read time (s): 1.715
+Tamb: 21.437
+set_offset_A: 195282.11111111112
+weight (mg): 3
+read time (s): 1.767
+Tamb: 21.375
+set_offset_A: 195299.88888888888
+weight (mg): -10
+read time (s): 1.726
+Tamb: 21.375
+set_offset_A: 195301.22222222222
+weight (mg): -13
+read time (s): 1.713
+Tamb: 21.375
+set_offset_A: 195310.33333333334
+weight (mg): -33
+read time (s): 1.697
+Tamb: 21.375
+set_offset_A: 195316.88888888888
+weight (mg): 11
+read time (s): 1.777
+Tamb: 21.375
+set_offset_A: 195291.55555555556
+weight (mg): 3
+read time (s): 1.746
+Tamb: 21.375
+set_offset_A: 195307.33333333334
+weight (mg): 32
+read time (s): 1.733
+Tamb: 21.375
+set_offset_A: 195312.77777777778
+weight (mg): 21
+read time (s): 1.785
+Tamb: 21.375
+set_offset_A: 195319.11111111112
+weight (mg): -5
+read time (s): 1.744
+Tamb: 21.375
+set_offset_A: 195333.11111111112
+weight (mg): -30
+read time (s): 1.729
+Tamb: 21.375
+set_offset_A: 195324.0
+weight (mg): -20
+read time (s): 1.783
+Tamb: 21.375
+set_offset_A: 195326.44444444444
+weight (mg): 2
+read time (s): 1.743
+Tamb: 21.375
+set_offset_A: 195331.0
+weight (mg): -3
+read time (s): 1.729
+Tamb: 21.375
+set_offset_A: 195330.88888888888
+weight (mg): 16
+read time (s): 1.782
+Tamb: 21.375
+set_offset_A: 195340.77777777778
+weight (mg): -35
+read time (s): 1.741
+Tamb: 21.375
+set_offset_A: 195340.22222222222
+weight (mg): 30
+read time (s): 1.726
+Tamb: 21.375
+set_offset_A: 195332.22222222222
+weight (mg): 13
+read time (s): 1.78
+Tamb: 21.375
+set_offset_A: 195346.33333333334
+weight (mg): -2
+read time (s): 1.738
+Tamb: 21.375
+set_offset_A: 195337.11111111112
+weight (mg): 6
+read time (s): 1.726
+Tamb: 21.312
+set_offset_A: 195361.22222222222
+weight (mg): 1
+read time (s): 1.778
+Tamb: 21.312
+set_offset_A: 195355.88888888888
+weight (mg): 42
+read time (s): 1.738
+Tamb: 21.312
+set_offset_A: 195359.11111111112
+weight (mg): 2
+read time (s): 1.709
+Tamb: 21.312
+set_offset_A: 195368.66666666666
+weight (mg): 0
+read time (s): 1.695
+Tamb: 21.312
+set_offset_A: 195355.33333333334
+weight (mg): 24
+read time (s): 1.748
+Tamb: 21.312
+set_offset_A: 195386.11111111112
+weight (mg): 12
+read time (s): 1.706
+Tamb: 21.312
+set_offset_A: 195386.44444444444
+weight (mg): -16
+read time (s): 1.786
+Tamb: 21.312
+set_offset_A: 195374.11111111112
+weight (mg): 17
+read time (s): 1.731
+Tamb: 21.312
+set_offset_A: 195396.11111111112
+weight (mg): -29
+read time (s): 1.717
+Tamb: 21.312
+set_offset_A: 195399.11111111112
+weight (mg): -15
+read time (s): 1.77
+Tamb: 21.312
+set_offset_A: 195390.55555555556
+weight (mg): -12
+read time (s): 1.729
+Tamb: 21.312
+set_offset_A: 195394.11111111112
+weight (mg): 25
+read time (s): 1.716
+Tamb: 21.25
+set_offset_A: 195399.88888888888
+weight (mg): -2
+read time (s): 1.768
+Tamb: 21.25
+set_offset_A: 195405.0
+weight (mg): 0
+read time (s): 1.727
+Tamb: 21.25
+set_offset_A: 195401.11111111112
+weight (mg): -16
+read time (s): 1.713
+Tamb: 21.25
+set_offset_A: 195415.66666666666
+weight (mg): -14
+read time (s): 1.767
+Tamb: 21.25
+set_offset_A: 195407.88888888888
+weight (mg): 4
+read time (s): 1.725
+Tamb: 21.25
+set_offset_A: 195415.11111111112
+weight (mg): 0
+read time (s): 1.711
+Tamb: 21.25
+set_offset_A: 195425.77777777778
+weight (mg): 1
+read time (s): 1.763
+Tamb: 21.25
+set_offset_A: 195386.44444444444
+weight (mg): 19
+read time (s): 1.722
+Tamb: 21.25
+set_offset_A: 195425.66666666666
+weight (mg): 10
+read time (s): 1.708
+Tamb: 21.25
+set_offset_A: 195441.55555555556
+weight (mg): -8
+read time (s): 1.762
+Tamb: 21.187
+set_offset_A: 195419.44444444444
+weight (mg): 7
+read time (s): 1.72
+Tamb: 21.25
+set_offset_A: 195428.55555555556
+weight (mg): 6
+read time (s): 1.722
+Tamb: 21.25
+set_offset_A: 195434.0
+weight (mg): -20
+read time (s): 1.774
+Tamb: 21.25
+set_offset_A: 195436.66666666666
+weight (mg): -3
+read time (s): 1.747
+Tamb: 21.25
+set_offset_A: 195446.0
+weight (mg): -5
+read time (s): 1.734
+Tamb: 21.25
+set_offset_A: 195454.77777777778
+weight (mg): -41
+read time (s): 1.693
+Tamb: 21.25
+set_offset_A: 195425.11111111112
+weight (mg): 12
+read time (s): 1.774
+Tamb: 21.25
+set_offset_A: 195456.77777777778
+weight (mg): -27
+read time (s): 1.719
+Tamb: 21.187
+set_offset_A: 195448.33333333334
+weight (mg): 1
+read time (s): 1.785
+Tamb: 21.25
+set_offset_A: 195457.0
+weight (mg): 42
+read time (s): 1.744
+Tamb: 21.25
+set_offset_A: 195448.55555555556
+weight (mg): -20
+read time (s): 1.73
+Tamb: 21.25
+set_offset_A: 195460.66666666666
+weight (mg): -13
+read time (s): 1.699
+Tamb: 21.25
+set_offset_A: 195467.66666666666
+weight (mg): -32
+read time (s): 1.766
+Tamb: 21.25
+set_offset_A: 195461.77777777778
+weight (mg): -10
+read time (s): 1.723
+Tamb: 21.187
+set_offset_A: 195472.44444444444
+weight (mg): -10
+read time (s): 1.709
+Tamb: 21.25
+set_offset_A: 195473.44444444444
+weight (mg): -24
+read time (s): 1.762
+Tamb: 21.25
+set_offset_A: 195476.66666666666
+weight (mg): 14
+read time (s): 1.719
+Tamb: 21.25
+set_offset_A: 195465.11111111112
+weight (mg): 19
+read time (s): 1.706
+Tamb: 21.187
+set_offset_A: 195481.66666666666
+weight (mg): 12
+read time (s): 1.758
+Tamb: 21.187
+set_offset_A: 195476.77777777778
+weight (mg): 2
+read time (s): 1.717
+Tamb: 21.187
+set_offset_A: 195481.66666666666
+weight (mg): -9
+read time (s): 1.703
+Tamb: 21.25
+set_offset_A: 195478.22222222222
+weight (mg): 22
+read time (s): 1.765
+Tamb: 21.187
+set_offset_A: 195487.88888888888
+weight (mg): -10
+read time (s): 1.724
+Tamb: 21.25
+set_offset_A: 195493.33333333334
+weight (mg): -24
+read time (s): 1.71
+Tamb: 21.25
+set_offset_A: 195498.88888888888
+weight (mg): -25
+read time (s): 1.781
+Tamb: 21.187
+set_offset_A: 195512.11111111112
+weight (mg): -42
+read time (s): 1.739
+Tamb: 21.25
+set_offset_A: 195493.77777777778
+weight (mg): 11
+read time (s): 1.725
+Tamb: 21.187
+set_offset_A: 195501.33333333334
+weight (mg): -1
+read time (s): 1.779
+Tamb: 21.25
+set_offset_A: 195511.55555555556
+weight (mg): -26
+read time (s): 1.737
+Tamb: 21.187
+set_offset_A: 195504.55555555556
+weight (mg): -1
+read time (s): 1.724
+Tamb: 21.187
+set_offset_A: 195517.33333333334
+weight (mg): -9
+read time (s): 1.775
+Tamb: 21.187
+set_offset_A: 195520.55555555556
+weight (mg): -2
+read time (s): 1.757
+Tamb: 21.187
+set_offset_A: 195513.11111111112
+weight (mg): 7
+read time (s): 1.743
+Tamb: 21.187
+set_offset_A: 195512.44444444444
+weight (mg): 12
+read time (s): 1.701
+Tamb: 21.187
+set_offset_A: 195506.44444444444
+weight (mg): 16
+read time (s): 1.782
+Tamb: 21.187
+set_offset_A: 195520.22222222222
+weight (mg): -10
+read time (s): 1.727
+Tamb: 21.187
+set_offset_A: 195527.66666666666
+weight (mg): -23
+read time (s): 1.714
+Tamb: 21.25
+set_offset_A: 195512.11111111112
+weight (mg): -44
+read time (s): 1.766
+Tamb: 21.25
+set_offset_A: 195522.22222222222
+weight (mg): -13
+read time (s): 1.724
+Tamb: 21.187
+set_offset_A: 195520.88888888888
+weight (mg): 7
+read time (s): 1.711
+Tamb: 21.187
+set_offset_A: 195524.0
+weight (mg): -15
+read time (s): 1.764
+Tamb: 21.187
+set_offset_A: 195529.88888888888
+weight (mg): 10
+read time (s): 1.747
+Tamb: 21.187
+set_offset_A: 195537.44444444444
+weight (mg): -8
+read time (s): 1.733
+Tamb: 21.187
+set_offset_A: 195535.0
+weight (mg): -9
+read time (s): 1.693
+Tamb: 21.187
+set_offset_A: 195538.33333333334
+weight (mg): -19
+read time (s): 1.772
+Tamb: 21.25
+set_offset_A: 195530.11111111112
+weight (mg): 25
+read time (s): 1.717
+Tamb: 21.187
+set_offset_A: 195544.0
+weight (mg): -8
+read time (s): 1.703
+Tamb: 21.125
+set_offset_A: 195537.88888888888
+weight (mg): -15
+read time (s): 1.756
+Tamb: 21.125
+set_offset_A: 195565.33333333334
+weight (mg): -34
+read time (s): 1.715
+Tamb: 21.187
+set_offset_A: 195555.77777777778
+weight (mg): -16
+read time (s): 1.702
+Tamb: 21.125
+set_offset_A: 195542.33333333334
+weight (mg): -4
+read time (s): 1.754
+Tamb: 21.187
+set_offset_A: 195574.0
+weight (mg): 4
+read time (s): 1.737
+Tamb: 21.125
+set_offset_A: 195552.22222222222
+weight (mg): 2
+read time (s): 1.725
+Tamb: 21.187
+set_offset_A: 195544.11111111112
+weight (mg): 30
+read time (s): 1.778
+Tamb: 21.125
+set_offset_A: 195567.22222222222
+weight (mg): -1
+read time (s): 1.736
+Tamb: 21.125
+set_offset_A: 195565.44444444444
+weight (mg): 17
+read time (s): 1.722
+Tamb: 21.125
+set_offset_A: 195559.44444444444
+weight (mg): 5
+read time (s): 1.774
+Tamb: 21.125
+set_offset_A: 195580.88888888888
+weight (mg): -15
+read time (s): 1.758
+Tamb: 21.125
+set_offset_A: 195572.22222222222
+weight (mg): 9
+read time (s): 1.744
+Tamb: 21.125
+set_offset_A: 195581.22222222222
+weight (mg): -24
+read time (s): 1.704
+Tamb: 21.125
+set_offset_A: 195580.22222222222
+weight (mg): 5
+read time (s): 1.77
+Tamb: 21.125
+set_offset_A: 195569.33333333334
+weight (mg): -1
+read time (s): 1.731
+Tamb: 21.125
+set_offset_A: 195582.88888888888
+weight (mg): -2
+read time (s): 1.73
+Tamb: 21.125
+set_offset_A: 195602.0
+weight (mg): -5
+read time (s): 1.703
+Tamb: 21.125
+set_offset_A: 195577.55555555556
+weight (mg): 32
+read time (s): 1.77
+Tamb: 21.062
+set_offset_A: 195583.66666666666
+weight (mg): -1
+read time (s): 1.729
+Tamb: 21.125
+set_offset_A: 195575.11111111112
+weight (mg): 28
+read time (s): 1.702
+Tamb: 21.125
+set_offset_A: 195585.22222222222
+weight (mg): -42
+read time (s): 1.766
+Tamb: 21.125
+set_offset_A: 195589.88888888888
+weight (mg): -1
+read time (s): 1.724
+Tamb: 21.062
+set_offset_A: 195576.0
+weight (mg): 12
+read time (s): 1.71
+Tamb: 21.125
+set_offset_A: 195586.44444444444
+weight (mg): 45
+read time (s): 1.782
+Tamb: 21.125
+set_offset_A: 195579.77777777778
+weight (mg): -10
+read time (s): 1.741
+Tamb: 21.062
+set_offset_A: 195603.66666666666
+weight (mg): -32
+read time (s): 1.713
+Tamb: 21.062
+set_offset_A: 195594.33333333334
+weight (mg): -8
+read time (s): 1.7
+Tamb: 21.125
+set_offset_A: 195621.55555555556
+weight (mg): 1
+read time (s): 1.753
+Tamb: 21.062
+set_offset_A: 195598.33333333334
+weight (mg): 24
+read time (s): 1.711
+Tamb: 21.125
+set_offset_A: 195614.22222222222
+weight (mg): -27
+read time (s): 1.698
+Tamb: 21.125
+set_offset_A: 195611.22222222222
+weight (mg): -10
+read time (s): 1.751
+Tamb: 21.062
+set_offset_A: 195617.44444444444
+weight (mg): 0
+read time (s): 1.709
+Tamb: 21.062
+set_offset_A: 195616.77777777778
+weight (mg): -21
+read time (s): 1.695
+Tamb: 21.062
+set_offset_A: 195623.0
+weight (mg): -14
+read time (s): 1.753
+Tamb: 21.062
+set_offset_A: 195599.77777777778
+weight (mg): -5
+read time (s): 1.712
+Tamb: 21.062
+set_offset_A: 195620.22222222222
+weight (mg): -12
+read time (s): 1.778
+Tamb: 21.125
+set_offset_A: 195636.66666666666
+weight (mg): -14
+read time (s): 1.737
+Tamb: 21.062
+set_offset_A: 195633.55555555556
+weight (mg): -6
+read time (s): 1.71
+Tamb: 21.062
+set_offset_A: 195620.55555555556
+weight (mg): -10
+read time (s): 1.777
+Tamb: 21.062
+set_offset_A: 195631.44444444444
+weight (mg): -19
+read time (s): 1.735
+Tamb: 21.062
+set_offset_A: 195629.44444444444
+weight (mg): -41
+read time (s): 1.802
+Tamb: 21.062
+set_offset_A: 195648.77777777778
+weight (mg): -29
+read time (s): 1.761
+Tamb: 21.062
+set_offset_A: 195631.88888888888
+weight (mg): 29
+read time (s): 1.733
+Tamb: 21.062
+set_offset_A: 195621.77777777778
+weight (mg): 23
+read time (s): 1.706
+Tamb: 21.062
+set_offset_A: 195645.55555555556
+weight (mg): -12
+read time (s): 1.772
+Tamb: 21.062
+set_offset_A: 195644.22222222222
+weight (mg): -5
+read time (s): 1.73
+Tamb: 21.062
+set_offset_A: 195652.88888888888
+weight (mg): -28
+read time (s): 1.704
+Tamb: 21.062
+set_offset_A: 195631.22222222222
+weight (mg): 16
+read time (s): 1.77
+Tamb: 21.062
+set_offset_A: 195631.22222222222
+weight (mg): 4
+read time (s): 1.73
+Tamb: 21.062
+set_offset_A: 195644.44444444444
+weight (mg): 6
+read time (s): 1.703
+Tamb: 21.062
+set_offset_A: 195652.22222222222
+weight (mg): 4
+read time (s): 1.769
+Tamb: 21.062
+set_offset_A: 195644.77777777778
+weight (mg): 28
+read time (s): 1.73
+Tamb: 21.062
+set_offset_A: 195656.88888888888
+weight (mg): -4
+read time (s): 1.703
+Tamb: 21.0
+set_offset_A: 195648.0
+weight (mg): 43
+read time (s): 1.77
+Tamb: 21.0
+set_offset_A: 195655.33333333334
+weight (mg): 1
+read time (s): 1.73
+Tamb: 21.0
+set_offset_A: 195669.55555555556
+weight (mg): 16
+read time (s): 1.703
+Tamb: 21.062
+set_offset_A: 195668.44444444444
+weight (mg): -21
+read time (s): 1.77
+Tamb: 21.0
+set_offset_A: 195683.0
+weight (mg): -20
+read time (s): 1.729
+Tamb: 21.0
+set_offset_A: 195672.55555555556
+weight (mg): -14
+read time (s): 1.701
+Tamb: 21.0
+set_offset_A: 195683.0
+weight (mg): -4
+read time (s): 1.767
+Tamb: 21.062
+set_offset_A: 195687.77777777778
+weight (mg): -6
+read time (s): 1.727
+Tamb: 21.0
+set_offset_A: 195674.88888888888
+weight (mg): -4
+read time (s): 1.699
+Tamb: 21.0
+set_offset_A: 195695.77777777778
+weight (mg): 14
+read time (s): 1.775
+Tamb: 21.0
+set_offset_A: 195689.55555555556
+weight (mg): 5
+read time (s): 1.733
+Tamb: 21.0
+set_offset_A: 195696.66666666666
+weight (mg): -21
+read time (s): 1.705
+Tamb: 21.0
+set_offset_A: 195679.0
+weight (mg): 2
+read time (s): 1.772
+Tamb: 21.0
+set_offset_A: 195658.22222222222
+weight (mg): 31
+read time (s): 1.731
+Tamb: 21.0
+set_offset_A: 195688.88888888888
+weight (mg): -3
+read time (s): 1.703
+Tamb: 21.0
+set_offset_A: 195697.77777777778
+weight (mg): 0
+read time (s): 1.77
+Tamb: 21.0
+set_offset_A: 195693.55555555556
+weight (mg): -20
+read time (s): 1.729
+Tamb: 21.0
+set_offset_A: 195681.88888888888
+weight (mg): 51
+read time (s): 1.701
+Tamb: 21.0
+set_offset_A: 195683.22222222222
+weight (mg): -3
+read time (s): 1.767
+Tamb: 21.0
+set_offset_A: 195691.88888888888
+weight (mg): -10
+read time (s): 1.726
+Tamb: 21.0
+set_offset_A: 195704.0
+weight (mg): -1
+read time (s): 1.699
+Tamb: 21.0
+set_offset_A: 195700.88888888888
+weight (mg): -15
+read time (s): 1.766
+Tamb: 20.937
+set_offset_A: 195714.55555555556
+weight (mg): -7
+read time (s): 1.723
+Tamb: 20.937
+set_offset_A: 195697.33333333334
+weight (mg): 4
+read time (s): 1.696
+Tamb: 21.0
+set_offset_A: 195715.44444444444
+weight (mg): 22
+read time (s): 1.783
+Tamb: 20.937
+set_offset_A: 195718.55555555556
+weight (mg): -19
+read time (s): 1.743
+Tamb: 21.0
+set_offset_A: 195710.11111111112
+weight (mg): -7
+read time (s): 1.715
+Tamb: 21.0
+set_offset_A: 195710.77777777778
+weight (mg): 31
+read time (s): 1.783
+Tamb: 21.0
+set_offset_A: 195725.44444444444
+weight (mg): -13
+read time (s): 1.741
+Tamb: 20.937
+set_offset_A: 195708.0
+weight (mg): 47
+read time (s): 1.713
+Tamb: 21.0
+set_offset_A: 195740.77777777778
+weight (mg): -16
+read time (s): 1.78
+Tamb: 21.0
+set_offset_A: 195731.11111111112
+weight (mg): 36
+read time (s): 1.739
+Tamb: 21.0
+set_offset_A: 195727.55555555556
+weight (mg): -7
+read time (s): 1.71
+Tamb: 21.0
+set_offset_A: 195721.11111111112
+weight (mg): 9
+read time (s): 1.777
+Tamb: 21.0
+set_offset_A: 195743.88888888888
+weight (mg): -1
+read time (s): 1.735
+Tamb: 20.937
+set_offset_A: 195733.88888888888
+weight (mg): 19
+read time (s): 1.708
+Tamb: 21.0
+set_offset_A: 195744.22222222222
+weight (mg): -11
+read time (s): 1.774
+Tamb: 21.0
+set_offset_A: 195744.22222222222
+weight (mg): -44
+read time (s): 1.734
+Tamb: 21.0
+set_offset_A: 195736.77777777778
+weight (mg): -5
+read time (s): 1.707
+Tamb: 21.0
+set_offset_A: 195732.44444444444
+weight (mg): -6
+read time (s): 1.774
+Tamb: 21.0
+set_offset_A: 195745.0
+weight (mg): -1
+read time (s): 1.732
+Tamb: 21.0
+set_offset_A: 195749.33333333334
+weight (mg): 19
+read time (s): 1.703
+Tamb: 21.0
+set_offset_A: 195738.77777777778
+weight (mg): 12
+read time (s): 1.769
+Tamb: 20.937
+set_offset_A: 195735.66666666666
+weight (mg): 6
+read time (s): 1.728
+Tamb: 21.0
+set_offset_A: 195745.0
+weight (mg): 21
+read time (s): 1.701
+Tamb: 21.0
+set_offset_A: 195750.33333333334
+weight (mg): 2
+read time (s): 1.767
+Tamb: 20.937
+set_offset_A: 195733.33333333334
+weight (mg): 36
+read time (s): 1.726
+Tamb: 21.0
+set_offset_A: 195751.44444444444
+weight (mg): 2
+read time (s): 1.699
+Tamb: 21.0
+set_offset_A: 195754.22222222222
+weight (mg): 0
+read time (s): 1.783
+Tamb: 20.937
+set_offset_A: 195758.11111111112
+weight (mg): -7
+read time (s): 1.742
+Tamb: 20.937
+set_offset_A: 195760.33333333334
+weight (mg): 14
+read time (s): 1.725
+Tamb: 20.937
+set_offset_A: 195750.66666666666
+weight (mg): 22
+read time (s): 1.724
+Tamb: 21.0
+set_offset_A: 195756.77777777778
+weight (mg): 9
+read time (s): 1.696
+Tamb: 21.062
+set_offset_A: 195776.11111111112
+weight (mg): -7
+read time (s): 1.762
+Tamb: 21.0
+set_offset_A: 195770.88888888888
+weight (mg): 5
+read time (s): 1.722
+Tamb: 21.0
+set_offset_A: 195773.33333333334
+weight (mg): -22
+read time (s): 1.705
+Tamb: 21.0
+set_offset_A: 195767.66666666666
+weight (mg): 13
+read time (s): 1.771
+Tamb: 21.0
+set_offset_A: 195768.33333333334
+weight (mg): 2
+read time (s): 1.729
+Tamb: 20.937
+set_offset_A: 195762.22222222222
+weight (mg): 4
+read time (s): 1.703
+Tamb: 20.937
+set_offset_A: 195767.44444444444
+weight (mg): 1
+read time (s): 1.769
+Tamb: 20.937
+set_offset_A: 195784.66666666666
+weight (mg): -31
+read time (s): 1.726
+Tamb: 21.0
+set_offset_A: 195776.33333333334
+weight (mg): 21
+read time (s): 1.699
+Tamb: 21.0
+set_offset_A: 195776.44444444444
+weight (mg): -12
+read time (s): 1.765
+Tamb: 21.0
+set_offset_A: 195771.22222222222
+weight (mg): 5
+read time (s): 1.724
+Tamb: 21.0
+set_offset_A: 195777.77777777778
+weight (mg): -10
+read time (s): 1.71
+Tamb: 21.0
+set_offset_A: 195783.22222222222
+weight (mg): 5
+read time (s): 1.763
+Tamb: 21.0
+set_offset_A: 195789.22222222222
+weight (mg): -31
+read time (s): 1.722
+Tamb: 21.0
+set_offset_A: 195772.22222222222
+weight (mg): 30
+read time (s): 1.695
+Tamb: 21.0
+set_offset_A: 195803.55555555556
+weight (mg): 13
+read time (s): 1.761
+Tamb: 21.062
+set_offset_A: 195776.55555555556
+weight (mg): 4
+read time (s): 1.72
+Tamb: 21.0
+set_offset_A: 195795.66666666666
+weight (mg): 9
+read time (s): 1.787
+Tamb: 21.0
+set_offset_A: 195771.44444444444
+weight (mg): 20
+read time (s): 1.769
+Tamb: 20.937
+set_offset_A: 195798.22222222222
+weight (mg): -14
+read time (s): 1.742
+Tamb: 21.0
+set_offset_A: 195789.55555555556
+weight (mg): 13
+read time (s): 1.715
+Tamb: 21.0
+set_offset_A: 195798.33333333334
+weight (mg): 1
+read time (s): 1.781
+Tamb: 21.0
+set_offset_A: 195786.44444444444
+weight (mg): -20
+read time (s): 1.74
+Tamb: 20.937
+set_offset_A: 195800.44444444444
+weight (mg): -5
+read time (s): 1.713
+Tamb: 21.0
+set_offset_A: 195798.22222222222
+weight (mg): -8
+read time (s): 1.877
+Tamb: 21.0
+set_offset_A: 195799.22222222222
+weight (mg): -16
+read time (s): 1.728
+Tamb: 21.0
+set_offset_A: 195800.0
+weight (mg): -18
+read time (s): 1.729
+Tamb: 21.0
+set_offset_A: 195807.88888888888
+weight (mg): -12
+read time (s): 1.781
+Tamb: 21.0
+set_offset_A: 195809.11111111112
+weight (mg): -27
+read time (s): 1.739
+Tamb: 21.0
+set_offset_A: 195805.66666666666
+weight (mg): -25
+read time (s): 1.712
+Tamb: 21.062
+set_offset_A: 195787.33333333334
+weight (mg): -9
+read time (s): 1.777
+Tamb: 21.0
+set_offset_A: 195781.77777777778
+weight (mg): 21
+read time (s): 1.736
+Tamb: 21.0
+set_offset_A: 195816.66666666666
+weight (mg): -45
+read time (s): 1.723
+Tamb: 21.0
+set_offset_A: 195815.77777777778
+weight (mg): -1
+read time (s): 1.776
+Tamb: 21.0
+set_offset_A: 195772.77777777778
+weight (mg): 19
+read time (s): 1.759
+Tamb: 21.0
+set_offset_A: 195799.33333333334
+weight (mg): 7
+read time (s): 1.731
+Tamb: 20.937
+set_offset_A: 195803.33333333334
+weight (mg): 37
+read time (s): 1.704
+Tamb: 21.0
+set_offset_A: 195815.44444444444
+weight (mg): 7
+read time (s): 1.785
+Tamb: 20.937
+set_offset_A: 195795.44444444444
+weight (mg): 9
+read time (s): 1.73
+Tamb: 21.0
+set_offset_A: 195802.11111111112
+weight (mg): 45
+read time (s): 1.702
+Tamb: 21.0
+set_offset_A: 195801.22222222222
+weight (mg): -9
+read time (s): 1.768
+Tamb: 21.0
+set_offset_A: 195812.33333333334
+weight (mg): 5
+read time (s): 1.726
+Tamb: 21.0
+set_offset_A: 195802.77777777778
+weight (mg): 24
+read time (s): 1.713
+Tamb: 21.0
+set_offset_A: 195810.22222222222
+weight (mg): -4
+read time (s): 1.766
+Tamb: 21.0
+set_offset_A: 195810.55555555556
+weight (mg): -2
+read time (s): 1.725
+Tamb: 21.0
+set_offset_A: 195819.0
+weight (mg): 11
+read time (s): 1.697
+Tamb: 21.0
+set_offset_A: 195817.88888888888
+weight (mg): 19
+read time (s): 1.777
+Tamb: 21.0
+set_offset_A: 195814.11111111112
+weight (mg): 0
+read time (s): 1.722
+Tamb: 21.062
+set_offset_A: 195807.88888888888
+weight (mg): 7
+read time (s): 1.707
+Tamb: 21.0
+set_offset_A: 195822.77777777778
+weight (mg): -10
+read time (s): 1.76
+Tamb: 21.0
+set_offset_A: 195805.0
+weight (mg): -9
+read time (s): 1.719
+Tamb: 21.0
+set_offset_A: 195817.0
+weight (mg): 0
+read time (s): 1.705
+Tamb: 21.0
+set_offset_A: 195814.77777777778
+weight (mg): -22
+read time (s): 1.758
+Tamb: 21.062
+set_offset_A: 195806.22222222222
+weight (mg): 10
+read time (s): 1.738
+Tamb: 21.0
+set_offset_A: 195821.88888888888
+weight (mg): -15
+read time (s): 1.741
+Tamb: 21.062
+set_offset_A: 195798.0
+weight (mg): 14
+read time (s): 1.7
+Tamb: 21.062
+set_offset_A: 195824.33333333334
+weight (mg): -18
+read time (s): 1.766
+Tamb: 21.062
+set_offset_A: 195810.66666666666
+weight (mg): -9
+read time (s): 1.725
+Tamb: 21.0
+set_offset_A: 195824.77777777778
+weight (mg): 29
+read time (s): 1.711
+Tamb: 21.0
+set_offset_A: 195826.66666666666
+weight (mg): 2
+read time (s): 1.763
+Tamb: 21.062
+set_offset_A: 195822.88888888888
+weight (mg): -14
+read time (s): 1.723
+Tamb: 21.0
+set_offset_A: 195805.33333333334
+weight (mg): 23
+read time (s): 1.697
+Tamb: 21.0
+set_offset_A: 195800.88888888888
+weight (mg): -3
+read time (s): 1.778
+Tamb: 21.062
+set_offset_A: 195801.22222222222
+weight (mg): -4
+read time (s): 1.727
+Tamb: 21.062
+set_offset_A: 195823.22222222222
+weight (mg): 12
+read time (s): 2.037
+Tamb: 21.062
+set_offset_A: 195809.44444444444
+weight (mg): -7
+read time (s): 1.711
+Tamb: 21.062
+set_offset_A: 195825.0
+weight (mg): 14
+read time (s): 1.739
+Tamb: 21.062
+set_offset_A: 195832.88888888888
+weight (mg): -24
+read time (s): 2.022
+Tamb: 21.062
+set_offset_A: 195801.55555555556
+weight (mg): 16
+read time (s): 1.711
+Tamb: 21.062
+set_offset_A: 195812.44444444444
+weight (mg): -4
+read time (s): 1.739
+Tamb: 21.062
+set_offset_A: 195795.77777777778
+weight (mg): 17
+read time (s): 1.697
+Tamb: 21.062
+set_offset_A: 195811.0
+weight (mg): -22
+read time (s): 1.764
+Tamb: 21.062
+set_offset_A: 195810.77777777778
+weight (mg): 11
+read time (s): 1.723
+Tamb: 21.062
+set_offset_A: 195821.11111111112
+weight (mg): -26
+read time (s): 1.695
+Tamb: 21.062
+set_offset_A: 195808.33333333334
+weight (mg): 31
+read time (s): 1.762
+Tamb: 21.0
+set_offset_A: 195813.77777777778
+weight (mg): 22
+read time (s): 1.72
+Tamb: 21.062
+set_offset_A: 195828.33333333334
+weight (mg): -14
+read time (s): 1.786
+Tamb: 21.062
+set_offset_A: 195803.88888888888
+weight (mg): 35
+read time (s): 1.746
+Tamb: 21.062
+set_offset_A: 195823.44444444444
+weight (mg): -29
+read time (s): 1.718
+Tamb: 21.062
+set_offset_A: 195801.55555555556
+weight (mg): 3
+read time (s): 1.785
+Tamb: 21.062
+set_offset_A: 195804.88888888888
+weight (mg): 8
+read time (s): 1.744
+Tamb: 21.0
+set_offset_A: 195808.66666666666
+weight (mg): -9
+read time (s): 1.717
+Tamb: 21.062
+set_offset_A: 195824.66666666666
+weight (mg): -28
+read time (s): 1.71
+Tamb: 21.062
+set_offset_A: 195805.22222222222
+weight (mg): 0
+read time (s): 1.776
+Tamb: 21.062
+set_offset_A: 195824.77777777778
+weight (mg): -34
+read time (s): 1.761
+Tamb: 21.062
+set_offset_A: 195823.33333333334
+weight (mg): 11
+read time (s): 1.732
+Tamb: 21.062
+set_offset_A: 195813.77777777778
+weight (mg): 3
+read time (s): 1.704
+Tamb: 21.062
+set_offset_A: 195802.77777777778
+weight (mg): 10
+read time (s): 1.77
+Tamb: 21.062
+set_offset_A: 195817.44444444444
+weight (mg): 10
+read time (s): 1.73
+Tamb: 21.0
+set_offset_A: 195807.11111111112
+weight (mg): 20
+read time (s): 1.702
+Tamb: 21.062
+set_offset_A: 195817.0
+weight (mg): -1
+read time (s): 1.768
+Tamb: 21.062
+set_offset_A: 195812.66666666666
+weight (mg): 17
+read time (s): 1.727
+Tamb: 21.125
+set_offset_A: 195814.55555555556
+weight (mg): -8
+read time (s): 1.7
+Tamb: 21.062
+set_offset_A: 195805.22222222222
+weight (mg): 10
+read time (s): 1.766
+Tamb: 21.125
+set_offset_A: 195810.77777777778
+weight (mg): -5
+read time (s): 1.724
+Tamb: 21.062
+set_offset_A: 195829.88888888888
+weight (mg): 8
+read time (s): 1.697
+Tamb: 21.062
+set_offset_A: 195819.77777777778
+weight (mg): 8
+read time (s): 1.764
+Tamb: 21.125
+set_offset_A: 195807.33333333334
+weight (mg): -13
+read time (s): 1.722
+Tamb: 21.125
+set_offset_A: 195801.22222222222
+weight (mg): -26
+read time (s): 1.706
+Tamb: 21.062
+set_offset_A: 195817.33333333334
+weight (mg): -20
+read time (s): 1.773
+Tamb: 21.062
+set_offset_A: 195800.88888888888
+weight (mg): 19
+read time (s): 1.731
+Tamb: 21.062
+set_offset_A: 195828.88888888888
+weight (mg): -45
+read time (s): 1.717
+Tamb: 21.062
+set_offset_A: 195822.22222222222
+weight (mg): -2
+read time (s): 1.783
+Tamb: 21.062
+set_offset_A: 195829.0
+weight (mg): -3
+read time (s): 1.74
+Tamb: 21.125
+set_offset_A: 195807.11111111112
+weight (mg): 20
+read time (s): 1.727
+Tamb: 21.062
+set_offset_A: 195819.33333333334
+weight (mg): -2
+read time (s): 1.782
+Tamb: 21.062
+set_offset_A: 195806.66666666666
+weight (mg): 14
+read time (s): 1.74
+Tamb: 21.125
+set_offset_A: 195819.33333333334
+weight (mg): -3
+read time (s): 1.727
+Tamb: 21.062
+set_offset_A: 195825.11111111112
+weight (mg): -15
+read time (s): 1.779
+Tamb: 21.062
+set_offset_A: 195816.77777777778
+weight (mg): -15
+read time (s): 1.738
+Tamb: 21.125
+set_offset_A: 195804.77777777778
+weight (mg): -11
+read time (s): 1.725
+Tamb: 21.125
+set_offset_A: 195824.0
+weight (mg): -27
+read time (s): 1.778
+Tamb: 21.125
+set_offset_A: 195798.55555555556
+weight (mg): 38
+read time (s): 1.736
+Tamb: 21.062
+set_offset_A: 195817.11111111112
+weight (mg): 3
+read time (s): 1.722
+Tamb: 21.125
+set_offset_A: 195824.55555555556
+weight (mg): -18
+read time (s): 1.774
+Tamb: 21.125
+set_offset_A: 195815.88888888888
+weight (mg): 28
+read time (s): 1.733
+Tamb: 21.125
+set_offset_A: 195820.33333333334
+weight (mg): -14
+read time (s): 1.72
+Tamb: 21.187
+set_offset_A: 195813.0
+weight (mg): -3
+read time (s): 1.781
+Tamb: 21.125
+set_offset_A: 195792.66666666666
+weight (mg): -1
+read time (s): 1.74
+Tamb: 21.125
+set_offset_A: 195809.0
+weight (mg): -31
+read time (s): 1.726
+Tamb: 21.125
+set_offset_A: 195799.0
+weight (mg): -1
+read time (s): 1.778
+Tamb: 21.125
+set_offset_A: 195816.33333333334
+weight (mg): -18
+read time (s): 1.738
+Tamb: 21.125
+set_offset_A: 195803.0
+weight (mg): -3
+read time (s): 1.724
+Tamb: 21.187
+set_offset_A: 195794.0
+weight (mg): 20
+read time (s): 1.777
+Tamb: 21.125
+set_offset_A: 195768.44444444444
+weight (mg): 25
+read time (s): 1.735
+Tamb: 21.125
+set_offset_A: 195815.66666666666
+weight (mg): -12
+read time (s): 1.722
+Tamb: 21.125
+set_offset_A: 195803.33333333334
+weight (mg): -11
+read time (s): 1.775
+Tamb: 21.125
+set_offset_A: 195804.33333333334
+weight (mg): 18
+read time (s): 1.733
+Tamb: 21.125
+set_offset_A: 195816.33333333334
+weight (mg): -14
+read time (s): 1.72
+Tamb: 21.125
+set_offset_A: 195781.0
+weight (mg): 10
+read time (s): 1.773
+Tamb: 21.125
+set_offset_A: 195804.0
+weight (mg): -35
+read time (s): 1.73
+Tamb: 21.125
+set_offset_A: 195803.22222222222
+weight (mg): 28
+read time (s): 1.717
+Tamb: 21.125
+set_offset_A: 195786.11111111112
+weight (mg): 26
+read time (s): 1.769
+Tamb: 21.125
+set_offset_A: 195788.66666666666
+weight (mg): 30
+read time (s): 1.729
+Tamb: 21.187
+set_offset_A: 195779.66666666666
+weight (mg): 22
+read time (s): 1.715
+Tamb: 21.125
+set_offset_A: 195799.66666666666
+weight (mg): 7
+read time (s): 1.767
+Tamb: 21.187
+set_offset_A: 195782.77777777778
+weight (mg): -5
+read time (s): 1.727
+Tamb: 21.187
+set_offset_A: 195799.66666666666
+weight (mg): -9
+read time (s): 1.698
+Tamb: 21.187
+set_offset_A: 195792.11111111112
+weight (mg): 25
+read time (s): 1.684
+Tamb: 21.187
+set_offset_A: 195803.77777777778
+weight (mg): 3
+read time (s): 1.737
+Tamb: 21.187
+set_offset_A: 195804.11111111112
+weight (mg): -22
+read time (s): 1.695
+Tamb: 21.187
+set_offset_A: 195798.11111111112
+weight (mg): 13
+read time (s): 1.776
+Tamb: 21.187
+set_offset_A: 195807.55555555556
+weight (mg): -11
+read time (s): 1.72
+Tamb: 21.187
+set_offset_A: 195799.11111111112
+weight (mg): -12
+read time (s): 1.706
+Tamb: 21.187
+set_offset_A: 195805.0
+weight (mg): -18
+read time (s): 1.759
+Tamb: 21.187
+set_offset_A: 195782.11111111112
+weight (mg): 4
+read time (s): 1.718
+Tamb: 21.187
+set_offset_A: 195796.44444444444
+weight (mg): -6
+read time (s): 1.704
+Tamb: 21.25
+set_offset_A: 195783.11111111112
+weight (mg): 12
+read time (s): 1.757
+Tamb: 21.187
+set_offset_A: 195794.11111111112
+weight (mg): -19
+read time (s): 1.713
+Tamb: 21.187
+set_offset_A: 195796.22222222222
+weight (mg): -16
+read time (s): 1.699
+Tamb: 21.187
+set_offset_A: 195783.0
+weight (mg): -11
+read time (s): 1.752
+Tamb: 21.25
+set_offset_A: 195777.88888888888
+weight (mg): 20
+read time (s): 1.71
+Tamb: 21.25
+set_offset_A: 195794.11111111112
+weight (mg): 13
+read time (s): 1.697
+Tamb: 21.25
+set_offset_A: 195793.88888888888
+weight (mg): 26
+read time (s): 1.749
+Tamb: 21.25
+set_offset_A: 195782.33333333334
+weight (mg): -11
+read time (s): 1.706
+Tamb: 21.25
+set_offset_A: 195795.11111111112
+weight (mg): -7
+read time (s): 1.694
+Tamb: 21.25
+set_offset_A: 195781.88888888888
+weight (mg): 22
+read time (s): 1.746
+Tamb: 21.25
+set_offset_A: 195788.55555555556
+weight (mg): -4
+read time (s): 1.704
+Tamb: 21.25
+set_offset_A: 195758.55555555556
+weight (mg): 0
+read time (s): 1.717
+Tamb: 21.25
+set_offset_A: 195797.33333333334
+weight (mg): -8
+read time (s): 1.77
+Tamb: 21.25
+set_offset_A: 195789.33333333334
+weight (mg): -27
+read time (s): 1.728
+Tamb: 21.25
+set_offset_A: 195790.66666666666
+weight (mg): -13
+read time (s): 1.715
+Tamb: 21.312
+set_offset_A: 195763.88888888888
+weight (mg): 48
+read time (s): 1.767
+Tamb: 21.25
+set_offset_A: 195780.55555555556
+weight (mg): 19
+read time (s): 1.725
+Tamb: 21.312
+set_offset_A: 195781.11111111112
+weight (mg): -8
+read time (s): 1.712
+Tamb: 21.25
+set_offset_A: 195781.33333333334
+weight (mg): 2
+read time (s): 1.766
+Tamb: 21.25
+set_offset_A: 195780.55555555556
+weight (mg): -23
+read time (s): 1.724
+Tamb: 21.312
+set_offset_A: 195763.88888888888
+weight (mg): 16
+read time (s): 1.712
+Tamb: 21.312
+set_offset_A: 195789.66666666666
+weight (mg): -8
+read time (s): 1.764
+Tamb: 21.312
+set_offset_A: 195768.33333333334
+weight (mg): -14
+read time (s): 1.722
+Tamb: 21.312
+set_offset_A: 195772.11111111112
+weight (mg): -13
+read time (s): 2.11
+Tamb: 21.312
+set_offset_A: 195768.55555555556
+weight (mg): 3
+read time (s): 1.785
+Tamb: 21.312
+set_offset_A: 195759.77777777778
+weight (mg): 12
+read time (s): 1.72
+Tamb: 21.312
+set_offset_A: 195761.88888888888
+weight (mg): 22
+read time (s): 1.706
+Tamb: 21.312
+set_offset_A: 195767.11111111112
+weight (mg): 3
+read time (s): 1.759
+Tamb: 21.312
+set_offset_A: 195771.22222222222
+weight (mg): 2
+read time (s): 1.718
+Tamb: 21.312
+set_offset_A: 195755.0
+weight (mg): -18
+read time (s): 1.704
+Tamb: 21.312
+set_offset_A: 195765.0
+weight (mg): 0
+read time (s): 1.778
+Tamb: 21.312
+set_offset_A: 195747.11111111112
+weight (mg): 17
+read time (s): 1.735
+Tamb: 21.375
+set_offset_A: 195734.33333333334
+weight (mg): -12
+read time (s): 1.728
+Tamb: 21.375
+set_offset_A: 195747.44444444444
+weight (mg): 6
+read time (s): 1.78
+Tamb: 21.375
+set_offset_A: 195748.55555555556
+weight (mg): -6
+read time (s): 1.764
+Tamb: 21.375
+set_offset_A: 195777.77777777778
+weight (mg): -34
+read time (s): 1.749
+Tamb: 21.375
+set_offset_A: 195742.22222222222
+weight (mg): 18
+read time (s): 1.708
+Tamb: 21.375
+set_offset_A: 195749.33333333334
+weight (mg): 2
+read time (s): 1.695
+Tamb: 21.375
+set_offset_A: 195743.0
+weight (mg): -28
+read time (s): 1.748
+Tamb: 21.375
+set_offset_A: 195752.22222222222
+weight (mg): -33
+read time (s): 1.706
+Tamb: 21.437
+set_offset_A: 195734.33333333334
+weight (mg): -15
+read time (s): 1.785
+Tamb: 21.437
+set_offset_A: 195745.88888888888
+weight (mg): -7
+read time (s): 1.753
+Tamb: 21.437
+set_offset_A: 195718.44444444444
+weight (mg): 7
+read time (s): 1.738
+Tamb: 21.375
+set_offset_A: 195738.77777777778
+weight (mg): -19
+read time (s): 1.697
+Tamb: 21.437
+set_offset_A: 195726.11111111112
+weight (mg): 22
+read time (s): 1.778
+Tamb: 21.437
+set_offset_A: 195718.22222222222
+weight (mg): 20
+read time (s): 1.722
+Tamb: 21.437
+set_offset_A: 195732.66666666666
+weight (mg): -24
+read time (s): 1.709
+Tamb: 21.437
+set_offset_A: 195718.66666666666
+weight (mg): 16
+read time (s): 1.762
+Tamb: 21.437
+set_offset_A: 195727.44444444444
+weight (mg): -22
+read time (s): 1.72
+Tamb: 21.437
+set_offset_A: 195706.88888888888
+weight (mg): 7
+read time (s): 1.706
+Tamb: 21.437
+set_offset_A: 195714.55555555556
+weight (mg): -7
+read time (s): 1.758
+Tamb: 21.375
+set_offset_A: 195717.44444444444
+weight (mg): 15
+read time (s): 1.718
+Tamb: 21.437
+set_offset_A: 195724.66666666666
+weight (mg): -28
+read time (s): 1.704
+Tamb: 21.437
+set_offset_A: 195712.33333333334
+weight (mg): 0
+read time (s): 1.758
+Tamb: 21.437
+set_offset_A: 195703.0
+weight (mg): 37
+read time (s): 1.716
+Tamb: 21.437
+set_offset_A: 195719.11111111112
+weight (mg): -29
+read time (s): 1.702
+Tamb: 21.5
+set_offset_A: 195720.44444444444
+weight (mg): 9
+read time (s): 1.754
+Tamb: 21.437
+set_offset_A: 195709.77777777778
+weight (mg): -26
+read time (s): 1.713
+Tamb: 21.437
+set_offset_A: 195687.11111111112
+weight (mg): 7
+read time (s): 1.699
+Tamb: 21.5
+set_offset_A: 195704.77777777778
+weight (mg): 1
+read time (s): 1.751
+Tamb: 21.437
+set_offset_A: 195693.33333333334
+weight (mg): -4
+read time (s): 1.71
+Tamb: 21.5
+set_offset_A: 195695.33333333334
+weight (mg): -2
+read time (s): 1.696
+Tamb: 21.5
+set_offset_A: 195685.55555555556
+weight (mg): -4
+read time (s): 1.75
+Tamb: 21.5
+set_offset_A: 195677.44444444444
+weight (mg): 2
+read time (s): 1.707
+Tamb: 21.5
+set_offset_A: 195693.0
+weight (mg): -15
+read time (s): 1.693
+Tamb: 21.5
+set_offset_A: 195696.77777777778
+weight (mg): 7
+read time (s): 1.745
+Tamb: 21.562
+set_offset_A: 195698.55555555556
+weight (mg): -4
+read time (s): 1.705
+Tamb: 21.5
+set_offset_A: 195674.44444444444
+weight (mg): 6
+read time (s): 1.784
+Tamb: 21.562
+set_offset_A: 195683.88888888888
+weight (mg): -16
+read time (s): 1.73
+Tamb: 21.562
+set_offset_A: 195659.88888888888
+weight (mg): 2
+read time (s): 1.716
+Tamb: 21.562
+set_offset_A: 195692.0
+weight (mg): -4
+read time (s): 1.775
+Tamb: 21.562
+set_offset_A: 195663.44444444444
+weight (mg): 15
+read time (s): 1.734
+Tamb: 21.5
+set_offset_A: 195664.88888888888
+weight (mg): -6
+read time (s): 1.626
+Tamb: 21.562
+set_offset_A: 195664.11111111112
+weight (mg): 4
+read time (s): 1.705
+Tamb: 21.562
+set_offset_A: 195661.66666666666
+weight (mg): 13
+read time (s): 1.745
+Tamb: 21.562
+set_offset_A: 195653.55555555556
+weight (mg): -8
+read time (s): 1.704
+Tamb: 21.5
+set_offset_A: 195652.0
+weight (mg): 33
+read time (s): 1.784
+Tamb: 21.625
+set_offset_A: 195667.44444444444
+weight (mg): -17
+read time (s): 1.728
+Tamb: 21.5
+set_offset_A: 195661.55555555556
+weight (mg): -7
+read time (s): 1.714
+Tamb: 21.562
+set_offset_A: 195633.66666666666
+weight (mg): 16
+read time (s): 1.767
+Tamb: 21.625
+set_offset_A: 195655.0
+weight (mg): -2
+read time (s): 1.751
+Tamb: 21.625
+set_offset_A: 195651.11111111112
+weight (mg): -10
+read time (s): 1.736
+Tamb: 21.562
+set_offset_A: 195641.66666666666
+weight (mg): -6
+read time (s): 1.694
+Tamb: 21.562
+set_offset_A: 195632.66666666666
+weight (mg): 58
+read time (s): 1.775
+Tamb: 21.562
+set_offset_A: 195638.22222222222
+weight (mg): 7
+read time (s): 1.72
+Tamb: 21.625
+set_offset_A: 195643.22222222222
+weight (mg): 2
+read time (s): 1.707
+Tamb: 21.625
+set_offset_A: 195633.33333333334
+weight (mg): 13
+read time (s): 1.759
+Tamb: 21.625
+set_offset_A: 195624.11111111112
+weight (mg): 14
+read time (s): 1.717
+Tamb: 21.625
+set_offset_A: 195652.11111111112
+weight (mg): 5
+read time (s): 1.703
+Tamb: 21.625
+set_offset_A: 195617.11111111112
+weight (mg): 16
+read time (s): 1.757
+Tamb: 21.625
+set_offset_A: 195609.55555555556
+weight (mg): 16
+read time (s): 1.715
+Tamb: 21.625
+set_offset_A: 195621.44444444444
+weight (mg): 30
+read time (s): 1.701
+Tamb: 21.625
+set_offset_A: 195644.22222222222
+weight (mg): -26
+read time (s): 1.753
+Tamb: 21.625
+set_offset_A: 195626.0
+weight (mg): 14
+read time (s): 1.713
+Tamb: 21.625
+set_offset_A: 195638.88888888888
+weight (mg): -32
+read time (s): 1.699
+Tamb: 21.687
+set_offset_A: 195619.0
+weight (mg): -1
+read time (s): 1.751
+Tamb: 21.625
+set_offset_A: 195628.0
+weight (mg): 2
+read time (s): 1.71
+Tamb: 21.625
+set_offset_A: 195631.22222222222
+weight (mg): -9
+read time (s): 1.702
+Tamb: 21.687
+set_offset_A: 195596.66666666666
+weight (mg): 32
+read time (s): 1.755
+Tamb: 21.625
+set_offset_A: 195598.88888888888
+weight (mg): 2
+read time (s): 1.714
+Tamb: 21.625
+set_offset_A: 195612.22222222222
+weight (mg): 16
+read time (s): 1.701
+Tamb: 21.687
+set_offset_A: 195611.55555555556
+weight (mg): 5
+read time (s): 1.753
+Tamb: 21.625
+set_offset_A: 195602.33333333334
+weight (mg): -7
+read time (s): 1.711
+Tamb: 21.625
+set_offset_A: 195614.55555555556
+weight (mg): -22
+read time (s): 1.697
+Tamb: 21.687
+set_offset_A: 195606.44444444444
+weight (mg): -32
+read time (s): 1.772
+Tamb: 21.687
+set_offset_A: 195599.66666666666
+weight (mg): -24
+read time (s): 1.73
+Tamb: 21.687
+set_offset_A: 195591.33333333334
+weight (mg): -9
+read time (s): 1.718
+Tamb: 21.687
+set_offset_A: 195596.44444444444
+weight (mg): 20
+read time (s): 1.782
+Tamb: 21.687
+set_offset_A: 195614.0
+weight (mg): -45
+read time (s): 1.741
+Tamb: 21.75
+set_offset_A: 195571.22222222222
+weight (mg): -5
+read time (s): 1.728
+Tamb: 21.75
+set_offset_A: 195595.22222222222
+weight (mg): 0
+read time (s): 1.78
+Tamb: 21.687
+set_offset_A: 195589.22222222222
+weight (mg): -9
+read time (s): 1.738
+Tamb: 21.687
+set_offset_A: 195585.33333333334
+weight (mg): -9
+read time (s): 1.725
+Tamb: 21.687
+set_offset_A: 195571.33333333334
+weight (mg): -11
+read time (s): 1.683
+Tamb: 21.75
+set_offset_A: 195598.22222222222
+weight (mg): 1
+read time (s): 1.764
+Tamb: 21.75
+set_offset_A: 195591.55555555556
+weight (mg): -26
+read time (s): 1.708
+Tamb: 21.75
+set_offset_A: 195588.11111111112
+weight (mg): 4
+read time (s): 1.694
+Tamb: 21.75
+set_offset_A: 195567.88888888888
+weight (mg): -5
+read time (s): 1.746
+Tamb: 21.75
+set_offset_A: 195563.66666666666
+weight (mg): 6
+read time (s): 1.705
+Tamb: 21.75
+set_offset_A: 195594.77777777778
+weight (mg): -53
+read time (s): 1.785
+Tamb: 21.75
+set_offset_A: 195543.55555555556
+weight (mg): 37
+read time (s): 1.73
+Tamb: 21.75
+set_offset_A: 195552.44444444444
+weight (mg): -3
+read time (s): 1.716
+Tamb: 21.75
+set_offset_A: 195562.44444444444
+weight (mg): 15
+read time (s): 1.769
+Tamb: 21.75
+set_offset_A: 195562.22222222222
+weight (mg): 8
+read time (s): 1.728
+Tamb: 21.812
+set_offset_A: 195547.33333333334
+weight (mg): 8
+read time (s): 1.807
+Tamb: 21.812
+set_offset_A: 195551.66666666666
+weight (mg): -1
+read time (s): 1.752
+Tamb: 21.812
+set_offset_A: 195541.88888888888
+weight (mg): -14
+read time (s): 1.75
+Tamb: 21.812
+set_offset_A: 195523.55555555556
+weight (mg): -15
+read time (s): 1.708
+Tamb: 21.812
+set_offset_A: 195538.77777777778
+weight (mg): 14
+read time (s): 1.695
+Tamb: 21.812
+set_offset_A: 195540.33333333334
+weight (mg): -5
+read time (s): 1.748
+Tamb: 21.812
+set_offset_A: 195515.77777777778
+weight (mg): 17
+read time (s): 1.706
+Tamb: 21.812
+set_offset_A: 195535.0
+weight (mg): -14
+read time (s): 1.692
+Tamb: 21.812
+set_offset_A: 195550.0
+weight (mg): -22
+read time (s): 1.839
+Tamb: 21.812
+set_offset_A: 195533.44444444444
+weight (mg): 23
+read time (s): 1.785
+Tamb: 21.875
+set_offset_A: 195529.88888888888
+weight (mg): -10
+read time (s): 1.771
+Tamb: 21.812
+set_offset_A: 195531.44444444444
+weight (mg): 12
+read time (s): 1.757
+Tamb: 21.812
+set_offset_A: 195542.22222222222
+weight (mg): -9
+read time (s): 1.743
+Tamb: 21.875
+set_offset_A: 195527.66666666666
+weight (mg): -40
+read time (s): 1.701
+Tamb: 21.875
+set_offset_A: 195516.0
+weight (mg): 20
+read time (s): 1.781
+Tamb: 21.812
+set_offset_A: 195510.0
+weight (mg): -41
+read time (s): 1.712
+Tamb: 21.875
+set_offset_A: 195505.22222222222
+weight (mg): -1
+read time (s): 1.712
+Tamb: 21.812
+set_offset_A: 195511.77777777778
+weight (mg): -22
+read time (s): 1.769
+Tamb: 21.875
+set_offset_A: 195497.77777777778
+weight (mg): -26
+read time (s): 1.728
+Tamb: 21.875
+set_offset_A: 195523.88888888888
+weight (mg): -45
+read time (s): 1.734
+Tamb: 21.875
+set_offset_A: 195507.77777777778
+weight (mg): 1
+read time (s): 1.693
+Tamb: 21.875
+set_offset_A: 195514.22222222222
+weight (mg): -10
+read time (s): 1.774
+Tamb: 21.875
+set_offset_A: 195490.33333333334
+weight (mg): -3
+read time (s): 1.718
+Tamb: 21.875
+set_offset_A: 195476.88888888888
+weight (mg): 8
+read time (s): 1.729
+Tamb: 21.875
+set_offset_A: 195494.88888888888
+weight (mg): -26
+read time (s): 1.782
+Tamb: 21.875
+set_offset_A: 195475.66666666666
+weight (mg): -3
+read time (s): 1.74
+Tamb: 21.875
+set_offset_A: 195485.55555555556
+weight (mg): 2
+read time (s): 1.726
+Tamb: 21.875
+set_offset_A: 195478.66666666666
+weight (mg): 20
+read time (s): 1.779
+Tamb: 21.875
+set_offset_A: 195487.22222222222
+weight (mg): 0
+read time (s): 1.752
+Tamb: 21.937
+set_offset_A: 195473.11111111112
+weight (mg): -15
+read time (s): 1.71
+Tamb: 21.875
+set_offset_A: 195480.22222222222
+weight (mg): 16
+read time (s): 1.697
+Tamb: 21.937
+set_offset_A: 195476.66666666666
+weight (mg): -26
+read time (s): 1.749
+Tamb: 21.937
+set_offset_A: 195470.33333333334
+weight (mg): -25
+read time (s): 1.721
+Tamb: 21.875
+set_offset_A: 195462.77777777778
+weight (mg): -30
+read time (s): 1.693
+Tamb: 21.937
+set_offset_A: 195481.44444444444
+weight (mg): -32
+read time (s): 1.76
+Tamb: 21.937
+set_offset_A: 195456.11111111112
+weight (mg): -15
+read time (s): 1.705
+Tamb: 21.875
+set_offset_A: 195459.22222222222
+weight (mg): -10
+read time (s): 1.785
+Tamb: 22.0
+set_offset_A: 195460.77777777778
+weight (mg): 0
+read time (s): 1.73
+Tamb: 22.0
+set_offset_A: 195458.44444444444
+weight (mg): 23
+read time (s): 1.716
+Tamb: 21.937
+set_offset_A: 195454.66666666666
+weight (mg): 6
+read time (s): 1.783
+Tamb: 21.937
+set_offset_A: 195445.22222222222
+weight (mg): -15
+read time (s): 1.727
+Tamb: 22.0
+set_offset_A: 195438.55555555556
+weight (mg): 11
+read time (s): 1.714
+Tamb: 22.0
+set_offset_A: 195450.0
+weight (mg): 21
+read time (s): 2.031
+Tamb: 22.0
+set_offset_A: 195431.88888888888
+weight (mg): 13
+read time (s): 1.721
+Tamb: 22.0
+set_offset_A: 195429.0
+weight (mg): -18
+read time (s): 1.748
+Tamb: 21.937
+set_offset_A: 195430.11111111112
+weight (mg): 22
+read time (s): 1.721
+Tamb: 21.937
+set_offset_A: 195421.11111111112
+weight (mg): -2
+read time (s): 1.694
+Tamb: 21.937
+set_offset_A: 195428.33333333334
+weight (mg): -20
+read time (s): 1.761
+Tamb: 22.0
+set_offset_A: 195436.55555555556
+weight (mg): 4
+read time (s): 1.705
+Tamb: 22.0
+set_offset_A: 195402.0
+weight (mg): -5
+read time (s): 1.717
+Tamb: 22.0
+set_offset_A: 195412.88888888888
+weight (mg): 13
+read time (s): 1.783
+Tamb: 22.0
+set_offset_A: 195403.77777777778
+weight (mg): 22
+read time (s): 1.753
+Tamb: 22.0
+set_offset_A: 195414.33333333334
+weight (mg): -27
+read time (s): 1.746
+Tamb: 22.0
+set_offset_A: 195407.66666666666
+weight (mg): -21
+read time (s): 1.719
+Tamb: 22.0
+set_offset_A: 195404.66666666666
+weight (mg): 16
+read time (s): 1.784
+Tamb: 22.0
+set_offset_A: 195384.44444444444
+weight (mg): 36
+read time (s): 1.73
+Tamb: 22.062
+set_offset_A: 195422.11111111112
+weight (mg): -18
+read time (s): 1.716
+Tamb: 22.0
+set_offset_A: 195391.33333333334
+weight (mg): -5
+read time (s): 1.783
+Tamb: 22.062
+set_offset_A: 195381.77777777778
+weight (mg): 23
+read time (s): 1.727
+Tamb: 22.0
+set_offset_A: 195383.0
+weight (mg): 22
+read time (s): 1.713
+Tamb: 22.062
+set_offset_A: 195389.88888888888
+weight (mg): -19
+read time (s): 1.78
+Tamb: 22.125
+set_offset_A: 195379.44444444444
+weight (mg): 5
+read time (s): 1.724
+Tamb: 22.062
+set_offset_A: 195385.33333333334
+weight (mg): -15
+read time (s): 1.71
+Tamb: 22.125
+set_offset_A: 195378.22222222222
+weight (mg): -3
+read time (s): 1.776
+Tamb: 22.125
+set_offset_A: 195383.22222222222
+weight (mg): -25
+read time (s): 1.72
+Tamb: 22.125
+set_offset_A: 195374.33333333334
+weight (mg): 5
+read time (s): 1.707
+Tamb: 22.062
+set_offset_A: 195369.0
+weight (mg): 5
+read time (s): 1.773
+Tamb: 22.125
+set_offset_A: 195361.22222222222
+weight (mg): -10
+read time (s): 1.718
+Tamb: 22.125
+set_offset_A: 195351.11111111112
+weight (mg): 2
+read time (s): 1.704
+Tamb: 22.125
+set_offset_A: 195351.22222222222
+weight (mg): -11
+read time (s): 1.768
+Tamb: 22.125
+set_offset_A: 195356.0
+weight (mg): -4
+read time (s): 1.712
+Tamb: 22.187
+set_offset_A: 195343.88888888888
+weight (mg): 30
+read time (s): 1.699
+Tamb: 22.125
+set_offset_A: 195350.0
+weight (mg): -12
+read time (s): 1.768
+Tamb: 22.125
+set_offset_A: 195349.11111111112
+weight (mg): -16
+read time (s): 1.713
+Tamb: 22.125
+set_offset_A: 195351.55555555556
+weight (mg): -2
+read time (s): 1.699
+Tamb: 22.125
+set_offset_A: 195342.55555555556
+weight (mg): -3
+read time (s): 1.858
+Tamb: 22.187
+set_offset_A: 195350.44444444444
+weight (mg): -5
+read time (s): 1.696
+Tamb: 22.125
+set_offset_A: 195331.77777777778
+weight (mg): -9
+read time (s): 1.712
+Tamb: 22.125
+set_offset_A: 195347.33333333334
+weight (mg): -58
+read time (s): 1.778
+Tamb: 22.25
+set_offset_A: 195328.0
+weight (mg): -11
+read time (s): 1.722
+Tamb: 22.187
+set_offset_A: 195315.44444444444
+weight (mg): -18
+read time (s): 1.708
+Tamb: 22.25
+set_offset_A: 195311.66666666666
+weight (mg): 15
+read time (s): 1.775
+Tamb: 22.25
+set_offset_A: 195313.88888888888
+weight (mg): 3
+read time (s): 1.719
+Tamb: 22.25
+set_offset_A: 195319.55555555556
+weight (mg): 1
+read time (s): 1.704
+Tamb: 22.25
+set_offset_A: 195262.33333333334
+weight (mg): 28
+read time (s): 1.773
+Tamb: 22.187
+set_offset_A: 195300.77777777778
+weight (mg): -12
+read time (s): 1.718
+Tamb: 22.25
+set_offset_A: 195308.77777777778
+weight (mg): -6
+read time (s): 1.704
+Tamb: 22.25
+set_offset_A: 195287.55555555556
+weight (mg): 20
+read time (s): 1.769
+Tamb: 22.25
+set_offset_A: 195290.11111111112
+weight (mg): -4
+read time (s): 1.715
+Tamb: 22.25
+set_offset_A: 195293.0
+weight (mg): -22
+read time (s): 1.7
+Tamb: 22.312
+set_offset_A: 195277.66666666666
+weight (mg): 2
+read time (s): 1.767
+Tamb: 22.25
+set_offset_A: 195282.44444444444
+weight (mg): -6
+read time (s): 1.711
+Tamb: 22.25
+set_offset_A: 195267.22222222222
+weight (mg): 33
+read time (s): 1.697
+Tamb: 22.312
+set_offset_A: 195281.66666666666
+weight (mg): -45
+read time (s): 1.763
+Tamb: 22.25
+set_offset_A: 195288.11111111112
+weight (mg): -23
+read time (s): 1.708
+Tamb: 22.312
+set_offset_A: 195269.11111111112
+weight (mg): -26
+read time (s): 1.694
+Tamb: 22.312
+set_offset_A: 195243.33333333334
+weight (mg): 40
+read time (s): 1.76
+Tamb: 22.312
+set_offset_A: 195262.88888888888
+weight (mg): -57
+read time (s): 1.704
+Tamb: 22.312
+set_offset_A: 195262.88888888888
+weight (mg): -22
+read time (s): 1.691
+Tamb: 22.375
+set_offset_A: 195246.22222222222
+weight (mg): -13
+read time (s): 1.757
+Tamb: 22.375
+set_offset_A: 195249.66666666666
+weight (mg): -21
+read time (s): 1.701
+Tamb: 22.375
+set_offset_A: 195239.55555555556
+weight (mg): -2
+read time (s): 1.782
+Tamb: 22.375
+set_offset_A: 195242.44444444444
+weight (mg): 8
+read time (s): 1.726
+Tamb: 22.375
+set_offset_A: 195237.77777777778
+weight (mg): 2
+read time (s): 1.712
+Tamb: 22.437
+set_offset_A: 195232.66666666666
+weight (mg): -3
+read time (s): 1.779
+Tamb: 22.437
+set_offset_A: 195234.66666666666
+weight (mg): 36
+read time (s): 1.724
+Tamb: 22.437
+set_offset_A: 195217.22222222222
+weight (mg): 10
+read time (s): 1.709
+Tamb: 22.437
+set_offset_A: 195209.0
+weight (mg): -5
+read time (s): 1.776
+Tamb: 22.375
+set_offset_A: 195215.66666666666
+weight (mg): 15
+read time (s): 1.721
+Tamb: 22.437
+set_offset_A: 195197.22222222222
+weight (mg): 10
+read time (s): 1.709
+Tamb: 22.437
+set_offset_A: 195210.88888888888
+weight (mg): -22
+read time (s): 1.775
+Tamb: 22.5
+set_offset_A: 195188.33333333334
+weight (mg): 4
+read time (s): 1.719
+Tamb: 22.562
+set_offset_A: 195197.66666666666
+weight (mg): -32
+read time (s): 1.705
+Tamb: 22.562
+set_offset_A: 195175.55555555556
+weight (mg): 19
+read time (s): 1.771
+Tamb: 22.5
+set_offset_A: 195194.55555555556
+weight (mg): -22
+read time (s): 1.716
+Tamb: 22.562
+set_offset_A: 195164.88888888888
+weight (mg): -9
+read time (s): 1.699
+Tamb: 22.562
+set_offset_A: 195179.44444444444
+weight (mg): -12
+read time (s): 1.766
+Tamb: 22.562
+set_offset_A: 195164.11111111112
+weight (mg): -11
+read time (s): 1.711
+Tamb: 22.562
+set_offset_A: 195168.0
+weight (mg): 5
+read time (s): 1.791
+Tamb: 22.625
+set_offset_A: 195144.0
+weight (mg): -16
+read time (s): 1.75
+Tamb: 22.562
+set_offset_A: 195141.33333333334
+weight (mg): 14
+read time (s): 1.72
+Tamb: 22.625
+set_offset_A: 195143.11111111112
+weight (mg): -7
+read time (s): 1.693
+Tamb: 22.625
+set_offset_A: 195147.88888888888
+weight (mg): 5
+read time (s): 1.759
+Tamb: 22.625
+set_offset_A: 195137.77777777778
+weight (mg): -19
+read time (s): 1.717
+Tamb: 22.625
+set_offset_A: 195124.11111111112
+weight (mg): -21
+read time (s): 1.783
+Tamb: 22.625
+set_offset_A: 195112.44444444444
+weight (mg): 7
+read time (s): 1.741
+Tamb: 22.687
+set_offset_A: 195133.44444444444
+weight (mg): -54
+read time (s): 1.713
+Tamb: 22.75
+set_offset_A: 195119.88888888888
+weight (mg): -30
+read time (s): 1.779
+Tamb: 22.687
+set_offset_A: 195098.11111111112
+weight (mg): -5
+read time (s): 1.738
+Tamb: 22.75
+set_offset_A: 195104.66666666666
+weight (mg): 9
+read time (s): 1.711
+Tamb: 22.75
+set_offset_A: 195081.44444444444
+weight (mg): 11
+read time (s): 1.776
+Tamb: 22.812
+set_offset_A: 195099.0
+weight (mg): -16
+read time (s): 1.734
+Tamb: 22.75
+set_offset_A: 195074.55555555556
+weight (mg): 7
+read time (s): 1.707
+Tamb: 22.75
+set_offset_A: 195078.44444444444
+weight (mg): 3
+read time (s): 1.773
+Tamb: 22.812
+set_offset_A: 195076.66666666666
+weight (mg): 7
+read time (s): 1.731
+Tamb: 22.812
+set_offset_A: 195055.66666666666
+weight (mg): -2
+read time (s): 1.703
+Tamb: 22.812
+set_offset_A: 195053.22222222222
+weight (mg): 23
+read time (s): 1.769
+Tamb: 22.875
+set_offset_A: 195042.66666666666
+weight (mg): -6
+read time (s): 1.728
+Tamb: 22.875
+set_offset_A: 195025.22222222222
+weight (mg): 20
+read time (s): 1.7
+Tamb: 22.875
+set_offset_A: 195061.77777777778
+weight (mg): -50
+read time (s): 1.765
+Tamb: 22.937
+set_offset_A: 195032.11111111112
+weight (mg): -14
+read time (s): 1.723
+Tamb: 22.937
+set_offset_A: 195006.11111111112
+weight (mg): 13
+read time (s): 1.695
+Tamb: 22.937
+set_offset_A: 195008.88888888888
+weight (mg): 19
+read time (s): 1.762
+Tamb: 23.0
+set_offset_A: 194991.88888888888
+weight (mg): 15
+read time (s): 1.745
+Tamb: 23.0
+set_offset_A: 195007.66666666666
+weight (mg): -18
+read time (s): 1.717
+Tamb: 23.0
+set_offset_A: 194991.33333333334
+weight (mg): 3
+read time (s): 1.783
+Tamb: 23.062
+set_offset_A: 194955.77777777778
+weight (mg): 15
+read time (s): 1.741
+Tamb: 23.062
+set_offset_A: 194980.0
+weight (mg): -41
+read time (s): 1.734
+Tamb: 23.062
+set_offset_A: 194963.33333333334
+weight (mg): -7
+read time (s): 1.706
+Tamb: 23.062
+set_offset_A: 194946.0
+weight (mg): -12
+read time (s): 1.771
+Tamb: 23.125
+set_offset_A: 194945.77777777778
+weight (mg): 29
+read time (s): 1.73
+Tamb: 23.125
+set_offset_A: 194952.77777777778
+weight (mg): -4
+read time (s): 1.702
+Tamb: 23.125
+set_offset_A: 194936.88888888888
+weight (mg): -15
+read time (s): 1.769
+Tamb: 23.187
+set_offset_A: 194934.55555555556
+weight (mg): -1
+read time (s): 1.727
+Tamb: 23.187
+set_offset_A: 194940.11111111112
+weight (mg): -9
+read time (s): 1.7
+Tamb: 23.25
+set_offset_A: 194905.77777777778
+weight (mg): -1
+read time (s): 1.766
+Tamb: 23.25
+set_offset_A: 194911.66666666666
+weight (mg): 1
+read time (s): 1.725
+Tamb: 23.25
+set_offset_A: 194912.55555555556
+weight (mg): -3
+read time (s): 1.696
+Tamb: 23.25
+set_offset_A: 194907.88888888888
+weight (mg): -55
+read time (s): 1.669
+Tamb: 23.25
+set_offset_A: 194893.77777777778
+weight (mg): -2
+read time (s): 1.735
+Tamb: 23.312
+set_offset_A: 194882.55555555556
+weight (mg): -5
+read time (s): 1.694
+Tamb: 23.25
+set_offset_A: 194867.22222222222
+weight (mg): -10
+read time (s): 1.76
+Tamb: 23.312
+set_offset_A: 194849.11111111112
+weight (mg): 11
+read time (s): 1.718
+Tamb: 23.312
+set_offset_A: 194853.44444444444
+weight (mg): 13
+read time (s): 1.784
+Tamb: 23.312
+set_offset_A: 194852.66666666666
+weight (mg): 31
+read time (s): 1.742
+Tamb: 23.312
+set_offset_A: 194830.44444444444
+weight (mg): 23
+read time (s): 1.719
+Tamb: 23.375
+set_offset_A: 194822.0
+weight (mg): 7
+read time (s): 1.692
+Tamb: 23.375
+set_offset_A: 194810.33333333334
+weight (mg): 30
+read time (s): 1.758
+Tamb: 23.437
+set_offset_A: 194829.11111111112
+weight (mg): -24
+read time (s): 1.717
+Tamb: 23.437
+set_offset_A: 194816.66666666666
+weight (mg): -17
+read time (s): 1.69
+Tamb: 23.437
+set_offset_A: 194805.55555555556
+weight (mg): -10
+read time (s): 1.756
+Tamb: 23.437
+set_offset_A: 194796.66666666666
+weight (mg): -36
+read time (s): 1.714
+Tamb: 23.437
+set_offset_A: 194786.66666666666
+weight (mg): -15
+read time (s): 1.78
+Tamb: 23.5
+set_offset_A: 194776.22222222222
+weight (mg): -1
+read time (s): 1.738
+Tamb: 23.5
+set_offset_A: 194773.77777777778
+weight (mg): -35
+read time (s): 1.71
+Tamb: 23.562
+set_offset_A: 194748.44444444444
+weight (mg): 0
+read time (s): 1.776
+Tamb: 23.562
+set_offset_A: 194756.11111111112
+weight (mg): 7
+read time (s): 1.734
+Tamb: 23.562
+set_offset_A: 194736.44444444444
+weight (mg): 0
+read time (s): 1.706
+Tamb: 23.625
+set_offset_A: 194723.22222222222
+weight (mg): -1
+read time (s): 1.773
+Tamb: 23.625
+set_offset_A: 194714.22222222222
+weight (mg): -10
+read time (s): 1.73
+Tamb: 23.687
+set_offset_A: 194726.22222222222
+weight (mg): -25
+read time (s): 1.703
+Tamb: 23.687
+set_offset_A: 194703.11111111112
+weight (mg): 16
+read time (s): 1.769
+Tamb: 23.687
+set_offset_A: 194681.22222222222
+weight (mg): -14
+read time (s): 1.727
+Tamb: 23.687
+set_offset_A: 194678.77777777778
+weight (mg): -12
+read time (s): 1.7
+Tamb: 23.75
+set_offset_A: 194677.88888888888
+weight (mg): -16
+read time (s): 1.766
+Tamb: 23.75
+set_offset_A: 194649.33333333334
+weight (mg): 20
+read time (s): 1.724
+Tamb: 23.812
+set_offset_A: 194638.55555555556
+weight (mg): -1
+read time (s): 1.696
+Tamb: 23.875
+set_offset_A: 194630.88888888888
+weight (mg): 7
+read time (s): 1.763
+Tamb: 23.812
+set_offset_A: 194630.33333333334
+weight (mg): -31
+read time (s): 1.721
+Tamb: 23.812
+set_offset_A: 194609.88888888888
+weight (mg): -15
+read time (s): 1.693
+Tamb: 23.875
+set_offset_A: 194583.77777777778
+weight (mg): -2
+read time (s): 1.853
+Tamb: 23.875
+set_offset_A: 194583.77777777778
+weight (mg): -8
+read time (s): 1.69
+Tamb: 23.875
+set_offset_A: 194575.44444444444
+weight (mg): -5
+read time (s): 1.77
+Tamb: 23.937
+set_offset_A: 194571.55555555556
+weight (mg): -40
+read time (s): 1.648
+Tamb: 23.937
+set_offset_A: 194555.11111111112
+weight (mg): 13
+read time (s): 1.728
+Tamb: 23.875
+set_offset_A: 194542.0
+weight (mg): 9
+read time (s): 1.691
+Tamb: 23.937
+set_offset_A: 194538.55555555556
+weight (mg): 14
+read time (s): 1.756
+Tamb: 24.0
+set_offset_A: 194502.11111111112
+weight (mg): 15
+read time (s): 1.714
+Tamb: 24.062
+set_offset_A: 194503.33333333334
+weight (mg): -19
+read time (s): 1.874
+Tamb: 24.062
+set_offset_A: 194490.22222222222
+weight (mg): 7
+read time (s): 1.725
+Tamb: 24.062
+set_offset_A: 194488.11111111112
+weight (mg): -26
+read time (s): 1.711
+Tamb: 24.125
+set_offset_A: 194478.55555555556
+weight (mg): 14
+read time (s): 1.778
+Tamb: 24.125
+set_offset_A: 194470.66666666666
+weight (mg): 2
+read time (s): 1.739
+Tamb: 24.125
+set_offset_A: 194447.22222222222
+weight (mg): -17
+read time (s): 1.711
+Tamb: 24.187
+set_offset_A: 194444.33333333334
+weight (mg): -4
+read time (s): 1.776
+Tamb: 24.187
+set_offset_A: 194453.0
+weight (mg): -32
+read time (s): 1.735
+Tamb: 24.25
+set_offset_A: 194406.66666666666
+weight (mg): -2
+read time (s): 1.707
+Tamb: 24.187
+set_offset_A: 194408.11111111112
+weight (mg): 7
+read time (s): 1.773
+Tamb: 24.25
+set_offset_A: 194403.33333333334
+weight (mg): -3
+read time (s): 1.733
+Tamb: 24.312
+set_offset_A: 194392.22222222222
+weight (mg): -15
+read time (s): 1.704
+Tamb: 24.312
+set_offset_A: 194372.77777777778
+weight (mg): 17
+read time (s): 1.77
+Tamb: 24.312
+set_offset_A: 194383.44444444444
+weight (mg): -24
+read time (s): 1.728
+Tamb: 24.312
+set_offset_A: 194361.11111111112
+weight (mg): -5
+read time (s): 1.701
+Tamb: 24.375
+set_offset_A: 194362.66666666666
+weight (mg): 4
+read time (s): 1.768
+Tamb: 24.375
+set_offset_A: 194337.55555555556
+weight (mg): -29
+read time (s): 1.726
+Tamb: 24.375
+set_offset_A: 194306.55555555556
+weight (mg): 4
+read time (s): 1.697
+Tamb: 24.437
+set_offset_A: 194314.77777777778
+weight (mg): 2
+read time (s): 1.763
+Tamb: 24.437
+set_offset_A: 194288.0
+weight (mg): 13
+read time (s): 1.72
+Tamb: 24.437
+set_offset_A: 194301.55555555556
+weight (mg): -18
+read time (s): 1.694
+Tamb: 24.5
+set_offset_A: 194250.33333333334
+weight (mg): 0
+read time (s): 1.758
+Tamb: 24.562
+set_offset_A: 194245.88888888888
+weight (mg): -1
+read time (s): 1.716
+Tamb: 24.562
+set_offset_A: 194242.11111111112
+weight (mg): 4
+read time (s): 1.711
+Tamb: 24.562
+set_offset_A: 194220.77777777778
+weight (mg): 6
+read time (s): 1.777
+Tamb: 24.625
+set_offset_A: 194199.88888888888
+weight (mg): 1
+read time (s): 1.735
+Tamb: 24.625
+set_offset_A: 194202.33333333334
+weight (mg): 0
+read time (s): 1.708
+Tamb: 24.687
+set_offset_A: 194172.11111111112
+weight (mg): 22
+read time (s): 1.773
+Tamb: 24.687
+set_offset_A: 194178.44444444444
+weight (mg): -15
+read time (s): 1.73
+Tamb: 24.75
+set_offset_A: 194171.55555555556
+weight (mg): -13
+read time (s): 1.702
+Tamb: 24.75
+set_offset_A: 194151.11111111112
+weight (mg): 9
+read time (s): 1.768
+Tamb: 24.812
+set_offset_A: 194114.44444444444
+weight (mg): -34
+read time (s): 1.729
+Tamb: 24.812
+set_offset_A: 194118.88888888888
+weight (mg): -22
+read time (s): 1.701
+Tamb: 24.875
+set_offset_A: 194086.77777777778
+weight (mg): -35
+read time (s): 1.694
+Tamb: 24.937
+set_offset_A: 194086.11111111112
+weight (mg): 20
+read time (s): 1.761
+Tamb: 24.937
+set_offset_A: 194062.55555555556
+weight (mg): -9
+read time (s): 1.718
+Tamb: 24.937
+set_offset_A: 194059.66666666666
+weight (mg): -25
+read time (s): 1.69
+Tamb: 25.0
+set_offset_A: 194037.55555555556
+weight (mg): 4
+read time (s): 1.756
+Tamb: 25.0
+set_offset_A: 194012.88888888888
+weight (mg): 10
+read time (s): 1.714
+Tamb: 25.0
+set_offset_A: 193997.55555555556
+weight (mg): 41
+read time (s): 1.779
+Tamb: 25.062
+set_offset_A: 193996.22222222222
+weight (mg): -7
+read time (s): 1.737
+Tamb: 25.125
+set_offset_A: 193972.11111111112
+weight (mg): 4
+read time (s): 1.709
+Tamb: 25.125
+set_offset_A: 193951.77777777778
+weight (mg): 0
+read time (s): 1.775
+Tamb: 25.187
+set_offset_A: 193936.33333333334
+weight (mg): 18
+read time (s): 1.758
+Tamb: 25.187
+set_offset_A: 193924.11111111112
+weight (mg): 5
+read time (s): 1.73
+Tamb: 25.25
+set_offset_A: 193904.44444444444
+weight (mg): -25
+read time (s): 1.702
+Tamb: 25.25
+set_offset_A: 193907.44444444444
+weight (mg): -11
+read time (s): 1.768
+Tamb: 25.312
+set_offset_A: 193867.33333333334
+weight (mg): 10
+read time (s): 1.726
+Tamb: 25.375
+set_offset_A: 193839.55555555556
+weight (mg): 44
+read time (s): 1.698
+Tamb: 25.375
+set_offset_A: 193862.0
+weight (mg): -20
+read time (s): 1.764
+Tamb: 25.437
+set_offset_A: 193848.0
+weight (mg): -30
+read time (s): 1.721
+Tamb: 25.437
+set_offset_A: 193804.11111111112
+weight (mg): 22
+read time (s): 1.693
+Tamb: 25.5
+set_offset_A: 193804.11111111112
+weight (mg): 7
+read time (s): 1.759
+Tamb: 25.5
+set_offset_A: 193780.66666666666
+weight (mg): 18
+read time (s): 1.742
+Tamb: 25.5
+set_offset_A: 193776.88888888888
+weight (mg): -16
+read time (s): 1.713
+Tamb: 25.625
+set_offset_A: 193760.0
+weight (mg): -16
+read time (s): 1.778
+Tamb: 25.625
+set_offset_A: 193722.77777777778
+weight (mg): 5
+read time (s): 1.737
+Tamb: 25.687
+set_offset_A: 193706.77777777778
+weight (mg): 26
+read time (s): 1.708
+Tamb: 25.75
+set_offset_A: 193686.88888888888
+weight (mg): 6
+read time (s): 1.708
+Tamb: 25.812
+set_offset_A: 193677.22222222222
+weight (mg): -10
+read time (s): 1.773
+Tamb: 25.812
+set_offset_A: 193655.77777777778
+weight (mg): 18
+read time (s): 1.731
+Tamb: 25.875
+set_offset_A: 193636.88888888888
+weight (mg): 21
+read time (s): 1.702
+Tamb: 25.875
+set_offset_A: 193623.88888888888
+weight (mg): -19
+read time (s): 1.77
+Tamb: 25.937
+set_offset_A: 193601.33333333334
+weight (mg): 51
+read time (s): 1.728
+Tamb: 25.937
+set_offset_A: 193593.44444444444
+weight (mg): -6
+read time (s): 1.698
+Tamb: 26.0
+set_offset_A: 193580.88888888888
+weight (mg): 12
+read time (s): 1.764
+Tamb: 26.062
+set_offset_A: 193556.11111111112
+weight (mg): -1
+read time (s): 1.723
+Tamb: 26.062
+set_offset_A: 193545.77777777778
+weight (mg): 22
+read time (s): 1.694
+Tamb: 26.125
+set_offset_A: 193534.0
+weight (mg): -1
+read time (s): 1.76
+Tamb: 26.125
+set_offset_A: 193514.11111111112
+weight (mg): -18
+read time (s): 1.532
+Tamb: 26.187
+set_offset_A: 193494.88888888888
+weight (mg): -18
+read time (s): 1.731
+Tamb: 26.187

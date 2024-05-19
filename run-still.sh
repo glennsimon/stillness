@@ -42,9 +42,9 @@ mDeltaTArray=()
 fixedPWM=""
 
 # PID constants, must have 3 places after decimal
-K_p="3.000"
+K_p="5.000"
 K_i="0.300"
-K_d="2.000"
+K_d="3.000"
 
 dataFilename="./runs/$( date '+%F' )_run.txt"
 
@@ -140,8 +140,8 @@ adjust_power()
   # Differential adjustment
   mK_d="$(convert_to_thousandths $K_d)"
   if [[ "$count" -ge 2 ]]; then
-    diffLastTwo=$((mDeltaTArray[-1] - mDeltaTArray[-2]))
-    mDiff="$((mK_d * diffLastTwo / 1000))"
+    lastMinusFirst=$((mDeltaTArray[-1] - mDeltaTArray[0]))
+    mDiff="$((mK_d * lastMinusFirst / 1000))"
   else
     mDiff="0"
   fi
@@ -220,7 +220,7 @@ main()
       1)
         clear
         echo "Enter the desired stillhead temperature: "
-        read stillHeadTarget ;;
+        read stillHeadTarget
         mDeltaTArray=()
         mDeltaTArray[0]=$((stillHeadTarget * 1000 - mStillHeadTemp)) ;;
       2)
@@ -254,7 +254,7 @@ main()
         echo "Enter the PWM (0-99), or <CR> for PID controlled PWM: "
         read fixedPWM
         if [[ -n $fixedPWM ]]; then
-          echo $fixedPWM > pwm_setting
+          echo $fixedPWM > pwm_setting 
         fi ;;
       "q" | "Q")
         exit ;;
@@ -277,7 +277,7 @@ main()
       extracted=$(( mExtracted / 1000 ))
       mRemaining=$(( mRemaining - mExtracted ))
       remaining=$(( mRemaining / 1000 ))
-      if [[-z fixedPWM]]; then
+      if [[ -z $fixedPWM ]]; then
         dataRow=($now $PWM $ambTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $stillHeadTarget $jar $phase $distillateFlowrate $distillateVol $percentABV $extracted $remaining)
       else
         dataRow=($now $fixedPWM $ambTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $stillHeadTarget $jar $phase $distillateFlowrate $distillateVol $percentABV $extracted $remaining)

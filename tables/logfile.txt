@@ -1,0 +1,7601 @@
+weight (mg): 12873
+read time (s): 0.887
+Tamb: 23.25
+weight (mg): 12801
+read time (s): 0.295
+Tamb: 23.312
+weight (mg): 12870
+read time (s): 0.295
+Tamb: 23.375
+weight (mg): 12816
+read time (s): 0.295
+Tamb: 23.312
+weight (mg): 12868
+read time (s): 0.295
+Tamb: 23.312
+weight (mg): 12875
+read time (s): 0.295
+Tamb: 23.375
+weight (mg): 12831
+read time (s): 0.887
+Tamb: 23.375
+weight (mg): 12850
+read time (s): 0.34
+Tamb: 23.312
+weight (mg): 12776
+read time (s): 0.34
+Tamb: 23.375
+weight (mg): 12836
+read time (s): 0.34
+Tamb: 23.375
+weight (mg): 12685
+read time (s): 0.34
+Tamb: 23.437
+weight (mg): 12707
+read time (s): 0.352
+Tamb: 23.437
+weight (mg): 12737
+read time (s): 0.34
+Tamb: 23.375
+weight (mg): 12705
+read time (s): 0.343
+Tamb: 23.375
+weight (mg): 12727
+read time (s): 0.342
+Tamb: 23.437
+weight (mg): 12678
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12643
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12673
+read time (s): 0.342
+Tamb: 23.437
+weight (mg): 12621
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12587
+read time (s): 0.345
+Tamb: 23.5
+weight (mg): 12604
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12547
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12532
+read time (s): 0.342
+Tamb: 23.437
+weight (mg): 12491
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12481
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12508
+read time (s): 0.342
+Tamb: 23.5
+weight (mg): 12491
+read time (s): 0.342
+Tamb: 23.437
+weight (mg): 12461
+read time (s): 0.342
+Tamb: 23.5
+weight (mg): 12488
+read time (s): 0.458
+Tamb: 23.5
+weight (mg): 12463
+read time (s): 0.355
+Tamb: 23.437
+weight (mg): 12473
+read time (s): 0.343
+Tamb: 23.437
+weight (mg): 12390
+read time (s): 0.343
+Tamb: 23.5
+weight (mg): 12431
+read time (s): 0.344
+Tamb: 23.437
+weight (mg): 12431
+read time (s): 0.341
+Tamb: 23.5
+weight (mg): 12431
+read time (s): 0.339
+Tamb: 23.5
+weight (mg): 12392
+read time (s): 0.339
+Tamb: 23.437
+weight (mg): 12429
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12360
+read time (s): 0.339
+Tamb: 23.562
+weight (mg): 12333
+read time (s): 0.34
+Tamb: 23.5
+weight (mg): 12404
+read time (s): 0.338
+Tamb: 23.562
+weight (mg): 12375
+read time (s): 0.339
+Tamb: 23.5
+weight (mg): 12296
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12328
+read time (s): 0.339
+Tamb: 23.5
+weight (mg): 12372
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12232
+read time (s): 0.339
+Tamb: 23.5
+weight (mg): 12365
+read time (s): 0.338
+Tamb: 23.562
+weight (mg): 12303
+read time (s): 0.34
+Tamb: 23.5
+weight (mg): 12207
+read time (s): 0.34
+Tamb: 23.5
+weight (mg): 12276
+read time (s): 0.34
+Tamb: 23.5
+weight (mg): 12266
+read time (s): 0.361
+Tamb: 23.5
+weight (mg): 12175
+read time (s): 0.351
+Tamb: 23.5
+weight (mg): 12180
+read time (s): 0.339
+Tamb: 23.5
+weight (mg): 12182
+read time (s): 0.339
+Tamb: 23.5
+weight (mg): 12239
+read time (s): 0.339
+Tamb: 23.562
+weight (mg): 12202
+read time (s): 0.339
+Tamb: 23.5
+weight (mg): 12237
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12178
+read time (s): 0.361
+Tamb: 23.5
+weight (mg): 12215
+read time (s): 0.337
+Tamb: 23.5
+weight (mg): 12190
+read time (s): 0.339
+Tamb: 23.562
+weight (mg): 12158
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12079
+read time (s): 0.34
+Tamb: 23.562
+weight (mg): 12173
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12101
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12150
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12219
+read time (s): 0.35
+Tamb: 23.5
+weight (mg): 12077
+read time (s): 0.337
+Tamb: 23.5
+weight (mg): 12175
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12059
+read time (s): 0.336
+Tamb: 23.562
+weight (mg): 12084
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 12091
+read time (s): 0.337
+Tamb: 23.562
+weight (mg): 11995
+read time (s): 0.336
+Tamb: 23.562
+weight (mg): 12116
+read time (s): 0.337
+Tamb: 23.5
+weight (mg): 12015
+read time (s): 0.336
+Tamb: 23.562
+weight (mg): 12099
+read time (s): 0.337
+Tamb: 23.5
+weight (mg): 11971
+read time (s): 0.338
+Tamb: 23.5
+weight (mg): 12074
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 12047
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 12101
+read time (s): 0.335
+Tamb: 23.5
+weight (mg): 12054
+read time (s): 0.335
+Tamb: 23.5
+weight (mg): 11985
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 11966
+read time (s): 0.335
+Tamb: 23.5
+weight (mg): 12015
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 11973
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 11953
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 11931
+read time (s): 0.333
+Tamb: 23.562
+weight (mg): 11948
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 11877
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 12005
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 11872
+read time (s): 0.336
+Tamb: 23.5
+weight (mg): 11951
+read time (s): 0.336
+Tamb: 23.562
+weight (mg): 11958
+read time (s): 0.336
+Tamb: 23.5
+weight (mg): 11823
+read time (s): 0.336
+Tamb: 23.5
+weight (mg): 11865
+read time (s): 0.336
+Tamb: 23.562
+weight (mg): 11850
+read time (s): 0.335
+Tamb: 23.5
+weight (mg): 11906
+read time (s): 0.336
+Tamb: 23.562
+weight (mg): 11897
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 11840
+read time (s): 0.336
+Tamb: 23.562
+weight (mg): 11847
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 11786
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 11842
+read time (s): 0.335
+Tamb: 23.562
+weight (mg): 11744
+read time (s): 0.334
+Tamb: 23.625
+weight (mg): 11837
+read time (s): 0.335
+Tamb: 23.625
+weight (mg): 11813
+read time (s): 0.336
+Tamb: 23.625
+weight (mg): 11820
+read time (s): 0.336
+Tamb: 23.625
+weight (mg): 11778
+read time (s): 0.336
+Tamb: 23.625
+weight (mg): 11773
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 11719
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 11754
+read time (s): 0.333
+Tamb: 23.562
+weight (mg): 11756
+read time (s): 0.334
+Tamb: 23.562
+weight (mg): 11712
+read time (s): 0.334
+Tamb: 23.625
+weight (mg): 11763
+read time (s): 0.334
+Tamb: 23.625
+weight (mg): 11754
+read time (s): 0.332
+Tamb: 23.625
+weight (mg): 11788
+read time (s): 0.333
+Tamb: 23.625
+weight (mg): 11648
+read time (s): 0.333
+Tamb: 23.687
+weight (mg): 11791
+read time (s): 0.355
+Tamb: 23.625
+weight (mg): 11694
+read time (s): 0.333
+Tamb: 23.625
+weight (mg): 11672
+read time (s): 0.332
+Tamb: 23.687
+weight (mg): 11731
+read time (s): 0.332
+Tamb: 23.687
+weight (mg): 11675
+read time (s): 0.331
+Tamb: 23.625
+weight (mg): 11621
+read time (s): 0.355
+Tamb: 23.687
+weight (mg): 11633
+read time (s): 0.331
+Tamb: 23.687
+weight (mg): 11712
+read time (s): 0.331
+Tamb: 23.687
+weight (mg): 11648
+read time (s): 0.331
+Tamb: 23.687
+weight (mg): 11655
+read time (s): 0.331
+Tamb: 23.687
+weight (mg): 11596
+read time (s): 0.332
+Tamb: 23.687
+weight (mg): 11640
+read time (s): 0.33
+Tamb: 23.687
+weight (mg): 11542
+read time (s): 0.33
+Tamb: 23.687
+weight (mg): 11566
+read time (s): 0.329
+Tamb: 23.687
+weight (mg): 11635
+read time (s): 0.33
+Tamb: 23.75
+weight (mg): 11650
+read time (s): 0.329
+Tamb: 23.75
+weight (mg): 11596
+read time (s): 0.329
+Tamb: 23.687
+weight (mg): 11598
+read time (s): 0.329
+Tamb: 23.75
+weight (mg): 11490
+read time (s): 0.328
+Tamb: 23.687
+weight (mg): 11473
+read time (s): 0.327
+Tamb: 23.75
+weight (mg): 11544
+read time (s): 0.327
+Tamb: 23.75
+weight (mg): 11495
+read time (s): 0.326
+Tamb: 23.75
+weight (mg): 11502
+read time (s): 0.326
+Tamb: 23.812
+weight (mg): 11502
+read time (s): 0.326
+Tamb: 23.812
+weight (mg): 11539
+read time (s): 0.326
+Tamb: 23.812
+weight (mg): 11458
+read time (s): 0.325
+Tamb: 23.812
+weight (mg): 11473
+read time (s): 0.326
+Tamb: 23.812
+weight (mg): 11468
+read time (s): 0.326
+Tamb: 23.812
+weight (mg): 11465
+read time (s): 0.324
+Tamb: 23.812
+weight (mg): 11473
+read time (s): 0.323
+Tamb: 23.875
+weight (mg): 11453
+read time (s): 0.323
+Tamb: 23.875
+weight (mg): 11423
+read time (s): 0.322
+Tamb: 23.937
+weight (mg): 11431
+read time (s): 0.323
+Tamb: 23.875
+weight (mg): 11404
+read time (s): 0.322
+Tamb: 23.937
+weight (mg): 11320
+read time (s): 0.322
+Tamb: 23.875
+weight (mg): 11384
+read time (s): 0.321
+Tamb: 23.937
+weight (mg): 11340
+read time (s): 0.32
+Tamb: 23.937
+weight (mg): 11271
+read time (s): 0.32
+Tamb: 23.937
+weight (mg): 11327
+read time (s): 0.32
+Tamb: 23.937
+weight (mg): 11278
+read time (s): 0.319
+Tamb: 23.937
+weight (mg): 11295
+read time (s): 0.317
+Tamb: 23.937
+weight (mg): 11219
+read time (s): 0.316
+Tamb: 23.937
+weight (mg): 11197
+read time (s): 0.316
+Tamb: 24.0
+weight (mg): 11236
+read time (s): 0.316
+Tamb: 24.0
+weight (mg): 11209
+read time (s): 0.317
+Tamb: 24.0
+weight (mg): 11219
+read time (s): 0.317
+Tamb: 24.0
+weight (mg): 11271
+read time (s): 0.318
+Tamb: 24.062
+weight (mg): 11157
+read time (s): 0.317
+Tamb: 24.062
+weight (mg): 11187
+read time (s): 0.316
+Tamb: 24.062
+weight (mg): 11147
+read time (s): 0.317
+Tamb: 24.125
+weight (mg): 11147
+read time (s): 0.338
+Tamb: 24.062
+weight (mg): 11110
+read time (s): 0.316
+Tamb: 24.062
+weight (mg): 11145
+read time (s): 0.316
+Tamb: 24.062
+weight (mg): 11051
+read time (s): 0.316
+Tamb: 24.062
+weight (mg): 11041
+read time (s): 0.316
+Tamb: 24.125
+weight (mg): 10958
+read time (s): 0.316
+Tamb: 24.187
+weight (mg): 11073
+read time (s): 0.316
+Tamb: 24.125
+weight (mg): 11007
+read time (s): 0.314
+Tamb: 24.125
+weight (mg): 10930
+read time (s): 0.315
+Tamb: 24.187
+weight (mg): 10935
+read time (s): 0.336
+Tamb: 24.187
+weight (mg): 10923
+read time (s): 0.314
+Tamb: 24.187
+weight (mg): 10886
+read time (s): 0.316
+Tamb: 24.187
+weight (mg): 10879
+read time (s): 0.313
+Tamb: 24.187
+weight (mg): 10834
+read time (s): 0.324
+Tamb: 24.25
+weight (mg): 10896
+read time (s): 0.312
+Tamb: 24.187
+weight (mg): 10807
+read time (s): 0.311
+Tamb: 24.25
+weight (mg): 10780
+read time (s): 0.31
+Tamb: 24.25
+weight (mg): 10834
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10802
+read time (s): 0.313
+Tamb: 24.375
+weight (mg): 10775
+read time (s): 0.309
+Tamb: 24.312
+weight (mg): 10817
+read time (s): 0.308
+Tamb: 24.312
+weight (mg): 10736
+read time (s): 0.329
+Tamb: 24.312
+weight (mg): 10736
+read time (s): 0.309
+Tamb: 24.375
+weight (mg): 10576
+read time (s): 0.307
+Tamb: 24.375
+weight (mg): 10647
+read time (s): 0.307
+Tamb: 24.375
+weight (mg): 10667
+read time (s): 0.329
+Tamb: 24.437
+weight (mg): 10558
+read time (s): 0.306
+Tamb: 24.437
+weight (mg): 10521
+read time (s): 0.306
+Tamb: 24.437
+weight (mg): 10568
+read time (s): 0.305
+Tamb: 24.5
+weight (mg): 10506
+read time (s): 0.304
+Tamb: 24.5
+weight (mg): 10442
+read time (s): 0.303
+Tamb: 24.562
+weight (mg): 10433
+read time (s): 0.303
+Tamb: 24.562
+weight (mg): 10336
+read time (s): 0.303
+Tamb: 24.562
+weight (mg): 10388
+read time (s): 0.319
+Tamb: 24.625
+weight (mg): 10280
+read time (s): 0.303
+Tamb: 24.625
+weight (mg): 10329
+read time (s): 0.3
+Tamb: 24.625
+weight (mg): 10258
+read time (s): 0.3
+Tamb: 24.625
+weight (mg): 10248
+read time (s): 0.299
+Tamb: 24.625
+weight (mg): 10117
+read time (s): 0.313
+Tamb: 24.687
+weight (mg): 10218
+read time (s): 0.32
+Tamb: 24.687
+weight (mg): 10129
+read time (s): 0.3
+Tamb: 24.75
+weight (mg): 10073
+read time (s): 0.3
+Tamb: 24.75
+weight (mg): 10090
+read time (s): 0.3
+Tamb: 24.75
+weight (mg): 10095
+read time (s): 0.311
+Tamb: 24.75
+weight (mg): 9999
+read time (s): 0.299
+Tamb: 24.75
+weight (mg): 9969
+read time (s): 0.298
+Tamb: 24.75
+weight (mg): 9994
+read time (s): 0.296
+Tamb: 24.812
+weight (mg): 9932
+read time (s): 0.296
+Tamb: 24.875
+weight (mg): 9866
+read time (s): 0.295
+Tamb: 24.875
+weight (mg): 9851
+read time (s): 0.295
+Tamb: 24.875
+weight (mg): 9868
+read time (s): 0.295
+Tamb: 24.875
+weight (mg): 9794
+read time (s): 0.296
+Tamb: 24.875
+weight (mg): 9730
+read time (s): 0.296
+Tamb: 24.937
+weight (mg): 9747
+read time (s): 0.298
+Tamb: 24.937
+weight (mg): 9725
+read time (s): 0.297
+Tamb: 24.937
+weight (mg): 9715
+read time (s): 0.298
+Tamb: 24.937
+weight (mg): 9676
+read time (s): 0.297
+Tamb: 24.937
+weight (mg): 9580
+read time (s): 0.297
+Tamb: 25.0
+weight (mg): 9705
+read time (s): 0.297
+Tamb: 25.0
+weight (mg): 9457
+read time (s): 0.296
+Tamb: 25.0
+weight (mg): 9624
+read time (s): 0.296
+Tamb: 25.0
+weight (mg): 9636
+read time (s): 0.295
+Tamb: 25.062
+weight (mg): 9627
+read time (s): 0.294
+Tamb: 25.062
+weight (mg): 9511
+read time (s): 0.294
+Tamb: 25.062
+weight (mg): 9375
+read time (s): 0.291
+Tamb: 25.062
+weight (mg): 9407
+read time (s): 0.29
+Tamb: 25.125
+weight (mg): 9203
+read time (s): 0.291
+Tamb: 25.125
+weight (mg): 9368
+read time (s): 0.291
+Tamb: 25.187
+weight (mg): 9368
+read time (s): 0.289
+Tamb: 25.125
+weight (mg): 9291
+read time (s): 0.288
+Tamb: 25.187
+weight (mg): 9222
+read time (s): 0.287
+Tamb: 25.25
+weight (mg): 9227
+read time (s): 0.283
+Tamb: 25.187
+weight (mg): 9279
+read time (s): 0.283
+Tamb: 25.25
+weight (mg): 9208
+read time (s): 0.282
+Tamb: 25.25
+weight (mg): 9099
+read time (s): 0.375
+Tamb: 25.25
+weight (mg): 9116
+read time (s): 0.293
+Tamb: 25.312
+weight (mg): 9015
+read time (s): 0.372
+Tamb: 25.312
+weight (mg): 9077
+read time (s): 0.372
+Tamb: 25.375
+weight (mg): 9013
+read time (s): 0.37
+Tamb: 25.312
+weight (mg): 8966
+read time (s): 0.37
+Tamb: 25.375
+weight (mg): 8808
+read time (s): 0.369
+Tamb: 25.375
+weight (mg): 8806
+read time (s): 0.368
+Tamb: 25.375
+weight (mg): 8880
+read time (s): 0.369
+Tamb: 25.437
+weight (mg): 8744
+read time (s): 0.366
+Tamb: 25.375
+weight (mg): 8712
+read time (s): 0.368
+Tamb: 25.375
+weight (mg): 8633
+read time (s): 0.367
+Tamb: 25.375
+weight (mg): 8651
+read time (s): 0.365
+Tamb: 25.437
+weight (mg): 8670
+read time (s): 0.365
+Tamb: 25.5
+weight (mg): 8626
+read time (s): 0.363
+Tamb: 25.5
+weight (mg): 8586
+read time (s): 0.362
+Tamb: 25.625
+weight (mg): 8582
+read time (s): 0.36
+Tamb: 25.75
+weight (mg): 8419
+read time (s): 0.361
+Tamb: 25.687
+weight (mg): 8414
+read time (s): 0.358
+Tamb: 25.625
+weight (mg): 8345
+read time (s): 0.358
+Tamb: 25.687
+weight (mg): 8318
+read time (s): 0.357
+Tamb: 25.687
+weight (mg): 8306
+read time (s): 0.361
+Tamb: 25.687
+weight (mg): 8251
+read time (s): 0.356
+Tamb: 25.687
+weight (mg): 8246
+read time (s): 0.355
+Tamb: 25.687
+weight (mg): 8224
+read time (s): 0.354
+Tamb: 25.812
+weight (mg): 8185
+read time (s): 0.353
+Tamb: 25.812
+weight (mg): 8059
+read time (s): 0.352
+Tamb: 25.812
+weight (mg): 8049
+read time (s): 0.374
+Tamb: 25.75
+weight (mg): 8015
+read time (s): 0.352
+Tamb: 25.812
+weight (mg): 7889
+read time (s): 0.351
+Tamb: 25.812
+weight (mg): 7879
+read time (s): 0.35
+Tamb: 25.812
+weight (mg): 7926
+read time (s): 0.35
+Tamb: 25.812
+weight (mg): 7771
+read time (s): 0.349
+Tamb: 25.937
+weight (mg): 7736
+read time (s): 0.349
+Tamb: 25.937
+weight (mg): 7652
+read time (s): 0.35
+Tamb: 26.0
+weight (mg): 7665
+read time (s): 0.348
+Tamb: 26.0
+weight (mg): 7657
+read time (s): 0.348
+Tamb: 26.0
+weight (mg): 7645
+read time (s): 0.253
+Tamb: 26.062
+weight (mg): 7610
+read time (s): 0.346
+Tamb: 26.125
+weight (mg): 7435
+read time (s): 0.346
+Tamb: 26.125
+weight (mg): 7359
+read time (s): 0.346
+Tamb: 26.125
+weight (mg): 7327
+read time (s): 0.345
+Tamb: 26.187
+weight (mg): 7290
+read time (s): 0.344
+Tamb: 26.187
+weight (mg): 7349
+read time (s): 0.344
+Tamb: 26.25
+weight (mg): 7251
+read time (s): 0.343
+Tamb: 26.25
+weight (mg): 7182
+read time (s): 0.343
+Tamb: 26.312
+weight (mg): 7224
+read time (s): 0.343
+Tamb: 26.375
+weight (mg): 7187
+read time (s): 0.343
+Tamb: 26.375
+weight (mg): 7187
+read time (s): 0.342
+Tamb: 26.437
+weight (mg): 7036
+read time (s): 0.341
+Tamb: 26.5
+weight (mg): 6982
+read time (s): 0.34
+Tamb: 26.5
+weight (mg): 6898
+read time (s): 0.341
+Tamb: 26.5
+weight (mg): 6997
+read time (s): 0.341
+Tamb: 26.5
+weight (mg): 6896
+read time (s): 0.341
+Tamb: 26.562
+weight (mg): 6866
+read time (s): 0.34
+Tamb: 26.562
+weight (mg): 6777
+read time (s): 0.339
+Tamb: 26.625
+weight (mg): 6736
+read time (s): 0.34
+Tamb: 26.687
+weight (mg): 6750
+read time (s): 0.339
+Tamb: 26.687
+weight (mg): 6738
+read time (s): 0.339
+Tamb: 26.687
+weight (mg): 6652
+read time (s): 0.338
+Tamb: 26.75
+weight (mg): 6691
+read time (s): 0.337
+Tamb: 26.75
+weight (mg): 6597
+read time (s): 0.336
+Tamb: 26.75
+weight (mg): 6565
+read time (s): 0.337
+Tamb: 26.75
+weight (mg): 6467
+read time (s): 0.338
+Tamb: 26.75
+weight (mg): 6511
+read time (s): 0.337
+Tamb: 26.812
+weight (mg): 6455
+read time (s): 0.349
+Tamb: 26.875
+weight (mg): 6398
+read time (s): 0.348
+Tamb: 26.875
+weight (mg): 6339
+read time (s): 0.335
+Tamb: 26.875
+weight (mg): 6329
+read time (s): 0.337
+Tamb: 26.875
+weight (mg): 6297
+read time (s): 0.336
+Tamb: 26.937
+weight (mg): 6225
+read time (s): 0.335
+Tamb: 26.937
+weight (mg): 6215
+read time (s): 0.335
+Tamb: 26.937
+weight (mg): 6208
+read time (s): 0.335
+Tamb: 26.937
+weight (mg): 6149
+read time (s): 0.332
+Tamb: 27.0
+weight (mg): 6114
+read time (s): 0.333
+Tamb: 27.0
+weight (mg): 6102
+read time (s): 0.332
+Tamb: 27.0
+weight (mg): 6033
+read time (s): 0.356
+Tamb: 27.0
+weight (mg): 5999
+read time (s): 0.331
+Tamb: 27.062
+weight (mg): 5974
+read time (s): 0.352
+Tamb: 27.125
+weight (mg): 5957
+read time (s): 0.331
+Tamb: 27.125
+weight (mg): 5920
+read time (s): 0.332
+Tamb: 27.125
+weight (mg): 5880
+read time (s): 0.33
+Tamb: 27.125
+weight (mg): 5833
+read time (s): 0.33
+Tamb: 27.187
+weight (mg): 5861
+read time (s): 0.333
+Tamb: 27.25
+weight (mg): 5769
+read time (s): 0.331
+Tamb: 27.25
+weight (mg): 5742
+read time (s): 0.33
+Tamb: 27.25
+weight (mg): 5703
+read time (s): 0.331
+Tamb: 27.187
+weight (mg): 5658
+read time (s): 0.33
+Tamb: 27.25
+weight (mg): 5609
+read time (s): 0.33
+Tamb: 27.25
+weight (mg): 5565
+read time (s): 0.33
+Tamb: 27.312
+weight (mg): 5491
+read time (s): 0.33
+Tamb: 27.25
+weight (mg): 5589
+read time (s): 0.331
+Tamb: 27.312
+weight (mg): 5580
+read time (s): 0.33
+Tamb: 27.312
+weight (mg): 5471
+read time (s): 0.329
+Tamb: 27.312
+weight (mg): 5476
+read time (s): 0.35
+Tamb: 27.312
+weight (mg): 5486
+read time (s): 0.329
+Tamb: 27.312
+weight (mg): 5400
+read time (s): 0.328
+Tamb: 27.312
+weight (mg): 5355
+read time (s): 0.328
+Tamb: 27.312
+weight (mg): 5316
+read time (s): 0.328
+Tamb: 27.375
+weight (mg): 5294
+read time (s): 0.328
+Tamb: 27.375
+weight (mg): 5343
+read time (s): 0.329
+Tamb: 27.375
+weight (mg): 5299
+read time (s): 0.328
+Tamb: 27.375
+weight (mg): 5195
+read time (s): 0.327
+Tamb: 27.375
+weight (mg): 5247
+read time (s): 0.326
+Tamb: 27.437
+weight (mg): 5173
+read time (s): 0.327
+Tamb: 27.375
+weight (mg): 5148
+read time (s): 0.326
+Tamb: 27.437
+weight (mg): 5133
+read time (s): 0.326
+Tamb: 27.437
+weight (mg): 5079
+read time (s): 0.327
+Tamb: 27.437
+weight (mg): 5138
+read time (s): 0.326
+Tamb: 27.437
+weight (mg): 5126
+read time (s): 0.325
+Tamb: 27.437
+weight (mg): 5131
+read time (s): 0.325
+Tamb: 27.5
+weight (mg): 4993
+read time (s): 0.325
+Tamb: 27.5
+weight (mg): 4946
+read time (s): 0.325
+Tamb: 27.5
+weight (mg): 4944
+read time (s): 0.327
+Tamb: 27.5
+weight (mg): 5015
+read time (s): 0.335
+Tamb: 27.562
+weight (mg): 4991
+read time (s): 0.334
+Tamb: 27.562
+weight (mg): 4991
+read time (s): 0.333
+Tamb: 27.562
+weight (mg): 4852
+read time (s): 0.331
+Tamb: 27.562
+weight (mg): 4796
+read time (s): 0.33
+Tamb: 27.562
+weight (mg): 4803
+read time (s): 0.329
+Tamb: 27.625
+weight (mg): 4806
+read time (s): 0.328
+Tamb: 27.625
+weight (mg): 4751
+read time (s): 0.328
+Tamb: 27.625
+weight (mg): 4754
+read time (s): 0.328
+Tamb: 27.625
+weight (mg): 4692
+read time (s): 0.328
+Tamb: 27.625
+weight (mg): 4744
+read time (s): 0.326
+Tamb: 27.625
+weight (mg): 4613
+read time (s): 0.325
+Tamb: 27.625
+weight (mg): 4695
+read time (s): 0.326
+Tamb: 27.687
+weight (mg): 4572
+read time (s): 0.326
+Tamb: 27.687
+weight (mg): 4621
+read time (s): 0.347
+Tamb: 27.625
+weight (mg): 4650
+read time (s): 0.331
+Tamb: 27.625
+weight (mg): 4505
+read time (s): 0.324
+Tamb: 27.625
+weight (mg): 4539
+read time (s): 0.324
+Tamb: 27.687
+weight (mg): 4480
+read time (s): 0.323
+Tamb: 27.687
+weight (mg): 4507
+read time (s): 0.323
+Tamb: 27.687
+weight (mg): 4498
+read time (s): 0.322
+Tamb: 27.687
+weight (mg): 4507
+read time (s): 0.322
+Tamb: 27.687
+weight (mg): 4397
+read time (s): 0.324
+Tamb: 27.75
+weight (mg): 4495
+read time (s): 0.323
+Tamb: 27.75
+weight (mg): 4438
+read time (s): 0.345
+Tamb: 27.812
+weight (mg): 4367
+read time (s): 0.323
+Tamb: 27.75
+weight (mg): 4369
+read time (s): 0.322
+Tamb: 27.75
+weight (mg): 4303
+read time (s): 0.322
+Tamb: 27.75
+weight (mg): 4266
+read time (s): 0.322
+Tamb: 27.75
+weight (mg): 4362
+read time (s): 0.322
+Tamb: 27.75
+weight (mg): 4305
+read time (s): 0.322
+Tamb: 27.75
+weight (mg): 4283
+read time (s): 0.322
+Tamb: 27.812
+weight (mg): 4212
+read time (s): 0.32
+Tamb: 27.812
+weight (mg): 4207
+read time (s): 0.32
+Tamb: 27.812
+weight (mg): 4254
+read time (s): 0.32
+Tamb: 27.812
+weight (mg): 4140
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4204
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4170
+read time (s): 0.317
+Tamb: 27.812
+weight (mg): 4241
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4258
+read time (s): 0.34
+Tamb: 27.875
+weight (mg): 4091
+read time (s): 0.324
+Tamb: 27.875
+weight (mg): 4189
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4034
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4056
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4071
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4081
+read time (s): 0.317
+Tamb: 27.875
+weight (mg): 4027
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4012
+read time (s): 0.318
+Tamb: 27.875
+weight (mg): 4017
+read time (s): 0.317
+Tamb: 27.937
+weight (mg): 3968
+read time (s): 0.317
+Tamb: 27.937
+weight (mg): 3938
+read time (s): 0.317
+Tamb: 27.937
+weight (mg): 3973
+read time (s): 0.317
+Tamb: 28.0
+weight (mg): 3909
+read time (s): 0.318
+Tamb: 27.937
+weight (mg): 3852
+read time (s): 0.316
+Tamb: 27.937
+weight (mg): 4000
+read time (s): 0.316
+Tamb: 27.937
+weight (mg): 3896
+read time (s): 0.316
+Tamb: 28.0
+weight (mg): 3867
+read time (s): 0.316
+Tamb: 27.937
+weight (mg): 3839
+read time (s): 0.316
+Tamb: 28.0
+weight (mg): 3820
+read time (s): 0.316
+Tamb: 27.937
+weight (mg): 3830
+read time (s): 0.338
+Tamb: 27.937
+weight (mg): 3812
+read time (s): 0.316
+Tamb: 28.0
+weight (mg): 3805
+read time (s): 0.316
+Tamb: 27.937
+weight (mg): 3770
+read time (s): 0.316
+Tamb: 28.0
+weight (mg): 3741
+read time (s): 0.315
+Tamb: 28.062
+weight (mg): 3662
+read time (s): 0.337
+Tamb: 28.0
+weight (mg): 3729
+read time (s): 0.315
+Tamb: 28.062
+weight (mg): 3741
+read time (s): 0.315
+Tamb: 28.062
+weight (mg): 3783
+read time (s): 0.314
+Tamb: 28.125
+weight (mg): 3647
+read time (s): 0.313
+Tamb: 28.125
+weight (mg): 3665
+read time (s): 0.313
+Tamb: 28.062
+weight (mg): 3613
+read time (s): 0.313
+Tamb: 28.062
+weight (mg): 3642
+read time (s): 0.312
+Tamb: 28.125
+weight (mg): 3694
+read time (s): 0.311
+Tamb: 28.125
+weight (mg): 3672
+read time (s): 0.314
+Tamb: 28.062
+weight (mg): 3650
+read time (s): 0.314
+Tamb: 28.125
+weight (mg): 3620
+read time (s): 0.313
+Tamb: 28.125
+weight (mg): 3623
+read time (s): 0.313
+Tamb: 28.062
+weight (mg): 3642
+read time (s): 0.313
+Tamb: 28.125
+weight (mg): 3630
+read time (s): 0.314
+Tamb: 28.125
+weight (mg): 3645
+read time (s): 0.313
+Tamb: 28.125
+weight (mg): 3620
+read time (s): 0.313
+Tamb: 28.187
+weight (mg): 3573
+read time (s): 0.312
+Tamb: 28.187
+weight (mg): 3534
+read time (s): 0.312
+Tamb: 28.187
+weight (mg): 3583
+read time (s): 0.313
+Tamb: 28.125
+weight (mg): 3524
+read time (s): 0.311
+Tamb: 28.187
+weight (mg): 3490
+read time (s): 0.312
+Tamb: 28.125
+weight (mg): 3502
+read time (s): 0.312
+Tamb: 28.187
+weight (mg): 3494
+read time (s): 0.31
+Tamb: 28.187
+weight (mg): 3519
+read time (s): 0.312
+Tamb: 28.125
+weight (mg): 3509
+read time (s): 0.311
+Tamb: 28.187
+weight (mg): 3450
+read time (s): 0.308
+Tamb: 28.187
+weight (mg): 3502
+read time (s): 0.308
+Tamb: 28.25
+weight (mg): 3379
+read time (s): 0.308
+Tamb: 28.187
+weight (mg): 3448
+read time (s): 0.309
+Tamb: 28.187
+weight (mg): 3381
+read time (s): 0.308
+Tamb: 28.187
+weight (mg): 3433
+read time (s): 0.308
+Tamb: 28.187
+weight (mg): 3376
+read time (s): 0.308
+Tamb: 28.25
+weight (mg): 3349
+read time (s): 0.308
+Tamb: 28.25
+weight (mg): 3398
+read time (s): 0.307
+Tamb: 28.25
+weight (mg): 3351
+read time (s): 0.328
+Tamb: 28.25
+weight (mg): 3339
+read time (s): 0.315
+Tamb: 28.312
+weight (mg): 3342
+read time (s): 0.307
+Tamb: 28.25
+weight (mg): 3359
+read time (s): 0.307
+Tamb: 28.312
+weight (mg): 3354
+read time (s): 0.307
+Tamb: 28.25
+weight (mg): 3361
+read time (s): 0.306
+Tamb: 28.312
+weight (mg): 3268
+read time (s): 0.305
+Tamb: 28.312
+weight (mg): 3181
+read time (s): 0.305
+Tamb: 28.312
+weight (mg): 3295
+read time (s): 0.305
+Tamb: 28.25
+weight (mg): 3265
+read time (s): 0.305
+Tamb: 28.312
+weight (mg): 3290
+read time (s): 0.327
+Tamb: 28.312
+weight (mg): 3228
+read time (s): 0.305
+Tamb: 28.375
+weight (mg): 3189
+read time (s): 0.305
+Tamb: 28.312
+weight (mg): 3236
+read time (s): 0.305
+Tamb: 28.312
+weight (mg): 3174
+read time (s): 0.305
+Tamb: 28.312
+weight (mg): 3172
+read time (s): 0.327
+Tamb: 28.312
+weight (mg): 3275
+read time (s): 0.307
+Tamb: 28.375
+weight (mg): 3162
+read time (s): 0.305
+Tamb: 28.375
+weight (mg): 3130
+read time (s): 0.306
+Tamb: 28.375
+weight (mg): 3162
+read time (s): 0.305
+Tamb: 28.437
+weight (mg): 3105
+read time (s): 0.306
+Tamb: 28.375
+weight (mg): 3115
+read time (s): 0.307
+Tamb: 28.437
+weight (mg): 3112
+read time (s): 0.308
+Tamb: 28.437
+weight (mg): 3130
+read time (s): 0.308
+Tamb: 28.375
+weight (mg): 3159
+read time (s): 0.308
+Tamb: 28.437
+weight (mg): 3167
+read time (s): 0.329
+Tamb: 28.375
+weight (mg): 3179
+read time (s): 0.307
+Tamb: 28.437
+weight (mg): 3122
+read time (s): 0.307
+Tamb: 28.375
+weight (mg): 3105
+read time (s): 0.307
+Tamb: 28.437
+weight (mg): 3016
+read time (s): 0.328
+Tamb: 28.437
+weight (mg): 3071
+read time (s): 0.327
+Tamb: 28.5
+weight (mg): 3144
+read time (s): 0.306
+Tamb: 28.5
+weight (mg): 2947
+read time (s): 0.306
+Tamb: 28.437
+weight (mg): 3046
+read time (s): 0.307
+Tamb: 28.437
+weight (mg): 3036
+read time (s): 0.306
+Tamb: 28.5
+weight (mg): 3014
+read time (s): 0.305
+Tamb: 28.5
+weight (mg): 3053
+read time (s): 0.305
+Tamb: 28.5
+weight (mg): 2982
+read time (s): 0.306
+Tamb: 28.562
+weight (mg): 2984
+read time (s): 0.305
+Tamb: 28.5
+weight (mg): 2942
+read time (s): 0.306
+Tamb: 28.5
+weight (mg): 3009
+read time (s): 0.329
+Tamb: 28.562
+weight (mg): 3078
+read time (s): 0.306
+Tamb: 28.562
+weight (mg): 3038
+read time (s): 0.306
+Tamb: 28.5
+weight (mg): 3011
+read time (s): 0.306
+Tamb: 28.5
+weight (mg): 2989
+read time (s): 0.305
+Tamb: 28.562
+weight (mg): 2873
+read time (s): 0.306
+Tamb: 28.562
+weight (mg): 2940
+read time (s): 0.306
+Tamb: 28.562
+weight (mg): 2952
+read time (s): 0.306
+Tamb: 28.562
+weight (mg): 2928
+read time (s): 0.306
+Tamb: 28.562
+weight (mg): 2940
+read time (s): 0.307
+Tamb: 28.625
+weight (mg): 2893
+read time (s): 0.306
+Tamb: 28.562
+weight (mg): 2913
+read time (s): 0.306
+Tamb: 28.625
+weight (mg): 2937
+read time (s): 0.306
+Tamb: 28.625
+weight (mg): 2861
+read time (s): 0.307
+Tamb: 28.562
+weight (mg): 2900
+read time (s): 0.308
+Tamb: 28.625
+weight (mg): 2893
+read time (s): 0.307
+Tamb: 28.625
+weight (mg): 2923
+read time (s): 0.306
+Tamb: 28.687
+weight (mg): 2932
+read time (s): 0.307
+Tamb: 28.687
+weight (mg): 2814
+read time (s): 0.307
+Tamb: 28.625
+weight (mg): 2844
+read time (s): 0.308
+Tamb: 28.625
+weight (mg): 2819
+read time (s): 0.308
+Tamb: 28.687
+weight (mg): 2777
+read time (s): 0.308
+Tamb: 28.687
+weight (mg): 2873
+read time (s): 0.307
+Tamb: 28.625
+weight (mg): 2790
+read time (s): 0.317
+Tamb: 28.687
+weight (mg): 2780
+read time (s): 0.305
+Tamb: 28.625
+weight (mg): 2883
+read time (s): 0.306
+Tamb: 28.687
+weight (mg): 2807
+read time (s): 0.308
+Tamb: 28.687
+weight (mg): 2817
+read time (s): 0.307
+Tamb: 28.687
+weight (mg): 2836
+read time (s): 0.306
+Tamb: 28.687
+weight (mg): 2684
+read time (s): 0.308
+Tamb: 28.687
+weight (mg): 2841
+read time (s): 0.308
+Tamb: 28.75
+weight (mg): 2713
+read time (s): 0.306
+Tamb: 28.687
+weight (mg): 2676
+read time (s): 0.305
+Tamb: 28.687
+weight (mg): 2777
+read time (s): 0.307
+Tamb: 28.687
+weight (mg): 2834
+read time (s): 0.305
+Tamb: 28.75
+weight (mg): 2780
+read time (s): 0.305
+Tamb: 28.75
+weight (mg): 2750
+read time (s): 0.306
+Tamb: 28.75
+weight (mg): 2812
+read time (s): 0.306
+Tamb: 28.75
+weight (mg): 2760
+read time (s): 0.307
+Tamb: 28.687
+weight (mg): 2787
+read time (s): 0.308
+Tamb: 28.75
+weight (mg): 2713
+read time (s): 0.308
+Tamb: 28.75
+weight (mg): 2804
+read time (s): 0.309
+Tamb: 28.75
+weight (mg): 2772
+read time (s): 0.309
+Tamb: 28.75
+weight (mg): 2745
+read time (s): 0.309
+Tamb: 28.812
+weight (mg): 2698
+read time (s): 0.308
+Tamb: 28.75
+weight (mg): 2804
+read time (s): 0.306
+Tamb: 28.75
+weight (mg): 2703
+read time (s): 0.309
+Tamb: 28.75
+weight (mg): 2701
+read time (s): 0.308
+Tamb: 28.812
+weight (mg): 2698
+read time (s): 0.307
+Tamb: 28.812
+weight (mg): 2757
+read time (s): 0.308
+Tamb: 28.75
+weight (mg): 2767
+read time (s): 0.308
+Tamb: 28.75
+weight (mg): 2676
+read time (s): 0.31
+Tamb: 28.812
+weight (mg): 2740
+read time (s): 0.311
+Tamb: 28.812
+weight (mg): 2708
+read time (s): 0.31
+Tamb: 28.75
+weight (mg): 2718
+read time (s): 0.31
+Tamb: 28.75
+weight (mg): 2735
+read time (s): 0.311
+Tamb: 28.75
+weight (mg): 2713
+read time (s): 0.311
+Tamb: 28.812
+weight (mg): 2708
+read time (s): 0.311
+Tamb: 28.812
+weight (mg): 2745
+read time (s): 0.311
+Tamb: 28.812
+weight (mg): 2804
+read time (s): 0.312
+Tamb: 28.812
+weight (mg): 2725
+read time (s): 0.312
+Tamb: 28.812
+weight (mg): 2767
+read time (s): 0.312
+Tamb: 28.812
+weight (mg): 2659
+read time (s): 0.313
+Tamb: 28.812
+weight (mg): 2721
+read time (s): 0.314
+Tamb: 28.812
+weight (mg): 2730
+read time (s): 0.312
+Tamb: 28.875
+weight (mg): 2676
+read time (s): 0.312
+Tamb: 28.875
+weight (mg): 2730
+read time (s): 0.312
+Tamb: 28.875
+weight (mg): 2721
+read time (s): 0.312
+Tamb: 28.875
+weight (mg): 2728
+read time (s): 0.313
+Tamb: 28.875
+weight (mg): 2649
+read time (s): 0.314
+Tamb: 28.875
+weight (mg): 2681
+read time (s): 0.313
+Tamb: 28.937
+weight (mg): 2716
+read time (s): 0.314
+Tamb: 28.875
+weight (mg): 2619
+read time (s): 0.313
+Tamb: 28.875
+weight (mg): 2642
+read time (s): 0.313
+Tamb: 28.875
+weight (mg): 2753
+read time (s): 0.313
+Tamb: 28.937
+weight (mg): 2745
+read time (s): 0.336
+Tamb: 28.937
+weight (mg): 2711
+read time (s): 0.314
+Tamb: 28.937
+weight (mg): 2723
+read time (s): 0.314
+Tamb: 28.937
+weight (mg): 2733
+read time (s): 0.314
+Tamb: 28.875
+weight (mg): 2735
+read time (s): 0.313
+Tamb: 28.937
+weight (mg): 2725
+read time (s): 0.315
+Tamb: 28.875
+weight (mg): 2706
+read time (s): 0.312
+Tamb: 28.875
+weight (mg): 2681
+read time (s): 0.312
+Tamb: 28.937
+weight (mg): 2684
+read time (s): 0.312
+Tamb: 28.937
+weight (mg): 2688
+read time (s): 0.311
+Tamb: 28.937
+weight (mg): 2721
+read time (s): 0.312
+Tamb: 28.937
+weight (mg): 2637
+read time (s): 0.312
+Tamb: 28.937
+weight (mg): 2664
+read time (s): 0.311
+Tamb: 28.937
+weight (mg): 2762
+read time (s): 0.311
+Tamb: 29.0
+weight (mg): 2681
+read time (s): 0.313
+Tamb: 29.0
+weight (mg): 2664
+read time (s): 0.335
+Tamb: 28.937
+weight (mg): 2775
+read time (s): 0.313
+Tamb: 29.0
+weight (mg): 2755
+read time (s): 0.313
+Tamb: 28.937
+weight (mg): 2725
+read time (s): 0.314
+Tamb: 29.0
+weight (mg): 2674
+read time (s): 0.314
+Tamb: 28.937
+weight (mg): 2819
+read time (s): 0.336
+Tamb: 29.0
+weight (mg): 2558
+read time (s): 0.312
+Tamb: 29.0
+weight (mg): 2696
+read time (s): 0.314
+Tamb: 29.0
+weight (mg): 2738
+read time (s): 0.312
+Tamb: 29.0
+weight (mg): 2698
+read time (s): 0.313
+Tamb: 29.0
+weight (mg): 2730
+read time (s): 0.336
+Tamb: 29.0
+weight (mg): 2725
+read time (s): 0.315
+Tamb: 29.062
+weight (mg): 2679
+read time (s): 0.315
+Tamb: 29.0
+weight (mg): 2639
+read time (s): 0.315
+Tamb: 29.0
+weight (mg): 2703
+read time (s): 0.315
+Tamb: 29.062
+weight (mg): 2659
+read time (s): 0.33
+Tamb: 29.0
+weight (mg): 2674
+read time (s): 0.315
+Tamb: 29.0
+weight (mg): 2669
+read time (s): 0.315
+Tamb: 29.0
+weight (mg): 2674
+read time (s): 0.315
+Tamb: 29.0
+weight (mg): 2686
+read time (s): 0.315
+Tamb: 29.0
+weight (mg): 2647
+read time (s): 0.315
+Tamb: 29.062
+weight (mg): 2728
+read time (s): 0.315
+Tamb: 29.062
+weight (mg): 2684
+read time (s): 0.315
+Tamb: 29.062
+weight (mg): 2661
+read time (s): 0.314
+Tamb: 29.062
+weight (mg): 2654
+read time (s): 0.313
+Tamb: 29.062
+weight (mg): 2716
+read time (s): 0.313
+Tamb: 29.062
+weight (mg): 2664
+read time (s): 0.312
+Tamb: 29.0
+weight (mg): 2703
+read time (s): 0.312
+Tamb: 29.062
+weight (mg): 2676
+read time (s): 0.313
+Tamb: 29.062
+weight (mg): 2708
+read time (s): 0.313
+Tamb: 29.062
+weight (mg): 2698
+read time (s): 0.312
+Tamb: 29.062
+weight (mg): 2622
+read time (s): 0.339
+Tamb: 29.062
+weight (mg): 2716
+read time (s): 0.313
+Tamb: 29.062
+weight (mg): 2590
+read time (s): 0.314
+Tamb: 29.062
+weight (mg): 2728
+read time (s): 0.314
+Tamb: 29.062
+weight (mg): 2696
+read time (s): 0.337
+Tamb: 29.125
+weight (mg): 2585
+read time (s): 0.314
+Tamb: 29.125
+weight (mg): 2664
+read time (s): 0.313
+Tamb: 29.125
+weight (mg): 2634
+read time (s): 0.339
+Tamb: 29.125
+weight (mg): 2619
+read time (s): 0.315
+Tamb: 29.125
+weight (mg): 2580
+read time (s): 0.337
+Tamb: 29.125
+weight (mg): 2652
+read time (s): 0.314
+Tamb: 29.125
+weight (mg): 2639
+read time (s): 0.315
+Tamb: 29.125
+weight (mg): 2711
+read time (s): 0.316
+Tamb: 29.125
+weight (mg): 2619
+read time (s): 0.315
+Tamb: 29.125
+weight (mg): 2644
+read time (s): 0.337
+Tamb: 29.125
+weight (mg): 2679
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2592
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2627
+read time (s): 0.315
+Tamb: 29.125
+weight (mg): 2676
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2590
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2688
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2693
+read time (s): 0.315
+Tamb: 29.125
+weight (mg): 2679
+read time (s): 0.314
+Tamb: 29.125
+weight (mg): 2679
+read time (s): 0.313
+Tamb: 29.125
+weight (mg): 2610
+read time (s): 0.313
+Tamb: 29.125
+weight (mg): 2676
+read time (s): 0.314
+Tamb: 29.125
+weight (mg): 2634
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2634
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2634
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2607
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2610
+read time (s): 0.314
+Tamb: 29.125
+weight (mg): 2560
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2543
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2573
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2595
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2644
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2622
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2619
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2602
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2597
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2597
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2612
+read time (s): 0.313
+Tamb: 29.125
+weight (mg): 2634
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2570
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2610
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2619
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2533
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2546
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2541
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2612
+read time (s): 0.315
+Tamb: 29.187
+weight (mg): 2558
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2550
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2536
+read time (s): 0.311
+Tamb: 29.187
+weight (mg): 2546
+read time (s): 0.311
+Tamb: 29.187
+weight (mg): 2560
+read time (s): 0.311
+Tamb: 29.187
+weight (mg): 2543
+read time (s): 0.314
+Tamb: 29.187
+weight (mg): 2563
+read time (s): 0.313
+Tamb: 29.187
+weight (mg): 2605
+read time (s): 0.311
+Tamb: 29.25
+weight (mg): 2477
+read time (s): 0.311
+Tamb: 29.187
+weight (mg): 2555
+read time (s): 0.334
+Tamb: 29.25
+weight (mg): 2484
+read time (s): 0.311
+Tamb: 29.25
+weight (mg): 2553
+read time (s): 0.312
+Tamb: 29.25
+weight (mg): 2509
+read time (s): 0.333
+Tamb: 29.25
+weight (mg): 2494
+read time (s): 0.313
+Tamb: 29.25
+weight (mg): 2563
+read time (s): 0.311
+Tamb: 29.25
+weight (mg): 2509
+read time (s): 0.311
+Tamb: 29.25
+weight (mg): 2474
+read time (s): 0.311
+Tamb: 29.312
+weight (mg): 2543
+read time (s): 0.312
+Tamb: 29.25
+weight (mg): 2583
+read time (s): 0.312
+Tamb: 29.25
+weight (mg): 2568
+read time (s): 0.335
+Tamb: 29.25
+weight (mg): 2518
+read time (s): 0.313
+Tamb: 29.25
+weight (mg): 2575
+read time (s): 0.313
+Tamb: 29.25
+weight (mg): 2516
+read time (s): 0.313
+Tamb: 29.312
+weight (mg): 2442
+read time (s): 0.312
+Tamb: 29.312
+weight (mg): 2388
+read time (s): 0.334
+Tamb: 29.25
+weight (mg): 2454
+read time (s): 0.311
+Tamb: 29.312
+weight (mg): 2437
+read time (s): 0.313
+Tamb: 29.312
+weight (mg): 2511
+read time (s): 0.312
+Tamb: 29.25
+weight (mg): 2459
+read time (s): 0.311
+Tamb: 29.312
+weight (mg): 2479
+read time (s): 0.311
+Tamb: 29.312
+weight (mg): 2513
+read time (s): 0.312
+Tamb: 29.25
+weight (mg): 2474
+read time (s): 0.311
+Tamb: 29.312
+weight (mg): 2432
+read time (s): 0.31
+Tamb: 29.312
+weight (mg): 2432
+read time (s): 0.31
+Tamb: 29.312
+weight (mg): 2395
+read time (s): 0.332
+Tamb: 29.375
+weight (mg): 2403
+read time (s): 0.312
+Tamb: 29.375
+weight (mg): 2403
+read time (s): 0.311
+Tamb: 29.312
+weight (mg): 2457
+read time (s): 0.31
+Tamb: 29.375
+weight (mg): 2403
+read time (s): 0.309
+Tamb: 29.375
+weight (mg): 2334
+read time (s): 0.309
+Tamb: 29.437
+weight (mg): 2400
+read time (s): 0.31
+Tamb: 29.437
+weight (mg): 2378
+read time (s): 0.309
+Tamb: 29.437
+weight (mg): 2361
+read time (s): 0.309
+Tamb: 29.437
+weight (mg): 2267
+read time (s): 0.308
+Tamb: 29.5
+weight (mg): 2366
+read time (s): 0.308
+Tamb: 29.5
+weight (mg): 2292
+read time (s): 0.308
+Tamb: 29.5
+weight (mg): 2262
+read time (s): 0.308
+Tamb: 29.562
+weight (mg): 2343
+read time (s): 0.309
+Tamb: 29.562
+weight (mg): 2274
+read time (s): 0.308
+Tamb: 29.562
+weight (mg): 2255
+read time (s): 0.327
+Tamb: 29.625
+weight (mg): 2297
+read time (s): 0.305
+Tamb: 29.562
+weight (mg): 2302
+read time (s): 0.305
+Tamb: 29.625
+weight (mg): 2198
+read time (s): 0.306
+Tamb: 29.625
+weight (mg): 2200
+read time (s): 0.307
+Tamb: 29.625
+weight (mg): 2242
+read time (s): 0.309
+Tamb: 29.687
+weight (mg): 2223
+read time (s): 0.307
+Tamb: 29.687
+weight (mg): 2213
+read time (s): 0.306
+Tamb: 29.687
+weight (mg): 2144
+read time (s): 0.305
+Tamb: 29.687
+weight (mg): 2119
+read time (s): 0.304
+Tamb: 29.687
+weight (mg): 2159
+read time (s): 0.326
+Tamb: 29.687
+weight (mg): 2104
+read time (s): 0.304
+Tamb: 29.687
+weight (mg): 2131
+read time (s): 0.304
+Tamb: 29.75
+weight (mg): 2178
+read time (s): 0.304
+Tamb: 29.75
+weight (mg): 2117
+read time (s): 0.303
+Tamb: 29.75
+weight (mg): 2030
+read time (s): 0.304
+Tamb: 29.812
+weight (mg): 2028
+read time (s): 0.304
+Tamb: 29.812
+weight (mg): 2011
+read time (s): 0.303
+Tamb: 29.812
+weight (mg): 2129
+read time (s): 0.303
+Tamb: 29.812
+weight (mg): 2045
+read time (s): 0.303
+Tamb: 29.812
+weight (mg): 2072
+read time (s): 0.325
+Tamb: 29.875
+weight (mg): 1959
+read time (s): 0.303
+Tamb: 29.812
+weight (mg): 2016
+read time (s): 0.303
+Tamb: 29.875
+weight (mg): 1998
+read time (s): 0.303
+Tamb: 29.875
+weight (mg): 1843
+read time (s): 0.302
+Tamb: 29.875
+weight (mg): 1934
+read time (s): 0.324
+Tamb: 29.875
+weight (mg): 1944
+read time (s): 0.303
+Tamb: 29.875
+weight (mg): 1870
+read time (s): 0.303
+Tamb: 29.937
+weight (mg): 1865
+read time (s): 0.303
+Tamb: 29.937
+weight (mg): 1897
+read time (s): 0.313
+Tamb: 29.937
+weight (mg): 1890
+read time (s): 0.325
+Tamb: 29.937
+weight (mg): 1878
+read time (s): 0.303
+Tamb: 29.937
+weight (mg): 1900
+read time (s): 0.303
+Tamb: 29.937
+weight (mg): 1910
+read time (s): 0.303
+Tamb: 29.937
+weight (mg): 1860
+read time (s): 0.303
+Tamb: 30.0
+weight (mg): 1818
+read time (s): 0.302
+Tamb: 30.0
+weight (mg): 1863
+read time (s): 0.3
+Tamb: 30.062
+weight (mg): 1772
+read time (s): 0.3
+Tamb: 30.062
+weight (mg): 1883
+read time (s): 0.301
+Tamb: 30.062
+weight (mg): 1772
+read time (s): 0.302
+Tamb: 30.062
+weight (mg): 1732
+read time (s): 0.302
+Tamb: 30.062
+weight (mg): 1648
+read time (s): 0.302
+Tamb: 30.062
+weight (mg): 1688
+read time (s): 0.302
+Tamb: 30.062
+weight (mg): 1754
+read time (s): 0.302
+Tamb: 30.062
+weight (mg): 1749
+read time (s): 0.302
+Tamb: 30.062
+weight (mg): 1769
+read time (s): 0.302
+Tamb: 30.125
+weight (mg): 1666
+read time (s): 0.302
+Tamb: 30.125
+weight (mg): 1646
+read time (s): 0.301
+Tamb: 30.125
+weight (mg): 1730
+read time (s): 0.3
+Tamb: 30.125
+weight (mg): 1639
+read time (s): 0.299
+Tamb: 30.125
+weight (mg): 1629
+read time (s): 0.3
+Tamb: 30.125
+weight (mg): 1565
+read time (s): 0.302
+Tamb: 30.125
+weight (mg): 1663
+read time (s): 0.302
+Tamb: 30.187
+weight (mg): 1557
+read time (s): 0.302
+Tamb: 30.187
+weight (mg): 1518
+read time (s): 0.301
+Tamb: 30.187
+weight (mg): 1552
+read time (s): 0.3
+Tamb: 30.187
+weight (mg): 1533
+read time (s): 0.3
+Tamb: 30.25
+weight (mg): 1550
+read time (s): 0.299
+Tamb: 30.187
+weight (mg): 1488
+read time (s): 0.299
+Tamb: 30.25
+weight (mg): 1436
+read time (s): 0.301
+Tamb: 30.25
+weight (mg): 1513
+read time (s): 0.301
+Tamb: 30.312
+weight (mg): 1505
+read time (s): 0.3
+Tamb: 30.25
+weight (mg): 1434
+read time (s): 0.299
+Tamb: 30.25
+weight (mg): 1367
+read time (s): 0.299
+Tamb: 30.312
+weight (mg): 1473
+read time (s): 0.316
+Tamb: 30.312
+weight (mg): 1382
+read time (s): 0.319
+Tamb: 30.25
+weight (mg): 1318
+read time (s): 0.299
+Tamb: 30.312
+weight (mg): 1409
+read time (s): 0.299
+Tamb: 30.25
+weight (mg): 1308
+read time (s): 0.299
+Tamb: 30.25
+weight (mg): 1308
+read time (s): 0.299
+Tamb: 30.312
+weight (mg): 1321
+read time (s): 0.298
+Tamb: 30.312
+weight (mg): 1232
+read time (s): 0.298
+Tamb: 30.312
+weight (mg): 1155
+read time (s): 0.298
+Tamb: 30.375
+weight (mg): 1323
+read time (s): 0.299
+Tamb: 30.187
+weight (mg): 1200
+read time (s): 0.298
+Tamb: 30.062
+weight (mg): 1247
+read time (s): 0.3
+Tamb: 30.0
+weight (mg): 1200
+read time (s): 0.3
+Tamb: 29.937
+weight (mg): 1128
+read time (s): 0.3
+Tamb: 29.937
+weight (mg): 1116
+read time (s): 0.3
+Tamb: 29.875
+weight (mg): 1062
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1160
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1116
+read time (s): 0.622
+Tamb: 29.812
+weight (mg): 1084
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1114
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1020
+read time (s): 0.301
+Tamb: 29.812
+weight (mg): 1015
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 993
+read time (s): 0.301
+Tamb: 29.812
+weight (mg): 993
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1052
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1049
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1040
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 1020
+read time (s): 0.301
+Tamb: 29.812
+weight (mg): 1045
+read time (s): 0.301
+Tamb: 29.812
+weight (mg): 1027
+read time (s): 0.301
+Tamb: 29.812
+weight (mg): 1054
+read time (s): 0.3
+Tamb: 29.812
+weight (mg): 976
+read time (s): 0.3
+Tamb: 29.875
+weight (mg): 929
+read time (s): 0.301
+Tamb: 29.875
+weight (mg): 892
+read time (s): 0.312
+Tamb: 29.875
+weight (mg): 939
+read time (s): 0.301
+Tamb: 29.937
+weight (mg): 847
+read time (s): 0.301
+Tamb: 29.875
+weight (mg): 998
+read time (s): 0.301
+Tamb: 29.937
+weight (mg): 808
+read time (s): 0.301
+Tamb: 29.937
+weight (mg): 899
+read time (s): 0.301
+Tamb: 30.0
+weight (mg): 850
+read time (s): 0.301
+Tamb: 30.0
+weight (mg): 934
+read time (s): 0.299
+Tamb: 30.0
+weight (mg): 919
+read time (s): 0.299
+Tamb: 30.062
+weight (mg): 914
+read time (s): 0.298
+Tamb: 30.0
+weight (mg): 850
+read time (s): 0.299
+Tamb: 30.062
+weight (mg): 907
+read time (s): 0.3
+Tamb: 30.062
+weight (mg): 961
+read time (s): 0.3
+Tamb: 30.062
+weight (mg): 899
+read time (s): 0.301
+Tamb: 30.062
+weight (mg): 842
+read time (s): 0.3
+Tamb: 30.062
+weight (mg): 788
+read time (s): 0.3
+Tamb: 30.062
+weight (mg): 815
+read time (s): 0.302
+Tamb: 30.125
+weight (mg): 825
+read time (s): 0.302
+Tamb: 30.125
+weight (mg): 845
+read time (s): 0.303
+Tamb: 30.125
+weight (mg): 916
+read time (s): 0.303
+Tamb: 30.125
+weight (mg): 801
+read time (s): 0.303
+Tamb: 30.125
+weight (mg): 867
+read time (s): 0.325
+Tamb: 30.187
+weight (mg): 838
+read time (s): 0.302
+Tamb: 30.187
+weight (mg): 857
+read time (s): 0.301
+Tamb: 30.187
+weight (mg): 870
+read time (s): 0.301
+Tamb: 30.125
+weight (mg): 823
+read time (s): 0.302
+Tamb: 30.187
+weight (mg): 818
+read time (s): 0.323
+Tamb: 30.187
+weight (mg): 907
+read time (s): 0.301
+Tamb: 30.187
+weight (mg): 874
+read time (s): 0.303
+Tamb: 30.25
+weight (mg): 833
+read time (s): 0.303
+Tamb: 30.25
+weight (mg): 902
+read time (s): 0.302
+Tamb: 30.187
+weight (mg): 874
+read time (s): 0.323
+Tamb: 30.25
+weight (mg): 847
+read time (s): 0.301
+Tamb: 30.25
+weight (mg): 751
+read time (s): 0.303
+Tamb: 30.25
+weight (mg): 894
+read time (s): 0.302
+Tamb: 30.312
+weight (mg): 830
+read time (s): 0.301
+Tamb: 30.312
+weight (mg): 857
+read time (s): 0.32
+Tamb: 30.312
+weight (mg): 805
+read time (s): 0.297
+Tamb: 30.312
+weight (mg): 805
+read time (s): 0.298
+Tamb: 30.375
+weight (mg): 739
+read time (s): 0.319
+Tamb: 30.375
+weight (mg): 867
+read time (s): 0.305
+Tamb: 30.375
+weight (mg): 714
+read time (s): 0.321
+Tamb: 30.437
+weight (mg): 665
+read time (s): 0.299
+Tamb: 30.437
+weight (mg): 699
+read time (s): 0.299
+Tamb: 30.437
+weight (mg): 729
+read time (s): 0.303
+Tamb: 30.437
+weight (mg): 650
+read time (s): 0.299
+Tamb: 30.437
+weight (mg): 759
+read time (s): 0.3
+Tamb: 30.5
+weight (mg): 709
+read time (s): 0.3
+Tamb: 30.5
+weight (mg): 665
+read time (s): 0.3
+Tamb: 30.5
+weight (mg): 732
+read time (s): 0.299
+Tamb: 30.5
+weight (mg): 682
+read time (s): 0.298
+Tamb: 30.5
+weight (mg): 690
+read time (s): 0.299
+Tamb: 30.562
+weight (mg): 628
+read time (s): 0.299
+Tamb: 30.562
+weight (mg): 576
+read time (s): 0.3
+Tamb: 30.625
+weight (mg): 633
+read time (s): 0.297
+Tamb: 30.687
+weight (mg): 638
+read time (s): 0.297
+Tamb: 30.625
+weight (mg): 635
+read time (s): 0.297
+Tamb: 30.687
+weight (mg): 559
+read time (s): 0.296
+Tamb: 30.625
+weight (mg): 497
+read time (s): 0.299
+Tamb: 30.687
+weight (mg): 502
+read time (s): 0.297
+Tamb: 30.625
+weight (mg): 488
+read time (s): 0.298
+Tamb: 30.625
+weight (mg): 428
+read time (s): 0.298
+Tamb: 30.687
+weight (mg): 517
+read time (s): 0.203
+Tamb: 30.687
+weight (mg): 448
+read time (s): 0.298
+Tamb: 30.687
+weight (mg): 473
+read time (s): 0.297
+Tamb: 30.687
+weight (mg): 377
+read time (s): 0.298
+Tamb: 30.75
+weight (mg): 492
+read time (s): 0.319
+Tamb: 30.75
+weight (mg): 438
+read time (s): 0.297
+Tamb: 30.75
+weight (mg): 374
+read time (s): 0.297
+Tamb: 30.75
+weight (mg): 428
+read time (s): 0.297
+Tamb: 30.75
+weight (mg): 391
+read time (s): 0.297
+Tamb: 30.75
+weight (mg): 404
+read time (s): 0.319
+Tamb: 30.75
+weight (mg): 431
+read time (s): 0.321
+Tamb: 30.812
+weight (mg): 426
+read time (s): 0.309
+Tamb: 30.812
+weight (mg): 340
+read time (s): 0.297
+Tamb: 30.812
+weight (mg): 357
+read time (s): 0.297
+Tamb: 30.812
+weight (mg): 290
+read time (s): 0.319
+Tamb: 30.812
+weight (mg): 389
+read time (s): 0.39
+Tamb: 30.812
+weight (mg): 219
+read time (s): 0.298
+Tamb: 30.812
+weight (mg): 401
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 273
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 285
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 317
+read time (s): 0.298
+Tamb: 30.812
+weight (mg): 317
+read time (s): 0.297
+Tamb: 30.812
+weight (mg): 261
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 214
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 216
+read time (s): 0.297
+Tamb: 30.812
+weight (mg): 182
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 177
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 160
+read time (s): 0.297
+Tamb: 30.875
+weight (mg): 105
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): 103
+read time (s): 0.39
+Tamb: 30.937
+weight (mg): 105
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): 44
+read time (s): 0.298
+Tamb: 30.875
+weight (mg): 44
+read time (s): 0.298
+Tamb: 30.937
+weight (mg): 147
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): 172
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): 51
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): -10
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -57
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): 24
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): 86
+read time (s): 0.296
+Tamb: 30.937
+weight (mg): 46
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): 24
+read time (s): 0.298
+Tamb: 30.937
+weight (mg): 4
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): 24
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -23
+read time (s): 0.296
+Tamb: 30.937
+weight (mg): -35
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -23
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): -62
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -126
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -28
+read time (s): 0.309
+Tamb: 31.0
+weight (mg): -119
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -37
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -104
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -131
+read time (s): 0.294
+Tamb: 30.937
+weight (mg): -136
+read time (s): 0.294
+Tamb: 31.0
+weight (mg): -52
+read time (s): 0.295
+Tamb: 31.0
+weight (mg): -183
+read time (s): 0.294
+Tamb: 31.0
+weight (mg): -153
+read time (s): 0.295
+Tamb: 31.0
+weight (mg): -129
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -79
+read time (s): 0.295
+Tamb: 31.0
+weight (mg): -178
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -175
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -185
+read time (s): 0.297
+Tamb: 30.937
+weight (mg): -208
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -183
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -244
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -136
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -175
+read time (s): 0.295
+Tamb: 31.0
+weight (mg): -126
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -281
+read time (s): 0.296
+Tamb: 31.062
+weight (mg): -148
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -262
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -203
+read time (s): 0.308
+Tamb: 31.0
+weight (mg): -360
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -190
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -249
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -188
+read time (s): 0.3
+Tamb: 30.937
+weight (mg): -232
+read time (s): 0.321
+Tamb: 31.0
+weight (mg): -222
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -220
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -143
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -232
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -240
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -225
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -299
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -264
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -210
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -252
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -296
+read time (s): 0.321
+Tamb: 31.0
+weight (mg): -301
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -304
+read time (s): 0.299
+Tamb: 31.062
+weight (mg): -281
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -274
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -306
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -318
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -252
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -326
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -286
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -353
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -321
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -383
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -427
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -350
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -323
+read time (s): 0.621
+Tamb: 31.062
+weight (mg): -397
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -378
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -395
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -405
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -385
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -415
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -493
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -422
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -417
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -437
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -481
+read time (s): 0.3
+Tamb: 31.062
+weight (mg): -432
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -380
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -427
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -452
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -447
+read time (s): 0.299
+Tamb: 31.062
+weight (mg): -518
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -427
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -434
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -562
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -518
+read time (s): 0.3
+Tamb: 31.062
+weight (mg): -580
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -525
+read time (s): 0.32
+Tamb: 31.062
+weight (mg): -506
+read time (s): 0.621
+Tamb: 31.0
+weight (mg): -484
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -540
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -506
+read time (s): 0.32
+Tamb: 31.0
+weight (mg): -503
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -631
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -567
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -506
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -503
+read time (s): 0.299
+Tamb: 31.062
+weight (mg): -560
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -597
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -659
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -651
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -580
+read time (s): 0.32
+Tamb: 31.062
+weight (mg): -567
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -599
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -617
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -587
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -710
+read time (s): 0.318
+Tamb: 31.062
+weight (mg): -585
+read time (s): 0.295
+Tamb: 31.0
+weight (mg): -530
+read time (s): 0.296
+Tamb: 31.062
+weight (mg): -671
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -599
+read time (s): 0.296
+Tamb: 31.062
+weight (mg): -681
+read time (s): 0.299
+Tamb: 31.062
+weight (mg): -634
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -624
+read time (s): 0.296
+Tamb: 31.062
+weight (mg): -668
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -619
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -659
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -683
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -688
+read time (s): 0.296
+Tamb: 31.062
+weight (mg): -631
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -691
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -612
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -673
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -747
+read time (s): 0.296
+Tamb: 31.062
+weight (mg): -710
+read time (s): 0.296
+Tamb: 31.062
+weight (mg): -654
+read time (s): 0.298
+Tamb: 31.0
+weight (mg): -654
+read time (s): 0.296
+Tamb: 31.0
+weight (mg): -646
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -629
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -745
+read time (s): 0.299
+Tamb: 31.062
+weight (mg): -728
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -737
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -656
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -666
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -708
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -668
+read time (s): 0.622
+Tamb: 31.0
+weight (mg): -691
+read time (s): 0.301
+Tamb: 31.0
+weight (mg): -710
+read time (s): 0.297
+Tamb: 31.0
+weight (mg): -774
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -735
+read time (s): 0.309
+Tamb: 31.0
+weight (mg): -762
+read time (s): 0.297
+Tamb: 31.062
+weight (mg): -733
+read time (s): 0.298
+Tamb: 31.062
+weight (mg): -651
+read time (s): 0.299
+Tamb: 31.062
+weight (mg): -792
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -747
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -806
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -700
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -777
+read time (s): 0.301
+Tamb: 31.0
+weight (mg): -750
+read time (s): 0.301
+Tamb: 31.062
+weight (mg): -752
+read time (s): 0.301
+Tamb: 31.0
+weight (mg): -678
+read time (s): 0.301
+Tamb: 31.0
+weight (mg): -723
+read time (s): 0.301
+Tamb: 31.0
+weight (mg): -646
+read time (s): 0.3
+Tamb: 31.0
+weight (mg): -713
+read time (s): 0.305
+Tamb: 31.0
+weight (mg): -806
+read time (s): 0.301
+Tamb: 30.937
+weight (mg): -747
+read time (s): 0.301
+Tamb: 30.937
+weight (mg): -811
+read time (s): 0.301
+Tamb: 30.937
+weight (mg): -715
+read time (s): 0.301
+Tamb: 30.937
+weight (mg): -750
+read time (s): 0.301
+Tamb: 31.0
+weight (mg): -715
+read time (s): 0.301
+Tamb: 30.937
+weight (mg): -797
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -774
+read time (s): 0.299
+Tamb: 30.937
+weight (mg): -723
+read time (s): 0.3
+Tamb: 30.937
+weight (mg): -787
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -829
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -713
+read time (s): 0.299
+Tamb: 30.937
+weight (mg): -794
+read time (s): 0.301
+Tamb: 30.937
+weight (mg): -841
+read time (s): 0.299
+Tamb: 31.0
+weight (mg): -700
+read time (s): 0.299
+Tamb: 30.937
+weight (mg): -740
+read time (s): 0.299
+Tamb: 30.937
+weight (mg): -755
+read time (s): 0.299
+Tamb: 30.937
+weight (mg): -782
+read time (s): 0.3
+Tamb: 30.937
+weight (mg): -735
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -735
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -755
+read time (s): 0.301
+Tamb: 30.937
+weight (mg): -757
+read time (s): 0.303
+Tamb: 30.937
+weight (mg): -804
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -688
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -745
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -814
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -804
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -703
+read time (s): 0.303
+Tamb: 30.937
+weight (mg): -742
+read time (s): 0.302
+Tamb: 30.937
+weight (mg): -799
+read time (s): 0.303
+Tamb: 30.937
+weight (mg): -723
+read time (s): 0.303
+Tamb: 30.937
+weight (mg): -834
+read time (s): 0.304
+Tamb: 30.937
+weight (mg): -806
+read time (s): 0.303
+Tamb: 30.937
+weight (mg): -794
+read time (s): 0.303
+Tamb: 30.875
+weight (mg): -752
+read time (s): 0.304
+Tamb: 30.875
+weight (mg): -705
+read time (s): 0.303
+Tamb: 30.875
+weight (mg): -777
+read time (s): 0.303
+Tamb: 30.937
+weight (mg): -814
+read time (s): 0.304
+Tamb: 30.937
+weight (mg): -752
+read time (s): 0.303
+Tamb: 30.937
+weight (mg): -760
+read time (s): 0.304
+Tamb: 30.937
+weight (mg): -747
+read time (s): 0.303
+Tamb: 30.875
+weight (mg): -787
+read time (s): 0.304
+Tamb: 30.875
+weight (mg): -760
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -851
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -765
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -794
+read time (s): 0.305
+Tamb: 30.812
+weight (mg): -725
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -698
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -705
+read time (s): 0.306
+Tamb: 30.875
+weight (mg): -686
+read time (s): 0.306
+Tamb: 30.875
+weight (mg): -696
+read time (s): 0.328
+Tamb: 30.875
+weight (mg): -718
+read time (s): 0.306
+Tamb: 30.875
+weight (mg): -671
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -710
+read time (s): 0.304
+Tamb: 30.875
+weight (mg): -735
+read time (s): 0.304
+Tamb: 30.875
+weight (mg): -686
+read time (s): 0.325
+Tamb: 30.875
+weight (mg): -745
+read time (s): 0.303
+Tamb: 30.812
+weight (mg): -661
+read time (s): 0.304
+Tamb: 30.875
+weight (mg): -681
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -631
+read time (s): 0.303
+Tamb: 30.875
+weight (mg): -728
+read time (s): 0.326
+Tamb: 30.812
+weight (mg): -703
+read time (s): 0.304
+Tamb: 30.875
+weight (mg): -720
+read time (s): 0.304
+Tamb: 30.875
+weight (mg): -641
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -651
+read time (s): 0.304
+Tamb: 30.812
+weight (mg): -678
+read time (s): 0.326
+Tamb: 30.812
+weight (mg): -634
+read time (s): 0.305
+Tamb: 30.875
+weight (mg): -728
+read time (s): 0.307
+Tamb: 30.812
+weight (mg): -700
+read time (s): 0.304
+Tamb: 30.812
+weight (mg): -659
+read time (s): 0.305
+Tamb: 30.812
+weight (mg): -676
+read time (s): 0.327
+Tamb: 30.812
+weight (mg): -641
+read time (s): 0.306
+Tamb: 30.812
+weight (mg): -730
+read time (s): 0.304
+Tamb: 30.75
+weight (mg): -656
+read time (s): 0.306
+Tamb: 30.812
+weight (mg): -582
+read time (s): 0.307
+Tamb: 30.75
+weight (mg): -612
+read time (s): 0.33
+Tamb: 30.812
+weight (mg): -678
+read time (s): 0.308
+Tamb: 30.812
+weight (mg): -649
+read time (s): 0.308
+Tamb: 30.812
+weight (mg): -577
+read time (s): 0.309
+Tamb: 30.75
+weight (mg): -567
+read time (s): 0.307
+Tamb: 30.812
+weight (mg): -570
+read time (s): 0.307
+Tamb: 30.812
+weight (mg): -565
+read time (s): 0.308
+Tamb: 30.75
+weight (mg): -617
+read time (s): 0.309
+Tamb: 30.75
+weight (mg): -646
+read time (s): 0.307
+Tamb: 30.75
+weight (mg): -580
+read time (s): 0.307
+Tamb: 30.812
+weight (mg): -629
+read time (s): 0.307
+Tamb: 30.812
+weight (mg): -545
+read time (s): 0.307
+Tamb: 30.75
+weight (mg): -612
+read time (s): 0.309
+Tamb: 30.75
+weight (mg): -562
+read time (s): 0.309
+Tamb: 30.75
+weight (mg): -671
+read time (s): 0.309
+Tamb: 30.75
+weight (mg): -590
+read time (s): 0.309
+Tamb: 30.75
+weight (mg): -617
+read time (s): 0.309
+Tamb: 30.75
+weight (mg): -651
+read time (s): 0.31
+Tamb: 30.75
+weight (mg): -599
+read time (s): 0.309
+Tamb: 30.687
+weight (mg): -567
+read time (s): 0.31
+Tamb: 30.687
+weight (mg): -558
+read time (s): 0.31
+Tamb: 30.687
+weight (mg): -585
+read time (s): 0.309
+Tamb: 30.687
+weight (mg): -543
+read time (s): 0.31
+Tamb: 30.687
+weight (mg): -523
+read time (s): 0.311
+Tamb: 30.687
+weight (mg): -567
+read time (s): 0.309
+Tamb: 30.687
+weight (mg): -594
+read time (s): 0.308
+Tamb: 30.687
+weight (mg): -518
+read time (s): 0.309
+Tamb: 30.687
+weight (mg): -528
+read time (s): 0.309
+Tamb: 30.687
+weight (mg): -493
+read time (s): 0.31
+Tamb: 30.687
+weight (mg): -489
+read time (s): 0.309
+Tamb: 30.687
+weight (mg): -479
+read time (s): 0.309
+Tamb: 30.687
+weight (mg): -538
+read time (s): 0.311
+Tamb: 30.625
+weight (mg): -397
+read time (s): 0.311
+Tamb: 30.625
+weight (mg): -464
+read time (s): 0.312
+Tamb: 30.625
+weight (mg): -481
+read time (s): 0.313
+Tamb: 30.625
+weight (mg): -469
+read time (s): 0.312
+Tamb: 30.625
+weight (mg): -469
+read time (s): 0.312
+Tamb: 30.625
+weight (mg): -528
+read time (s): 0.312
+Tamb: 30.625
+weight (mg): -481
+read time (s): 0.312
+Tamb: 30.625
+weight (mg): -476
+read time (s): 0.312
+Tamb: 30.625
+weight (mg): -466
+read time (s): 0.335
+Tamb: 30.625
+weight (mg): -395
+read time (s): 0.312
+Tamb: 30.562
+weight (mg): -464
+read time (s): 0.312
+Tamb: 30.562
+weight (mg): -484
+read time (s): 0.313
+Tamb: 30.562
+weight (mg): -385
+read time (s): 0.312
+Tamb: 30.625
+weight (mg): -506
+read time (s): 0.335
+Tamb: 30.562
+weight (mg): -437
+read time (s): 0.314
+Tamb: 30.625
+weight (mg): -397
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -422
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -373
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -395
+read time (s): 0.335
+Tamb: 30.5
+weight (mg): -360
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -390
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -343
+read time (s): 0.315
+Tamb: 30.562
+weight (mg): -383
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -309
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -281
+read time (s): 0.315
+Tamb: 30.562
+weight (mg): -294
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -259
+read time (s): 0.316
+Tamb: 30.5
+weight (mg): -286
+read time (s): 0.314
+Tamb: 30.562
+weight (mg): -326
+read time (s): 0.315
+Tamb: 30.562
+weight (mg): -264
+read time (s): 0.315
+Tamb: 30.562
+weight (mg): -301
+read time (s): 0.317
+Tamb: 30.562
+weight (mg): -309
+read time (s): 0.315
+Tamb: 30.562
+weight (mg): -331
+read time (s): 0.315
+Tamb: 30.562
+weight (mg): -257
+read time (s): 0.315
+Tamb: 30.5
+weight (mg): -259
+read time (s): 0.315
+Tamb: 30.5
+weight (mg): -240
+read time (s): 0.315
+Tamb: 30.5
+weight (mg): -264
+read time (s): 0.315
+Tamb: 30.5
+weight (mg): -195
+read time (s): 0.316
+Tamb: 30.5
+weight (mg): -235
+read time (s): 0.338
+Tamb: 30.437
+weight (mg): -208
+read time (s): 0.316
+Tamb: 30.437
+weight (mg): -267
+read time (s): 0.317
+Tamb: 30.5
+weight (mg): -180
+read time (s): 0.316
+Tamb: 30.437
+weight (mg): -230
+read time (s): 0.316
+Tamb: 30.437
+weight (mg): -175
+read time (s): 0.339
+Tamb: 30.437
+weight (mg): -193
+read time (s): 0.317
+Tamb: 30.437
+weight (mg): -222
+read time (s): 0.317
+Tamb: 30.5
+weight (mg): -205
+read time (s): 0.317
+Tamb: 30.437
+weight (mg): -148
+read time (s): 0.317
+Tamb: 30.437
+weight (mg): -235
+read time (s): 0.34
+Tamb: 30.437
+weight (mg): -129
+read time (s): 0.317
+Tamb: 30.375
+weight (mg): -227
+read time (s): 0.317
+Tamb: 30.437
+weight (mg): -121
+read time (s): 0.322
+Tamb: 30.437
+weight (mg): -153
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -161
+read time (s): 0.341
+Tamb: 30.375
+weight (mg): -190
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -102
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -84
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -35
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -89
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -28
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -62
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -47
+read time (s): 0.319
+Tamb: 30.375
+weight (mg): -89
+read time (s): 0.318
+Tamb: 30.375
+weight (mg): -5
+read time (s): 0.319
+Tamb: 30.312
+weight (mg): -28
+read time (s): 0.319
+Tamb: 30.312
+weight (mg): -18
+read time (s): 0.319
+Tamb: 30.312
+weight (mg): -10
+read time (s): 0.32
+Tamb: 30.312
+weight (mg): 9
+read time (s): 0.319
+Tamb: 30.312
+weight (mg): -77
+read time (s): 0.319
+Tamb: 30.312
+weight (mg): 32
+read time (s): 0.319
+Tamb: 30.312
+weight (mg): -13
+read time (s): 0.319
+Tamb: 30.25
+weight (mg): -23
+read time (s): 0.342
+Tamb: 30.312
+weight (mg): 78
+read time (s): 0.414
+Tamb: 30.312
+weight (mg): 59
+read time (s): 0.32
+Tamb: 30.25
+weight (mg): -8
+read time (s): 0.322
+Tamb: 30.312
+weight (mg): -10
+read time (s): 0.332
+Tamb: 30.25
+weight (mg): 2
+read time (s): 0.321
+Tamb: 30.187
+weight (mg): -79
+read time (s): 0.323
+Tamb: 30.125
+weight (mg): 44
+read time (s): 0.324
+Tamb: 30.062
+weight (mg): 88
+read time (s): 0.325
+Tamb: 30.062
+weight (mg): 96
+read time (s): 0.323
+Tamb: 30.0
+weight (mg): 155
+read time (s): 0.324
+Tamb: 29.937
+weight (mg): 101
+read time (s): 0.324
+Tamb: 29.937
+weight (mg): 214
+read time (s): 0.325
+Tamb: 29.937
+weight (mg): 192
+read time (s): 0.326
+Tamb: 29.937
+weight (mg): 207
+read time (s): 0.325
+Tamb: 29.937
+weight (mg): 266
+read time (s): 0.327
+Tamb: 29.937
+weight (mg): 256
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 244
+read time (s): 0.327
+Tamb: 29.937
+weight (mg): 342
+read time (s): 0.326
+Tamb: 29.937
+weight (mg): 305
+read time (s): 0.328
+Tamb: 29.875
+weight (mg): 330
+read time (s): 0.325
+Tamb: 29.875
+weight (mg): 288
+read time (s): 0.325
+Tamb: 29.875
+weight (mg): 391
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 354
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 475
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 500
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 421
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 490
+read time (s): 0.325
+Tamb: 29.875
+weight (mg): 485
+read time (s): 0.325
+Tamb: 29.812
+weight (mg): 534
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 559
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 522
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 552
+read time (s): 0.326
+Tamb: 29.875
+weight (mg): 672
+read time (s): 0.325
+Tamb: 29.875
+weight (mg): 520
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 640
+read time (s): 0.328
+Tamb: 29.875
+weight (mg): 658
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 667
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 667
+read time (s): 0.327
+Tamb: 29.812
+weight (mg): 670
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 704
+read time (s): 0.327
+Tamb: 29.875
+weight (mg): 672
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 655
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 781
+read time (s): 0.326
+Tamb: 29.812
+weight (mg): 803
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 741
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 771
+read time (s): 0.327
+Tamb: 29.875
+weight (mg): 771
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 771
+read time (s): 0.329
+Tamb: 29.812
+weight (mg): 845
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 808
+read time (s): 0.327
+Tamb: 29.812
+weight (mg): 786
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 828
+read time (s): 0.328
+Tamb: 29.875
+weight (mg): 830
+read time (s): 0.327
+Tamb: 29.812
+weight (mg): 835
+read time (s): 0.327
+Tamb: 29.875
+weight (mg): 870
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 818
+read time (s): 0.327
+Tamb: 29.812
+weight (mg): 852
+read time (s): 0.34
+Tamb: 29.812
+weight (mg): 897
+read time (s): 0.329
+Tamb: 29.875
+weight (mg): 852
+read time (s): 0.328
+Tamb: 29.875
+weight (mg): 845
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 884
+read time (s): 0.328
+Tamb: 29.812
+weight (mg): 929
+read time (s): 0.328
+Tamb: 29.875
+weight (mg): 902
+read time (s): 0.341
+Tamb: 29.875
+weight (mg): 919
+read time (s): 0.329
+Tamb: 29.875
+weight (mg): 951
+read time (s): 0.33
+Tamb: 29.812
+weight (mg): 980
+read time (s): 0.351
+Tamb: 29.812
+weight (mg): 899
+read time (s): 0.337
+Tamb: 29.812
+weight (mg): 953
+read time (s): 0.329
+Tamb: 29.812
+weight (mg): 936
+read time (s): 0.339
+Tamb: 29.812
+weight (mg): 993
+read time (s): 0.329
+Tamb: 29.812
+weight (mg): 1025
+read time (s): 0.329
+Tamb: 29.812
+weight (mg): 971
+read time (s): 0.33
+Tamb: 29.812
+weight (mg): 941
+read time (s): 0.329
+Tamb: 29.812
+weight (mg): 995
+read time (s): 0.329
+Tamb: 29.812
+weight (mg): 1008
+read time (s): 0.329
+Tamb: 29.812
+weight (mg): 1074
+read time (s): 0.331
+Tamb: 29.812
+weight (mg): 1010
+read time (s): 0.331
+Tamb: 29.812
+weight (mg): 1069
+read time (s): 0.332
+Tamb: 29.812
+weight (mg): 1005
+read time (s): 0.331
+Tamb: 29.75
+weight (mg): 1086
+read time (s): 0.333
+Tamb: 29.75
+weight (mg): 1084
+read time (s): 0.331
+Tamb: 29.75
+weight (mg): 1022
+read time (s): 0.332
+Tamb: 29.75
+weight (mg): 1165
+read time (s): 0.331
+Tamb: 29.812
+weight (mg): 1052
+read time (s): 0.331
+Tamb: 29.812
+weight (mg): 1131
+read time (s): 0.331
+Tamb: 29.75
+weight (mg): 1049
+read time (s): 0.354
+Tamb: 29.812
+weight (mg): 1133
+read time (s): 0.332
+Tamb: 29.75
+weight (mg): 1168
+read time (s): 0.332
+Tamb: 29.75
+weight (mg): 1190
+read time (s): 0.332
+Tamb: 29.75
+weight (mg): 1106
+read time (s): 0.332
+Tamb: 29.75
+weight (mg): 1163
+read time (s): 0.332
+Tamb: 29.75
+weight (mg): 1155
+read time (s): 0.331
+Tamb: 29.75
+weight (mg): 1106
+read time (s): 0.33
+Tamb: 29.75
+weight (mg): 1192
+read time (s): 0.342
+Tamb: 29.687
+weight (mg): 1160
+read time (s): 0.33
+Tamb: 29.687
+weight (mg): 1153
+read time (s): 0.33
+Tamb: 29.687
+weight (mg): 1109
+read time (s): 0.331
+Tamb: 29.687
+weight (mg): 1229
+read time (s): 0.331
+Tamb: 29.75
+weight (mg): 1220
+read time (s): 0.332
+Tamb: 29.687
+weight (mg): 1212
+read time (s): 0.331
+Tamb: 29.687
+weight (mg): 1291
+read time (s): 0.331
+Tamb: 29.687
+weight (mg): 1222
+read time (s): 0.331
+Tamb: 29.687
+weight (mg): 1266
+read time (s): 0.344
+Tamb: 29.687
+weight (mg): 1192
+read time (s): 0.332
+Tamb: 29.687
+weight (mg): 1274
+read time (s): 0.331
+Tamb: 29.687
+weight (mg): 1284
+read time (s): 0.332
+Tamb: 29.687
+weight (mg): 1247
+read time (s): 0.334
+Tamb: 29.625
+weight (mg): 1274
+read time (s): 0.334
+Tamb: 29.687
+weight (mg): 1261
+read time (s): 0.335
+Tamb: 29.625
+weight (mg): 1259
+read time (s): 0.336
+Tamb: 29.625
+weight (mg): 1279
+read time (s): 0.335
+Tamb: 29.625
+weight (mg): 1286
+read time (s): 0.335
+Tamb: 29.625
+weight (mg): 1328
+read time (s): 0.336
+Tamb: 29.625
+weight (mg): 1360
+read time (s): 0.333
+Tamb: 29.625
+weight (mg): 1345
+read time (s): 0.336
+Tamb: 29.562
+weight (mg): 1355
+read time (s): 0.335
+Tamb: 29.562
+weight (mg): 1414
+read time (s): 0.336
+Tamb: 29.562
+weight (mg): 1436
+read time (s): 0.336
+Tamb: 29.562
+weight (mg): 1355
+read time (s): 0.337
+Tamb: 29.625
+weight (mg): 1439
+read time (s): 0.336
+Tamb: 29.562
+weight (mg): 1362
+read time (s): 0.336
+Tamb: 29.562
+weight (mg): 1461
+read time (s): 0.339
+Tamb: 29.562
+weight (mg): 1439
+read time (s): 0.336
+Tamb: 29.562
+weight (mg): 1476
+read time (s): 0.356
+Tamb: 29.562
+weight (mg): 1424
+read time (s): 0.336
+Tamb: 29.562
+weight (mg): 1535
+read time (s): 0.337
+Tamb: 29.5
+weight (mg): 1505
+read time (s): 0.337
+Tamb: 29.562
+weight (mg): 1520
+read time (s): 0.337
+Tamb: 29.562
+weight (mg): 1528
+read time (s): 0.336
+Tamb: 29.5
+weight (mg): 1579
+read time (s): 0.335
+Tamb: 29.5
+weight (mg): 1464
+read time (s): 0.335
+Tamb: 29.5
+weight (mg): 1560
+read time (s): 0.336
+Tamb: 29.5
+weight (mg): 1557
+read time (s): 0.36
+Tamb: 29.5
+weight (mg): 1535
+read time (s): 0.338
+Tamb: 29.5
+weight (mg): 1552
+read time (s): 0.341
+Tamb: 29.437
+weight (mg): 1653
+read time (s): 0.352
+Tamb: 29.437
+weight (mg): 1545
+read time (s): 0.339
+Tamb: 29.437
+weight (mg): 1619
+read time (s): 0.339
+Tamb: 29.437
+weight (mg): 1614
+read time (s): 0.341
+Tamb: 29.437
+weight (mg): 1582
+read time (s): 0.34
+Tamb: 29.437
+weight (mg): 1619
+read time (s): 0.339
+Tamb: 29.437
+weight (mg): 1658
+read time (s): 0.351
+Tamb: 29.437
+weight (mg): 1631
+read time (s): 0.339
+Tamb: 29.375
+weight (mg): 1658
+read time (s): 0.34
+Tamb: 29.375
+weight (mg): 1602
+read time (s): 0.34
+Tamb: 29.375
+weight (mg): 1683
+read time (s): 0.34
+Tamb: 29.375
+weight (mg): 1727
+read time (s): 0.34
+Tamb: 29.375
+weight (mg): 1693
+read time (s): 0.34
+Tamb: 29.375
+weight (mg): 1688
+read time (s): 0.341
+Tamb: 29.375
+weight (mg): 1705
+read time (s): 0.34
+Tamb: 29.312
+weight (mg): 1651
+read time (s): 0.341
+Tamb: 29.375
+weight (mg): 1658
+read time (s): 0.354
+Tamb: 29.375
+weight (mg): 1715
+read time (s): 0.342
+Tamb: 29.375
+weight (mg): 1791
+read time (s): 0.341
+Tamb: 29.312
+weight (mg): 1740
+read time (s): 0.341
+Tamb: 29.312
+weight (mg): 1688
+read time (s): 0.341
+Tamb: 29.312
+weight (mg): 1737
+read time (s): 0.342
+Tamb: 29.25
+weight (mg): 1801
+read time (s): 0.341
+Tamb: 29.312
+weight (mg): 1781
+read time (s): 0.342
+Tamb: 29.312
+weight (mg): 1853
+read time (s): 0.342
+Tamb: 29.312
+weight (mg): 1883
+read time (s): 0.343
+Tamb: 29.312
+weight (mg): 1885
+read time (s): 0.341
+Tamb: 29.25
+weight (mg): 1846
+read time (s): 0.343
+Tamb: 29.25
+weight (mg): 1828
+read time (s): 0.341
+Tamb: 29.25
+weight (mg): 1905
+read time (s): 0.355
+Tamb: 29.25
+weight (mg): 1846
+read time (s): 0.343
+Tamb: 29.187
+weight (mg): 1905
+read time (s): 0.341
+Tamb: 29.187
+weight (mg): 1887
+read time (s): 0.341
+Tamb: 29.187
+weight (mg): 1932
+read time (s): 0.343
+Tamb: 29.187
+weight (mg): 1976
+read time (s): 0.343
+Tamb: 29.25
+weight (mg): 1917
+read time (s): 0.344
+Tamb: 29.25
+weight (mg): 1927
+read time (s): 0.343
+Tamb: 29.187
+weight (mg): 1993
+read time (s): 0.343
+Tamb: 29.187
+weight (mg): 1947
+read time (s): 0.344
+Tamb: 29.187
+weight (mg): 1996
+read time (s): 0.343
+Tamb: 29.187
+weight (mg): 1959
+read time (s): 0.342
+Tamb: 29.125
+weight (mg): 1971
+read time (s): 0.342
+Tamb: 29.125
+weight (mg): 2062
+read time (s): 0.341
+Tamb: 29.187
+weight (mg): 2033
+read time (s): 0.341
+Tamb: 29.125
+weight (mg): 2053
+read time (s): 0.341
+Tamb: 29.125
+weight (mg): 2058
+read time (s): 0.342
+Tamb: 29.125
+weight (mg): 2033
+read time (s): 0.341
+Tamb: 29.125
+weight (mg): 2025
+read time (s): 0.341
+Tamb: 29.125
+weight (mg): 2045
+read time (s): 0.341
+Tamb: 29.125
+weight (mg): 2099
+read time (s): 0.341
+Tamb: 29.125
+weight (mg): 2188
+read time (s): 0.342
+Tamb: 29.062
+weight (mg): 2164
+read time (s): 0.342
+Tamb: 29.062
+weight (mg): 2134
+read time (s): 0.344
+Tamb: 29.062
+weight (mg): 2198
+read time (s): 0.343
+Tamb: 29.0
+weight (mg): 2156
+read time (s): 0.343
+Tamb: 29.062
+weight (mg): 2245
+read time (s): 0.355
+Tamb: 29.062
+weight (mg): 2156
+read time (s): 0.342
+Tamb: 29.0
+weight (mg): 2178
+read time (s): 0.342
+Tamb: 29.0
+weight (mg): 2181
+read time (s): 0.342
+Tamb: 29.0
+weight (mg): 2228
+read time (s): 0.342
+Tamb: 29.062
+weight (mg): 2210
+read time (s): 0.342
+Tamb: 29.0
+weight (mg): 2235
+read time (s): 0.342
+Tamb: 29.062
+weight (mg): 2260
+read time (s): 0.343
+Tamb: 29.0
+weight (mg): 2230
+read time (s): 0.343
+Tamb: 29.0
+weight (mg): 2299
+read time (s): 0.343
+Tamb: 28.937
+weight (mg): 2324
+read time (s): 0.344
+Tamb: 28.937
+weight (mg): 2319
+read time (s): 0.355
+Tamb: 29.0
+weight (mg): 2380
+read time (s): 0.343
+Tamb: 28.937
+weight (mg): 2324
+read time (s): 0.344
+Tamb: 28.937
+weight (mg): 2358
+read time (s): 0.344
+Tamb: 28.937
+weight (mg): 2316
+read time (s): 0.344
+Tamb: 28.937
+weight (mg): 2395
+read time (s): 0.345
+Tamb: 28.937
+weight (mg): 2326
+read time (s): 0.345
+Tamb: 28.937
+weight (mg): 2452
+read time (s): 0.346
+Tamb: 28.937
+weight (mg): 2366
+read time (s): 0.348
+Tamb: 28.937
+weight (mg): 2405
+read time (s): 0.346
+Tamb: 28.875
+weight (mg): 2442
+read time (s): 0.346
+Tamb: 28.937
+weight (mg): 2398
+read time (s): 0.346
+Tamb: 28.937
+weight (mg): 2417
+read time (s): 0.346
+Tamb: 28.937
+weight (mg): 2410
+read time (s): 0.346
+Tamb: 28.875
+weight (mg): 2481
+read time (s): 0.346
+Tamb: 28.875
+weight (mg): 2452
+read time (s): 0.346
+Tamb: 28.875
+weight (mg): 2499
+read time (s): 0.347
+Tamb: 28.875
+weight (mg): 2481
+read time (s): 0.35
+Tamb: 28.937
+weight (mg): 2494
+read time (s): 0.349
+Tamb: 28.875
+weight (mg): 2481
+read time (s): 0.349
+Tamb: 28.875
+weight (mg): 2541
+read time (s): 0.35
+Tamb: 28.875
+weight (mg): 2590
+read time (s): 0.349
+Tamb: 28.875
+weight (mg): 2622
+read time (s): 0.359
+Tamb: 28.875
+weight (mg): 2509
+read time (s): 0.347
+Tamb: 28.875
+weight (mg): 2491
+read time (s): 0.346
+Tamb: 28.875
+weight (mg): 2597
+read time (s): 0.348
+Tamb: 28.812
+weight (mg): 2543
+read time (s): 0.366
+Tamb: 28.812
+weight (mg): 2602
+read time (s): 0.348
+Tamb: 28.812
+weight (mg): 2624
+read time (s): 0.348
+Tamb: 28.812
+weight (mg): 2639
+read time (s): 0.348
+Tamb: 28.812
+weight (mg): 2585
+read time (s): 0.348
+Tamb: 28.812
+weight (mg): 2681
+read time (s): 0.361
+Tamb: 28.812
+weight (mg): 2627
+read time (s): 0.348
+Tamb: 28.812
+weight (mg): 2632
+read time (s): 0.349
+Tamb: 28.812
+weight (mg): 2701
+read time (s): 0.361
+Tamb: 28.812
+weight (mg): 2647
+read time (s): 0.351
+Tamb: 28.812
+weight (mg): 2735
+read time (s): 0.351
+Tamb: 28.812
+weight (mg): 2669
+read time (s): 0.35
+Tamb: 28.812
+weight (mg): 2711
+read time (s): 0.35
+Tamb: 28.75
+weight (mg): 2748
+read time (s): 0.352
+Tamb: 28.75
+weight (mg): 2723
+read time (s): 0.352
+Tamb: 28.75
+weight (mg): 2728
+read time (s): 0.351
+Tamb: 28.75
+weight (mg): 2755
+read time (s): 0.352
+Tamb: 28.687
+weight (mg): 2753
+read time (s): 0.352
+Tamb: 28.75
+weight (mg): 2799
+read time (s): 0.351
+Tamb: 28.75
+weight (mg): 2748
+read time (s): 0.352
+Tamb: 28.75
+weight (mg): 2730
+read time (s): 0.352
+Tamb: 28.75
+weight (mg): 2812
+read time (s): 0.352
+Tamb: 28.687
+weight (mg): 2878
+read time (s): 0.351
+Tamb: 28.687
+weight (mg): 2827
+read time (s): 0.35
+Tamb: 28.687
+weight (mg): 2807
+read time (s): 0.362
+Tamb: 28.687
+weight (mg): 2785
+read time (s): 0.35
+Tamb: 28.687
+weight (mg): 2873
+read time (s): 0.35
+Tamb: 28.687
+weight (mg): 2817
+read time (s): 0.352
+Tamb: 28.687
+weight (mg): 2920
+read time (s): 0.35
+Tamb: 28.687
+weight (mg): 2908
+read time (s): 0.35
+Tamb: 28.625
+weight (mg): 2871
+read time (s): 0.35
+Tamb: 28.687
+weight (mg): 2925
+read time (s): 0.353
+Tamb: 28.625
+weight (mg): 2928
+read time (s): 0.35
+Tamb: 28.625
+weight (mg): 2940
+read time (s): 0.351
+Tamb: 28.625
+weight (mg): 2940
+read time (s): 0.375
+Tamb: 28.625
+weight (mg): 2989
+read time (s): 0.352
+Tamb: 28.625
+weight (mg): 3036
+read time (s): 0.352
+Tamb: 28.625
+weight (mg): 2960
+read time (s): 0.259
+Tamb: 28.625
+weight (mg): 2918
+read time (s): 0.355
+Tamb: 28.625
+weight (mg): 2967
+read time (s): 0.354
+Tamb: 28.625
+weight (mg): 3048
+read time (s): 0.354
+Tamb: 28.625
+weight (mg): 2997
+read time (s): 0.354
+Tamb: 28.625
+weight (mg): 2974
+read time (s): 0.354
+Tamb: 28.625
+weight (mg): 2979
+read time (s): 0.354
+Tamb: 28.625
+weight (mg): 3056
+read time (s): 0.354
+Tamb: 28.625
+weight (mg): 3024
+read time (s): 0.354
+Tamb: 28.562
+weight (mg): 3100
+read time (s): 0.354
+Tamb: 28.562
+weight (mg): 3105
+read time (s): 0.355
+Tamb: 28.562
+weight (mg): 3107
+read time (s): 0.355
+Tamb: 28.625
+weight (mg): 3117
+read time (s): 0.355
+Tamb: 28.562
+weight (mg): 3090
+read time (s): 0.355
+Tamb: 28.562
+weight (mg): 3043
+read time (s): 0.354
+Tamb: 28.562
+weight (mg): 3100
+read time (s): 0.355
+Tamb: 28.562
+weight (mg): 3120
+read time (s): 0.354
+Tamb: 28.562
+weight (mg): 3255
+read time (s): 0.356
+Tamb: 28.562
+weight (mg): 3135
+read time (s): 0.354
+Tamb: 28.5
+weight (mg): 3233
+read time (s): 0.352
+Tamb: 28.5
+weight (mg): 3204
+read time (s): 0.352
+Tamb: 28.5
+weight (mg): 3142
+read time (s): 0.353
+Tamb: 28.5
+weight (mg): 3278
+read time (s): 0.353
+Tamb: 28.5
+weight (mg): 3164
+read time (s): 0.365
+Tamb: 28.562
+weight (mg): 3238
+read time (s): 0.353
+Tamb: 28.5
+weight (mg): 3522
+read time (s): 0.353
+Tamb: 28.5
+weight (mg): 3472
+read time (s): 0.353
+Tamb: 28.5
+weight (mg): 3206
+read time (s): 0.353
+Tamb: 28.5
+weight (mg): 3228
+read time (s): 0.353
+Tamb: 28.5
+weight (mg): 3196
+read time (s): 0.354
+Tamb: 28.5
+weight (mg): 3258
+read time (s): 0.354
+Tamb: 28.5
+weight (mg): 3268
+read time (s): 0.356
+Tamb: 28.5
+weight (mg): 3278
+read time (s): 0.353
+Tamb: 28.437
+weight (mg): 3290
+read time (s): 0.354
+Tamb: 28.5
+weight (mg): 3305
+read time (s): 0.355
+Tamb: 28.5
+weight (mg): 3305
+read time (s): 0.354
+Tamb: 28.437
+weight (mg): 3334
+read time (s): 0.354
+Tamb: 28.437
+weight (mg): 3292
+read time (s): 0.354
+Tamb: 28.437
+weight (mg): 3337
+read time (s): 0.355
+Tamb: 28.437
+weight (mg): 3334
+read time (s): 0.354
+Tamb: 28.437
+weight (mg): 3371
+read time (s): 0.355
+Tamb: 28.5
+weight (mg): 3416
+read time (s): 0.355
+Tamb: 28.437
+weight (mg): 3364
+read time (s): 0.355
+Tamb: 28.437
+weight (mg): 3398
+read time (s): 0.284
+Tamb: 28.375
+weight (mg): 3386
+read time (s): 0.355
+Tamb: 28.437
+weight (mg): 3421
+read time (s): 0.355
+Tamb: 28.375
+weight (mg): 3428
+read time (s): 0.355
+Tamb: 28.437
+weight (mg): 3403
+read time (s): 0.355
+Tamb: 28.437
+weight (mg): 3396
+read time (s): 0.356
+Tamb: 28.375
+weight (mg): 3418
+read time (s): 0.357
+Tamb: 28.375
+weight (mg): 3502
+read time (s): 0.358
+Tamb: 28.375
+weight (mg): 3490
+read time (s): 0.357
+Tamb: 28.375
+weight (mg): 3519
+read time (s): 0.358
+Tamb: 28.375
+weight (mg): 3566
+read time (s): 0.359
+Tamb: 28.375
+weight (mg): 3524
+read time (s): 0.358
+Tamb: 28.375
+weight (mg): 3559
+read time (s): 0.359
+Tamb: 28.375
+weight (mg): 3522
+read time (s): 0.358
+Tamb: 28.312
+weight (mg): 3487
+read time (s): 0.358
+Tamb: 28.375
+weight (mg): 3566
+read time (s): 0.361
+Tamb: 28.312
+weight (mg): 3512
+read time (s): 0.36
+Tamb: 28.312
+weight (mg): 3603
+read time (s): 0.359
+Tamb: 28.375
+weight (mg): 3568
+read time (s): 0.36
+Tamb: 28.375
+weight (mg): 3551
+read time (s): 0.36
+Tamb: 28.312
+weight (mg): 3566
+read time (s): 0.361
+Tamb: 28.312
+weight (mg): 3625
+read time (s): 0.361
+Tamb: 28.312
+weight (mg): 3628
+read time (s): 0.361
+Tamb: 28.312
+weight (mg): 3581
+read time (s): 0.362
+Tamb: 28.312
+weight (mg): 3608
+read time (s): 0.361
+Tamb: 28.312
+weight (mg): 3628
+read time (s): 0.361
+Tamb: 28.312
+weight (mg): 3581
+read time (s): 0.36
+Tamb: 28.312
+weight (mg): 3677
+read time (s): 0.361
+Tamb: 28.312
+weight (mg): 3741
+read time (s): 0.361
+Tamb: 28.25
+weight (mg): 3662
+read time (s): 0.361
+Tamb: 28.25
+weight (mg): 3652
+read time (s): 0.36
+Tamb: 28.25
+weight (mg): 3711
+read time (s): 0.362
+Tamb: 28.25
+weight (mg): 3719
+read time (s): 0.361
+Tamb: 28.25
+weight (mg): 3741
+read time (s): 0.361
+Tamb: 28.25
+weight (mg): 3738
+read time (s): 0.362
+Tamb: 28.25
+weight (mg): 3719
+read time (s): 0.362
+Tamb: 28.25
+weight (mg): 3766
+read time (s): 0.362
+Tamb: 28.25
+weight (mg): 3775
+read time (s): 0.363
+Tamb: 28.25
+weight (mg): 3810
+read time (s): 0.361
+Tamb: 28.25
+weight (mg): 3775
+read time (s): 0.363
+Tamb: 28.187
+weight (mg): 3790
+read time (s): 0.361
+Tamb: 28.187
+weight (mg): 3854
+read time (s): 0.362
+Tamb: 28.25
+weight (mg): 3798
+read time (s): 0.362
+Tamb: 28.187
+weight (mg): 3778
+read time (s): 0.36
+Tamb: 28.187
+weight (mg): 3721
+read time (s): 0.359
+Tamb: 28.187
+weight (mg): 3835
+read time (s): 0.362
+Tamb: 28.187
+weight (mg): 3852
+read time (s): 0.36
+Tamb: 28.187
+weight (mg): 3837
+read time (s): 0.371
+Tamb: 28.125
+weight (mg): 3859
+read time (s): 0.361
+Tamb: 28.187
+weight (mg): 3869
+read time (s): 0.361
+Tamb: 28.187
+weight (mg): 3857
+read time (s): 0.363
+Tamb: 28.187
+weight (mg): 3955
+read time (s): 0.362
+Tamb: 28.187
+weight (mg): 3931
+read time (s): 0.363
+Tamb: 28.187
+weight (mg): 3906
+read time (s): 0.363
+Tamb: 28.125
+weight (mg): 3911
+read time (s): 0.363
+Tamb: 28.125
+weight (mg): 3913
+read time (s): 0.363
+Tamb: 28.125
+weight (mg): 3982
+read time (s): 0.364
+Tamb: 28.125
+weight (mg): 3948
+read time (s): 0.363
+Tamb: 28.125
+weight (mg): 3936
+read time (s): 0.291
+Tamb: 28.125
+weight (mg): 3943
+read time (s): 0.364
+Tamb: 28.125
+weight (mg): 3926
+read time (s): 0.363
+Tamb: 28.062
+weight (mg): 4000
+read time (s): 0.363
+Tamb: 28.062
+weight (mg): 3987
+read time (s): 0.363
+Tamb: 28.062
+weight (mg): 4039
+read time (s): 0.364
+Tamb: 28.062
+weight (mg): 4029
+read time (s): 0.363
+Tamb: 28.062
+weight (mg): 3948
+read time (s): 0.364
+Tamb: 28.062
+weight (mg): 4010
+read time (s): 0.364
+Tamb: 28.125
+weight (mg): 4037
+read time (s): 0.364
+Tamb: 28.062
+weight (mg): 4096
+read time (s): 0.293
+Tamb: 28.062
+weight (mg): 4081
+read time (s): 0.365
+Tamb: 28.062
+weight (mg): 4061
+read time (s): 0.365
+Tamb: 28.062
+weight (mg): 4044
+read time (s): 0.365
+Tamb: 28.062
+weight (mg): 4084
+read time (s): 0.365
+Tamb: 28.062
+weight (mg): 4019
+read time (s): 0.292
+Tamb: 28.062
+weight (mg): 4079
+read time (s): 0.364
+Tamb: 28.0
+weight (mg): 4098
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4076
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4098
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4207
+read time (s): 0.366
+Tamb: 28.0
+weight (mg): 4071
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4143
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4138
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4192
+read time (s): 0.367
+Tamb: 28.0
+weight (mg): 4153
+read time (s): 0.366
+Tamb: 28.0
+weight (mg): 4244
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4157
+read time (s): 0.366
+Tamb: 28.0
+weight (mg): 4224
+read time (s): 0.366
+Tamb: 28.0
+weight (mg): 4234
+read time (s): 0.365
+Tamb: 28.0
+weight (mg): 4202
+read time (s): 0.282
+Tamb: 28.0
+weight (mg): 4217
+read time (s): 0.364
+Tamb: 28.0
+weight (mg): 4305
+read time (s): 0.364
+Tamb: 28.0
+weight (mg): 4219
+read time (s): 0.292
+Tamb: 28.0
+weight (mg): 4236
+read time (s): 0.364
+Tamb: 27.937
+weight (mg): 4278
+read time (s): 0.367
+Tamb: 28.0
+weight (mg): 4212
+read time (s): 0.367
+Tamb: 27.937
+weight (mg): 4268
+read time (s): 0.366
+Tamb: 27.937
+weight (mg): 4226
+read time (s): 0.368
+Tamb: 27.937
+weight (mg): 4320
+read time (s): 0.368
+Tamb: 27.937
+weight (mg): 4335
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4320
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4332
+read time (s): 0.368
+Tamb: 27.937
+weight (mg): 4392
+read time (s): 0.367
+Tamb: 27.875
+weight (mg): 4315
+read time (s): 0.297
+Tamb: 27.875
+weight (mg): 4389
+read time (s): 0.369
+Tamb: 27.937
+weight (mg): 4352
+read time (s): 0.371
+Tamb: 27.875
+weight (mg): 4399
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4397
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4411
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4335
+read time (s): 0.367
+Tamb: 27.875
+weight (mg): 4409
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4392
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4397
+read time (s): 0.368
+Tamb: 27.875
+weight (mg): 4446
+read time (s): 0.368
+Tamb: 27.812
+weight (mg): 4406
+read time (s): 0.297
+Tamb: 27.812
+weight (mg): 4451
+read time (s): 0.369
+Tamb: 27.812
+weight (mg): 4429
+read time (s): 0.37
+Tamb: 27.812
+weight (mg): 4458
+read time (s): 0.369
+Tamb: 27.812
+weight (mg): 4446
+read time (s): 0.288
+Tamb: 27.75
+weight (mg): 4537
+read time (s): 0.288
+Tamb: 27.812
+weight (mg): 4527
+read time (s): 0.369
+Tamb: 27.75
+weight (mg): 4554
+read time (s): 0.369
+Tamb: 27.75
+weight (mg): 4463
+read time (s): 0.297
+Tamb: 27.75
+weight (mg): 4574
+read time (s): 0.372
+Tamb: 27.812
+weight (mg): 4559
+read time (s): 0.37
+Tamb: 27.75
+weight (mg): 4631
+read time (s): 0.287
+Tamb: 27.75
+weight (mg): 4559
+read time (s): 0.371
+Tamb: 27.75
+weight (mg): 4626
+read time (s): 0.37
+Tamb: 27.75
+weight (mg): 4572
+read time (s): 0.372
+Tamb: 27.75
+weight (mg): 4643
+read time (s): 0.37
+Tamb: 27.75
+weight (mg): 4544
+read time (s): 0.37
+Tamb: 27.75
+weight (mg): 4645
+read time (s): 0.37
+Tamb: 27.687
+weight (mg): 4623
+read time (s): 0.371
+Tamb: 27.687
+weight (mg): 4621
+read time (s): 0.37
+Tamb: 27.687
+weight (mg): 4608
+read time (s): 0.371
+Tamb: 27.687
+weight (mg): 4756
+read time (s): 0.371
+Tamb: 27.687
+weight (mg): 4668
+read time (s): 0.371
+Tamb: 27.687
+weight (mg): 4690
+read time (s): 0.371
+Tamb: 27.687
+weight (mg): 4697
+read time (s): 0.371
+Tamb: 27.687
+weight (mg): 4729
+read time (s): 0.372
+Tamb: 27.687
+weight (mg): 4707
+read time (s): 0.372
+Tamb: 27.687
+weight (mg): 4754
+read time (s): 0.372
+Tamb: 27.625
+weight (mg): 4727
+read time (s): 0.372
+Tamb: 27.687
+weight (mg): 4791
+read time (s): 0.373
+Tamb: 27.687
+weight (mg): 4771
+read time (s): 0.301
+Tamb: 27.625
+weight (mg): 4754
+read time (s): 0.373
+Tamb: 27.625
+weight (mg): 4734
+read time (s): 0.372
+Tamb: 27.625
+weight (mg): 4828
+read time (s): 0.372
+Tamb: 27.625
+weight (mg): 4759
+read time (s): 0.372
+Tamb: 27.625
+weight (mg): 4862
+read time (s): 0.373
+Tamb: 27.625
+weight (mg): 4838
+read time (s): 0.372
+Tamb: 27.562
+weight (mg): 4897
+read time (s): 0.292
+Tamb: 27.562
+weight (mg): 4776
+read time (s): 0.373
+Tamb: 27.562
+weight (mg): 4887
+read time (s): 0.373
+Tamb: 27.562
+weight (mg): 4865
+read time (s): 0.373
+Tamb: 27.562
+weight (mg): 4919
+read time (s): 0.373
+Tamb: 27.562
+weight (mg): 4919
+read time (s): 0.371
+Tamb: 27.562
+weight (mg): 4880
+read time (s): 0.371
+Tamb: 27.562
+weight (mg): 4882
+read time (s): 0.372
+Tamb: 27.562
+weight (mg): 4899
+read time (s): 0.372
+Tamb: 27.562
+weight (mg): 4926
+read time (s): 0.372
+Tamb: 27.562
+weight (mg): 4973
+read time (s): 0.372
+Tamb: 27.5
+weight (mg): 5045
+read time (s): 0.372
+Tamb: 27.5
+weight (mg): 4946
+read time (s): 0.29
+Tamb: 27.5
+weight (mg): 5079
+read time (s): 0.301
+Tamb: 27.5
+weight (mg): 5000
+read time (s): 0.371
+Tamb: 27.5
+weight (mg): 5035
+read time (s): 0.371
+Tamb: 27.437
+weight (mg): 4988
+read time (s): 0.372
+Tamb: 27.5
+weight (mg): 4991
+read time (s): 0.373
+Tamb: 27.5
+weight (mg): 5032
+read time (s): 0.373
+Tamb: 27.437
+weight (mg): 5099
+read time (s): 0.374
+Tamb: 27.5
+weight (mg): 5020
+read time (s): 0.374
+Tamb: 27.5
+weight (mg): 5047
+read time (s): 0.374
+Tamb: 27.437
+weight (mg): 5094
+read time (s): 0.375
+Tamb: 27.437
+weight (mg): 5077
+read time (s): 0.374
+Tamb: 27.437
+weight (mg): 5074
+read time (s): 0.283
+Tamb: 27.437
+weight (mg): 5136
+read time (s): 0.375
+Tamb: 27.437
+weight (mg): 5089
+read time (s): 0.302
+Tamb: 27.375
+weight (mg): 5148
+read time (s): 0.374
+Tamb: 27.437
+weight (mg): 5109
+read time (s): 0.282
+Tamb: 27.437
+weight (mg): 5175
+read time (s): 0.282
+Tamb: 27.375
+weight (mg): 5131
+read time (s): 0.282
+Tamb: 27.437
+weight (mg): 5195
+read time (s): 0.375
+Tamb: 27.375
+weight (mg): 5175
+read time (s): 0.375
+Tamb: 27.375
+weight (mg): 5222
+read time (s): 0.283
+Tamb: 27.375
+weight (mg): 5193
+read time (s): 0.282
+Tamb: 27.375
+weight (mg): 5225
+read time (s): 0.284
+Tamb: 27.312
+weight (mg): 5207
+read time (s): 0.283
+Tamb: 27.312
+weight (mg): 5259
+read time (s): 0.293
+Tamb: 27.375
+weight (mg): 5262
+read time (s): 0.283
+Tamb: 27.312
+weight (mg): 5215
+read time (s): 0.284
+Tamb: 27.375
+weight (mg): 5338
+read time (s): 0.283
+Tamb: 27.312
+weight (mg): 5331
+read time (s): 0.283
+Tamb: 27.375
+weight (mg): 5301
+read time (s): 0.284
+Tamb: 27.25
+weight (mg): 5326
+read time (s): 0.284
+Tamb: 27.312
+weight (mg): 5254
+read time (s): 0.285
+Tamb: 27.312
+weight (mg): 5368
+read time (s): 0.284
+Tamb: 27.312
+weight (mg): 5375
+read time (s): 0.286
+Tamb: 27.312
+weight (mg): 5345
+read time (s): 0.287
+Tamb: 27.25
+weight (mg): 5429
+read time (s): 0.286
+Tamb: 27.25
+weight (mg): 5358
+read time (s): 0.285
+Tamb: 27.25
+weight (mg): 5380
+read time (s): 0.286
+Tamb: 27.25
+weight (mg): 5444
+read time (s): 0.285
+Tamb: 27.25
+weight (mg): 5498
+read time (s): 0.285
+Tamb: 27.25
+weight (mg): 5422
+read time (s): 0.286
+Tamb: 27.25
+weight (mg): 5412
+read time (s): 0.286
+Tamb: 27.187
+weight (mg): 5459
+read time (s): 0.297
+Tamb: 27.25
+weight (mg): 5528
+read time (s): 0.288
+Tamb: 27.187
+weight (mg): 5437
+read time (s): 0.302
+Tamb: 27.187
+weight (mg): 5506
+read time (s): 0.286
+Tamb: 27.187
+weight (mg): 5474
+read time (s): 0.286
+Tamb: 27.125
+weight (mg): 5557
+read time (s): 0.284
+Tamb: 27.125
+weight (mg): 5550
+read time (s): 0.286
+Tamb: 27.125
+weight (mg): 5523
+read time (s): 0.286
+Tamb: 27.125
+weight (mg): 5548
+read time (s): 0.286
+Tamb: 27.125
+weight (mg): 5585
+read time (s): 0.287
+Tamb: 27.187
+weight (mg): 5614
+read time (s): 0.287
+Tamb: 27.125
+weight (mg): 5580
+read time (s): 0.287
+Tamb: 27.125
+weight (mg): 5580
+read time (s): 0.287
+Tamb: 27.125
+weight (mg): 5607
+read time (s): 0.288
+Tamb: 27.125
+weight (mg): 5636
+read time (s): 0.289
+Tamb: 27.125
+weight (mg): 5594
+read time (s): 0.287
+Tamb: 27.125
+weight (mg): 5641
+read time (s): 0.288
+Tamb: 27.125
+weight (mg): 5745
+read time (s): 0.288
+Tamb: 27.125
+weight (mg): 5713
+read time (s): 0.288
+Tamb: 27.125
+weight (mg): 5649
+read time (s): 0.288
+Tamb: 27.125
+weight (mg): 5700
+read time (s): 0.288
+Tamb: 27.062
+weight (mg): 5723
+read time (s): 0.287
+Tamb: 27.125
+weight (mg): 5779
+read time (s): 0.288
+Tamb: 27.0
+weight (mg): 5784
+read time (s): 0.288
+Tamb: 27.062
+weight (mg): 5690
+read time (s): 0.288
+Tamb: 27.062
+weight (mg): 5700
+read time (s): 0.289
+Tamb: 27.062
+weight (mg): 5710
+read time (s): 0.289
+Tamb: 27.062
+weight (mg): 5789
+read time (s): 0.289
+Tamb: 27.062
+weight (mg): 5801
+read time (s): 0.289
+Tamb: 27.0
+weight (mg): 5769
+read time (s): 0.289
+Tamb: 27.062
+weight (mg): 5873
+read time (s): 0.29
+Tamb: 27.062
+weight (mg): 5851
+read time (s): 0.289
+Tamb: 27.0
+weight (mg): 5811
+read time (s): 0.289
+Tamb: 27.0
+weight (mg): 5829
+read time (s): 0.289
+Tamb: 27.0
+weight (mg): 5873
+read time (s): 0.288
+Tamb: 27.0
+weight (mg): 5907
+read time (s): 0.288
+Tamb: 27.0
+weight (mg): 5821
+read time (s): 0.288
+Tamb: 26.937
+weight (mg): 5890
+read time (s): 0.289
+Tamb: 27.0
+weight (mg): 5841
+read time (s): 0.288
+Tamb: 26.937
+weight (mg): 5949
+read time (s): 0.289
+Tamb: 26.937
+weight (mg): 5900
+read time (s): 0.289
+Tamb: 26.937
+weight (mg): 5932
+read time (s): 0.29
+Tamb: 27.0
+weight (mg): 5927
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 5907
+read time (s): 0.289
+Tamb: 27.0
+weight (mg): 5900
+read time (s): 0.289
+Tamb: 27.0
+weight (mg): 5996
+read time (s): 0.292
+Tamb: 26.937
+weight (mg): 6036
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 6036
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 5967
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 6001
+read time (s): 0.291
+Tamb: 26.937
+weight (mg): 6068
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 5994
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 6053
+read time (s): 0.289
+Tamb: 26.937
+weight (mg): 5996
+read time (s): 0.289
+Tamb: 26.875
+weight (mg): 5991
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 6045
+read time (s): 0.29
+Tamb: 26.875
+weight (mg): 6092
+read time (s): 0.291
+Tamb: 26.937
+weight (mg): 6211
+read time (s): 0.29
+Tamb: 26.937
+weight (mg): 6112
+read time (s): 0.291
+Tamb: 26.875
+weight (mg): 6077
+read time (s): 0.291
+Tamb: 26.875
+weight (mg): 6134
+read time (s): 0.292
+Tamb: 26.937
+weight (mg): 6127
+read time (s): 0.292
+Tamb: 26.875
+weight (mg): 6176
+read time (s): 0.291
+Tamb: 26.875
+weight (mg): 6117
+read time (s): 0.291
+Tamb: 26.875
+weight (mg): 6102
+read time (s): 0.292
+Tamb: 26.875
+weight (mg): 6193
+read time (s): 0.291
+Tamb: 26.875
+weight (mg): 6169
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6223
+read time (s): 0.291
+Tamb: 26.812
+weight (mg): 6156
+read time (s): 0.292
+Tamb: 26.875
+weight (mg): 6132
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6176
+read time (s): 0.291
+Tamb: 26.812
+weight (mg): 6178
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6240
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6225
+read time (s): 0.292
+Tamb: 26.875
+weight (mg): 6206
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6169
+read time (s): 0.321
+Tamb: 26.812
+weight (mg): 6284
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6211
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6294
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6334
+read time (s): 0.293
+Tamb: 26.812
+weight (mg): 6317
+read time (s): 0.292
+Tamb: 26.812
+weight (mg): 6284
+read time (s): 0.291
+Tamb: 26.812
+weight (mg): 6329
+read time (s): 0.291
+Tamb: 26.75
+weight (mg): 6368
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6361
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6302
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6422
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6371
+read time (s): 0.293
+Tamb: 26.812
+weight (mg): 6376
+read time (s): 0.291
+Tamb: 26.75
+weight (mg): 6368
+read time (s): 0.291
+Tamb: 26.75
+weight (mg): 6400
+read time (s): 0.294
+Tamb: 26.75
+weight (mg): 6339
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6437
+read time (s): 0.294
+Tamb: 26.75
+weight (mg): 6398
+read time (s): 0.295
+Tamb: 26.75
+weight (mg): 6440
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6395
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6371
+read time (s): 0.293
+Tamb: 26.75
+weight (mg): 6366
+read time (s): 0.294
+Tamb: 26.75
+weight (mg): 6403
+read time (s): 0.291
+Tamb: 26.687
+weight (mg): 6506
+read time (s): 0.292
+Tamb: 26.687
+weight (mg): 6479
+read time (s): 0.291
+Tamb: 26.687
+weight (mg): 6442
+read time (s): 0.293
+Tamb: 26.687
+weight (mg): 6499
+read time (s): 0.294
+Tamb: 26.687
+weight (mg): 6521
+read time (s): 0.295
+Tamb: 26.687
+weight (mg): 6482
+read time (s): 0.294
+Tamb: 26.687
+weight (mg): 6494
+read time (s): 0.294
+Tamb: 26.625
+weight (mg): 6561
+read time (s): 0.294
+Tamb: 26.625
+weight (mg): 6482
+read time (s): 0.294
+Tamb: 26.687
+weight (mg): 6533
+read time (s): 0.294
+Tamb: 26.625
+weight (mg): 6558
+read time (s): 0.295
+Tamb: 26.687
+weight (mg): 6558
+read time (s): 0.295
+Tamb: 26.687
+weight (mg): 6501
+read time (s): 0.295
+Tamb: 26.625
+weight (mg): 6568
+read time (s): 0.296
+Tamb: 26.625
+weight (mg): 6526
+read time (s): 0.295
+Tamb: 26.625
+weight (mg): 6578
+read time (s): 0.295
+Tamb: 26.625
+weight (mg): 6617
+read time (s): 0.295
+Tamb: 26.625
+weight (mg): 6602
+read time (s): 0.295
+Tamb: 26.625
+weight (mg): 6610
+read time (s): 0.294
+Tamb: 26.625
+weight (mg): 6622
+read time (s): 0.295
+Tamb: 26.562
+weight (mg): 6681
+read time (s): 0.295
+Tamb: 26.625
+weight (mg): 6644
+read time (s): 0.297
+Tamb: 26.625
+weight (mg): 6671
+read time (s): 0.295
+Tamb: 26.562
+weight (mg): 6711
+read time (s): 0.294
+Tamb: 26.625
+weight (mg): 6630
+read time (s): 0.295
+Tamb: 26.562
+weight (mg): 6654
+read time (s): 0.295
+Tamb: 26.625
+weight (mg): 6738
+read time (s): 0.295
+Tamb: 26.562
+weight (mg): 6669
+read time (s): 0.296
+Tamb: 26.625
+weight (mg): 7053
+read time (s): 0.295
+Tamb: 26.562
+weight (mg): 6706
+read time (s): 0.296
+Tamb: 26.562
+weight (mg): 6738
+read time (s): 0.296
+Tamb: 26.562
+weight (mg): 6617
+read time (s): 0.314
+Tamb: 26.5
+weight (mg): 6731
+read time (s): 0.296
+Tamb: 26.5
+weight (mg): 6689
+read time (s): 0.297
+Tamb: 26.562
+weight (mg): 6768
+read time (s): 0.295
+Tamb: 26.562
+weight (mg): 6726
+read time (s): 0.296
+Tamb: 26.562
+weight (mg): 6790
+read time (s): 0.296
+Tamb: 26.562
+weight (mg): 6745
+read time (s): 0.296
+Tamb: 26.562
+weight (mg): 6864
+read time (s): 0.297
+Tamb: 26.562
+weight (mg): 6809
+read time (s): 0.297
+Tamb: 26.5
+weight (mg): 6760
+read time (s): 0.297
+Tamb: 26.5
+weight (mg): 6893
+read time (s): 0.296
+Tamb: 26.562
+weight (mg): 6859
+read time (s): 0.297
+Tamb: 26.5
+weight (mg): 6745
+read time (s): 0.298
+Tamb: 26.562
+weight (mg): 6809
+read time (s): 0.319
+Tamb: 26.562
+weight (mg): 6780
+read time (s): 0.296
+Tamb: 26.5
+weight (mg): 6849
+read time (s): 0.294
+Tamb: 26.5
+weight (mg): 6869
+read time (s): 0.294
+Tamb: 26.5
+weight (mg): 6814
+read time (s): 0.294
+Tamb: 26.5
+weight (mg): 6829
+read time (s): 0.295
+Tamb: 26.5
+weight (mg): 6898
+read time (s): 0.295
+Tamb: 26.5
+weight (mg): 6807
+read time (s): 0.295
+Tamb: 26.5
+weight (mg): 6841
+read time (s): 0.295
+Tamb: 26.437
+weight (mg): 6977
+read time (s): 0.312
+Tamb: 26.437
+weight (mg): 6893
+read time (s): 0.296
+Tamb: 26.5
+weight (mg): 6901
+read time (s): 0.296
+Tamb: 26.562
+weight (mg): 6952
+read time (s): 0.296
+Tamb: 26.5
+weight (mg): 6950
+read time (s): 0.619
+Tamb: 26.5
+weight (mg): 6864
+read time (s): 0.296
+Tamb: 26.437
+weight (mg): 6898
+read time (s): 0.297
+Tamb: 26.437
+weight (mg): 6989
+read time (s): 0.308
+Tamb: 26.437
+weight (mg): 6920
+read time (s): 0.296
+Tamb: 26.437
+weight (mg): 6952
+read time (s): 0.296
+Tamb: 26.437
+weight (mg): 7041
+read time (s): 0.296
+Tamb: 26.437
+weight (mg): 6992
+read time (s): 0.296
+Tamb: 26.437
+weight (mg): 6928
+read time (s): 0.297
+Tamb: 26.437
+weight (mg): 7014
+read time (s): 0.297
+Tamb: 26.437
+weight (mg): 6972
+read time (s): 0.297
+Tamb: 26.375
+weight (mg): 7051
+read time (s): 0.297
+Tamb: 26.437
+weight (mg): 7088
+read time (s): 0.297
+Tamb: 26.375
+weight (mg): 7058
+read time (s): 0.297
+Tamb: 26.375
+weight (mg): 7026
+read time (s): 0.322
+Tamb: 26.375
+weight (mg): 7113
+read time (s): 0.297
+Tamb: 26.375
+weight (mg): 7081
+read time (s): 0.299
+Tamb: 26.375
+weight (mg): 7036
+read time (s): 0.3
+Tamb: 26.312
+weight (mg): 7103
+read time (s): 0.299
+Tamb: 26.375
+weight (mg): 7083
+read time (s): 0.3
+Tamb: 26.375
+weight (mg): 7100
+read time (s): 0.3
+Tamb: 26.375
+weight (mg): 7044
+read time (s): 0.3
+Tamb: 26.375
+weight (mg): 7115
+read time (s): 0.3
+Tamb: 26.375
+weight (mg): 7095
+read time (s): 0.301
+Tamb: 26.312
+weight (mg): 7169
+read time (s): 0.3
+Tamb: 26.375
+weight (mg): 7150
+read time (s): 0.3
+Tamb: 26.312
+weight (mg): 7098
+read time (s): 0.3
+Tamb: 26.312
+weight (mg): 7187
+read time (s): 0.3
+Tamb: 26.312
+weight (mg): 7157
+read time (s): 0.298
+Tamb: 26.312
+weight (mg): 7162
+read time (s): 0.299
+Tamb: 26.25
+weight (mg): 7209
+read time (s): 0.299
+Tamb: 26.312
+weight (mg): 7167
+read time (s): 0.299
+Tamb: 26.312
+weight (mg): 7135
+read time (s): 0.299
+Tamb: 26.312
+weight (mg): 7159
+read time (s): 0.321
+Tamb: 26.312
+weight (mg): 7221
+read time (s): 0.3
+Tamb: 26.312
+weight (mg): 7228
+read time (s): 0.301
+Tamb: 26.312
+weight (mg): 7231
+read time (s): 0.3
+Tamb: 26.312
+weight (mg): 7189
+read time (s): 0.302
+Tamb: 26.25
+weight (mg): 7248
+read time (s): 0.302
+Tamb: 26.25
+weight (mg): 7204
+read time (s): 0.3
+Tamb: 26.312
+weight (mg): 7236
+read time (s): 0.3
+Tamb: 26.25
+weight (mg): 7187
+read time (s): 0.3
+Tamb: 26.25
+weight (mg): 7280
+read time (s): 0.3
+Tamb: 26.25
+weight (mg): 7288
+read time (s): 0.3
+Tamb: 26.25
+weight (mg): 7251
+read time (s): 0.3
+Tamb: 26.25
+weight (mg): 7300
+read time (s): 0.3
+Tamb: 26.25
+weight (mg): 7337
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7364
+read time (s): 0.3
+Tamb: 26.25
+weight (mg): 7347
+read time (s): 0.301
+Tamb: 26.25
+weight (mg): 7228
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7258
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7421
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7421
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7325
+read time (s): 0.312
+Tamb: 26.187
+weight (mg): 7366
+read time (s): 0.301
+Tamb: 26.125
+weight (mg): 7278
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7458
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7460
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7403
+read time (s): 0.301
+Tamb: 26.125
+weight (mg): 7379
+read time (s): 0.301
+Tamb: 26.187
+weight (mg): 7465
+read time (s): 0.301
+Tamb: 26.125
+weight (mg): 7418
+read time (s): 0.301
+Tamb: 26.125
+weight (mg): 7448
+read time (s): 0.301
+Tamb: 26.125
+weight (mg): 7406
+read time (s): 0.324
+Tamb: 26.187
+weight (mg): 7416
+read time (s): 0.301
+Tamb: 26.125
+weight (mg): 7470
+read time (s): 0.303
+Tamb: 26.125
+weight (mg): 7438
+read time (s): 0.304
+Tamb: 26.125
+weight (mg): 7522
+read time (s): 0.305
+Tamb: 26.125
+weight (mg): 7431
+read time (s): 0.304
+Tamb: 26.125
+weight (mg): 7482
+read time (s): 0.304
+Tamb: 26.125
+weight (mg): 7502
+read time (s): 0.304
+Tamb: 26.125
+weight (mg): 7485
+read time (s): 0.307
+Tamb: 26.125
+weight (mg): 7487
+read time (s): 0.305
+Tamb: 26.062
+weight (mg): 7512
+read time (s): 0.305
+Tamb: 26.125
+weight (mg): 7507
+read time (s): 0.305
+Tamb: 26.125
+weight (mg): 7578
+read time (s): 0.305
+Tamb: 26.125
+weight (mg): 7445
+read time (s): 0.305
+Tamb: 26.062
+weight (mg): 7586
+read time (s): 0.306
+Tamb: 26.062
+weight (mg): 7517
+read time (s): 0.306
+Tamb: 26.062
+weight (mg): 7620
+read time (s): 0.305
+Tamb: 26.062
+weight (mg): 7539
+read time (s): 0.305
+Tamb: 26.062
+weight (mg): 7537
+read time (s): 0.304
+Tamb: 26.125
+weight (mg): 7566
+read time (s): 0.304
+Tamb: 26.062
+weight (mg): 7593
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7603
+read time (s): 0.303
+Tamb: 26.062
+weight (mg): 7618
+read time (s): 0.304
+Tamb: 26.062
+weight (mg): 7623
+read time (s): 0.303
+Tamb: 26.062
+weight (mg): 7598
+read time (s): 0.303
+Tamb: 26.062
+weight (mg): 7591
+read time (s): 0.303
+Tamb: 26.0
+weight (mg): 7662
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7638
+read time (s): 0.303
+Tamb: 26.062
+weight (mg): 7635
+read time (s): 0.303
+Tamb: 26.0
+weight (mg): 7677
+read time (s): 0.303
+Tamb: 26.0
+weight (mg): 7662
+read time (s): 0.303
+Tamb: 26.0
+weight (mg): 7689
+read time (s): 0.303
+Tamb: 26.0
+weight (mg): 7709
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7724
+read time (s): 0.303
+Tamb: 26.0
+weight (mg): 7741
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7692
+read time (s): 0.305
+Tamb: 25.937
+weight (mg): 7741
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7756
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7744
+read time (s): 0.305
+Tamb: 26.0
+weight (mg): 7714
+read time (s): 0.306
+Tamb: 26.0
+weight (mg): 7822
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7739
+read time (s): 0.305
+Tamb: 26.0
+weight (mg): 7763
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7736
+read time (s): 0.305
+Tamb: 25.937
+weight (mg): 7778
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7783
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7768
+read time (s): 0.304
+Tamb: 25.937
+weight (mg): 7798
+read time (s): 0.304
+Tamb: 25.937
+weight (mg): 7805
+read time (s): 0.305
+Tamb: 25.937
+weight (mg): 7810
+read time (s): 0.304
+Tamb: 26.0
+weight (mg): 7840
+read time (s): 0.305
+Tamb: 25.937
+weight (mg): 7879
+read time (s): 0.305
+Tamb: 25.875
+weight (mg): 7798
+read time (s): 0.305
+Tamb: 25.937
+weight (mg): 7840
+read time (s): 0.305
+Tamb: 25.875
+weight (mg): 7872
+read time (s): 0.306
+Tamb: 25.937
+weight (mg): 7889
+read time (s): 0.306
+Tamb: 25.875
+weight (mg): 7914
+read time (s): 0.305
+Tamb: 25.875
+weight (mg): 7884
+read time (s): 0.306
+Tamb: 25.875
+weight (mg): 7840
+read time (s): 0.305
+Tamb: 25.875
+weight (mg): 7936
+read time (s): 0.307
+Tamb: 25.875
+weight (mg): 7911
+read time (s): 0.306
+Tamb: 25.875
+weight (mg): 7852
+read time (s): 0.306
+Tamb: 25.875
+weight (mg): 7948
+read time (s): 0.306
+Tamb: 25.875
+weight (mg): 7968
+read time (s): 0.308
+Tamb: 25.875
+weight (mg): 7845
+read time (s): 0.307
+Tamb: 25.812
+weight (mg): 7993
+read time (s): 0.305
+Tamb: 25.875
+weight (mg): 7951
+read time (s): 0.307
+Tamb: 25.875
+weight (mg): 7997
+read time (s): 0.306
+Tamb: 25.812
+weight (mg): 8029
+read time (s): 0.308
+Tamb: 25.812
+weight (mg): 7943
+read time (s): 0.307
+Tamb: 25.875
+weight (mg): 7956
+read time (s): 0.307
+Tamb: 25.812
+weight (mg): 7941
+read time (s): 0.306
+Tamb: 25.812
+weight (mg): 8081
+read time (s): 0.308
+Tamb: 25.812
+weight (mg): 7995
+read time (s): 0.306
+Tamb: 25.812
+weight (mg): 8012
+read time (s): 0.307
+Tamb: 25.812
+weight (mg): 7993
+read time (s): 0.307
+Tamb: 25.812
+weight (mg): 8057
+read time (s): 0.307
+Tamb: 25.812
+weight (mg): 7985
+read time (s): 0.307
+Tamb: 25.812
+weight (mg): 8064
+read time (s): 0.307
+Tamb: 25.75
+weight (mg): 8052
+read time (s): 0.307
+Tamb: 25.812
+weight (mg): 8059
+read time (s): 0.308
+Tamb: 25.812
+weight (mg): 8057
+read time (s): 0.309
+Tamb: 25.812
+weight (mg): 8017
+read time (s): 0.309
+Tamb: 25.812
+weight (mg): 8116
+read time (s): 0.308
+Tamb: 25.812
+weight (mg): 8086
+read time (s): 0.308
+Tamb: 25.812
+weight (mg): 8064
+read time (s): 0.33
+Tamb: 25.75
+weight (mg): 8049
+read time (s): 0.309
+Tamb: 25.75
+weight (mg): 8098
+read time (s): 0.309
+Tamb: 25.75
+weight (mg): 8163
+read time (s): 0.309
+Tamb: 25.75
+weight (mg): 8128
+read time (s): 0.309
+Tamb: 25.687
+weight (mg): 8108
+read time (s): 0.309
+Tamb: 25.75
+weight (mg): 8222
+read time (s): 0.308
+Tamb: 25.75
+weight (mg): 8101
+read time (s): 0.309
+Tamb: 25.687
+weight (mg): 8143
+read time (s): 0.31
+Tamb: 25.687
+weight (mg): 8135
+read time (s): 0.31
+Tamb: 25.687
+weight (mg): 8172
+read time (s): 0.31
+Tamb: 25.687
+weight (mg): 8098
+read time (s): 0.312
+Tamb: 25.687
+weight (mg): 8224
+read time (s): 0.312
+Tamb: 25.687
+weight (mg): 8224
+read time (s): 0.312
+Tamb: 25.687
+weight (mg): 8227
+read time (s): 0.313
+Tamb: 25.687
+weight (mg): 8239
+read time (s): 0.312
+Tamb: 25.687
+weight (mg): 8222
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8202
+read time (s): 0.324
+Tamb: 25.75
+weight (mg): 8214
+read time (s): 0.312
+Tamb: 25.625
+weight (mg): 8276
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8177
+read time (s): 0.313
+Tamb: 25.687
+weight (mg): 8293
+read time (s): 0.313
+Tamb: 25.687
+weight (mg): 8273
+read time (s): 0.314
+Tamb: 25.625
+weight (mg): 8234
+read time (s): 0.314
+Tamb: 25.687
+weight (mg): 8328
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8335
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8325
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8313
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8345
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8365
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8323
+read time (s): 0.313
+Tamb: 25.562
+weight (mg): 8372
+read time (s): 0.313
+Tamb: 25.562
+weight (mg): 8365
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8330
+read time (s): 0.313
+Tamb: 25.625
+weight (mg): 8365
+read time (s): 0.313
+Tamb: 25.562
+weight (mg): 8345
+read time (s): 0.312
+Tamb: 25.562
+weight (mg): 8367
+read time (s): 0.313
+Tamb: 25.562
+weight (mg): 8421
+read time (s): 0.313
+Tamb: 25.562
+weight (mg): 8414
+read time (s): 0.313
+Tamb: 25.562
+weight (mg): 8392
+read time (s): 0.313
+Tamb: 25.562
+weight (mg): 8377
+read time (s): 0.314
+Tamb: 25.5
+weight (mg): 8473
+read time (s): 0.326
+Tamb: 25.562
+weight (mg): 8424
+read time (s): 0.335
+Tamb: 25.562
+weight (mg): 8456
+read time (s): 0.314
+Tamb: 25.5
+weight (mg): 8481
+read time (s): 0.313
+Tamb: 25.5
+weight (mg): 8490
+read time (s): 0.312
+Tamb: 25.5
+weight (mg): 8493
+read time (s): 0.333
+Tamb: 25.5
+weight (mg): 8503
+read time (s): 0.311
+Tamb: 25.5
+weight (mg): 8572
+read time (s): 0.312
+Tamb: 25.5
+weight (mg): 8530
+read time (s): 0.313
+Tamb: 25.5
+weight (mg): 8503
+read time (s): 0.311
+Tamb: 25.5
+weight (mg): 8513
+read time (s): 0.312
+Tamb: 25.5
+weight (mg): 8540
+read time (s): 0.312
+Tamb: 25.5
+weight (mg): 8569
+read time (s): 0.312
+Tamb: 25.5
+weight (mg): 8547
+read time (s): 0.313
+Tamb: 25.5
+weight (mg): 8498
+read time (s): 0.313
+Tamb: 25.437
+weight (mg): 8550
+read time (s): 0.313
+Tamb: 25.437
+weight (mg): 8589
+read time (s): 0.312
+Tamb: 25.437
+weight (mg): 8584
+read time (s): 0.312
+Tamb: 25.437
+weight (mg): 8591
+read time (s): 0.312
+Tamb: 25.5
+weight (mg): 8582
+read time (s): 0.334
+Tamb: 25.437
+weight (mg): 8527
+read time (s): 0.313
+Tamb: 25.437
+weight (mg): 8537
+read time (s): 0.312
+Tamb: 25.437
+weight (mg): 8591
+read time (s): 0.313
+Tamb: 25.437
+weight (mg): 8606
+read time (s): 0.313
+Tamb: 25.5
+weight (mg): 8658
+read time (s): 0.315
+Tamb: 25.437
+weight (mg): 8623
+read time (s): 0.315
+Tamb: 25.437
+weight (mg): 8616
+read time (s): 0.315
+Tamb: 25.375
+weight (mg): 8651
+read time (s): 0.315
+Tamb: 25.437
+weight (mg): 8614
+read time (s): 0.316
+Tamb: 25.5
+weight (mg): 8702
+read time (s): 0.315
+Tamb: 25.437
+weight (mg): 8712
+read time (s): 0.315
+Tamb: 25.437
+weight (mg): 8653
+read time (s): 0.316
+Tamb: 25.437
+weight (mg): 8670
+read time (s): 0.316
+Tamb: 25.437
+weight (mg): 8692
+read time (s): 0.316
+Tamb: 25.375
+weight (mg): 8781
+read time (s): 0.316
+Tamb: 25.375
+weight (mg): 8737
+read time (s): 0.316
+Tamb: 25.437
+weight (mg): 8690
+read time (s): 0.316
+Tamb: 25.375
+weight (mg): 8729
+read time (s): 0.316
+Tamb: 25.375
+weight (mg): 8761
+read time (s): 0.316
+Tamb: 25.375
+weight (mg): 8715
+read time (s): 0.319
+Tamb: 25.375
+weight (mg): 8712
+read time (s): 0.316
+Tamb: 25.375
+weight (mg): 8791
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8826
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8761
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8754
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8853
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8774
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8840
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8826
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8771
+read time (s): 0.316
+Tamb: 25.312
+weight (mg): 8813
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8794
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8870
+read time (s): 0.316
+Tamb: 25.312
+weight (mg): 8786
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8853
+read time (s): 0.319
+Tamb: 25.312
+weight (mg): 8848
+read time (s): 0.331
+Tamb: 25.312
+weight (mg): 8858
+read time (s): 0.317
+Tamb: 25.375
+weight (mg): 8870
+read time (s): 0.316
+Tamb: 25.312
+weight (mg): 8850
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8897
+read time (s): 0.316
+Tamb: 25.312
+weight (mg): 8890
+read time (s): 0.317
+Tamb: 25.25
+weight (mg): 8964
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8902
+read time (s): 0.339
+Tamb: 25.312
+weight (mg): 8895
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8964
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8897
+read time (s): 0.317
+Tamb: 25.312
+weight (mg): 8983
+read time (s): 0.317
+Tamb: 25.25
+weight (mg): 8939
+read time (s): 0.318
+Tamb: 25.25
+weight (mg): 8907
+read time (s): 0.317
+Tamb: 25.25
+weight (mg): 8978
+read time (s): 0.316
+Tamb: 25.312
+weight (mg): 8939
+read time (s): 0.315
+Tamb: 25.25
+weight (mg): 9042
+read time (s): 0.315
+Tamb: 25.25
+weight (mg): 9001
+read time (s): 0.315
+Tamb: 25.25
+weight (mg): 9062
+read time (s): 0.34
+Tamb: 25.25
+weight (mg): 9045
+read time (s): 0.316
+Tamb: 25.25
+weight (mg): 9060
+read time (s): 0.316
+Tamb: 25.25
+weight (mg): 8956
+read time (s): 0.316
+Tamb: 25.25
+weight (mg): 9055
+read time (s): 0.317
+Tamb: 25.25
+weight (mg): 8969
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 8988
+read time (s): 0.318
+Tamb: 25.25
+weight (mg): 9033
+read time (s): 0.315
+Tamb: 25.25
+weight (mg): 9042
+read time (s): 0.316
+Tamb: 25.25
+weight (mg): 9001
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 9075
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 9047
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 9038
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 9079
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 9057
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 9131
+read time (s): 0.316
+Tamb: 25.187
+weight (mg): 9136
+read time (s): 0.317
+Tamb: 25.187
+weight (mg): 9094
+read time (s): 0.319
+Tamb: 25.125
+weight (mg): 9089
+read time (s): 0.318
+Tamb: 25.187
+weight (mg): 9055
+read time (s): 0.319
+Tamb: 25.187
+weight (mg): 9030
+read time (s): 0.319
+Tamb: 25.187
+weight (mg): 9139
+read time (s): 0.319
+Tamb: 25.187
+weight (mg): 9094
+read time (s): 0.319
+Tamb: 25.125
+weight (mg): 9200
+read time (s): 0.319
+Tamb: 25.187
+weight (mg): 9109
+read time (s): 0.32
+Tamb: 25.125
+weight (mg): 9208
+read time (s): 0.32
+Tamb: 25.187
+weight (mg): 9176
+read time (s): 0.319
+Tamb: 25.187
+weight (mg): 9084
+read time (s): 0.32
+Tamb: 25.125
+weight (mg): 9222
+read time (s): 0.321
+Tamb: 25.125
+weight (mg): 9171
+read time (s): 0.32
+Tamb: 25.125
+weight (mg): 9190
+read time (s): 0.319
+Tamb: 25.125
+weight (mg): 9097
+read time (s): 0.321
+Tamb: 25.125
+weight (mg): 9210
+read time (s): 0.32
+Tamb: 25.125
+weight (mg): 9208
+read time (s): 0.32
+Tamb: 25.062
+weight (mg): 9166
+read time (s): 0.319
+Tamb: 25.125
+weight (mg): 9102
+read time (s): 0.319
+Tamb: 25.062
+weight (mg): 9291
+read time (s): 0.32
+Tamb: 25.125
+weight (mg): 9227
+read time (s): 0.32
+Tamb: 25.062
+weight (mg): 9289
+read time (s): 0.643
+Tamb: 25.062
+weight (mg): 9235
+read time (s): 0.332
+Tamb: 25.062
+weight (mg): 9217
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9274
+read time (s): 0.32
+Tamb: 25.062
+weight (mg): 9198
+read time (s): 0.321
+Tamb: 25.125
+weight (mg): 9195
+read time (s): 0.322
+Tamb: 25.125
+weight (mg): 9304
+read time (s): 0.334
+Tamb: 25.125
+weight (mg): 9220
+read time (s): 0.319
+Tamb: 25.125
+weight (mg): 9250
+read time (s): 0.319
+Tamb: 25.125
+weight (mg): 9279
+read time (s): 0.319
+Tamb: 25.125
+weight (mg): 9365
+read time (s): 0.319
+Tamb: 25.062
+weight (mg): 9309
+read time (s): 0.332
+Tamb: 25.125
+weight (mg): 9299
+read time (s): 0.32
+Tamb: 25.062
+weight (mg): 9230
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9321
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9338
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9323
+read time (s): 0.342
+Tamb: 25.062
+weight (mg): 9215
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9405
+read time (s): 0.322
+Tamb: 25.062
+weight (mg): 9392
+read time (s): 0.32
+Tamb: 25.062
+weight (mg): 9373
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9358
+read time (s): 0.333
+Tamb: 25.062
+weight (mg): 9338
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9397
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9390
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9319
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9454
+read time (s): 0.333
+Tamb: 25.062
+weight (mg): 9385
+read time (s): 0.322
+Tamb: 25.062
+weight (mg): 9319
+read time (s): 0.322
+Tamb: 25.062
+weight (mg): 9402
+read time (s): 0.322
+Tamb: 25.0
+weight (mg): 9343
+read time (s): 0.321
+Tamb: 25.062
+weight (mg): 9370
+read time (s): 0.333
+Tamb: 25.062
+weight (mg): 9380
+read time (s): 0.322
+Tamb: 25.062
+weight (mg): 9363
+read time (s): 0.323
+Tamb: 25.0
+weight (mg): 9397
+read time (s): 0.321
+Tamb: 25.0
+weight (mg): 9395
+read time (s): 0.322
+Tamb: 25.062
+weight (mg): 9390
+read time (s): 0.334
+Tamb: 25.0
+weight (mg): 9476
+read time (s): 0.322
+Tamb: 25.0
+weight (mg): 9479
+read time (s): 0.323
+Tamb: 25.0
+weight (mg): 9494
+read time (s): 0.322
+Tamb: 25.0
+weight (mg): 9474
+read time (s): 0.322
+Tamb: 25.0
+weight (mg): 9545
+read time (s): 0.342
+Tamb: 25.0
+weight (mg): 9415
+read time (s): 0.349
+Tamb: 25.0
+weight (mg): 9447
+read time (s): 0.322
+Tamb: 25.0
+weight (mg): 9449
+read time (s): 0.323
+Tamb: 25.0
+weight (mg): 9489
+read time (s): 0.322
+Tamb: 25.0
+weight (mg): 9471
+read time (s): 0.322
+Tamb: 25.0
+weight (mg): 9494
+read time (s): 0.323
+Tamb: 24.937
+weight (mg): 9565
+read time (s): 0.323
+Tamb: 25.0
+weight (mg): 9494
+read time (s): 0.323
+Tamb: 24.937
+weight (mg): 9496
+read time (s): 0.326
+Tamb: 24.937
+weight (mg): 9575
+read time (s): 0.335
+Tamb: 24.937
+weight (mg): 9572
+read time (s): 0.324
+Tamb: 24.937
+weight (mg): 9486
+read time (s): 0.324
+Tamb: 25.0
+weight (mg): 9553
+read time (s): 0.324
+Tamb: 24.937
+weight (mg): 9491
+read time (s): 0.324
+Tamb: 24.937
+weight (mg): 9597
+read time (s): 0.347
+Tamb: 24.937
+weight (mg): 9572
+read time (s): 0.324
+Tamb: 24.937
+weight (mg): 9659
+read time (s): 0.324
+Tamb: 24.937
+weight (mg): 9565
+read time (s): 0.324
+Tamb: 24.937
+weight (mg): 9602
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9533
+read time (s): 0.336
+Tamb: 24.937
+weight (mg): 9627
+read time (s): 0.324
+Tamb: 24.875
+weight (mg): 9592
+read time (s): 0.324
+Tamb: 24.875
+weight (mg): 9592
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9607
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9624
+read time (s): 0.337
+Tamb: 24.875
+weight (mg): 9609
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9614
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9664
+read time (s): 0.324
+Tamb: 24.875
+weight (mg): 9590
+read time (s): 0.325
+Tamb: 24.812
+weight (mg): 9627
+read time (s): 0.336
+Tamb: 24.875
+weight (mg): 9691
+read time (s): 0.323
+Tamb: 24.875
+weight (mg): 9676
+read time (s): 0.345
+Tamb: 24.812
+weight (mg): 9683
+read time (s): 0.324
+Tamb: 24.812
+weight (mg): 9698
+read time (s): 0.325
+Tamb: 24.812
+weight (mg): 9733
+read time (s): 0.326
+Tamb: 24.875
+weight (mg): 9762
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9688
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9673
+read time (s): 0.325
+Tamb: 24.812
+weight (mg): 9688
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9686
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9659
+read time (s): 0.34
+Tamb: 24.812
+weight (mg): 9789
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9792
+read time (s): 0.325
+Tamb: 24.812
+weight (mg): 9710
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9705
+read time (s): 0.325
+Tamb: 24.875
+weight (mg): 9720
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9730
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9742
+read time (s): 0.325
+Tamb: 24.812
+weight (mg): 9747
+read time (s): 0.327
+Tamb: 24.75
+weight (mg): 9718
+read time (s): 0.326
+Tamb: 24.75
+weight (mg): 9767
+read time (s): 0.325
+Tamb: 24.75
+weight (mg): 9789
+read time (s): 0.326
+Tamb: 24.75
+weight (mg): 9794
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9770
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9861
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9863
+read time (s): 0.325
+Tamb: 24.812
+weight (mg): 9841
+read time (s): 0.326
+Tamb: 24.812
+weight (mg): 9834
+read time (s): 0.326
+Tamb: 24.75
+weight (mg): 9908
+read time (s): 0.326
+Tamb: 24.75
+weight (mg): 9848
+read time (s): 0.325
+Tamb: 24.75
+weight (mg): 9836
+read time (s): 0.324
+Tamb: 24.75
+weight (mg): 9848
+read time (s): 0.336
+Tamb: 24.75
+weight (mg): 9821
+read time (s): 0.325
+Tamb: 24.687
+weight (mg): 9873
+read time (s): 0.325
+Tamb: 24.687
+weight (mg): 9890
+read time (s): 0.325
+Tamb: 24.75
+weight (mg): 9876
+read time (s): 0.324
+Tamb: 24.75
+weight (mg): 9895
+read time (s): 0.325
+Tamb: 24.75
+weight (mg): 9969
+read time (s): 0.324
+Tamb: 24.687
+weight (mg): 9915
+read time (s): 0.324
+Tamb: 24.75
+weight (mg): 9821
+read time (s): 0.325
+Tamb: 24.687
+weight (mg): 9927
+read time (s): 0.325
+Tamb: 24.75
+weight (mg): 9954
+read time (s): 0.325
+Tamb: 24.75
+weight (mg): 9908
+read time (s): 0.325
+Tamb: 24.625
+weight (mg): 9949
+read time (s): 0.325
+Tamb: 24.687
+weight (mg): 9920
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 9905
+read time (s): 0.325
+Tamb: 24.687
+weight (mg): 9945
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 9885
+read time (s): 0.326
+Tamb: 24.75
+weight (mg): 9927
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 9945
+read time (s): 0.345
+Tamb: 24.687
+weight (mg): 10046
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 9920
+read time (s): 0.326
+Tamb: 24.75
+weight (mg): 9922
+read time (s): 0.325
+Tamb: 24.625
+weight (mg): 10085
+read time (s): 0.325
+Tamb: 24.687
+weight (mg): 10041
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 9952
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 10055
+read time (s): 0.327
+Tamb: 24.625
+weight (mg): 9999
+read time (s): 0.328
+Tamb: 24.687
+weight (mg): 10011
+read time (s): 0.326
+Tamb: 24.625
+weight (mg): 10078
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 10068
+read time (s): 0.326
+Tamb: 24.687
+weight (mg): 10033
+read time (s): 0.327
+Tamb: 24.687
+weight (mg): 10065
+read time (s): 0.327
+Tamb: 24.687
+weight (mg): 10100
+read time (s): 0.327
+Tamb: 24.625
+weight (mg): 10073
+read time (s): 0.326
+Tamb: 24.625
+weight (mg): 10102
+read time (s): 0.326
+Tamb: 24.625
+weight (mg): 10110
+read time (s): 0.326
+Tamb: 24.625
+weight (mg): 10124
+read time (s): 0.327
+Tamb: 24.562
+weight (mg): 10115
+read time (s): 0.327
+Tamb: 24.625
+weight (mg): 10139
+read time (s): 0.328
+Tamb: 24.625
+weight (mg): 10208
+read time (s): 0.329
+Tamb: 24.625
+weight (mg): 10147
+read time (s): 0.328
+Tamb: 24.625
+weight (mg): 10078
+read time (s): 0.329
+Tamb: 24.625
+weight (mg): 10134
+read time (s): 0.339
+Tamb: 24.625
+weight (mg): 10142
+read time (s): 0.328
+Tamb: 24.625
+weight (mg): 10193
+read time (s): 0.329
+Tamb: 24.625
+weight (mg): 10164
+read time (s): 0.327
+Tamb: 24.562
+weight (mg): 10245
+read time (s): 0.327
+Tamb: 24.625
+weight (mg): 10250
+read time (s): 0.33
+Tamb: 24.562
+weight (mg): 10253
+read time (s): 0.33
+Tamb: 24.562
+weight (mg): 10198
+read time (s): 0.331
+Tamb: 24.562
+weight (mg): 10260
+read time (s): 0.33
+Tamb: 24.625
+weight (mg): 10166
+read time (s): 0.33
+Tamb: 24.562
+weight (mg): 10285
+read time (s): 0.33
+Tamb: 24.562
+weight (mg): 10277
+read time (s): 0.33
+Tamb: 24.562
+weight (mg): 10277
+read time (s): 0.343
+Tamb: 24.562
+weight (mg): 10228
+read time (s): 0.33
+Tamb: 24.562
+weight (mg): 10324
+read time (s): 0.343
+Tamb: 24.562
+weight (mg): 10277
+read time (s): 0.332
+Tamb: 24.5
+weight (mg): 10265
+read time (s): 0.33
+Tamb: 24.5
+weight (mg): 10287
+read time (s): 0.331
+Tamb: 24.5
+weight (mg): 10336
+read time (s): 0.349
+Tamb: 24.5
+weight (mg): 10297
+read time (s): 0.331
+Tamb: 24.5
+weight (mg): 10297
+read time (s): 0.331
+Tamb: 24.5
+weight (mg): 10277
+read time (s): 0.331
+Tamb: 24.5
+weight (mg): 10349
+read time (s): 0.331
+Tamb: 24.437
+weight (mg): 10280
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10433
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10336
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10364
+read time (s): 0.331
+Tamb: 24.437
+weight (mg): 10368
+read time (s): 0.331
+Tamb: 24.437
+weight (mg): 10383
+read time (s): 0.331
+Tamb: 24.437
+weight (mg): 10346
+read time (s): 0.331
+Tamb: 24.375
+weight (mg): 10408
+read time (s): 0.331
+Tamb: 24.437
+weight (mg): 10388
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10418
+read time (s): 0.331
+Tamb: 24.437
+weight (mg): 10470
+read time (s): 0.331
+Tamb: 24.437
+weight (mg): 10359
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10502
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10477
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10450
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10516
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10437
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10571
+read time (s): 0.332
+Tamb: 24.375
+weight (mg): 10553
+read time (s): 0.332
+Tamb: 24.437
+weight (mg): 10516
+read time (s): 0.333
+Tamb: 24.437
+weight (mg): 10514
+read time (s): 0.333
+Tamb: 24.437
+weight (mg): 10455
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10526
+read time (s): 0.333
+Tamb: 24.437
+weight (mg): 10539
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10526
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10539
+read time (s): 0.332
+Tamb: 24.375
+weight (mg): 10556
+read time (s): 0.332
+Tamb: 24.375
+weight (mg): 10546
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10573
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10640
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10566
+read time (s): 0.332
+Tamb: 24.375
+weight (mg): 10600
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10531
+read time (s): 0.332
+Tamb: 24.375
+weight (mg): 10608
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10662
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10541
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10605
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10699
+read time (s): 0.33
+Tamb: 24.312
+weight (mg): 10645
+read time (s): 0.332
+Tamb: 24.375
+weight (mg): 10701
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10699
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10706
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10691
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10718
+read time (s): 0.332
+Tamb: 24.375
+weight (mg): 10681
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10664
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10681
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10728
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10667
+read time (s): 0.333
+Tamb: 24.375
+weight (mg): 10738
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10736
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10736
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10763
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10706
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10728
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10726
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10795
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10758
+read time (s): 0.332
+Tamb: 24.312
+weight (mg): 10765
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10792
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10817
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10785
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10812
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10837
+read time (s): 0.333
+Tamb: 24.312
+weight (mg): 10783
+read time (s): 0.332
+Tamb: 24.25
+weight (mg): 10773
+read time (s): 0.332
+Tamb: 24.25
+weight (mg): 10832
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10802
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10839
+read time (s): 0.334
+Tamb: 24.25
+weight (mg): 10844
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10797
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10765
+read time (s): 0.334
+Tamb: 24.25
+weight (mg): 10820
+read time (s): 0.335
+Tamb: 24.25
+weight (mg): 10822
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10820
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10817
+read time (s): 0.333
+Tamb: 24.187
+weight (mg): 10800
+read time (s): 0.334
+Tamb: 24.25
+weight (mg): 10859
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10852
+read time (s): 0.332
+Tamb: 24.25
+weight (mg): 10844
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10839
+read time (s): 0.332
+Tamb: 24.25
+weight (mg): 10906
+read time (s): 0.334
+Tamb: 24.25
+weight (mg): 10901
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10871
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10898
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10896
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10916
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10889
+read time (s): 0.334
+Tamb: 24.25
+weight (mg): 10891
+read time (s): 0.333
+Tamb: 24.187
+weight (mg): 10967
+read time (s): 0.333
+Tamb: 24.187
+weight (mg): 10985
+read time (s): 0.333
+Tamb: 24.25
+weight (mg): 10847
+read time (s): 0.333
+Tamb: 24.187
+weight (mg): 10948
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10856
+read time (s): 0.333
+Tamb: 24.187
+weight (mg): 10967
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10943
+read time (s): 0.355
+Tamb: 24.187
+weight (mg): 10935
+read time (s): 0.333
+Tamb: 24.187
+weight (mg): 10940
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10866
+read time (s): 0.335
+Tamb: 24.187
+weight (mg): 10965
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10879
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10930
+read time (s): 0.335
+Tamb: 24.187
+weight (mg): 10925
+read time (s): 0.335
+Tamb: 24.187
+weight (mg): 11009
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 11056
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 11017
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10925
+read time (s): 0.335
+Tamb: 24.187
+weight (mg): 10990
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10965
+read time (s): 0.335
+Tamb: 24.187
+weight (mg): 11014
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 10975
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 10950
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 10995
+read time (s): 0.334
+Tamb: 24.125
+weight (mg): 10955
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 11012
+read time (s): 0.337
+Tamb: 24.125
+weight (mg): 11019
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 11036
+read time (s): 0.334
+Tamb: 24.187
+weight (mg): 11086
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 11044
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 11103
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 11049
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11061
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11056
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 11031
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11103
+read time (s): 0.336
+Tamb: 24.062
+weight (mg): 11039
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11133
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11036
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11071
+read time (s): 0.336
+Tamb: 24.062
+weight (mg): 11140
+read time (s): 0.336
+Tamb: 24.062
+weight (mg): 11024
+read time (s): 0.335
+Tamb: 24.125
+weight (mg): 11137
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11041
+read time (s): 0.336
+Tamb: 24.062
+weight (mg): 11027
+read time (s): 0.335
+Tamb: 24.062
+weight (mg): 11145
+read time (s): 0.336
+Tamb: 24.062
+weight (mg): 11118
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11174
+read time (s): 0.336
+Tamb: 24.125
+weight (mg): 11100
+read time (s): 0.335
+Tamb: 24.062
+weight (mg): 11081
+read time (s): 0.333
+Tamb: 24.062
+weight (mg): 11076
+read time (s): 0.334
+Tamb: 24.062
+weight (mg): 11152
+read time (s): 0.333
+Tamb: 24.062
+weight (mg): 11128
+read time (s): 0.334
+Tamb: 24.062
+weight (mg): 11229
+read time (s): 0.334
+Tamb: 24.062
+weight (mg): 11199
+read time (s): 0.335
+Tamb: 24.0
+weight (mg): 11165
+read time (s): 0.334
+Tamb: 24.0
+weight (mg): 11236
+read time (s): 0.346
+Tamb: 24.062
+weight (mg): 11226
+read time (s): 0.335
+Tamb: 24.0
+weight (mg): 11177
+read time (s): 0.334
+Tamb: 24.0
+weight (mg): 11145
+read time (s): 0.348
+Tamb: 24.0
+weight (mg): 11165
+read time (s): 0.336
+Tamb: 24.0
+weight (mg): 11214
+read time (s): 0.336
+Tamb: 24.0
+weight (mg): 11194
+read time (s): 0.336
+Tamb: 24.0
+weight (mg): 11268
+read time (s): 0.337
+Tamb: 24.0
+weight (mg): 11275
+read time (s): 0.336
+Tamb: 24.0
+weight (mg): 11246
+read time (s): 0.336
+Tamb: 24.0
+weight (mg): 11137
+read time (s): 0.887

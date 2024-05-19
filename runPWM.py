@@ -6,7 +6,7 @@ GPIO.setwarnings(False)
 GPIO.setmode(GPIO.BOARD)
 GPIO.setup(pwmPin,GPIO.OUT)
 pi_pwm = GPIO.PWM(pwmPin,1000)
-dutyCycle = 39
+dutyCycle = 39.0
 pi_pwm.start(dutyCycle)
 
 while True:
@@ -14,14 +14,11 @@ while True:
     file = open("pwm_setting")
     dutyCycle = float(file.readline())
     file.close()
-    pi_pwm.ChangeDutyCycle(dutyCycle + 0.5)
-    sleep(3)
-    pi_pwm.ChangeDutyCycle(dutyCycle - 0.5)
-    sleep(3)
     pi_pwm.ChangeDutyCycle(dutyCycle)
-    sleep(3)
-
+    sleep(9)
+    
   except Exception as e:
     print(e)
     pass
   sleep(1)
+

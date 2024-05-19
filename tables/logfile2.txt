@@ -1,0 +1,3674 @@
+weight (mg): 11214
+read time (s): 0.886
+weight after adjust (mg): -118.625
+Tamb: 0.023875
+weight (mg): 11236
+read time (s): 0.333
+weight after adjust (mg): -96.625
+Tamb: 0.023875
+weight (mg): 11167
+read time (s): 0.333
+weight after adjust (mg): -60.163000000000466
+Tamb: 0.023937
+weight (mg): 11211
+read time (s): 0.334
+weight after adjust (mg): -16.163000000000466
+Tamb: 0.023937
+weight (mg): 11236
+read time (s): 0.333
+weight after adjust (mg): 8.836999999999534
+Tamb: 0.023937
+weight (mg): 11229
+read time (s): 0.334
+weight after adjust (mg): -103.625
+Tamb: 0.023875
+weight (mg): 11187
+read time (s): 0.334
+weight after adjust (mg): -145.625
+Tamb: 0.023875
+weight (mg): 11241
+read time (s): 0.334
+weight after adjust (mg): -91.625
+Tamb: 0.023875
+weight (mg): 11251
+read time (s): 0.334
+weight after adjust (mg): -81.625
+Tamb: 0.023875
+weight (mg): 11283
+read time (s): 0.333
+weight after adjust (mg): 55.836999999999534
+Tamb: 0.023937
+weight (mg): 11253
+read time (s): 0.333
+weight after adjust (mg): -79.625
+Tamb: 0.023875
+weight (mg): 11293
+read time (s): 0.334
+weight after adjust (mg): -39.625
+Tamb: 0.023875
+weight (mg): 11231
+read time (s): 0.333
+weight after adjust (mg): 3.8369999999995343
+Tamb: 0.023937
+weight (mg): 11278
+read time (s): 0.334
+weight after adjust (mg): -54.625
+Tamb: 0.023875
+weight (mg): 11273
+read time (s): 0.334
+weight after adjust (mg): 45.836999999999534
+Tamb: 0.023937
+weight (mg): 11251
+read time (s): 0.334
+weight after adjust (mg): 23.836999999999534
+Tamb: 0.023937
+weight (mg): 11214
+read time (s): 0.355
+weight after adjust (mg): -118.625
+Tamb: 0.023875
+weight (mg): 11256
+read time (s): 0.334
+weight after adjust (mg): -76.625
+Tamb: 0.023875
+weight (mg): 11320
+read time (s): 0.334
+weight after adjust (mg): -12.625
+Tamb: 0.023875
+weight (mg): 11229
+read time (s): 0.334
+weight after adjust (mg): -103.625
+Tamb: 0.023875
+weight (mg): 11243
+read time (s): 0.335
+weight after adjust (mg): -89.625
+Tamb: 0.023875
+weight (mg): 11288
+read time (s): 0.335
+weight after adjust (mg): -44.625
+Tamb: 0.023875
+weight (mg): 11273
+read time (s): 0.334
+weight after adjust (mg): -59.625
+Tamb: 0.023875
+weight (mg): 11298
+read time (s): 0.334
+weight after adjust (mg): -34.625
+Tamb: 0.023875
+weight (mg): 11409
+read time (s): 0.332
+weight after adjust (mg): 76.375
+Tamb: 0.023875
+weight (mg): 11288
+read time (s): 0.332
+weight after adjust (mg): -44.625
+Tamb: 0.023875
+weight (mg): 11268
+read time (s): 0.333
+weight after adjust (mg): -171.78800000000047
+Tamb: 0.023812
+weight (mg): 11337
+read time (s): 0.334
+weight after adjust (mg): -102.78800000000047
+Tamb: 0.023812
+weight (mg): 11202
+read time (s): 0.335
+weight after adjust (mg): -450.41300000000047
+Tamb: 0.023687
+weight (mg): 11283
+read time (s): 0.336
+weight after adjust (mg): -262.25
+Tamb: 0.02375
+weight (mg): 11310
+read time (s): 0.335
+weight after adjust (mg): -235.25
+Tamb: 0.02375
+weight (mg): 11271
+read time (s): 0.336
+weight after adjust (mg): -274.25
+Tamb: 0.02375
+weight (mg): 11344
+read time (s): 0.335
+weight after adjust (mg): -201.25
+Tamb: 0.02375
+weight (mg): 11271
+read time (s): 0.335
+weight after adjust (mg): -274.25
+Tamb: 0.02375
+weight (mg): 11325
+read time (s): 0.336
+weight after adjust (mg): -114.78800000000047
+Tamb: 0.023812
+weight (mg): 11332
+read time (s): 0.337
+weight after adjust (mg): -213.25
+Tamb: 0.02375
+weight (mg): 11431
+read time (s): 0.337
+weight after adjust (mg): -221.41300000000047
+Tamb: 0.023687
+weight (mg): 11485
+read time (s): 0.337
+weight after adjust (mg): -167.41300000000047
+Tamb: 0.023687
+weight (mg): 11409
+read time (s): 0.336
+weight after adjust (mg): -348.875
+Tamb: 0.023625
+weight (mg): 11364
+read time (s): 0.335
+weight after adjust (mg): -393.875
+Tamb: 0.023625
+weight (mg): 11364
+read time (s): 0.337
+weight after adjust (mg): -393.875
+Tamb: 0.023625
+weight (mg): 11352
+read time (s): 0.336
+weight after adjust (mg): -405.875
+Tamb: 0.023625
+weight (mg): 11414
+read time (s): 0.335
+weight after adjust (mg): -343.875
+Tamb: 0.023625
+weight (mg): 11468
+read time (s): 0.333
+weight after adjust (mg): -289.875
+Tamb: 0.023625
+weight (mg): 11340
+read time (s): 0.333
+weight after adjust (mg): -525.0380000000005
+Tamb: 0.023562
+weight (mg): 11428
+read time (s): 0.335
+weight after adjust (mg): -437.03800000000047
+Tamb: 0.023562
+weight (mg): 11354
+read time (s): 0.334
+weight after adjust (mg): -511.03800000000047
+Tamb: 0.023562
+weight (mg): 11362
+read time (s): 0.334
+weight after adjust (mg): -503.03800000000047
+Tamb: 0.023562
+weight (mg): 11379
+read time (s): 0.334
+weight after adjust (mg): -486.03800000000047
+Tamb: 0.023562
+weight (mg): 11399
+read time (s): 0.333
+weight after adjust (mg): -571.5
+Tamb: 0.0235
+weight (mg): 11426
+read time (s): 0.334
+weight after adjust (mg): -439.03800000000047
+Tamb: 0.023562
+weight (mg): 11455
+read time (s): 0.334
+weight after adjust (mg): -515.5
+Tamb: 0.0235
+weight (mg): 11364
+read time (s): 0.334
+weight after adjust (mg): -501.03800000000047
+Tamb: 0.023562
+weight (mg): 11453
+read time (s): 0.333
+weight after adjust (mg): -517.5
+Tamb: 0.0235
+weight (mg): 11458
+read time (s): 0.334
+weight after adjust (mg): -512.5
+Tamb: 0.0235
+weight (mg): 11431
+read time (s): 0.333
+weight after adjust (mg): -539.5
+Tamb: 0.0235
+weight (mg): 11423
+read time (s): 0.333
+weight after adjust (mg): -547.5
+Tamb: 0.0235
+weight (mg): 11436
+read time (s): 0.333
+weight after adjust (mg): -534.5
+Tamb: 0.0235
+weight (mg): 11490
+read time (s): 0.332
+weight after adjust (mg): -480.5
+Tamb: 0.0235
+weight (mg): 11406
+read time (s): 0.333
+weight after adjust (mg): -564.5
+Tamb: 0.0235
+weight (mg): 11450
+read time (s): 0.332
+weight after adjust (mg): -520.5
+Tamb: 0.0235
+weight (mg): 11406
+read time (s): 0.332
+weight after adjust (mg): -564.5
+Tamb: 0.0235
+weight (mg): 11455
+read time (s): 0.332
+weight after adjust (mg): -515.5
+Tamb: 0.0235
+weight (mg): 11426
+read time (s): 0.332
+weight after adjust (mg): -544.5
+Tamb: 0.0235
+weight (mg): 11448
+read time (s): 0.334
+weight after adjust (mg): -522.5
+Tamb: 0.0235
+weight (mg): 11438
+read time (s): 0.332
+weight after adjust (mg): -427.03800000000047
+Tamb: 0.023562
+weight (mg): 11453
+read time (s): 0.333
+weight after adjust (mg): -412.03800000000047
+Tamb: 0.023562
+weight (mg): 11487
+read time (s): 0.331
+weight after adjust (mg): -483.5
+Tamb: 0.0235
+weight (mg): 11460
+read time (s): 0.334
+weight after adjust (mg): -510.5
+Tamb: 0.0235
+weight (mg): 11450
+read time (s): 0.332
+weight after adjust (mg): -415.03800000000047
+Tamb: 0.023562
+weight (mg): 11470
+read time (s): 0.331
+weight after adjust (mg): -395.03800000000047
+Tamb: 0.023562
+weight (mg): 11443
+read time (s): 0.331
+weight after adjust (mg): -422.03800000000047
+Tamb: 0.023562
+weight (mg): 11500
+read time (s): 0.33
+weight after adjust (mg): -365.03800000000047
+Tamb: 0.023562
+weight (mg): 11470
+read time (s): 0.331
+weight after adjust (mg): -395.03800000000047
+Tamb: 0.023562
+weight (mg): 11470
+read time (s): 0.329
+weight after adjust (mg): -395.03800000000047
+Tamb: 0.023562
+weight (mg): 11433
+read time (s): 0.886
+weight after adjust (mg): -324.875
+Tamb: 23.625
+weight (mg): 11463
+read time (s): 0.326
+weight after adjust (mg): -294.875
+Tamb: 23.625
+weight (mg): 11399
+read time (s): 0.327
+weight after adjust (mg): -358.875
+Tamb: 23.625
+weight (mg): 11448
+read time (s): 0.326
+weight after adjust (mg): -309.875
+Tamb: 23.625
+weight (mg): 11399
+read time (s): 0.325
+weight after adjust (mg): -358.875
+Tamb: 23.625
+weight (mg): 11428
+read time (s): 0.326
+weight after adjust (mg): -329.875
+Tamb: 23.625
+weight (mg): 11401
+read time (s): 0.325
+weight after adjust (mg): -356.875
+Tamb: 23.625
+weight (mg): 11389
+read time (s): 0.325
+weight after adjust (mg): -368.875
+Tamb: 23.625
+weight (mg): 11389
+read time (s): 0.326
+weight after adjust (mg): -263.41300000000047
+Tamb: 23.687
+weight (mg): 11438
+read time (s): 0.326
+weight after adjust (mg): -107.25
+Tamb: 23.75
+weight (mg): 11465
+read time (s): 0.326
+weight after adjust (mg): -80.25
+Tamb: 23.75
+weight (mg): 11367
+read time (s): 0.325
+weight after adjust (mg): -285.41300000000047
+Tamb: 23.687
+weight (mg): 11411
+read time (s): 0.325
+weight after adjust (mg): -241.41300000000047
+Tamb: 23.687
+weight (mg): 11369
+read time (s): 0.324
+weight after adjust (mg): -176.25
+Tamb: 23.75
+weight (mg): 11418
+read time (s): 0.324
+weight after adjust (mg): -127.25
+Tamb: 23.75
+weight (mg): 11394
+read time (s): 0.325
+weight after adjust (mg): -151.25
+Tamb: 23.75
+weight (mg): 11446
+read time (s): 0.325
+weight after adjust (mg): -99.25
+Tamb: 23.75
+weight (mg): 11386
+read time (s): 0.348
+weight after adjust (mg): -159.25
+Tamb: 23.75
+weight (mg): 11401
+read time (s): 0.325
+weight after adjust (mg): -144.25
+Tamb: 23.75
+weight (mg): 11239
+read time (s): 0.231
+weight after adjust (mg): -306.25
+Tamb: 23.75
+weight (mg): 11308
+read time (s): 0.326
+weight after adjust (mg): -237.25
+Tamb: 23.75
+weight (mg): 11354
+read time (s): 0.327
+weight after adjust (mg): -191.25
+Tamb: 23.75
+weight (mg): 11411
+read time (s): 0.327
+weight after adjust (mg): -134.25
+Tamb: 23.75
+weight (mg): 11394
+read time (s): 0.327
+weight after adjust (mg): -45.788000000000466
+Tamb: 23.812
+weight (mg): 11312
+read time (s): 0.327
+weight after adjust (mg): -127.78800000000047
+Tamb: 23.812
+weight (mg): 11401
+read time (s): 0.327
+weight after adjust (mg): -38.788000000000466
+Tamb: 23.812
+weight (mg): 11411
+read time (s): 0.338
+weight after adjust (mg): -28.788000000000466
+Tamb: 23.812
+weight (mg): 11349
+read time (s): 0.339
+weight after adjust (mg): -196.25
+Tamb: 23.75
+weight (mg): 11335
+read time (s): 0.326
+weight after adjust (mg): -104.78800000000047
+Tamb: 23.812
+weight (mg): 11362
+read time (s): 0.327
+weight after adjust (mg): -183.25
+Tamb: 23.75
+weight (mg): 11317
+read time (s): 0.326
+weight after adjust (mg): -122.78800000000047
+Tamb: 23.812
+weight (mg): 11332
+read time (s): 0.348
+weight after adjust (mg): -107.78800000000047
+Tamb: 23.812
+weight (mg): 11352
+read time (s): 0.326
+weight after adjust (mg): -87.78800000000047
+Tamb: 23.812
+weight (mg): 11312
+read time (s): 0.326
+weight after adjust (mg): -127.78800000000047
+Tamb: 23.812
+weight (mg): 11300
+read time (s): 0.354
+weight after adjust (mg): -139.78800000000047
+Tamb: 23.812
+weight (mg): 11273
+read time (s): 0.327
+weight after adjust (mg): -166.78800000000047
+Tamb: 23.812
+weight (mg): 11288
+read time (s): 0.325
+weight after adjust (mg): -151.78800000000047
+Tamb: 23.812
+weight (mg): 11266
+read time (s): 0.325
+weight after adjust (mg): -173.78800000000047
+Tamb: 23.812
+weight (mg): 11261
+read time (s): 0.326
+weight after adjust (mg): -178.78800000000047
+Tamb: 23.812
+weight (mg): 11266
+read time (s): 0.325
+weight after adjust (mg): -173.78800000000047
+Tamb: 23.812
+weight (mg): 11290
+read time (s): 0.325
+weight after adjust (mg): -149.78800000000047
+Tamb: 23.812
+weight (mg): 11271
+read time (s): 0.328
+weight after adjust (mg): -168.78800000000047
+Tamb: 23.812
+weight (mg): 11349
+read time (s): 0.326
+weight after adjust (mg): 16.375
+Tamb: 23.875
+weight (mg): 11216
+read time (s): 0.325
+weight after adjust (mg): -116.625
+Tamb: 23.875
+weight (mg): 11234
+read time (s): 0.324
+weight after adjust (mg): -98.625
+Tamb: 23.875
+weight (mg): 11273
+read time (s): 0.326
+weight after adjust (mg): -166.78800000000047
+Tamb: 23.812
+weight (mg): 11239
+read time (s): 0.346
+weight after adjust (mg): -200.78800000000047
+Tamb: 23.812
+weight (mg): 11280
+read time (s): 0.333
+weight after adjust (mg): -159.78800000000047
+Tamb: 23.812
+weight (mg): 11246
+read time (s): 0.354
+weight after adjust (mg): -193.78800000000047
+Tamb: 23.812
+weight (mg): 11199
+read time (s): 0.353
+weight after adjust (mg): -240.78800000000047
+Tamb: 23.812
+weight (mg): 11199
+read time (s): 0.334
+weight after adjust (mg): -240.78800000000047
+Tamb: 23.812
+weight (mg): 11192
+read time (s): 0.33
+weight after adjust (mg): -140.625
+Tamb: 23.875
+weight (mg): 11187
+read time (s): 0.329
+weight after adjust (mg): -145.625
+Tamb: 23.875
+weight (mg): 11209
+read time (s): 0.329
+weight after adjust (mg): -230.78800000000047
+Tamb: 23.812
+weight (mg): 11206
+read time (s): 0.328
+weight after adjust (mg): -126.625
+Tamb: 23.875
+weight (mg): 11056
+read time (s): 0.328
+weight after adjust (mg): -276.625
+Tamb: 23.875
+weight (mg): 11160
+read time (s): 0.327
+weight after adjust (mg): -279.78800000000047
+Tamb: 23.812
+weight (mg): 11110
+read time (s): 0.326
+weight after adjust (mg): -329.78800000000047
+Tamb: 23.812
+weight (mg): 11071
+read time (s): 0.327
+weight after adjust (mg): -261.625
+Tamb: 23.875
+weight (mg): 11110
+read time (s): 0.327
+weight after adjust (mg): -222.625
+Tamb: 23.875
+weight (mg): 11071
+read time (s): 0.327
+weight after adjust (mg): -261.625
+Tamb: 23.875
+weight (mg): 11076
+read time (s): 0.326
+weight after adjust (mg): -256.625
+Tamb: 23.875
+weight (mg): 11056
+read time (s): 0.325
+weight after adjust (mg): -276.625
+Tamb: 23.875
+weight (mg): 11044
+read time (s): 0.326
+weight after adjust (mg): -395.78800000000047
+Tamb: 23.812
+weight (mg): 11066
+read time (s): 0.343
+weight after adjust (mg): -373.78800000000047
+Tamb: 23.812
+weight (mg): 11031
+read time (s): 0.325
+weight after adjust (mg): -408.78800000000047
+Tamb: 23.812
+weight (mg): 11061
+read time (s): 0.326
+weight after adjust (mg): -271.625
+Tamb: 23.875
+weight (mg): 11091
+read time (s): 0.325
+weight after adjust (mg): -136.16300000000047
+Tamb: 23.937
+weight (mg): 10967
+read time (s): 0.325
+weight after adjust (mg): -365.625
+Tamb: 23.875
+weight (mg): 11034
+read time (s): 0.326
+weight after adjust (mg): -405.78800000000047
+Tamb: 23.812
+weight (mg): 11128
+read time (s): 0.343
+weight after adjust (mg): -311.78800000000047
+Tamb: 23.812
+weight (mg): 10985
+read time (s): 0.325
+weight after adjust (mg): -454.78800000000047
+Tamb: 23.812
+weight (mg): 10856
+read time (s): 0.325
+weight after adjust (mg): -476.625
+Tamb: 23.875
+weight (mg): 10972
+read time (s): 0.325
+weight after adjust (mg): -360.625
+Tamb: 23.875
+weight (mg): 10834
+read time (s): 0.324
+weight after adjust (mg): -498.625
+Tamb: 23.875
+weight (mg): 10935
+read time (s): 0.325
+weight after adjust (mg): -397.625
+Tamb: 23.875
+weight (mg): 10921
+read time (s): 0.327
+weight after adjust (mg): -411.625
+Tamb: 23.875
+weight (mg): 11009
+read time (s): 0.324
+weight after adjust (mg): -218.16300000000047
+Tamb: 23.937
+weight (mg): 10938
+read time (s): 0.323
+weight after adjust (mg): -394.625
+Tamb: 23.875
+weight (mg): 10884
+read time (s): 0.322
+weight after adjust (mg): -448.625
+Tamb: 23.875
+weight (mg): 10918
+read time (s): 0.322
+weight after adjust (mg): -309.16300000000047
+Tamb: 23.937
+weight (mg): 10884
+read time (s): 0.322
+weight after adjust (mg): -343.16300000000047
+Tamb: 23.937
+weight (mg): 10795
+read time (s): 0.321
+weight after adjust (mg): -432.16300000000047
+Tamb: 23.937
+weight (mg): 10765
+read time (s): 0.321
+weight after adjust (mg): -462.16300000000047
+Tamb: 23.937
+weight (mg): 10884
+read time (s): 0.322
+weight after adjust (mg): -343.16300000000047
+Tamb: 23.937
+weight (mg): 10790
+read time (s): 0.322
+weight after adjust (mg): -437.16300000000047
+Tamb: 23.937
+weight (mg): 10728
+read time (s): 0.322
+weight after adjust (mg): -499.16300000000047
+Tamb: 23.937
+weight (mg): 10775
+read time (s): 0.322
+weight after adjust (mg): -452.16300000000047
+Tamb: 23.937
+weight (mg): 10691
+read time (s): 0.323
+weight after adjust (mg): -536.1630000000005
+Tamb: 23.937
+weight (mg): 10748
+read time (s): 0.322
+weight after adjust (mg): -584.625
+Tamb: 23.875
+weight (mg): 10686
+read time (s): 0.323
+weight after adjust (mg): -646.625
+Tamb: 23.875
+weight (mg): 10627
+read time (s): 0.323
+weight after adjust (mg): -705.625
+Tamb: 23.875
+weight (mg): 10738
+read time (s): 0.323
+weight after adjust (mg): -701.7880000000005
+Tamb: 23.812
+weight (mg): 10689
+read time (s): 0.323
+weight after adjust (mg): -856.25
+Tamb: 23.75
+weight (mg): 10733
+read time (s): 0.324
+weight after adjust (mg): -706.7880000000005
+Tamb: 23.812
+weight (mg): 10563
+read time (s): 0.324
+weight after adjust (mg): -876.7880000000005
+Tamb: 23.812
+weight (mg): 10632
+read time (s): 0.325
+weight after adjust (mg): -807.7880000000005
+Tamb: 23.812
+weight (mg): 10711
+read time (s): 0.324
+weight after adjust (mg): -621.625
+Tamb: 23.875
+weight (mg): 10669
+read time (s): 0.323
+weight after adjust (mg): -663.625
+Tamb: 23.875
+weight (mg): 10588
+read time (s): 0.324
+weight after adjust (mg): -851.7880000000005
+Tamb: 23.812
+weight (mg): 10635
+read time (s): 0.324
+weight after adjust (mg): -697.625
+Tamb: 23.875
+weight (mg): 10588
+read time (s): 0.325
+weight after adjust (mg): -744.625
+Tamb: 23.875
+weight (mg): 10630
+read time (s): 0.324
+weight after adjust (mg): -702.625
+Tamb: 23.875
+weight (mg): 10610
+read time (s): 0.323
+weight after adjust (mg): -617.1630000000005
+Tamb: 23.937
+weight (mg): 10534
+read time (s): 0.323
+weight after adjust (mg): -798.625
+Tamb: 23.875
+weight (mg): 10536
+read time (s): 0.323
+weight after adjust (mg): -691.1630000000005
+Tamb: 23.937
+weight (mg): 10556
+read time (s): 0.323
+weight after adjust (mg): -671.1630000000005
+Tamb: 23.937
+weight (mg): 10563
+read time (s): 0.333
+weight after adjust (mg): -769.625
+Tamb: 23.875
+weight (mg): 10543
+read time (s): 0.323
+weight after adjust (mg): -684.1630000000005
+Tamb: 23.937
+weight (mg): 10558
+read time (s): 0.324
+weight after adjust (mg): -669.1630000000005
+Tamb: 23.937
+weight (mg): 10546
+read time (s): 0.323
+weight after adjust (mg): -681.1630000000005
+Tamb: 23.937
+weight (mg): 10526
+read time (s): 0.322
+weight after adjust (mg): -701.1630000000005
+Tamb: 23.937
+weight (mg): 10556
+read time (s): 0.322
+weight after adjust (mg): -671.1630000000005
+Tamb: 23.937
+weight (mg): 10524
+read time (s): 0.322
+weight after adjust (mg): -596.0
+Tamb: 24.0
+weight (mg): 10465
+read time (s): 0.322
+weight after adjust (mg): -655.0
+Tamb: 24.0
+weight (mg): 10445
+read time (s): 0.323
+weight after adjust (mg): -675.0
+Tamb: 24.0
+weight (mg): 10445
+read time (s): 0.346
+weight after adjust (mg): -782.1630000000005
+Tamb: 23.937
+weight (mg): 10489
+read time (s): 0.323
+weight after adjust (mg): -631.0
+Tamb: 24.0
+weight (mg): 10465
+read time (s): 0.323
+weight after adjust (mg): -655.0
+Tamb: 24.0
+weight (mg): 10445
+read time (s): 0.322
+weight after adjust (mg): -675.0
+Tamb: 24.0
+weight (mg): 10457
+read time (s): 0.321
+weight after adjust (mg): -770.1630000000005
+Tamb: 23.937
+weight (mg): 10536
+read time (s): 0.322
+weight after adjust (mg): -691.1630000000005
+Tamb: 23.937
+weight (mg): 10460
+read time (s): 0.322
+weight after adjust (mg): -767.1630000000005
+Tamb: 23.937
+weight (mg): 10381
+read time (s): 0.338
+weight after adjust (mg): -846.1630000000005
+Tamb: 23.937
+weight (mg): 10317
+read time (s): 0.323
+weight after adjust (mg): -910.1630000000005
+Tamb: 23.937
+weight (mg): 10349
+read time (s): 0.322
+weight after adjust (mg): -878.1630000000005
+Tamb: 23.937
+weight (mg): 10297
+read time (s): 0.324
+weight after adjust (mg): -930.1630000000005
+Tamb: 23.937
+weight (mg): 10356
+read time (s): 0.321
+weight after adjust (mg): -976.625
+Tamb: 23.875
+weight (mg): 10319
+read time (s): 0.32
+weight after adjust (mg): -801.0
+Tamb: 24.0
+weight (mg): 10344
+read time (s): 0.32
+weight after adjust (mg): -883.1630000000005
+Tamb: 23.937
+weight (mg): 10371
+read time (s): 0.32
+weight after adjust (mg): -856.1630000000005
+Tamb: 23.937
+weight (mg): 10334
+read time (s): 0.32
+weight after adjust (mg): -893.1630000000005
+Tamb: 23.937
+weight (mg): 10309
+read time (s): 0.32
+weight after adjust (mg): -918.1630000000005
+Tamb: 23.937
+weight (mg): 10341
+read time (s): 0.32
+weight after adjust (mg): -779.0
+Tamb: 24.0
+weight (mg): 10359
+read time (s): 0.32
+weight after adjust (mg): -761.0
+Tamb: 24.0
+weight (mg): 10354
+read time (s): 0.319
+weight after adjust (mg): -660.5380000000005
+Tamb: 24.062
+weight (mg): 10243
+read time (s): 0.319
+weight after adjust (mg): -877.0
+Tamb: 24.0
+weight (mg): 10144
+read time (s): 0.318
+weight after adjust (mg): -976.0
+Tamb: 24.0
+weight (mg): 10258
+read time (s): 0.317
+weight after adjust (mg): -862.0
+Tamb: 24.0
+weight (mg): 10235
+read time (s): 0.32
+weight after adjust (mg): -885.0
+Tamb: 24.0
+weight (mg): 10285
+read time (s): 0.319
+weight after adjust (mg): -835.0
+Tamb: 24.0
+weight (mg): 10216
+read time (s): 0.32
+weight after adjust (mg): -904.0
+Tamb: 24.0
+weight (mg): 10186
+read time (s): 0.321
+weight after adjust (mg): -828.5380000000005
+Tamb: 24.062
+weight (mg): 10280
+read time (s): 0.319
+weight after adjust (mg): -734.5380000000005
+Tamb: 24.062
+weight (mg): 10292
+read time (s): 0.317
+weight after adjust (mg): -722.5380000000005
+Tamb: 24.062
+weight (mg): 10189
+read time (s): 0.316
+weight after adjust (mg): -718.375
+Tamb: 24.125
+weight (mg): 10157
+read time (s): 0.316
+weight after adjust (mg): -750.375
+Tamb: 24.125
+weight (mg): 10174
+read time (s): 0.318
+weight after adjust (mg): -733.375
+Tamb: 24.125
+weight (mg): 10211
+read time (s): 0.317
+weight after adjust (mg): -803.5380000000005
+Tamb: 24.062
+weight (mg): 10157
+read time (s): 0.316
+weight after adjust (mg): -750.375
+Tamb: 24.125
+weight (mg): 10139
+read time (s): 0.315
+weight after adjust (mg): -768.375
+Tamb: 24.125
+weight (mg): 10132
+read time (s): 0.317
+weight after adjust (mg): -775.375
+Tamb: 24.125
+weight (mg): 10100
+read time (s): 0.315
+weight after adjust (mg): -807.375
+Tamb: 24.125
+weight (mg): 10176
+read time (s): 0.317
+weight after adjust (mg): -731.375
+Tamb: 24.125
+weight (mg): 10080
+read time (s): 0.316
+weight after adjust (mg): -827.375
+Tamb: 24.125
+weight (mg): 10058
+read time (s): 0.335
+weight after adjust (mg): -849.375
+Tamb: 24.125
+weight (mg): 10124
+read time (s): 0.338
+weight after adjust (mg): -783.375
+Tamb: 24.125
+weight (mg): 10070
+read time (s): 0.315
+weight after adjust (mg): -837.375
+Tamb: 24.125
+weight (mg): 10016
+read time (s): 0.316
+weight after adjust (mg): -785.9130000000005
+Tamb: 24.187
+weight (mg): 10129
+read time (s): 0.316
+weight after adjust (mg): -672.9130000000005
+Tamb: 24.187
+weight (mg): 9967
+read time (s): 0.315
+weight after adjust (mg): -940.375
+Tamb: 24.125
+weight (mg): 10115
+read time (s): 0.315
+weight after adjust (mg): -579.75
+Tamb: 24.25
+weight (mg): 10063
+read time (s): 0.315
+weight after adjust (mg): -631.75
+Tamb: 24.25
+weight (mg): 10046
+read time (s): 0.314
+weight after adjust (mg): -648.75
+Tamb: 24.25
+weight (mg): 9982
+read time (s): 0.315
+weight after adjust (mg): -712.75
+Tamb: 24.25
+weight (mg): 9962
+read time (s): 0.315
+weight after adjust (mg): -732.75
+Tamb: 24.25
+weight (mg): 9984
+read time (s): 0.315
+weight after adjust (mg): -710.75
+Tamb: 24.25
+weight (mg): 10006
+read time (s): 0.315
+weight after adjust (mg): -795.9130000000005
+Tamb: 24.187
+weight (mg): 10053
+read time (s): 0.314
+weight after adjust (mg): -641.75
+Tamb: 24.25
+weight (mg): 9942
+read time (s): 0.315
+weight after adjust (mg): -752.75
+Tamb: 24.25
+weight (mg): 10031
+read time (s): 0.316
+weight after adjust (mg): -663.75
+Tamb: 24.25
+weight (mg): 9920
+read time (s): 0.328
+weight after adjust (mg): -669.2880000000005
+Tamb: 24.312
+weight (mg): 9885
+read time (s): 0.316
+weight after adjust (mg): -704.2880000000005
+Tamb: 24.312
+weight (mg): 9994
+read time (s): 0.315
+weight after adjust (mg): -595.2880000000005
+Tamb: 24.312
+weight (mg): 9856
+read time (s): 0.315
+weight after adjust (mg): -733.2880000000005
+Tamb: 24.312
+weight (mg): 9925
+read time (s): 0.318
+weight after adjust (mg): -664.2880000000005
+Tamb: 24.312
+weight (mg): 9821
+read time (s): 0.314
+weight after adjust (mg): -661.125
+Tamb: 24.375
+weight (mg): 9888
+read time (s): 0.315
+weight after adjust (mg): -594.125
+Tamb: 24.375
+weight (mg): 9898
+read time (s): 0.316
+weight after adjust (mg): -478.66300000000047
+Tamb: 24.437
+weight (mg): 9908
+read time (s): 0.313
+weight after adjust (mg): -468.66300000000047
+Tamb: 24.437
+weight (mg): 9883
+read time (s): 0.314
+weight after adjust (mg): -493.66300000000047
+Tamb: 24.437
+weight (mg): 9871
+read time (s): 0.313
+weight after adjust (mg): -398.5
+Tamb: 24.5
+weight (mg): 9733
+read time (s): 0.313
+weight after adjust (mg): -536.5
+Tamb: 24.5
+weight (mg): 9848
+read time (s): 0.313
+weight after adjust (mg): -421.5
+Tamb: 24.5
+weight (mg): 9853
+read time (s): 0.312
+weight after adjust (mg): -416.5
+Tamb: 24.5
+weight (mg): 9819
+read time (s): 0.311
+weight after adjust (mg): -450.5
+Tamb: 24.5
+weight (mg): 9770
+read time (s): 0.311
+weight after adjust (mg): -394.03800000000047
+Tamb: 24.562
+weight (mg): 9710
+read time (s): 0.311
+weight after adjust (mg): -454.03800000000047
+Tamb: 24.562
+weight (mg): 9738
+read time (s): 0.323
+weight after adjust (mg): -318.875
+Tamb: 24.625
+weight (mg): 9804
+read time (s): 0.311
+weight after adjust (mg): -252.875
+Tamb: 24.625
+weight (mg): 9708
+read time (s): 0.31
+weight after adjust (mg): -348.875
+Tamb: 24.625
+weight (mg): 9688
+read time (s): 0.31
+weight after adjust (mg): -368.875
+Tamb: 24.625
+weight (mg): 9733
+read time (s): 0.31
+weight after adjust (mg): -323.875
+Tamb: 24.625
+weight (mg): 9641
+read time (s): 0.311
+weight after adjust (mg): -310.41300000000047
+Tamb: 24.687
+weight (mg): 9597
+read time (s): 0.309
+weight after adjust (mg): -354.41300000000047
+Tamb: 24.687
+weight (mg): 9718
+read time (s): 0.309
+weight after adjust (mg): -233.41300000000047
+Tamb: 24.687
+weight (mg): 9629
+read time (s): 0.309
+weight after adjust (mg): -322.41300000000047
+Tamb: 24.687
+weight (mg): 9612
+read time (s): 0.308
+weight after adjust (mg): -232.25
+Tamb: 24.75
+weight (mg): 9639
+read time (s): 0.309
+weight after adjust (mg): -205.25
+Tamb: 24.75
+weight (mg): 9641
+read time (s): 0.308
+weight after adjust (mg): -203.25
+Tamb: 24.75
+weight (mg): 9612
+read time (s): 0.308
+weight after adjust (mg): -232.25
+Tamb: 24.75
+weight (mg): 9548
+read time (s): 0.308
+weight after adjust (mg): -296.25
+Tamb: 24.75
+weight (mg): 9550
+read time (s): 0.307
+weight after adjust (mg): -294.25
+Tamb: 24.75
+weight (mg): 9563
+read time (s): 0.306
+weight after adjust (mg): -281.25
+Tamb: 24.75
+weight (mg): 9496
+read time (s): 0.307
+weight after adjust (mg): -242.78800000000047
+Tamb: 24.812
+weight (mg): 9535
+read time (s): 0.307
+weight after adjust (mg): -96.625
+Tamb: 24.875
+weight (mg): 9565
+read time (s): 0.319
+weight after adjust (mg): -173.78800000000047
+Tamb: 24.812
+weight (mg): 9489
+read time (s): 0.306
+weight after adjust (mg): -142.625
+Tamb: 24.875
+weight (mg): 9442
+read time (s): 0.306
+weight after adjust (mg): -189.625
+Tamb: 24.875
+weight (mg): 9415
+read time (s): 0.305
+weight after adjust (mg): -216.625
+Tamb: 24.875
+weight (mg): 9501
+read time (s): 0.304
+weight after adjust (mg): -25.163000000000466
+Tamb: 24.937
+weight (mg): 9415
+read time (s): 0.303
+weight after adjust (mg): -216.625
+Tamb: 24.875
+weight (mg): 9479
+read time (s): 0.302
+weight after adjust (mg): -47.163000000000466
+Tamb: 24.937
+weight (mg): 9355
+read time (s): 0.303
+weight after adjust (mg): -64.0
+Tamb: 25.0
+weight (mg): 9363
+read time (s): 0.301
+weight after adjust (mg): -56.0
+Tamb: 25.0
+weight (mg): 9358
+read time (s): 0.302
+weight after adjust (mg): -168.16300000000047
+Tamb: 24.937
+weight (mg): 9383
+read time (s): 0.302
+weight after adjust (mg): -36.0
+Tamb: 25.0
+weight (mg): 9301
+read time (s): 0.301
+weight after adjust (mg): -12.538000000000466
+Tamb: 25.062
+weight (mg): 9272
+read time (s): 0.33
+weight after adjust (mg): -147.0
+Tamb: 25.0
+weight (mg): 9264
+read time (s): 0.3
+weight after adjust (mg): 57.625
+Tamb: 25.125
+weight (mg): 9378
+read time (s): 0.322
+weight after adjust (mg): 64.46199999999953
+Tamb: 25.062
+weight (mg): 9217
+read time (s): 0.3
+weight after adjust (mg): 10.625
+Tamb: 25.125
+weight (mg): 9242
+read time (s): 0.3
+weight after adjust (mg): 141.08699999999953
+Tamb: 25.187
+weight (mg): 9240
+read time (s): 0.3
+weight after adjust (mg): 139.08699999999953
+Tamb: 25.187
+weight (mg): 9230
+read time (s): 0.302
+weight after adjust (mg): 129.08699999999953
+Tamb: 25.187
+weight (mg): 9210
+read time (s): 0.299
+weight after adjust (mg): 216.25
+Tamb: 25.25
+weight (mg): 9185
+read time (s): 0.299
+weight after adjust (mg): 191.25
+Tamb: 25.25
+weight (mg): 9163
+read time (s): 0.299
+weight after adjust (mg): 62.086999999999534
+Tamb: 25.187
+weight (mg): 9232
+read time (s): 0.299
+weight after adjust (mg): 238.25
+Tamb: 25.25
+weight (mg): 9139
+read time (s): 0.299
+weight after adjust (mg): 145.25
+Tamb: 25.25
+weight (mg): 9178
+read time (s): 0.311
+weight after adjust (mg): 289.71199999999953
+Tamb: 25.312
+weight (mg): 9190
+read time (s): 0.299
+weight after adjust (mg): 196.25
+Tamb: 25.25
+weight (mg): 9102
+read time (s): 0.299
+weight after adjust (mg): 320.875
+Tamb: 25.375
+weight (mg): 9148
+read time (s): 0.297
+weight after adjust (mg): 259.71199999999953
+Tamb: 25.312
+weight (mg): 9134
+read time (s): 0.298
+weight after adjust (mg): 245.71199999999953
+Tamb: 25.312
+weight (mg): 9148
+read time (s): 0.297
+weight after adjust (mg): 366.875
+Tamb: 25.375
+weight (mg): 9067
+read time (s): 0.297
+weight after adjust (mg): 285.875
+Tamb: 25.375
+weight (mg): 9005
+read time (s): 0.297
+weight after adjust (mg): 223.875
+Tamb: 25.375
+weight (mg): 9092
+read time (s): 0.297
+weight after adjust (mg): 310.875
+Tamb: 25.375
+weight (mg): 9094
+read time (s): 0.297
+weight after adjust (mg): 418.33699999999953
+Tamb: 25.437
+weight (mg): 9008
+read time (s): 0.297
+weight after adjust (mg): 226.875
+Tamb: 25.375
+weight (mg): 9025
+read time (s): 0.296
+weight after adjust (mg): 349.33699999999953
+Tamb: 25.437
+weight (mg): 8976
+read time (s): 0.294
+weight after adjust (mg): 300.33699999999953
+Tamb: 25.437
+weight (mg): 8922
+read time (s): 0.294
+weight after adjust (mg): 353.5
+Tamb: 25.5
+weight (mg): 8932
+read time (s): 0.294
+weight after adjust (mg): 256.33699999999953
+Tamb: 25.437
+weight (mg): 8917
+read time (s): 0.293
+weight after adjust (mg): 348.5
+Tamb: 25.5
+weight (mg): 8882
+read time (s): 0.294
+weight after adjust (mg): 313.5
+Tamb: 25.5
+weight (mg): 8929
+read time (s): 0.295
+weight after adjust (mg): 465.96199999999953
+Tamb: 25.562
+weight (mg): 8897
+read time (s): 0.293
+weight after adjust (mg): 433.96199999999953
+Tamb: 25.562
+weight (mg): 8969
+read time (s): 0.293
+weight after adjust (mg): 505.96199999999953
+Tamb: 25.562
+weight (mg): 8892
+read time (s): 0.293
+weight after adjust (mg): 428.96199999999953
+Tamb: 25.562
+weight (mg): 8867
+read time (s): 0.294
+weight after adjust (mg): 403.96199999999953
+Tamb: 25.562
+weight (mg): 8914
+read time (s): 0.293
+weight after adjust (mg): 450.96199999999953
+Tamb: 25.562
+weight (mg): 8826
+read time (s): 0.292
+weight after adjust (mg): 470.125
+Tamb: 25.625
+weight (mg): 8826
+read time (s): 0.291
+weight after adjust (mg): 470.125
+Tamb: 25.625
+weight (mg): 8752
+read time (s): 0.291
+weight after adjust (mg): 288.96199999999953
+Tamb: 25.562
+weight (mg): 8779
+read time (s): 0.291
+weight after adjust (mg): 423.125
+Tamb: 25.625
+weight (mg): 8759
+read time (s): 0.291
+weight after adjust (mg): 508.58699999999953
+Tamb: 25.687
+weight (mg): 8715
+read time (s): 0.29
+weight after adjust (mg): 359.125
+Tamb: 25.625
+weight (mg): 8705
+read time (s): 0.29
+weight after adjust (mg): 454.58699999999953
+Tamb: 25.687
+weight (mg): 8673
+read time (s): 0.289
+weight after adjust (mg): 422.58699999999953
+Tamb: 25.687
+weight (mg): 8769
+read time (s): 0.289
+weight after adjust (mg): 518.5869999999995
+Tamb: 25.687
+weight (mg): 8663
+read time (s): 0.291
+weight after adjust (mg): 519.75
+Tamb: 25.75
+weight (mg): 8692
+read time (s): 0.288
+weight after adjust (mg): 548.75
+Tamb: 25.75
+weight (mg): 8710
+read time (s): 0.287
+weight after adjust (mg): 566.75
+Tamb: 25.75
+weight (mg): 8668
+read time (s): 0.288
+weight after adjust (mg): 630.2119999999995
+Tamb: 25.812
+weight (mg): 8651
+read time (s): 0.289
+weight after adjust (mg): 613.2119999999995
+Tamb: 25.812
+weight (mg): 8574
+read time (s): 0.29
+weight after adjust (mg): 536.2119999999995
+Tamb: 25.812
+weight (mg): 8559
+read time (s): 0.289
+weight after adjust (mg): 521.2119999999995
+Tamb: 25.812
+weight (mg): 8562
+read time (s): 0.289
+weight after adjust (mg): 631.375
+Tamb: 25.875
+weight (mg): 8574
+read time (s): 0.289
+weight after adjust (mg): 643.375
+Tamb: 25.875
+weight (mg): 8535
+read time (s): 0.289
+weight after adjust (mg): 604.375
+Tamb: 25.875
+weight (mg): 8522
+read time (s): 0.288
+weight after adjust (mg): 591.375
+Tamb: 25.875
+weight (mg): 8503
+read time (s): 0.287
+weight after adjust (mg): 572.375
+Tamb: 25.875
+weight (mg): 8446
+read time (s): 0.287
+weight after adjust (mg): 515.375
+Tamb: 25.875
+weight (mg): 8478
+read time (s): 0.288
+weight after adjust (mg): 652.8369999999995
+Tamb: 25.937
+weight (mg): 8429
+read time (s): 0.288
+weight after adjust (mg): 603.8369999999995
+Tamb: 25.937
+weight (mg): 8520
+read time (s): 0.288
+weight after adjust (mg): 694.8369999999995
+Tamb: 25.937
+weight (mg): 8414
+read time (s): 0.287
+weight after adjust (mg): 696.0
+Tamb: 26.0
+weight (mg): 8360
+read time (s): 0.287
+weight after adjust (mg): 642.0
+Tamb: 26.0
+weight (mg): 8392
+read time (s): 0.286
+weight after adjust (mg): 674.0
+Tamb: 26.0
+weight (mg): 8350
+read time (s): 0.286
+weight after adjust (mg): 632.0
+Tamb: 26.0
+weight (mg): 8375
+read time (s): 0.286
+weight after adjust (mg): 762.4619999999995
+Tamb: 26.062
+weight (mg): 8365
+read time (s): 0.286
+weight after adjust (mg): 752.4619999999995
+Tamb: 26.062
+weight (mg): 8330
+read time (s): 0.286
+weight after adjust (mg): 717.4619999999995
+Tamb: 26.062
+weight (mg): 8372
+read time (s): 0.285
+weight after adjust (mg): 759.4619999999995
+Tamb: 26.062
+weight (mg): 8301
+read time (s): 0.285
+weight after adjust (mg): 795.625
+Tamb: 26.125
+weight (mg): 8320
+read time (s): 0.297
+weight after adjust (mg): 707.4619999999995
+Tamb: 26.062
+weight (mg): 8249
+read time (s): 0.284
+weight after adjust (mg): 743.625
+Tamb: 26.125
+weight (mg): 8227
+read time (s): 0.284
+weight after adjust (mg): 614.4619999999995
+Tamb: 26.062
+weight (mg): 8232
+read time (s): 0.284
+weight after adjust (mg): 726.625
+Tamb: 26.125
+weight (mg): 8204
+read time (s): 0.283
+weight after adjust (mg): 804.0869999999995
+Tamb: 26.187
+weight (mg): 8153
+read time (s): 0.283
+weight after adjust (mg): 753.0869999999995
+Tamb: 26.187
+weight (mg): 8212
+read time (s): 0.283
+weight after adjust (mg): 919.25
+Tamb: 26.25
+weight (mg): 8187
+read time (s): 0.283
+weight after adjust (mg): 894.25
+Tamb: 26.25
+weight (mg): 8126
+read time (s): 0.282
+weight after adjust (mg): 833.25
+Tamb: 26.25
+weight (mg): 8175
+read time (s): 0.375
+weight after adjust (mg): 882.25
+Tamb: 26.25
+weight (mg): 8182
+read time (s): 0.282
+weight after adjust (mg): 889.25
+Tamb: 26.25
+weight (mg): 8094
+read time (s): 0.375
+weight after adjust (mg): 906.7119999999995
+Tamb: 26.312
+weight (mg): 8126
+read time (s): 0.375
+weight after adjust (mg): 938.7119999999995
+Tamb: 26.312
+weight (mg): 8022
+read time (s): 0.375
+weight after adjust (mg): 834.7119999999995
+Tamb: 26.312
+weight (mg): 8020
+read time (s): 0.374
+weight after adjust (mg): 939.875
+Tamb: 26.375
+weight (mg): 8025
+read time (s): 0.372
+weight after adjust (mg): 837.7119999999995
+Tamb: 26.312
+weight (mg): 8010
+read time (s): 0.373
+weight after adjust (mg): 929.875
+Tamb: 26.375
+weight (mg): 8044
+read time (s): 0.372
+weight after adjust (mg): 963.875
+Tamb: 26.375
+weight (mg): 8037
+read time (s): 0.371
+weight after adjust (mg): 956.875
+Tamb: 26.375
+weight (mg): 7931
+read time (s): 0.371
+weight after adjust (mg): 956.3369999999995
+Tamb: 26.437
+weight (mg): 7953
+read time (s): 0.37
+weight after adjust (mg): 978.3369999999995
+Tamb: 26.437
+weight (mg): 7953
+read time (s): 0.369
+weight after adjust (mg): 978.3369999999995
+Tamb: 26.437
+weight (mg): 7911
+read time (s): 0.369
+weight after adjust (mg): 936.3369999999995
+Tamb: 26.437
+weight (mg): 7953
+read time (s): 0.367
+weight after adjust (mg): 1085.5
+Tamb: 26.5
+weight (mg): 7798
+read time (s): 0.367
+weight after adjust (mg): 1035.9619999999995
+Tamb: 26.562
+weight (mg): 7835
+read time (s): 0.365
+weight after adjust (mg): 1180.125
+Tamb: 26.625
+weight (mg): 7872
+read time (s): 0.365
+weight after adjust (mg): 1217.125
+Tamb: 26.625
+weight (mg): 7753
+read time (s): 0.364
+weight after adjust (mg): 1098.125
+Tamb: 26.625
+weight (mg): 7719
+read time (s): 0.365
+weight after adjust (mg): 1169.5869999999995
+Tamb: 26.687
+weight (mg): 7778
+read time (s): 0.362
+weight after adjust (mg): 1335.75
+Tamb: 26.75
+weight (mg): 7719
+read time (s): 0.362
+weight after adjust (mg): 1382.2119999999995
+Tamb: 26.812
+weight (mg): 7736
+read time (s): 0.36
+weight after adjust (mg): 1506.375
+Tamb: 26.875
+weight (mg): 7645
+read time (s): 0.358
+weight after adjust (mg): 1415.375
+Tamb: 26.875
+weight (mg): 7606
+read time (s): 0.286
+weight after adjust (mg): 1376.375
+Tamb: 26.875
+weight (mg): 7647
+read time (s): 0.358
+weight after adjust (mg): 1522.8369999999995
+Tamb: 26.937
+weight (mg): 7620
+read time (s): 0.36
+weight after adjust (mg): 1495.8369999999995
+Tamb: 26.937
+weight (mg): 7519
+read time (s): 0.357
+weight after adjust (mg): 1502.0
+Tamb: 27.0
+weight (mg): 7564
+read time (s): 0.357
+weight after adjust (mg): 1547.0
+Tamb: 27.0
+weight (mg): 7539
+read time (s): 0.356
+weight after adjust (mg): 1627.4619999999995
+Tamb: 27.062
+weight (mg): 7448
+read time (s): 0.356
+weight after adjust (mg): 1643.625
+Tamb: 27.125
+weight (mg): 7443
+read time (s): 0.356
+weight after adjust (mg): 1744.0869999999995
+Tamb: 27.187
+weight (mg): 7403
+read time (s): 0.355
+weight after adjust (mg): 1704.0869999999995
+Tamb: 27.187
+weight (mg): 7354
+read time (s): 0.355
+weight after adjust (mg): 1655.0869999999995
+Tamb: 27.187
+weight (mg): 7364
+read time (s): 0.354
+weight after adjust (mg): 1772.25
+Tamb: 27.25
+weight (mg): 7339
+read time (s): 0.283
+weight after adjust (mg): 1852.7119999999995
+Tamb: 27.312
+weight (mg): 7248
+read time (s): 0.353
+weight after adjust (mg): 1761.7119999999995
+Tamb: 27.312
+weight (mg): 7251
+read time (s): 0.351
+weight after adjust (mg): 1871.875
+Tamb: 27.375
+weight (mg): 7224
+read time (s): 0.351
+weight after adjust (mg): 1950.3369999999995
+Tamb: 27.437
+weight (mg): 7103
+read time (s): 0.35
+weight after adjust (mg): 1829.3369999999995
+Tamb: 27.437
+weight (mg): 7098
+read time (s): 0.351
+weight after adjust (mg): 2036.9619999999995
+Tamb: 27.562
+weight (mg): 7090
+read time (s): 0.349
+weight after adjust (mg): 2028.9619999999995
+Tamb: 27.562
+weight (mg): 7088
+read time (s): 0.349
+weight after adjust (mg): 2026.9619999999995
+Tamb: 27.562
+weight (mg): 7026
+read time (s): 0.348
+weight after adjust (mg): 2072.125
+Tamb: 27.625
+weight (mg): 6930
+read time (s): 0.346
+weight after adjust (mg): 1976.125
+Tamb: 27.625
+weight (mg): 6918
+read time (s): 0.345
+weight after adjust (mg): 2069.5869999999995
+Tamb: 27.687
+weight (mg): 6797
+read time (s): 0.344
+weight after adjust (mg): 1948.5869999999995
+Tamb: 27.687
+weight (mg): 6871
+read time (s): 0.344
+weight after adjust (mg): 2022.5869999999995
+Tamb: 27.687
+weight (mg): 6952
+read time (s): 0.345
+weight after adjust (mg): 2210.75
+Tamb: 27.75
+weight (mg): 6797
+read time (s): 0.343
+weight after adjust (mg): 2161.2119999999995
+Tamb: 27.812
+weight (mg): 6854
+read time (s): 0.342
+weight after adjust (mg): 2218.2119999999995
+Tamb: 27.812
+weight (mg): 6802
+read time (s): 0.343
+weight after adjust (mg): 2273.375
+Tamb: 27.875
+weight (mg): 6758
+read time (s): 0.341
+weight after adjust (mg): 2334.8369999999995
+Tamb: 27.937
+weight (mg): 6620
+read time (s): 0.34
+weight after adjust (mg): 2196.8369999999995
+Tamb: 27.937
+weight (mg): 6644
+read time (s): 0.339
+weight after adjust (mg): 2328.0
+Tamb: 28.0
+weight (mg): 6625
+read time (s): 0.338
+weight after adjust (mg): 2414.4619999999995
+Tamb: 28.062
+weight (mg): 6536
+read time (s): 0.338
+weight after adjust (mg): 2325.4619999999995
+Tamb: 28.062
+weight (mg): 6570
+read time (s): 0.338
+weight after adjust (mg): 2466.625
+Tamb: 28.125
+weight (mg): 6568
+read time (s): 0.365
+weight after adjust (mg): 2570.0869999999995
+Tamb: 28.187
+weight (mg): 6393
+read time (s): 0.338
+weight after adjust (mg): 2395.0869999999995
+Tamb: 28.187
+weight (mg): 6381
+read time (s): 0.338
+weight after adjust (mg): 2490.25
+Tamb: 28.25
+weight (mg): 6395
+read time (s): 0.337
+weight after adjust (mg): 2504.25
+Tamb: 28.25
+weight (mg): 6228
+read time (s): 0.338
+weight after adjust (mg): 2337.25
+Tamb: 28.25
+weight (mg): 6363
+read time (s): 0.336
+weight after adjust (mg): 2577.7119999999995
+Tamb: 28.312
+weight (mg): 6265
+read time (s): 0.335
+weight after adjust (mg): 2479.7119999999995
+Tamb: 28.312
+weight (mg): 6289
+read time (s): 0.334
+weight after adjust (mg): 2610.875
+Tamb: 28.375
+weight (mg): 6240
+read time (s): 0.334
+weight after adjust (mg): 2454.7119999999995
+Tamb: 28.312
+weight (mg): 6166
+read time (s): 0.334
+weight after adjust (mg): 2487.875
+Tamb: 28.375
+weight (mg): 6063
+read time (s): 0.333
+weight after adjust (mg): 2490.3369999999995
+Tamb: 28.437
+weight (mg): 6092
+read time (s): 0.335
+weight after adjust (mg): 2519.3369999999995
+Tamb: 28.437
+weight (mg): 6033
+read time (s): 0.335
+weight after adjust (mg): 2567.5
+Tamb: 28.5
+weight (mg): 5971
+read time (s): 0.334
+weight after adjust (mg): 2505.5
+Tamb: 28.5
+weight (mg): 5947
+read time (s): 0.333
+weight after adjust (mg): 2586.9619999999995
+Tamb: 28.562
+weight (mg): 6013
+read time (s): 0.333
+weight after adjust (mg): 2652.9619999999995
+Tamb: 28.562
+weight (mg): 5890
+read time (s): 0.334
+weight after adjust (mg): 2637.125
+Tamb: 28.625
+weight (mg): 5890
+read time (s): 0.332
+weight after adjust (mg): 2637.125
+Tamb: 28.625
+weight (mg): 5794
+read time (s): 0.332
+weight after adjust (mg): 2646.5869999999995
+Tamb: 28.687
+weight (mg): 5769
+read time (s): 0.332
+weight after adjust (mg): 2621.5869999999995
+Tamb: 28.687
+weight (mg): 5730
+read time (s): 0.331
+weight after adjust (mg): 2582.5869999999995
+Tamb: 28.687
+weight (mg): 5708
+read time (s): 0.33
+weight after adjust (mg): 2667.75
+Tamb: 28.75
+weight (mg): 5690
+read time (s): 0.359
+weight after adjust (mg): 2649.75
+Tamb: 28.75
+weight (mg): 5560
+read time (s): 0.339
+weight after adjust (mg): 2625.2119999999995
+Tamb: 28.812
+weight (mg): 5607
+read time (s): 0.33
+weight after adjust (mg): 2672.2119999999995
+Tamb: 28.812
+weight (mg): 5570
+read time (s): 0.328
+weight after adjust (mg): 2635.2119999999995
+Tamb: 28.812
+weight (mg): 5434
+read time (s): 0.326
+weight after adjust (mg): 2606.375
+Tamb: 28.875
+weight (mg): 5555
+read time (s): 0.326
+weight after adjust (mg): 2832.8369999999995
+Tamb: 28.937
+weight (mg): 5511
+read time (s): 0.327
+weight after adjust (mg): 2788.8369999999995
+Tamb: 28.937
+weight (mg): 5370
+read time (s): 0.326
+weight after adjust (mg): 2647.8369999999995
+Tamb: 28.937
+weight (mg): 5424
+read time (s): 0.326
+weight after adjust (mg): 2809.0
+Tamb: 29.0
+weight (mg): 5360
+read time (s): 0.325
+weight after adjust (mg): 2745.0
+Tamb: 29.0
+weight (mg): 5299
+read time (s): 0.325
+weight after adjust (mg): 2684.0
+Tamb: 29.0
+weight (mg): 5286
+read time (s): 0.325
+weight after adjust (mg): 2776.4619999999995
+Tamb: 29.062
+weight (mg): 5232
+read time (s): 0.328
+weight after adjust (mg): 2617.0
+Tamb: 29.0
+weight (mg): 5143
+read time (s): 0.324
+weight after adjust (mg): 2846.0869999999995
+Tamb: 29.187
+weight (mg): 5230
+read time (s): 0.325
+weight after adjust (mg): 2933.0869999999995
+Tamb: 29.187
+weight (mg): 5124
+read time (s): 0.324
+weight after adjust (mg): 2827.0869999999995
+Tamb: 29.187
+weight (mg): 5087
+read time (s): 0.323
+weight after adjust (mg): 2790.0869999999995
+Tamb: 29.187
+weight (mg): 5060
+read time (s): 0.324
+weight after adjust (mg): 2763.0869999999995
+Tamb: 29.187
+weight (mg): 5099
+read time (s): 0.323
+weight after adjust (mg): 2696.625
+Tamb: 29.125
+weight (mg): 5032
+read time (s): 0.322
+weight after adjust (mg): 2735.0869999999995
+Tamb: 29.187
+weight (mg): 4998
+read time (s): 0.322
+weight after adjust (mg): 2808.25
+Tamb: 29.25
+weight (mg): 4939
+read time (s): 0.322
+weight after adjust (mg): 2749.25
+Tamb: 29.25
+weight (mg): 4924
+read time (s): 0.321
+weight after adjust (mg): 2734.25
+Tamb: 29.25
+weight (mg): 4875
+read time (s): 0.322
+weight after adjust (mg): 2685.25
+Tamb: 29.25
+weight (mg): 4811
+read time (s): 0.321
+weight after adjust (mg): 2726.7119999999995
+Tamb: 29.312
+weight (mg): 4737
+read time (s): 0.326
+weight after adjust (mg): 2652.7119999999995
+Tamb: 29.312
+weight (mg): 4779
+read time (s): 0.321
+weight after adjust (mg): 2801.875
+Tamb: 29.375
+weight (mg): 4737
+read time (s): 0.32
+weight after adjust (mg): 2759.875
+Tamb: 29.375
+weight (mg): 4793
+read time (s): 0.321
+weight after adjust (mg): 2815.875
+Tamb: 29.375
+weight (mg): 4722
+read time (s): 0.321
+weight after adjust (mg): 2744.875
+Tamb: 29.375
+weight (mg): 4579
+read time (s): 0.32
+weight after adjust (mg): 2707.3369999999995
+Tamb: 29.437
+weight (mg): 4604
+read time (s): 0.319
+weight after adjust (mg): 2839.5
+Tamb: 29.5
+weight (mg): 4641
+read time (s): 0.318
+weight after adjust (mg): 2876.5
+Tamb: 29.5
+weight (mg): 4591
+read time (s): 0.318
+weight after adjust (mg): 2931.9619999999995
+Tamb: 29.562
+weight (mg): 4453
+read time (s): 0.318
+weight after adjust (mg): 2793.9619999999995
+Tamb: 29.562
+weight (mg): 4443
+read time (s): 0.318
+weight after adjust (mg): 2783.9619999999995
+Tamb: 29.562
+weight (mg): 4475
+read time (s): 0.316
+weight after adjust (mg): 2815.9619999999995
+Tamb: 29.562
+weight (mg): 4495
+read time (s): 0.316
+weight after adjust (mg): 2835.9619999999995
+Tamb: 29.562
+weight (mg): 4433
+read time (s): 0.316
+weight after adjust (mg): 2881.125
+Tamb: 29.625
+weight (mg): 4394
+read time (s): 0.315
+weight after adjust (mg): 2947.5869999999995
+Tamb: 29.687
+weight (mg): 4310
+read time (s): 0.315
+weight after adjust (mg): 2863.5869999999995
+Tamb: 29.687
+weight (mg): 4350
+read time (s): 0.316
+weight after adjust (mg): 2903.5869999999995
+Tamb: 29.687
+weight (mg): 4318
+read time (s): 0.317
+weight after adjust (mg): 2978.75
+Tamb: 29.75
+weight (mg): 4318
+read time (s): 0.317
+weight after adjust (mg): 2978.75
+Tamb: 29.75
+weight (mg): 4261
+read time (s): 0.316
+weight after adjust (mg): 2921.75
+Tamb: 29.75
+weight (mg): 4170
+read time (s): 0.316
+weight after adjust (mg): 2936.2119999999995
+Tamb: 29.812
+weight (mg): 4145
+read time (s): 0.316
+weight after adjust (mg): 2911.2119999999995
+Tamb: 29.812
+weight (mg): 4185
+read time (s): 0.316
+weight after adjust (mg): 2951.2119999999995
+Tamb: 29.812
+weight (mg): 4204
+read time (s): 0.315
+weight after adjust (mg): 3077.375
+Tamb: 29.875
+weight (mg): 4079
+read time (s): 0.315
+weight after adjust (mg): 2952.375
+Tamb: 29.875
+weight (mg): 4086
+read time (s): 0.315
+weight after adjust (mg): 2959.375
+Tamb: 29.875
+weight (mg): 3965
+read time (s): 0.315
+weight after adjust (mg): 2943.8369999999995
+Tamb: 29.937
+weight (mg): 4044
+read time (s): 0.314
+weight after adjust (mg): 3022.8369999999995
+Tamb: 29.937
+weight (mg): 4032
+read time (s): 0.314
+weight after adjust (mg): 3010.8369999999995
+Tamb: 29.937
+weight (mg): 3973
+read time (s): 0.315
+weight after adjust (mg): 2951.8369999999995
+Tamb: 29.937
+weight (mg): 3909
+read time (s): 0.314
+weight after adjust (mg): 2995.0
+Tamb: 30.0
+weight (mg): 3904
+read time (s): 0.315
+weight after adjust (mg): 2990.0
+Tamb: 30.0
+weight (mg): 3837
+read time (s): 0.315
+weight after adjust (mg): 2923.0
+Tamb: 30.0
+weight (mg): 3839
+read time (s): 0.314
+weight after adjust (mg): 2925.0
+Tamb: 30.0
+weight (mg): 3780
+read time (s): 0.314
+weight after adjust (mg): 2866.0
+Tamb: 30.0
+weight (mg): 3775
+read time (s): 0.314
+weight after adjust (mg): 2966.4619999999995
+Tamb: 30.062
+weight (mg): 3805
+read time (s): 0.313
+weight after adjust (mg): 2996.4619999999995
+Tamb: 30.062
+weight (mg): 3761
+read time (s): 0.313
+weight after adjust (mg): 3059.625
+Tamb: 30.125
+weight (mg): 3657
+read time (s): 0.313
+weight after adjust (mg): 2955.625
+Tamb: 30.125
+weight (mg): 3738
+read time (s): 0.312
+weight after adjust (mg): 3036.625
+Tamb: 30.125
+weight (mg): 3652
+read time (s): 0.314
+weight after adjust (mg): 2950.625
+Tamb: 30.125
+weight (mg): 3640
+read time (s): 0.312
+weight after adjust (mg): 2938.625
+Tamb: 30.125
+weight (mg): 3536
+read time (s): 0.312
+weight after adjust (mg): 2834.625
+Tamb: 30.125
+weight (mg): 3593
+read time (s): 0.311
+weight after adjust (mg): 2891.625
+Tamb: 30.125
+weight (mg): 3603
+read time (s): 0.31
+weight after adjust (mg): 3007.0869999999995
+Tamb: 30.187
+weight (mg): 3541
+read time (s): 0.31
+weight after adjust (mg): 2945.0869999999995
+Tamb: 30.187
+weight (mg): 3531
+read time (s): 0.31
+weight after adjust (mg): 2935.0869999999995
+Tamb: 30.187
+weight (mg): 3445
+read time (s): 0.309
+weight after adjust (mg): 2849.0869999999995
+Tamb: 30.187
+weight (mg): 3455
+read time (s): 0.308
+weight after adjust (mg): 2966.25
+Tamb: 30.25
+weight (mg): 3384
+read time (s): 0.309
+weight after adjust (mg): 2788.0869999999995
+Tamb: 30.187
+weight (mg): 3465
+read time (s): 0.309
+weight after adjust (mg): 2976.25
+Tamb: 30.25
+weight (mg): 3482
+read time (s): 0.307
+weight after adjust (mg): 3098.7119999999995
+Tamb: 30.312
+weight (mg): 3440
+read time (s): 0.308
+weight after adjust (mg): 2951.25
+Tamb: 30.25
+weight (mg): 3371
+read time (s): 0.308
+weight after adjust (mg): 2987.7119999999995
+Tamb: 30.312
+weight (mg): 3388
+read time (s): 0.308
+weight after adjust (mg): 3004.7119999999995
+Tamb: 30.312
+weight (mg): 3322
+read time (s): 0.319
+weight after adjust (mg): 2938.7119999999995
+Tamb: 30.312
+weight (mg): 3347
+read time (s): 0.308
+weight after adjust (mg): 2963.7119999999995
+Tamb: 30.312
+weight (mg): 3374
+read time (s): 0.307
+weight after adjust (mg): 3203.3369999999995
+Tamb: 30.437
+weight (mg): 3324
+read time (s): 0.307
+weight after adjust (mg): 3047.875
+Tamb: 30.375
+weight (mg): 3243
+read time (s): 0.306
+weight after adjust (mg): 2966.875
+Tamb: 30.375
+weight (mg): 3253
+read time (s): 0.307
+weight after adjust (mg): 2976.875
+Tamb: 30.375
+weight (mg): 3238
+read time (s): 0.308
+weight after adjust (mg): 2961.875
+Tamb: 30.375
+weight (mg): 3246
+read time (s): 0.309
+weight after adjust (mg): 3075.3369999999995
+Tamb: 30.437
+weight (mg): 3206
+read time (s): 0.308
+weight after adjust (mg): 2929.875
+Tamb: 30.375
+weight (mg): 3211
+read time (s): 0.308
+weight after adjust (mg): 3040.3369999999995
+Tamb: 30.437
+weight (mg): 3154
+read time (s): 0.32
+weight after adjust (mg): 2983.3369999999995
+Tamb: 30.437
+weight (mg): 3184
+read time (s): 0.309
+weight after adjust (mg): 3120.5
+Tamb: 30.5
+weight (mg): 3159
+read time (s): 0.306
+weight after adjust (mg): 2988.3369999999995
+Tamb: 30.437
+weight (mg): 3075
+read time (s): 0.307
+weight after adjust (mg): 2904.3369999999995
+Tamb: 30.437
+weight (mg): 2994
+read time (s): 0.306
+weight after adjust (mg): 2930.5
+Tamb: 30.5
+weight (mg): 3095
+read time (s): 0.317
+weight after adjust (mg): 3031.5
+Tamb: 30.5
+weight (mg): 2967
+read time (s): 0.304
+weight after adjust (mg): 2903.5
+Tamb: 30.5
+weight (mg): 2987
+read time (s): 0.307
+weight after adjust (mg): 2923.5
+Tamb: 30.5
+weight (mg): 3075
+read time (s): 0.304
+weight after adjust (mg): 3011.5
+Tamb: 30.5
+weight (mg): 2932
+read time (s): 0.304
+weight after adjust (mg): 2973.9619999999995
+Tamb: 30.562
+weight (mg): 2994
+read time (s): 0.315
+weight after adjust (mg): 3035.9619999999995
+Tamb: 30.562
+weight (mg): 2960
+read time (s): 0.305
+weight after adjust (mg): 3001.9619999999995
+Tamb: 30.562
+weight (mg): 2945
+read time (s): 0.324
+weight after adjust (mg): 2986.9619999999995
+Tamb: 30.562
+weight (mg): 2871
+read time (s): 0.321
+weight after adjust (mg): 2912.9619999999995
+Tamb: 30.562
+weight (mg): 2932
+read time (s): 0.321
+weight after adjust (mg): 2973.9619999999995
+Tamb: 30.562
+weight (mg): 2873
+read time (s): 0.317
+weight after adjust (mg): 2914.9619999999995
+Tamb: 30.562
+weight (mg): 2932
+read time (s): 0.321
+weight after adjust (mg): 3081.125
+Tamb: 30.625
+weight (mg): 2844
+read time (s): 0.303
+weight after adjust (mg): 2993.125
+Tamb: 30.625
+weight (mg): 2829
+read time (s): 0.321
+weight after adjust (mg): 2978.125
+Tamb: 30.625
+weight (mg): 2730
+read time (s): 0.301
+weight after adjust (mg): 2984.5869999999995
+Tamb: 30.687
+weight (mg): 2799
+read time (s): 0.303
+weight after adjust (mg): 3053.5869999999995
+Tamb: 30.687
+weight (mg): 2723
+read time (s): 0.302
+weight after adjust (mg): 2977.5869999999995
+Tamb: 30.687
+weight (mg): 2735
+read time (s): 0.301
+weight after adjust (mg): 3096.75
+Tamb: 30.75
+weight (mg): 2767
+read time (s): 0.301
+weight after adjust (mg): 3021.5869999999995
+Tamb: 30.687
+weight (mg): 2696
+read time (s): 0.301
+weight after adjust (mg): 3057.75
+Tamb: 30.75
+weight (mg): 2684
+read time (s): 0.3
+weight after adjust (mg): 2938.5869999999995
+Tamb: 30.687
+weight (mg): 2716
+read time (s): 0.318
+weight after adjust (mg): 3077.75
+Tamb: 30.75
+weight (mg): 2706
+read time (s): 0.3
+weight after adjust (mg): 3067.75
+Tamb: 30.75
+weight (mg): 2639
+read time (s): 0.3
+weight after adjust (mg): 3000.75
+Tamb: 30.75
+weight (mg): 2647
+read time (s): 0.302
+weight after adjust (mg): 3008.75
+Tamb: 30.75
+weight (mg): 2624
+read time (s): 0.3
+weight after adjust (mg): 2985.75
+Tamb: 30.75
+weight (mg): 2583
+read time (s): 0.317
+weight after adjust (mg): 3050.2119999999995
+Tamb: 30.812
+weight (mg): 2528
+read time (s): 0.299
+weight after adjust (mg): 2995.2119999999995
+Tamb: 30.812
+weight (mg): 2624
+read time (s): 0.316
+weight after adjust (mg): 3091.2119999999995
+Tamb: 30.812
+weight (mg): 2536
+read time (s): 0.316
+weight after adjust (mg): 3003.2119999999995
+Tamb: 30.812
+weight (mg): 2617
+read time (s): 0.321
+weight after adjust (mg): 3191.375
+Tamb: 30.875
+weight (mg): 2553
+read time (s): 0.298
+weight after adjust (mg): 3127.375
+Tamb: 30.875
+weight (mg): 2430
+read time (s): 0.315
+weight after adjust (mg): 3004.375
+Tamb: 30.875
+weight (mg): 2395
+read time (s): 0.317
+weight after adjust (mg): 2969.375
+Tamb: 30.875
+weight (mg): 2408
+read time (s): 0.318
+weight after adjust (mg): 2982.375
+Tamb: 30.875
+weight (mg): 2393
+read time (s): 0.299
+weight after adjust (mg): 3072.8369999999995
+Tamb: 30.937
+weight (mg): 2380
+read time (s): 0.299
+weight after adjust (mg): 3059.8369999999995
+Tamb: 30.937
+weight (mg): 2435
+read time (s): 0.297
+weight after adjust (mg): 3114.8369999999995
+Tamb: 30.937
+weight (mg): 2390
+read time (s): 0.316
+weight after adjust (mg): 3069.8369999999995
+Tamb: 30.937
+weight (mg): 2363
+read time (s): 0.313
+weight after adjust (mg): 3150.0
+Tamb: 31.0
+weight (mg): 2390
+read time (s): 0.299
+weight after adjust (mg): 3177.0
+Tamb: 31.0
+weight (mg): 2336
+read time (s): 0.299
+weight after adjust (mg): 3123.0
+Tamb: 31.0
+weight (mg): 2304
+read time (s): 0.317
+weight after adjust (mg): 3091.0
+Tamb: 31.0
+weight (mg): 2235
+read time (s): 0.299
+weight after adjust (mg): 3022.0
+Tamb: 31.0
+weight (mg): 2274
+read time (s): 0.317
+weight after adjust (mg): 3166.4619999999995
+Tamb: 31.062
+weight (mg): 2297
+read time (s): 0.298
+weight after adjust (mg): 3189.4619999999995
+Tamb: 31.062
+weight (mg): 2237
+read time (s): 0.316
+weight after adjust (mg): 3129.4619999999995
+Tamb: 31.062
+weight (mg): 2260
+read time (s): 0.31
+weight after adjust (mg): 3152.4619999999995
+Tamb: 31.062
+weight (mg): 2240
+read time (s): 0.316
+weight after adjust (mg): 3239.625
+Tamb: 31.125
+weight (mg): 2183
+read time (s): 0.297
+weight after adjust (mg): 3182.625
+Tamb: 31.125
+weight (mg): 2191
+read time (s): 0.3
+weight after adjust (mg): 3083.4619999999995
+Tamb: 31.062
+weight (mg): 2146
+read time (s): 0.297
+weight after adjust (mg): 3145.625
+Tamb: 31.125
+weight (mg): 2156
+read time (s): 0.315
+weight after adjust (mg): 3155.625
+Tamb: 31.125
+weight (mg): 2218
+read time (s): 0.297
+weight after adjust (mg): 3217.625
+Tamb: 31.125
+weight (mg): 2156
+read time (s): 0.297
+weight after adjust (mg): 3155.625
+Tamb: 31.125
+weight (mg): 2099
+read time (s): 0.316
+weight after adjust (mg): 2991.4619999999995
+Tamb: 31.062
+weight (mg): 2013
+read time (s): 0.297
+weight after adjust (mg): 3012.625
+Tamb: 31.125
+weight (mg): 2104
+read time (s): 0.315
+weight after adjust (mg): 3103.625
+Tamb: 31.125
+weight (mg): 2070
+read time (s): 0.315
+weight after adjust (mg): 3175.0869999999995
+Tamb: 31.187
+weight (mg): 2104
+read time (s): 0.297
+weight after adjust (mg): 3209.0869999999995
+Tamb: 31.187
+weight (mg): 2058
+read time (s): 0.297
+weight after adjust (mg): 3163.0869999999995
+Tamb: 31.187
+weight (mg): 1998
+read time (s): 0.297
+weight after adjust (mg): 3103.0869999999995
+Tamb: 31.187
+weight (mg): 2035
+read time (s): 0.297
+weight after adjust (mg): 3140.0869999999995
+Tamb: 31.187
+weight (mg): 2011
+read time (s): 0.315
+weight after adjust (mg): 3116.0869999999995
+Tamb: 31.187
+weight (mg): 1924
+read time (s): 0.315
+weight after adjust (mg): 3029.0869999999995
+Tamb: 31.187
+weight (mg): 1910
+read time (s): 0.314
+weight after adjust (mg): 3015.0869999999995
+Tamb: 31.187
+weight (mg): 1910
+read time (s): 0.296
+weight after adjust (mg): 3015.0869999999995
+Tamb: 31.187
+weight (mg): 1912
+read time (s): 0.296
+weight after adjust (mg): 3017.0869999999995
+Tamb: 31.187
+weight (mg): 1887
+read time (s): 0.296
+weight after adjust (mg): 2992.0869999999995
+Tamb: 31.187
+weight (mg): 1905
+read time (s): 0.296
+weight after adjust (mg): 3117.25
+Tamb: 31.25
+weight (mg): 1924
+read time (s): 0.295
+weight after adjust (mg): 3029.0869999999995
+Tamb: 31.187
+weight (mg): 1885
+read time (s): 0.314
+weight after adjust (mg): 2990.0869999999995
+Tamb: 31.187
+weight (mg): 1873
+read time (s): 0.296
+weight after adjust (mg): 2978.0869999999995
+Tamb: 31.187
+weight (mg): 1890
+read time (s): 0.296
+weight after adjust (mg): 3102.25
+Tamb: 31.25
+weight (mg): 1855
+read time (s): 0.297
+weight after adjust (mg): 2960.0869999999995
+Tamb: 31.187
+weight (mg): 1754
+read time (s): 0.314
+weight after adjust (mg): 2966.25
+Tamb: 31.25
+weight (mg): 1781
+read time (s): 0.297
+weight after adjust (mg): 2886.0869999999995
+Tamb: 31.187
+weight (mg): 1855
+read time (s): 0.298
+weight after adjust (mg): 3067.25
+Tamb: 31.25
+weight (mg): 1831
+read time (s): 0.297
+weight after adjust (mg): 2936.0869999999995
+Tamb: 31.187
+weight (mg): 1735
+read time (s): 0.319
+weight after adjust (mg): 2840.0869999999995
+Tamb: 31.187
+weight (mg): 1752
+read time (s): 0.296
+weight after adjust (mg): 2964.25
+Tamb: 31.25
+weight (mg): 1708
+read time (s): 0.295
+weight after adjust (mg): 2920.25
+Tamb: 31.25
+weight (mg): 1784
+read time (s): 0.313
+weight after adjust (mg): 2996.25
+Tamb: 31.25
+weight (mg): 1777
+read time (s): 0.294
+weight after adjust (mg): 2989.25
+Tamb: 31.25
+weight (mg): 1717
+read time (s): 0.313
+weight after adjust (mg): 2822.0869999999995
+Tamb: 31.187
+weight (mg): 1648
+read time (s): 0.294
+weight after adjust (mg): 2860.25
+Tamb: 31.25
+weight (mg): 1732
+read time (s): 0.295
+weight after adjust (mg): 2944.25
+Tamb: 31.25
+weight (mg): 1700
+read time (s): 0.296
+weight after adjust (mg): 2912.25
+Tamb: 31.25
+weight (mg): 1675
+read time (s): 0.313
+weight after adjust (mg): 2887.25
+Tamb: 31.25
+weight (mg): 1688
+read time (s): 0.293
+weight after adjust (mg): 2900.25
+Tamb: 31.25
+weight (mg): 1668
+read time (s): 0.312
+weight after adjust (mg): 2880.25
+Tamb: 31.25
+weight (mg): 1767
+read time (s): 0.293
+weight after adjust (mg): 2979.25
+Tamb: 31.25
+weight (mg): 1727
+read time (s): 0.311
+weight after adjust (mg): 2939.25
+Tamb: 31.25
+weight (mg): 1666
+read time (s): 0.293
+weight after adjust (mg): 2878.25
+Tamb: 31.25
+weight (mg): 1587
+read time (s): 0.294
+weight after adjust (mg): 2799.25
+Tamb: 31.25
+weight (mg): 1646
+read time (s): 0.295
+weight after adjust (mg): 2751.0869999999995
+Tamb: 31.187
+weight (mg): 1634
+read time (s): 0.313
+weight after adjust (mg): 2846.25
+Tamb: 31.25
+weight (mg): 1626
+read time (s): 0.315
+weight after adjust (mg): 2838.25
+Tamb: 31.25
+weight (mg): 1565
+read time (s): 0.313
+weight after adjust (mg): 2777.25
+Tamb: 31.25
+weight (mg): 1673
+read time (s): 0.296
+weight after adjust (mg): 2885.25
+Tamb: 31.25
+weight (mg): 1668
+read time (s): 0.314
+weight after adjust (mg): 2773.0869999999995
+Tamb: 31.187
+weight (mg): 1599
+read time (s): 0.297
+weight after adjust (mg): 2811.25
+Tamb: 31.25
+weight (mg): 1641
+read time (s): 0.315
+weight after adjust (mg): 2746.0869999999995
+Tamb: 31.187
+weight (mg): 1631
+read time (s): 0.297
+weight after adjust (mg): 2736.0869999999995
+Tamb: 31.187
+weight (mg): 1602
+read time (s): 0.297
+weight after adjust (mg): 2707.0869999999995
+Tamb: 31.187
+weight (mg): 1525
+read time (s): 0.316
+weight after adjust (mg): 2630.0869999999995
+Tamb: 31.187
+weight (mg): 1606
+read time (s): 0.297
+weight after adjust (mg): 2711.0869999999995
+Tamb: 31.187
+weight (mg): 1567
+read time (s): 0.296
+weight after adjust (mg): 2672.0869999999995
+Tamb: 31.187
+weight (mg): 1658
+read time (s): 0.296
+weight after adjust (mg): 2763.0869999999995
+Tamb: 31.187
+weight (mg): 1565
+read time (s): 0.297
+weight after adjust (mg): 2670.0869999999995
+Tamb: 31.187
+weight (mg): 1695
+read time (s): 0.299
+weight after adjust (mg): 2800.0869999999995
+Tamb: 31.187
+weight (mg): 1631
+read time (s): 0.322
+weight after adjust (mg): 2736.0869999999995
+Tamb: 31.187
+weight (mg): 1557
+read time (s): 0.298
+weight after adjust (mg): 2662.0869999999995
+Tamb: 31.187
+weight (mg): 1577
+read time (s): 0.321
+weight after adjust (mg): 2682.0869999999995
+Tamb: 31.187
+weight (mg): 1533
+read time (s): 0.3
+weight after adjust (mg): 2638.0869999999995
+Tamb: 31.187
+weight (mg): 1589
+read time (s): 0.321
+weight after adjust (mg): 2694.0869999999995
+Tamb: 31.187
+weight (mg): 1592
+read time (s): 0.32
+weight after adjust (mg): 2804.25
+Tamb: 31.25
+weight (mg): 1540
+read time (s): 0.298
+weight after adjust (mg): 2645.0869999999995
+Tamb: 31.187
+weight (mg): 1624
+read time (s): 0.321
+weight after adjust (mg): 2729.0869999999995
+Tamb: 31.187
+weight (mg): 1510
+read time (s): 0.321
+weight after adjust (mg): 2615.0869999999995
+Tamb: 31.187
+weight (mg): 1582
+read time (s): 0.32
+weight after adjust (mg): 2794.25
+Tamb: 31.25
+weight (mg): 1567
+read time (s): 0.319
+weight after adjust (mg): 2672.0869999999995
+Tamb: 31.187
+weight (mg): 1540
+read time (s): 0.308
+weight after adjust (mg): 2645.0869999999995
+Tamb: 31.187
+weight (mg): 1528
+read time (s): 0.321
+weight after adjust (mg): 2740.25
+Tamb: 31.25
+weight (mg): 1478
+read time (s): 0.298
+weight after adjust (mg): 2583.0869999999995
+Tamb: 31.187
+weight (mg): 1510
+read time (s): 0.298
+weight after adjust (mg): 2615.0869999999995
+Tamb: 31.187
+weight (mg): 1491
+read time (s): 0.318
+weight after adjust (mg): 2596.0869999999995
+Tamb: 31.187
+weight (mg): 1508
+read time (s): 0.297
+weight after adjust (mg): 2613.0869999999995
+Tamb: 31.187
+weight (mg): 1496
+read time (s): 0.297
+weight after adjust (mg): 2601.0869999999995
+Tamb: 31.187
+weight (mg): 1466
+read time (s): 0.297
+weight after adjust (mg): 2571.0869999999995
+Tamb: 31.187
+weight (mg): 1493
+read time (s): 0.297
+weight after adjust (mg): 2598.0869999999995
+Tamb: 31.187
+weight (mg): 1584
+read time (s): 0.297
+weight after adjust (mg): 2689.0869999999995
+Tamb: 31.187
+weight (mg): 1562
+read time (s): 0.299
+weight after adjust (mg): 2667.0869999999995
+Tamb: 31.187
+weight (mg): 1523
+read time (s): 0.299
+weight after adjust (mg): 2628.0869999999995
+Tamb: 31.187
+weight (mg): 1431
+read time (s): 0.299
+weight after adjust (mg): 2643.25
+Tamb: 31.25
+weight (mg): 1471
+read time (s): 0.299
+weight after adjust (mg): 2576.0869999999995
+Tamb: 31.187
+weight (mg): 1409
+read time (s): 0.299
+weight after adjust (mg): 2514.0869999999995
+Tamb: 31.187
+weight (mg): 1530
+read time (s): 0.299
+weight after adjust (mg): 2635.0869999999995
+Tamb: 31.187
+weight (mg): 1528
+read time (s): 0.3
+weight after adjust (mg): 2633.0869999999995
+Tamb: 31.187
+weight (mg): 1461
+read time (s): 0.301
+weight after adjust (mg): 2566.0869999999995
+Tamb: 31.187
+weight (mg): 1483
+read time (s): 0.3
+weight after adjust (mg): 2588.0869999999995
+Tamb: 31.187
+weight (mg): 1446
+read time (s): 0.302
+weight after adjust (mg): 2551.0869999999995
+Tamb: 31.187
+weight (mg): 1530
+read time (s): 0.3
+weight after adjust (mg): 2742.25
+Tamb: 31.25
+weight (mg): 1451
+read time (s): 0.322
+weight after adjust (mg): 2663.25
+Tamb: 31.25
+weight (mg): 1439
+read time (s): 0.3
+weight after adjust (mg): 2544.0869999999995
+Tamb: 31.187
+weight (mg): 1496
+read time (s): 0.301
+weight after adjust (mg): 2601.0869999999995
+Tamb: 31.187
+weight (mg): 1380
+read time (s): 0.323
+weight after adjust (mg): 2485.0869999999995
+Tamb: 31.187
+weight (mg): 1498
+read time (s): 0.301
+weight after adjust (mg): 2603.0869999999995
+Tamb: 31.187
+weight (mg): 1414
+read time (s): 0.3
+weight after adjust (mg): 2413.625
+Tamb: 31.125
+weight (mg): 1468
+read time (s): 0.301
+weight after adjust (mg): 2467.625
+Tamb: 31.125
+weight (mg): 1454
+read time (s): 0.319
+weight after adjust (mg): 2453.625
+Tamb: 31.125
+weight (mg): 1476
+read time (s): 0.301
+weight after adjust (mg): 2368.4619999999995
+Tamb: 31.062
+weight (mg): 1501
+read time (s): 0.301
+weight after adjust (mg): 2500.625
+Tamb: 31.125
+weight (mg): 1528
+read time (s): 0.301
+weight after adjust (mg): 2420.4619999999995
+Tamb: 31.062
+weight (mg): 1464
+read time (s): 0.302
+weight after adjust (mg): 2356.4619999999995
+Tamb: 31.062
+weight (mg): 1513
+read time (s): 0.302
+weight after adjust (mg): 2300.0
+Tamb: 31.0
+weight (mg): 1523
+read time (s): 0.302
+weight after adjust (mg): 2415.4619999999995
+Tamb: 31.062
+weight (mg): 1533
+read time (s): 0.325
+weight after adjust (mg): 2425.4619999999995
+Tamb: 31.062
+weight (mg): 1528
+read time (s): 0.326
+weight after adjust (mg): 2315.0
+Tamb: 31.0
+weight (mg): 1513
+read time (s): 0.303
+weight after adjust (mg): 2405.4619999999995
+Tamb: 31.062
+weight (mg): 1503
+read time (s): 0.302
+weight after adjust (mg): 2395.4619999999995
+Tamb: 31.062
+weight (mg): 1525
+read time (s): 0.303
+weight after adjust (mg): 2417.4619999999995
+Tamb: 31.062
+weight (mg): 1530
+read time (s): 0.325
+weight after adjust (mg): 2422.4619999999995
+Tamb: 31.062
+weight (mg): 1431
+read time (s): 0.325
+weight after adjust (mg): 2323.4619999999995
+Tamb: 31.062
+weight (mg): 1404
+read time (s): 0.302
+weight after adjust (mg): 2296.4619999999995
+Tamb: 31.062
+weight (mg): 1439
+read time (s): 0.302
+weight after adjust (mg): 2331.4619999999995
+Tamb: 31.062
+weight (mg): 1427
+read time (s): 0.301
+weight after adjust (mg): 2319.4619999999995
+Tamb: 31.062
+weight (mg): 1395
+read time (s): 0.301
+weight after adjust (mg): 2287.4619999999995
+Tamb: 31.062
+weight (mg): 1429
+read time (s): 0.324
+weight after adjust (mg): 2216.0
+Tamb: 31.0
+weight (mg): 1397
+read time (s): 0.324
+weight after adjust (mg): 2184.0
+Tamb: 31.0
+weight (mg): 1478
+read time (s): 0.326
+weight after adjust (mg): 2265.0
+Tamb: 31.0
+weight (mg): 1360
+read time (s): 0.302
+weight after adjust (mg): 2147.0
+Tamb: 31.0
+weight (mg): 1501
+read time (s): 0.324
+weight after adjust (mg): 2288.0
+Tamb: 31.0
+weight (mg): 1501
+read time (s): 0.302
+weight after adjust (mg): 2288.0
+Tamb: 31.0
+weight (mg): 1483
+read time (s): 0.302
+weight after adjust (mg): 2375.4619999999995
+Tamb: 31.062
+weight (mg): 1446
+read time (s): 0.325
+weight after adjust (mg): 2233.0
+Tamb: 31.0
+weight (mg): 1355
+read time (s): 0.324
+weight after adjust (mg): 2247.4619999999995
+Tamb: 31.062
+weight (mg): 1441
+read time (s): 0.303
+weight after adjust (mg): 2333.4619999999995
+Tamb: 31.062
+weight (mg): 1417
+read time (s): 0.324
+weight after adjust (mg): 2309.4619999999995
+Tamb: 31.062
+weight (mg): 1350
+read time (s): 0.301
+weight after adjust (mg): 2242.4619999999995
+Tamb: 31.062
+weight (mg): 1313
+read time (s): 0.302
+weight after adjust (mg): 2100.0
+Tamb: 31.0
+weight (mg): 1412
+read time (s): 0.325
+weight after adjust (mg): 2304.4619999999995
+Tamb: 31.062
+weight (mg): 1353
+read time (s): 0.322
+weight after adjust (mg): 2140.0
+Tamb: 31.0
+weight (mg): 1326
+read time (s): 0.299
+weight after adjust (mg): 2113.0
+Tamb: 31.0
+weight (mg): 1330
+read time (s): 0.32
+weight after adjust (mg): 2009.8369999999995
+Tamb: 30.937
+weight (mg): 1362
+read time (s): 0.322
+weight after adjust (mg): 2149.0
+Tamb: 31.0
+weight (mg): 1291
+read time (s): 0.32
+weight after adjust (mg): 1970.8369999999995
+Tamb: 30.937
+weight (mg): 1321
+read time (s): 0.323
+weight after adjust (mg): 2108.0
+Tamb: 31.0
+weight (mg): 1326
+read time (s): 0.322
+weight after adjust (mg): 2113.0
+Tamb: 31.0
+weight (mg): 1345
+read time (s): 0.324
+weight after adjust (mg): 2132.0
+Tamb: 31.0
+weight (mg): 1372
+read time (s): 0.32
+weight after adjust (mg): 2051.8369999999995
+Tamb: 30.937
+weight (mg): 1328
+read time (s): 0.301
+weight after adjust (mg): 2115.0
+Tamb: 31.0
+weight (mg): 1261
+read time (s): 0.302
+weight after adjust (mg): 2153.4619999999995
+Tamb: 31.062
+weight (mg): 1343
+read time (s): 0.301
+weight after adjust (mg): 2130.0
+Tamb: 31.0
+weight (mg): 1375
+read time (s): 0.322
+weight after adjust (mg): 2162.0
+Tamb: 31.0
+weight (mg): 1412
+read time (s): 0.322
+weight after adjust (mg): 2304.4619999999995
+Tamb: 31.062
+weight (mg): 1434
+read time (s): 0.323
+weight after adjust (mg): 2221.0
+Tamb: 31.0
+weight (mg): 1407
+read time (s): 0.301
+weight after adjust (mg): 2299.4619999999995
+Tamb: 31.062
+weight (mg): 1372
+read time (s): 0.302
+weight after adjust (mg): 2159.0
+Tamb: 31.0
+weight (mg): 1348
+read time (s): 0.322
+weight after adjust (mg): 2135.0
+Tamb: 31.0
+weight (mg): 1365
+read time (s): 0.301
+weight after adjust (mg): 2152.0
+Tamb: 31.0
+weight (mg): 1308
+read time (s): 0.302
+weight after adjust (mg): 2095.0
+Tamb: 31.0
+weight (mg): 1444
+read time (s): 0.302
+weight after adjust (mg): 2231.0
+Tamb: 31.0
+weight (mg): 1360
+read time (s): 0.303
+weight after adjust (mg): 2039.8369999999995
+Tamb: 30.937
+weight (mg): 1328
+read time (s): 0.303
+weight after adjust (mg): 2007.8369999999995
+Tamb: 30.937
+weight (mg): 1330
+read time (s): 0.304
+weight after adjust (mg): 2009.8369999999995
+Tamb: 30.937
+weight (mg): 1372
+read time (s): 0.304
+weight after adjust (mg): 2051.8369999999995
+Tamb: 30.937
+weight (mg): 1387
+read time (s): 0.306
+weight after adjust (mg): 2066.8369999999995
+Tamb: 30.937
+weight (mg): 1397
+read time (s): 0.305
+weight after adjust (mg): 2076.8369999999995
+Tamb: 30.937
+weight (mg): 1402
+read time (s): 0.305
+weight after adjust (mg): 2081.8369999999995
+Tamb: 30.937
+weight (mg): 1321
+read time (s): 0.305
+weight after adjust (mg): 1895.375
+Tamb: 30.875
+weight (mg): 1269
+read time (s): 0.306
+weight after adjust (mg): 1843.375
+Tamb: 30.875
+weight (mg): 1286
+read time (s): 0.306
+weight after adjust (mg): 1753.2119999999995
+Tamb: 30.812
+weight (mg): 1293
+read time (s): 0.327
+weight after adjust (mg): 1760.2119999999995
+Tamb: 30.812
+weight (mg): 1358
+read time (s): 0.303
+weight after adjust (mg): 1825.2119999999995
+Tamb: 30.812
+weight (mg): 1212
+read time (s): 0.303
+weight after adjust (mg): 1786.375
+Tamb: 30.875
+weight (mg): 1367
+read time (s): 0.304
+weight after adjust (mg): 1834.2119999999995
+Tamb: 30.812
+weight (mg): 1276
+read time (s): 0.303
+weight after adjust (mg): 1743.2119999999995
+Tamb: 30.812
+weight (mg): 1358
+read time (s): 0.326
+weight after adjust (mg): 1825.2119999999995
+Tamb: 30.812
+weight (mg): 1284
+read time (s): 0.304
+weight after adjust (mg): 1645.75
+Tamb: 30.75
+weight (mg): 1333
+read time (s): 0.303
+weight after adjust (mg): 1694.75
+Tamb: 30.75
+weight (mg): 1242
+read time (s): 0.304
+weight after adjust (mg): 1603.75
+Tamb: 30.75
+weight (mg): 1266
+read time (s): 0.305
+weight after adjust (mg): 1627.75
+Tamb: 30.75
+weight (mg): 1321
+read time (s): 0.306
+weight after adjust (mg): 1788.2119999999995
+Tamb: 30.812
+weight (mg): 1345
+read time (s): 0.304
+weight after adjust (mg): 1706.75
+Tamb: 30.75
+weight (mg): 1296
+read time (s): 0.304
+weight after adjust (mg): 1657.75
+Tamb: 30.75
+weight (mg): 1271
+read time (s): 0.305
+weight after adjust (mg): 1632.75
+Tamb: 30.75
+weight (mg): 1254
+read time (s): 0.305
+weight after adjust (mg): 1615.75
+Tamb: 30.75
+weight (mg): 1254
+read time (s): 0.306
+weight after adjust (mg): 1615.75
+Tamb: 30.75
+weight (mg): 1234
+read time (s): 0.307
+weight after adjust (mg): 1488.5869999999995
+Tamb: 30.687
+weight (mg): 1303
+read time (s): 0.308
+weight after adjust (mg): 1452.125
+Tamb: 30.625
+weight (mg): 1254
+read time (s): 0.306
+weight after adjust (mg): 1508.5869999999995
+Tamb: 30.687
+weight (mg): 1298
+read time (s): 0.307
+weight after adjust (mg): 1552.5869999999995
+Tamb: 30.687
+weight (mg): 1261
+read time (s): 0.307
+weight after adjust (mg): 1515.5869999999995
+Tamb: 30.687
+weight (mg): 1303
+read time (s): 0.307
+weight after adjust (mg): 1557.5869999999995
+Tamb: 30.687
+weight (mg): 1335
+read time (s): 0.309
+weight after adjust (mg): 1484.125
+Tamb: 30.625
+weight (mg): 1279
+read time (s): 0.401
+weight after adjust (mg): 1533.5869999999995
+Tamb: 30.687
+weight (mg): 1227
+read time (s): 0.307
+weight after adjust (mg): 1376.125
+Tamb: 30.625
+weight (mg): 1274
+read time (s): 0.307
+weight after adjust (mg): 1423.125
+Tamb: 30.625
+weight (mg): 1333
+read time (s): 0.307
+weight after adjust (mg): 1482.125
+Tamb: 30.625
+weight (mg): 1298
+read time (s): 0.33
+weight after adjust (mg): 1552.5869999999995
+Tamb: 30.687
+weight (mg): 1205
+read time (s): 0.329
+weight after adjust (mg): 1354.125
+Tamb: 30.625
+weight (mg): 1254
+read time (s): 0.308
+weight after adjust (mg): 1403.125
+Tamb: 30.625
+weight (mg): 1321
+read time (s): 0.307
+weight after adjust (mg): 1470.125
+Tamb: 30.625
+weight (mg): 1303
+read time (s): 0.307
+weight after adjust (mg): 1557.5869999999995
+Tamb: 30.687
+weight (mg): 1190
+read time (s): 0.307
+weight after adjust (mg): 1444.5869999999995
+Tamb: 30.687
+weight (mg): 1296
+read time (s): 0.307
+weight after adjust (mg): 1550.5869999999995
+Tamb: 30.687
+weight (mg): 1308
+read time (s): 0.307
+weight after adjust (mg): 1457.125
+Tamb: 30.625
+weight (mg): 1330
+read time (s): 0.307
+weight after adjust (mg): 1479.125
+Tamb: 30.625
+weight (mg): 1353
+read time (s): 0.306
+weight after adjust (mg): 1502.125
+Tamb: 30.625
+weight (mg): 1311
+read time (s): 0.306
+weight after adjust (mg): 1460.125
+Tamb: 30.625
+weight (mg): 1303
+read time (s): 0.306
+weight after adjust (mg): 1344.9619999999995
+Tamb: 30.562
+weight (mg): 1301
+read time (s): 0.306
+weight after adjust (mg): 1450.125
+Tamb: 30.625
+weight (mg): 1274
+read time (s): 0.328
+weight after adjust (mg): 1315.9619999999995
+Tamb: 30.562
+weight (mg): 1301
+read time (s): 0.305
+weight after adjust (mg): 1450.125
+Tamb: 30.625
+weight (mg): 1313
+read time (s): 0.305
+weight after adjust (mg): 1462.125
+Tamb: 30.625
+weight (mg): 1311
+read time (s): 0.305
+weight after adjust (mg): 1460.125
+Tamb: 30.625
+weight (mg): 1284
+read time (s): 0.317
+weight after adjust (mg): 1433.125
+Tamb: 30.625
+weight (mg): 1220
+read time (s): 0.327
+weight after adjust (mg): 1369.125
+Tamb: 30.625
+weight (mg): 1264
+read time (s): 0.305
+weight after adjust (mg): 1413.125
+Tamb: 30.625
+weight (mg): 1318
+read time (s): 0.305
+weight after adjust (mg): 1467.125
+Tamb: 30.625
+weight (mg): 1286
+read time (s): 0.305
+weight after adjust (mg): 1435.125
+Tamb: 30.625
+weight (mg): 1306
+read time (s): 0.305
+weight after adjust (mg): 1455.125
+Tamb: 30.625
+weight (mg): 1229
+read time (s): 0.327
+weight after adjust (mg): 1378.125
+Tamb: 30.625
+weight (mg): 1313
+read time (s): 0.305
+weight after adjust (mg): 1462.125
+Tamb: 30.625
+weight (mg): 1264
+read time (s): 0.305
+weight after adjust (mg): 1413.125
+Tamb: 30.625
+weight (mg): 1187
+read time (s): 0.305
+weight after adjust (mg): 1336.125
+Tamb: 30.625
+weight (mg): 1178
+read time (s): 0.305
+weight after adjust (mg): 1327.125
+Tamb: 30.625
+weight (mg): 1220
+read time (s): 0.306
+weight after adjust (mg): 1261.9619999999995
+Tamb: 30.562
+weight (mg): 1271
+read time (s): 0.306
+weight after adjust (mg): 1312.9619999999995
+Tamb: 30.562
+weight (mg): 1222
+read time (s): 0.307
+weight after adjust (mg): 1263.9619999999995
+Tamb: 30.562
+weight (mg): 1289
+read time (s): 0.307
+weight after adjust (mg): 1330.9619999999995
+Tamb: 30.562
+weight (mg): 1276
+read time (s): 0.307
+weight after adjust (mg): 1425.125
+Tamb: 30.625
+weight (mg): 1276
+read time (s): 0.307
+weight after adjust (mg): 1317.9619999999995
+Tamb: 30.562
+weight (mg): 1318
+read time (s): 0.306
+weight after adjust (mg): 1467.125
+Tamb: 30.625
+weight (mg): 1279
+read time (s): 0.307
+weight after adjust (mg): 1428.125
+Tamb: 30.625
+weight (mg): 1252
+read time (s): 0.306
+weight after adjust (mg): 1401.125
+Tamb: 30.625
+weight (mg): 1220
+read time (s): 0.329
+weight after adjust (mg): 1369.125
+Tamb: 30.625
+weight (mg): 1279
+read time (s): 0.306
+weight after adjust (mg): 1428.125
+Tamb: 30.625
+weight (mg): 1353
+read time (s): 0.307
+weight after adjust (mg): 1502.125
+Tamb: 30.625
+weight (mg): 1254
+read time (s): 0.306
+weight after adjust (mg): 1295.9619999999995
+Tamb: 30.562
+weight (mg): 1215
+read time (s): 0.307
+weight after adjust (mg): 1364.125
+Tamb: 30.625
+weight (mg): 1289
+read time (s): 0.306
+weight after adjust (mg): 1330.9619999999995
+Tamb: 30.562
+weight (mg): 1224
+read time (s): 0.306
+weight after adjust (mg): 1265.9619999999995
+Tamb: 30.562
+weight (mg): 1205
+read time (s): 0.306
+weight after adjust (mg): 1246.9619999999995
+Tamb: 30.562
+weight (mg): 1274
+read time (s): 0.307
+weight after adjust (mg): 1315.9619999999995
+Tamb: 30.562
+weight (mg): 1318
+read time (s): 0.307
+weight after adjust (mg): 1359.9619999999995
+Tamb: 30.562
+weight (mg): 1330
+read time (s): 0.307
+weight after adjust (mg): 1371.9619999999995
+Tamb: 30.562
+weight (mg): 1244
+read time (s): 0.307
+weight after adjust (mg): 1285.9619999999995
+Tamb: 30.562
+weight (mg): 1345
+read time (s): 0.307
+weight after adjust (mg): 1386.9619999999995
+Tamb: 30.562
+weight (mg): 1308
+read time (s): 0.307
+weight after adjust (mg): 1349.9619999999995
+Tamb: 30.562
+weight (mg): 1242
+read time (s): 0.307
+weight after adjust (mg): 1178.5
+Tamb: 30.5
+weight (mg): 1289
+read time (s): 0.307
+weight after adjust (mg): 1330.9619999999995
+Tamb: 30.562
+weight (mg): 1318
+read time (s): 0.307
+weight after adjust (mg): 1359.9619999999995
+Tamb: 30.562
+weight (mg): 1318
+read time (s): 0.307
+weight after adjust (mg): 1359.9619999999995
+Tamb: 30.562
+weight (mg): 1200
+read time (s): 0.307
+weight after adjust (mg): 1136.5
+Tamb: 30.5
+weight (mg): 1301
+read time (s): 0.308
+weight after adjust (mg): 1342.9619999999995
+Tamb: 30.562
+weight (mg): 1242
+read time (s): 0.308
+weight after adjust (mg): 1283.9619999999995
+Tamb: 30.562
+weight (mg): 1239
+read time (s): 0.307
+weight after adjust (mg): 1280.9619999999995
+Tamb: 30.562
+weight (mg): 1281
+read time (s): 0.307
+weight after adjust (mg): 1322.9619999999995
+Tamb: 30.562
+weight (mg): 1252
+read time (s): 0.307
+weight after adjust (mg): 1293.9619999999995
+Tamb: 30.562
+weight (mg): 1259
+read time (s): 0.307
+weight after adjust (mg): 1300.9619999999995
+Tamb: 30.562
+weight (mg): 1318
+read time (s): 0.309
+weight after adjust (mg): 1359.9619999999995
+Tamb: 30.562
+weight (mg): 1298
+read time (s): 0.309
+weight after adjust (mg): 1339.9619999999995
+Tamb: 30.562
+weight (mg): 1279
+read time (s): 0.33
+weight after adjust (mg): 1320.9619999999995
+Tamb: 30.562
+weight (mg): 1229
+read time (s): 0.312
+weight after adjust (mg): 1270.9619999999995
+Tamb: 30.562
+weight (mg): 1232
+read time (s): 0.309
+weight after adjust (mg): 1273.9619999999995
+Tamb: 30.562
+weight (mg): 1212
+read time (s): 0.309
+weight after adjust (mg): 1148.5
+Tamb: 30.5
+weight (mg): 1234
+read time (s): 0.321
+weight after adjust (mg): 1275.9619999999995
+Tamb: 30.562
+weight (mg): 1244
+read time (s): 0.309
+weight after adjust (mg): 1180.5
+Tamb: 30.5
+weight (mg): 1257
+read time (s): 0.309
+weight after adjust (mg): 1193.5
+Tamb: 30.5
+weight (mg): 1333
+read time (s): 0.309
+weight after adjust (mg): 1269.5
+Tamb: 30.5
+weight (mg): 1242
+read time (s): 0.309
+weight after adjust (mg): 1283.9619999999995
+Tamb: 30.562
+weight (mg): 1303
+read time (s): 0.308
+weight after adjust (mg): 1239.5
+Tamb: 30.5
+weight (mg): 1254
+read time (s): 0.308
+weight after adjust (mg): 1190.5
+Tamb: 30.5
+weight (mg): 1242
+read time (s): 0.308
+weight after adjust (mg): 1178.5
+Tamb: 30.5
+weight (mg): 1244
+read time (s): 0.309
+weight after adjust (mg): 1180.5
+Tamb: 30.5
+weight (mg): 1242
+read time (s): 0.31
+weight after adjust (mg): 1283.9619999999995
+Tamb: 30.562
+weight (mg): 1311
+read time (s): 0.309
+weight after adjust (mg): 1247.5
+Tamb: 30.5
+weight (mg): 1301
+read time (s): 0.31
+weight after adjust (mg): 1342.9619999999995
+Tamb: 30.562
+weight (mg): 1323
+read time (s): 0.31
+weight after adjust (mg): 1259.5
+Tamb: 30.5
+weight (mg): 1348
+read time (s): 0.31
+weight after adjust (mg): 1284.5
+Tamb: 30.5
+weight (mg): 1313
+read time (s): 0.309
+weight after adjust (mg): 1354.9619999999995
+Tamb: 30.562
+weight (mg): 1254
+read time (s): 0.31
+weight after adjust (mg): 1190.5
+Tamb: 30.5
+weight (mg): 1212
+read time (s): 0.309
+weight after adjust (mg): 1148.5
+Tamb: 30.5
+weight (mg): 1271
+read time (s): 0.308
+weight after adjust (mg): 1207.5
+Tamb: 30.5
+weight (mg): 1259
+read time (s): 0.308
+weight after adjust (mg): 1195.5
+Tamb: 30.5
+weight (mg): 1375
+read time (s): 0.308
+weight after adjust (mg): 1311.5
+Tamb: 30.5
+weight (mg): 1281
+read time (s): 0.308
+weight after adjust (mg): 1217.5
+Tamb: 30.5
+weight (mg): 1313
+read time (s): 0.308
+weight after adjust (mg): 1249.5
+Tamb: 30.5
+weight (mg): 1274
+read time (s): 0.31
+weight after adjust (mg): 1103.3369999999995
+Tamb: 30.437
+weight (mg): 1227
+read time (s): 0.31
+weight after adjust (mg): 1163.5
+Tamb: 30.5
+weight (mg): 1330
+read time (s): 0.311
+weight after adjust (mg): 1266.5
+Tamb: 30.5
+weight (mg): 1316
+read time (s): 0.311
+weight after adjust (mg): 1145.3369999999995
+Tamb: 30.437
+weight (mg): 1286
+read time (s): 0.311
+weight after adjust (mg): 1222.5
+Tamb: 30.5
+weight (mg): 1308
+read time (s): 0.314
+weight after adjust (mg): 1244.5
+Tamb: 30.5
+weight (mg): 1380
+read time (s): 0.312
+weight after adjust (mg): 1316.5
+Tamb: 30.5
+weight (mg): 1303
+read time (s): 0.316
+weight after adjust (mg): 1239.5
+Tamb: 30.5
+weight (mg): 1335
+read time (s): 0.311
+weight after adjust (mg): 1271.5
+Tamb: 30.5
+weight (mg): 1365
+read time (s): 0.333
+weight after adjust (mg): 1301.5
+Tamb: 30.5
+weight (mg): 1321
+read time (s): 0.312
+weight after adjust (mg): 1257.5
+Tamb: 30.5
+weight (mg): 1296
+read time (s): 0.311
+weight after adjust (mg): 1019.875
+Tamb: 30.375
+weight (mg): 1345
+read time (s): 0.311
+weight after adjust (mg): 1174.3369999999995
+Tamb: 30.437
+weight (mg): 1360
+read time (s): 0.311
+weight after adjust (mg): 1189.3369999999995
+Tamb: 30.437
+weight (mg): 1362
+read time (s): 0.311
+weight after adjust (mg): 1191.3369999999995
+Tamb: 30.437
+weight (mg): 1404
+read time (s): 0.31
+weight after adjust (mg): 1233.3369999999995
+Tamb: 30.437
+weight (mg): 1328
+read time (s): 0.311
+weight after adjust (mg): 1157.3369999999995
+Tamb: 30.437
+weight (mg): 1350
+read time (s): 0.311
+weight after adjust (mg): 1179.3369999999995
+Tamb: 30.437
+weight (mg): 1427
+read time (s): 0.31
+weight after adjust (mg): 1256.3369999999995
+Tamb: 30.437
+weight (mg): 1345
+read time (s): 0.31
+weight after adjust (mg): 1174.3369999999995
+Tamb: 30.437
+weight (mg): 1399
+read time (s): 0.31
+weight after adjust (mg): 1228.3369999999995
+Tamb: 30.437
+weight (mg): 1345
+read time (s): 0.31
+weight after adjust (mg): 1174.3369999999995
+Tamb: 30.437
+weight (mg): 1412
+read time (s): 0.31
+weight after adjust (mg): 1348.5
+Tamb: 30.5
+weight (mg): 1335
+read time (s): 0.31
+weight after adjust (mg): 1164.3369999999995
+Tamb: 30.437
+weight (mg): 1444
+read time (s): 0.31
+weight after adjust (mg): 1273.3369999999995
+Tamb: 30.437
+weight (mg): 1301
+read time (s): 0.31
+weight after adjust (mg): 1130.3369999999995
+Tamb: 30.437
+weight (mg): 1397
+read time (s): 0.31
+weight after adjust (mg): 1226.3369999999995
+Tamb: 30.437
+weight (mg): 1345
+read time (s): 0.31
+weight after adjust (mg): 1068.875
+Tamb: 30.375
+weight (mg): 1417
+read time (s): 0.31
+weight after adjust (mg): 1140.875
+Tamb: 30.375
+weight (mg): 1335
+read time (s): 0.31
+weight after adjust (mg): 1164.3369999999995
+Tamb: 30.437
+weight (mg): 1333
+read time (s): 0.31
+weight after adjust (mg): 1162.3369999999995
+Tamb: 30.437
+weight (mg): 1441
+read time (s): 0.31
+weight after adjust (mg): 1270.3369999999995
+Tamb: 30.437
+weight (mg): 1424
+read time (s): 0.31
+weight after adjust (mg): 1253.3369999999995
+Tamb: 30.437
+weight (mg): 1402
+read time (s): 0.31
+weight after adjust (mg): 1231.3369999999995
+Tamb: 30.437
+weight (mg): 1436
+read time (s): 0.31
+weight after adjust (mg): 1265.3369999999995
+Tamb: 30.437
+weight (mg): 1390
+read time (s): 0.312
+weight after adjust (mg): 1219.3369999999995
+Tamb: 30.437
+weight (mg): 1395
+read time (s): 0.31
+weight after adjust (mg): 1224.3369999999995
+Tamb: 30.437
+weight (mg): 1468
+read time (s): 0.31
+weight after adjust (mg): 1297.3369999999995
+Tamb: 30.437
+weight (mg): 1385
+read time (s): 0.321
+weight after adjust (mg): 1214.3369999999995
+Tamb: 30.437
+weight (mg): 1395
+read time (s): 0.309
+weight after adjust (mg): 1224.3369999999995
+Tamb: 30.437
+weight (mg): 1397
+read time (s): 0.309
+weight after adjust (mg): 1226.3369999999995
+Tamb: 30.437
+weight (mg): -9
+read time (s): 0.467
+Tamb: 30.375
+weight (mg): -43
+read time (s): 0.313
+Tamb: 30.437

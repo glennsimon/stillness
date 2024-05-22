@@ -20,8 +20,8 @@ headers2=('' '' 'T amb' 'T boil' 'Tboil')
 headers3=('Time' 'PWM' '(C)' '(C)' 'tgt(C)')
 horizLine="-----------------------------------------------"
 spacings=(10 6 7 7 7)
-boilerTarget="65"
-PWM="25"
+boilerTarget="62"
+PWM="35"
 mPWM=$(( PWM * 1000 ))
 now=$( date '+%H:%M:%S' )
 prevNowNs=$( date '+%s%N' )
@@ -35,7 +35,7 @@ fixedPWM=""
 
 # PID constants, must have 3 places after decimal
 K_p="1.000"
-K_i="0.300"
+K_i="1.000"
 K_d="1.000"
 
 dataFilename="./runs/$( date '+%F' )_ferment.txt"
@@ -99,7 +99,6 @@ reset_display()
   echo ""
   echo "mK_d = " $mK_d
   echo "mDeltaTArray = " ${mDeltaTArray[@]}
-  echo "diffLastTwo = " $diffLastTwo
   echo "mDiff = " $mDiff
   echo ""
   echo "mK_i = " $mK_i
@@ -143,8 +142,7 @@ adjust_power()
   # Differential adjustment
   mK_d="$(convert_to_thousandths $K_d)"
   if [[ "$count" -ge 2 ]]; then
-    diffLastTwo=$((mDeltaTArray[-1] - mDeltaTArray[-2]))
-    mDiff="$((mK_d * diffLastTwo / 1000))"
+    mDiff="$((mK_d * (mDeltaTArray[-1] - mDeltaTArray[0]) / 1000))"
   else
     mDiff="0"
   fi
@@ -160,15 +158,11 @@ adjust_power()
   else
     mDiffAvg="0"
   fi
-  if [[ $mDiffAvg -ne 0 ]]; then
-    mIntegral=$((mK_i * mDiffAvg / 1000))
-  else
-    mIntegral="0"
-  fi
+  mIntegral=$((mK_i * mDiffAvg / 1000))
   mPWM=$((mPWM + mDiff + mProp + mIntegral))
-  if [[ "${mPWM:0:1}" == "-" ]] || [[ "${#mPWM}" -le 3 ]]; then
-    PWM=1
-  # Linear approximation of power vs PWM intersects 100% at 85% due to 
+  if [[ "${mPWM:0:1}" == "-" ]] || [[ "${mPWM::-3}" -le 14 ]]; then
+    PWM=15
+  # Linear approximation of power vs PWM intersects 100% at 85% due to
   # non-linearity of power controller, setting at 85 makes PID controller
   # more responsive on the high end
   elif [[ "${#mPWM}" -ge 3 ]] && [[ "${mPWM::-3}" -ge 85 ]]; then
@@ -215,7 +209,7 @@ write_row headers2 >> $dataFilename
 write_row headers3 >> $dataFilename
 echo $horizLine >> $dataFilename
 
-main() 
+main()
 {
   while true ; do
     read -rsn 1 -t 0.1 input
@@ -223,7 +217,7 @@ main()
       1)
         clear
         echo "Enter the desired boiler temperature: "
-        read boilerTarget         
+        read boilerTarget
         mDeltaTArray=()
         mDeltaTArray[0]=$((boilerTarget * 1000 - mBoilerTemp)) ;;
       2)
@@ -250,26 +244,26 @@ main()
       7)
         clear
         echo "Enter the remaining ethanol: "
-        read remaining 
+        read remaining
         mRemaining=$(( remaining * 1000 )) ;;
       8)
         clear
         echo "Enter the PWM (0-99), or <CR> for PID controlled PWM: "
-        read fixedPWM 
+        read fixedPWM
         if [[ -n $fixedPWM ]]; then
-          echo $fixedPWM > pwm_setting 
+          echo $fixedPWM > pwm_setting
         fi ;;
       "q" | "Q")
         exit ;;
     esac
-  
+
     if [ $SECONDS -gt 8 ]; then
       input=""
       now=$( date '+%H:%M:%S' )
       nowNs=$( date '+%s%N' )
       nowMs=$(( nowNs / 1000000 ))
       ambTemp="$(get_temp '28-032197797f0c')"
-      boilerTemp="$(get_temp '28-032197792401')"
+      boilerTemp="$(get_temp '28-3ce104577969')"
       stillheadTemp="$(get_temp '28-032197794fef')"
       coolInletTemp="$(get_temp '28-0321977926b2')"
       coolOutletTemp="$(get_temp '28-032197797070')"
@@ -317,7 +311,7 @@ while getopts "ht:c:f:j:p:a:r:d:" option; do
       remaining=$OPTARG
       mRemaining=$(( remaining * 1000 )) ;;
     d) # duty cycle (PWM)
-      fixedPWM=$OPTARG 
+      fixedPWM=$OPTARG
       echo $fixedPWM > pwm_setting ;;
    \?) # invalid
       echo "Error: Invalid option"

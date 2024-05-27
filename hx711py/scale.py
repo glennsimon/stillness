@@ -8,7 +8,7 @@ from hx711 import HX711
 
 def cleanAndExit():
     print("Cleaning...")
-
+        
     print("Bye!")
     sys.exit()
 
@@ -30,7 +30,7 @@ elif chan_1 == 24 and chan_2 == 25:
 else:
   print("Invalid channels. Exiting...")
   sys.exit()
-
+  
 hx.set_reference_unit(referenceUnit)
 
 hx.reset()
@@ -53,11 +53,26 @@ while True:
         val = round(hx.get_weight(5))
         delta_sec = round((time.monotonic_ns() - now)/1000000000.0, 3)
         print("weight (mg): " + str(val))
+        fh2 = open("logfile2.txt", "a")
+        fh2.write("weight (mg): " + str(val) + "\n")
         print("read time (s): " + str(delta_sec))
-
+        fh2.write("read time (s): " + str(delta_sec) + "\n")
+        fh = open("/sys/bus/w1/devices/28-032197797f0c/w1_slave", "r")
+        fh.readline()
+        temp = fh.readline()
+        fh.close()
+        temp = float(temp[29:])/1000
+        offset = -1701*temp + 51944
+        val = val - offset
+        fh2.write("weight after adjust (mg): " + str(val) + "\n")
+        print("weight after adjust (mg): " + str(val))
+        print("Tamb: " + str(temp))
+        fh2.write("Tamb: " + str(temp) + "\n")
+        fh2.close()
         hx.power_down()
         hx.power_up()
-        time.sleep(0.5)
+        time.sleep(30)
 
     except (KeyboardInterrupt, SystemExit):
+        fh2.close()
         cleanAndExit()

@@ -1,0 +1,5615 @@
+set_offset_A: 194883.5
+weight (mg): 1835919
+referenceUnit: 0.40279738562091505
+read time (s): 1.731
+Tamb: 22.5
+set_offset_A: 194883.5
+weight (mg): 1835964
+referenceUnit: 0.4027091503267974
+read time (s): 1.637
+Tamb: 22.5
+set_offset_A: 194845.618
+weight (mg): 1835961
+referenceUnit: 0.4027282135076253
+read time (s): 1.623
+Tamb: 22.562
+set_offset_A: 194845.618
+weight (mg): 1835951
+referenceUnit: 0.40271296296296294
+read time (s): 1.603
+Tamb: 22.562
+set_offset_A: 194845.618
+weight (mg): 1836008
+referenceUnit: 0.4027015250544662
+read time (s): 1.678
+Tamb: 22.562
+set_offset_A: 194845.618
+weight (mg): 1836018
+referenceUnit: 0.40264324618736386
+read time (s): 1.731
+Tamb: 22.562
+set_offset_A: 194769.243
+weight (mg): 1835937
+referenceUnit: 0.4024509803921569
+read time (s): 1.687
+Tamb: 22.687
+set_offset_A: 194654.375
+weight (mg): 1836103
+referenceUnit: 0.4022777777777778
+read time (s): 1.643
+Tamb: 22.875
+set_offset_A: 194578.0
+weight (mg): 1835958
+referenceUnit: 0.4021541394335512
+read time (s): 1.69
+Tamb: 23.0
+set_offset_A: 194463.743
+weight (mg): 1835948
+referenceUnit: 0.4019983660130719
+read time (s): 1.696
+Tamb: 23.187
+set_offset_A: 194348.875
+weight (mg): 1835958
+referenceUnit: 0.4018578431372549
+read time (s): 1.693
+Tamb: 23.375
+set_offset_A: 194234.618
+weight (mg): 1836093
+referenceUnit: 0.4017091503267974
+read time (s): 1.706
+Tamb: 23.562
+set_offset_A: 194119.75
+weight (mg): 1835961
+referenceUnit: 0.40411873638344226
+read time (s): 1.645
+Tamb: 23.75
+set_offset_A: 193967.0
+weight (mg): 1835938
+referenceUnit: 0.40372167755991284
+read time (s): 1.703
+Tamb: 24.0
+set_offset_A: 193814.25
+weight (mg): 1835985
+referenceUnit: 0.40398529411764705
+read time (s): 1.622
+Tamb: 24.25
+set_offset_A: 193661.5
+weight (mg): 1836024
+referenceUnit: 0.4037429193899782
+read time (s): 1.684
+Tamb: 24.5
+set_offset_A: 193508.75
+weight (mg): 1835996
+referenceUnit: 0.40357080610021784
+read time (s): 1.678
+Tamb: 24.75
+set_offset_A: 193394.493
+weight (mg): 1836011
+referenceUnit: 0.4033616557734205
+read time (s): 1.748
+Tamb: 24.937
+set_offset_A: 193241.743
+weight (mg): 1835936
+referenceUnit: 0.4043175381263617
+read time (s): 1.68
+Tamb: 25.187
+set_offset_A: 193126.875
+weight (mg): 1835792
+referenceUnit: 0.403880174291939
+read time (s): 1.681
+Tamb: 25.375
+set_offset_A: 193012.618
+weight (mg): 1836023
+referenceUnit: 0.4036416122004357
+read time (s): 1.722
+Tamb: 25.562
+set_offset_A: 192897.75
+weight (mg): 1835976
+referenceUnit: 0.4034384531590414
+read time (s): 1.648
+Tamb: 25.75
+set_offset_A: 192783.493
+weight (mg): 1835929
+referenceUnit: 0.40326416122004355
+read time (s): 1.655
+Tamb: 25.937
+set_offset_A: 192630.743
+weight (mg): 1836199
+referenceUnit: 0.4030430283224401
+read time (s): 1.621
+Tamb: 26.187
+set_offset_A: 192592.25
+weight (mg): 1835972
+referenceUnit: 0.40284749455337693
+read time (s): 1.664
+Tamb: 26.25
+set_offset_A: 192515.875
+weight (mg): 1835938
+referenceUnit: 0.40266557734204794
+read time (s): 1.699
+Tamb: 26.375
+set_offset_A: 192363.125
+weight (mg): 1836010
+referenceUnit: 0.40250599128540304
+read time (s): 1.698
+Tamb: 26.625
+set_offset_A: 192286.75
+weight (mg): 1835946
+referenceUnit: 0.40236655773420477
+read time (s): 1.632
+Tamb: 26.75
+set_offset_A: 192134.0
+weight (mg): 1836045
+referenceUnit: 0.40219825708061
+read time (s): 1.666
+Tamb: 27.0
+set_offset_A: 192172.493
+weight (mg): 1835884
+referenceUnit: 0.4020152505446623
+read time (s): 1.644
+Tamb: 26.937
+set_offset_A: 192057.625
+weight (mg): 1835974
+referenceUnit: 0.40185620915032677
+read time (s): 1.66
+Tamb: 27.125
+set_offset_A: 192019.743
+weight (mg): 1835986
+referenceUnit: 0.40169444444444447
+read time (s): 1.691
+Tamb: 27.187
+set_offset_A: 191943.368
+weight (mg): 1835944
+referenceUnit: 0.40150762527233114
+read time (s): 1.674
+Tamb: 27.312
+set_offset_A: 191828.5
+weight (mg): 1835956
+referenceUnit: 0.40139869281045754
+read time (s): 1.62
+Tamb: 27.5
+set_offset_A: 191828.5
+weight (mg): 1835882
+referenceUnit: 0.40123420479302835
+read time (s): 1.652
+Tamb: 27.5
+set_offset_A: 191714.243
+weight (mg): 1835984
+referenceUnit: 0.40112581699346406
+read time (s): 1.684
+Tamb: 27.687
+set_offset_A: 191637.868
+weight (mg): 1835978
+referenceUnit: 0.4009961873638344
+read time (s): 1.707
+Tamb: 27.812
+set_offset_A: 191599.375
+weight (mg): 1835982
+referenceUnit: 0.4008720043572985
+read time (s): 1.69
+Tamb: 27.875
+set_offset_A: 191523.0
+weight (mg): 1836015
+referenceUnit: 0.40082407407407405
+read time (s): 1.616
+Tamb: 28.0
+set_offset_A: 191446.625
+weight (mg): 1836053
+referenceUnit: 0.4009711328976035
+read time (s): 1.656
+Tamb: 28.125
+set_offset_A: 191370.25
+weight (mg): 1835954
+referenceUnit: 0.40108823529411763
+read time (s): 1.712
+Tamb: 28.25
+set_offset_A: 191332.368
+weight (mg): 1835969
+referenceUnit: 0.40102505446623093
+read time (s): 1.666
+Tamb: 28.312
+set_offset_A: 191332.368
+weight (mg): 1836046
+referenceUnit: 0.40094716775599126
+read time (s): 1.637
+Tamb: 28.312
+set_offset_A: 191293.875
+weight (mg): 1836003
+referenceUnit: 0.4009389978213508
+read time (s): 1.674
+Tamb: 28.375
+set_offset_A: 191255.993
+weight (mg): 1835965
+referenceUnit: 0.4009210239651416
+read time (s): 1.699
+Tamb: 28.437
+set_offset_A: 191217.5
+weight (mg): 1836031
+referenceUnit: 0.4008867102396514
+read time (s): 1.645
+Tamb: 28.5
+set_offset_A: 191217.5
+weight (mg): 1836006
+referenceUnit: 0.40084313725490195
+read time (s): 1.65
+Tamb: 28.5
+set_offset_A: 191217.5
+weight (mg): 1836059
+referenceUnit: 0.4007864923747277
+read time (s): 1.664
+Tamb: 28.5
+set_offset_A: 191179.618
+weight (mg): 1835981
+referenceUnit: 0.40070642701525055
+read time (s): 1.642
+Tamb: 28.562
+set_offset_A: 191141.125
+weight (mg): 1836007
+referenceUnit: 0.40066993464052286
+read time (s): 1.751
+Tamb: 28.625
+set_offset_A: 191103.243
+weight (mg): 1835930
+referenceUnit: 0.40068191721132895
+read time (s): 1.687
+Tamb: 28.687
+set_offset_A: 191103.243
+weight (mg): 1835997
+referenceUnit: 0.40059803921568626
+read time (s): 1.627
+Tamb: 28.687
+set_offset_A: 191103.243
+weight (mg): 1836044
+referenceUnit: 0.40052178649237474
+read time (s): 1.666
+Tamb: 28.687
+set_offset_A: 191064.75
+weight (mg): 1835963
+referenceUnit: 0.4004711328976035
+read time (s): 1.703
+Tamb: 28.75
+set_offset_A: 191103.243
+weight (mg): 1835917
+referenceUnit: 0.400442265795207
+read time (s): 1.654
+Tamb: 28.687
+set_offset_A: 191064.75
+weight (mg): 1835976
+referenceUnit: 0.40046023965141614
+read time (s): 1.713
+Tamb: 28.75
+set_offset_A: 191026.868
+weight (mg): 1836033
+referenceUnit: 0.40042211328976035
+read time (s): 1.662
+Tamb: 28.812
+set_offset_A: 191064.75
+weight (mg): 1835996
+referenceUnit: 0.4003632897603486
+read time (s): 1.702
+Tamb: 28.75
+set_offset_A: 190988.375
+weight (mg): 1835957
+referenceUnit: 0.4003355119825708
+read time (s): 1.67
+Tamb: 28.875
+set_offset_A: 191026.868
+weight (mg): 1835958
+referenceUnit: 0.4002848583877996
+read time (s): 1.631
+Tamb: 28.812
+set_offset_A: 191026.868
+weight (mg): 1835950
+referenceUnit: 0.4002717864923747
+read time (s): 1.681
+Tamb: 28.812
+set_offset_A: 190988.375
+weight (mg): 1835934
+referenceUnit: 0.40023311546840956
+read time (s): 1.638
+Tamb: 28.875
+set_offset_A: 190988.375
+weight (mg): 1836009
+referenceUnit: 0.4001503267973856
+read time (s): 1.683
+Tamb: 28.875
+set_offset_A: 190950.493
+weight (mg): 1836096
+referenceUnit: 0.40007788671023964
+read time (s): 1.717
+Tamb: 28.937
+set_offset_A: 190950.493
+weight (mg): 1836016
+referenceUnit: 0.4000343137254902
+read time (s): 1.672
+Tamb: 28.937
+set_offset_A: 190912.0
+weight (mg): 1835890
+referenceUnit: 0.4000283224400871
+read time (s): 1.592
+Tamb: 29.0
+set_offset_A: 190950.493
+weight (mg): 1835961
+referenceUnit: 0.39994281045751634
+read time (s): 1.729
+Tamb: 28.937
+set_offset_A: 190912.0
+weight (mg): 1835907
+referenceUnit: 0.3999259259259259
+read time (s): 1.648
+Tamb: 29.0
+set_offset_A: 190912.0
+weight (mg): 1836015
+referenceUnit: 0.39986928104575165
+read time (s): 1.678
+Tamb: 29.0
+set_offset_A: 190950.493
+weight (mg): 1835961
+referenceUnit: 0.39981263616557733
+read time (s): 1.616
+Tamb: 28.937
+set_offset_A: 190950.493
+weight (mg): 1835901
+referenceUnit: 0.39981971677559913
+read time (s): 1.637
+Tamb: 28.937
+set_offset_A: 190950.493
+weight (mg): 1836056
+referenceUnit: 0.3997826797385621
+read time (s): 1.686
+Tamb: 28.937
+set_offset_A: 190912.0
+weight (mg): 1835975
+referenceUnit: 0.3997723311546841
+read time (s): 1.663
+Tamb: 29.0
+set_offset_A: 190912.0
+weight (mg): 1836038
+referenceUnit: 0.39972167755991284
+read time (s): 1.631
+Tamb: 29.0
+set_offset_A: 190912.0
+weight (mg): 1835940
+referenceUnit: 0.39969335511982573
+read time (s): 1.65
+Tamb: 29.0
+set_offset_A: 190912.0
+weight (mg): 1835905
+referenceUnit: 0.3996181917211329
+read time (s): 1.678
+Tamb: 29.0
+set_offset_A: 190874.118
+weight (mg): 1836005
+referenceUnit: 0.39954084967320264
+read time (s): 1.74
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835897
+referenceUnit: 0.39953540305010893
+read time (s): 1.7
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1836027
+referenceUnit: 0.39944989106753814
+read time (s): 1.64
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835947
+referenceUnit: 0.3994193899782135
+read time (s): 1.687
+Tamb: 29.062
+set_offset_A: 190835.625
+weight (mg): 1835981
+referenceUnit: 0.3994281045751634
+read time (s): 1.654
+Tamb: 29.125
+set_offset_A: 190874.118
+weight (mg): 1836037
+referenceUnit: 0.3993818082788671
+read time (s): 1.62
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1836010
+referenceUnit: 0.399359477124183
+read time (s): 1.597
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1836010
+referenceUnit: 0.39929357298474943
+read time (s): 1.668
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1836000
+referenceUnit: 0.39924019607843136
+read time (s): 1.631
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1836017
+referenceUnit: 0.39920806100217865
+read time (s): 1.697
+Tamb: 29.062
+set_offset_A: 190912.0
+weight (mg): 1835965
+referenceUnit: 0.3991209150326797
+read time (s): 1.672
+Tamb: 29.0
+set_offset_A: 190950.493
+weight (mg): 1835996
+referenceUnit: 0.3990648148148148
+read time (s): 1.633
+Tamb: 28.937
+set_offset_A: 190988.375
+weight (mg): 1835844
+referenceUnit: 0.39905718954248365
+read time (s): 1.624
+Tamb: 28.875
+set_offset_A: 191026.868
+weight (mg): 1836040
+referenceUnit: 0.39902450980392157
+read time (s): 1.732
+Tamb: 28.812
+set_offset_A: 190988.375
+weight (mg): 1835982
+referenceUnit: 0.399041394335512
+read time (s): 1.667
+Tamb: 28.875
+set_offset_A: 191026.868
+weight (mg): 1836043
+referenceUnit: 0.3990800653594771
+read time (s): 1.684
+Tamb: 28.812
+set_offset_A: 191064.75
+weight (mg): 1835976
+referenceUnit: 0.3990397603485839
+read time (s): 1.722
+Tamb: 28.75
+set_offset_A: 191026.868
+weight (mg): 1835985
+referenceUnit: 0.3989978213507625
+read time (s): 1.657
+Tamb: 28.812
+set_offset_A: 190988.375
+weight (mg): 1836089
+referenceUnit: 0.39894825708061005
+read time (s): 1.699
+Tamb: 28.875
+set_offset_A: 191026.868
+weight (mg): 1835940
+referenceUnit: 0.39886764705882355
+read time (s): 1.647
+Tamb: 28.812
+set_offset_A: 190988.375
+weight (mg): 1835941
+referenceUnit: 0.39884150326797385
+read time (s): 1.671
+Tamb: 28.875
+set_offset_A: 190988.375
+weight (mg): 1836019
+referenceUnit: 0.39877995642701525
+read time (s): 1.684
+Tamb: 28.875
+set_offset_A: 190988.375
+weight (mg): 1835951
+referenceUnit: 0.39871296296296294
+read time (s): 1.634
+Tamb: 28.875
+set_offset_A: 191064.75
+weight (mg): 1836021
+referenceUnit: 0.39862145969498913
+read time (s): 1.691
+Tamb: 28.75
+set_offset_A: 191064.75
+weight (mg): 1836048
+referenceUnit: 0.3986018518518519
+read time (s): 1.675
+Tamb: 28.75
+set_offset_A: 191103.243
+weight (mg): 1835969
+referenceUnit: 0.39856917211328974
+read time (s): 1.65
+Tamb: 28.687
+set_offset_A: 191026.868
+weight (mg): 1835990
+referenceUnit: 0.3986176470588235
+read time (s): 1.681
+Tamb: 28.812
+set_offset_A: 190950.493
+weight (mg): 1835961
+referenceUnit: 0.3985942265795207
+read time (s): 1.693
+Tamb: 28.937
+set_offset_A: 190988.375
+weight (mg): 1836082
+referenceUnit: 0.39852614379084966
+read time (s): 1.679
+Tamb: 28.875
+set_offset_A: 190912.0
+weight (mg): 1835927
+referenceUnit: 0.3985283224400871
+read time (s): 1.66
+Tamb: 29.0
+set_offset_A: 190874.118
+weight (mg): 1836047
+referenceUnit: 0.3985119825708061
+read time (s): 1.666
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1836057
+referenceUnit: 0.39847331154684096
+read time (s): 1.683
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835952
+referenceUnit: 0.39846350762527233
+read time (s): 1.674
+Tamb: 29.062
+set_offset_A: 190797.743
+weight (mg): 1836066
+referenceUnit: 0.3984744008714597
+read time (s): 1.66
+Tamb: 29.187
+set_offset_A: 190835.625
+weight (mg): 1835951
+referenceUnit: 0.39845751633986926
+read time (s): 1.656
+Tamb: 29.125
+set_offset_A: 190835.625
+weight (mg): 1835968
+referenceUnit: 0.39842211328976035
+read time (s): 1.664
+Tamb: 29.125
+set_offset_A: 190874.118
+weight (mg): 1836000
+referenceUnit: 0.39836328976034857
+read time (s): 1.661
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835962
+referenceUnit: 0.398338779956427
+read time (s): 1.652
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835957
+referenceUnit: 0.3983066448801743
+read time (s): 1.721
+Tamb: 29.062
+set_offset_A: 190912.0
+weight (mg): 1836003
+referenceUnit: 0.3982636165577342
+read time (s): 1.649
+Tamb: 29.0
+set_offset_A: 190912.0
+weight (mg): 1835982
+referenceUnit: 0.39821132897603484
+read time (s): 1.688
+Tamb: 29.0
+set_offset_A: 190950.493
+weight (mg): 1835989
+referenceUnit: 0.39816666666666667
+read time (s): 1.632
+Tamb: 28.937
+set_offset_A: 190988.375
+weight (mg): 1835914
+referenceUnit: 0.3981285403050109
+read time (s): 1.695
+Tamb: 28.875
+set_offset_A: 190988.375
+weight (mg): 1835954
+referenceUnit: 0.3980925925925926
+read time (s): 1.661
+Tamb: 28.875
+set_offset_A: 191064.75
+weight (mg): 1835978
+referenceUnit: 0.3980457516339869
+read time (s): 1.637
+Tamb: 28.75
+set_offset_A: 191026.868
+weight (mg): 1835933
+referenceUnit: 0.39804684095860565
+read time (s): 1.633
+Tamb: 28.812
+set_offset_A: 191064.75
+weight (mg): 1835993
+referenceUnit: 0.3980136165577342
+read time (s): 1.614
+Tamb: 28.75
+set_offset_A: 191141.125
+weight (mg): 1835967
+referenceUnit: 0.3979961873638344
+read time (s): 1.623
+Tamb: 28.625
+set_offset_A: 191141.125
+weight (mg): 1836027
+referenceUnit: 0.3980032679738562
+read time (s): 1.729
+Tamb: 28.625
+set_offset_A: 191217.5
+weight (mg): 1836026
+referenceUnit: 0.39797058823529413
+read time (s): 1.655
+Tamb: 28.5
+set_offset_A: 191217.5
+weight (mg): 1836019
+referenceUnit: 0.39797167755991286
+read time (s): 1.736
+Tamb: 28.5
+set_offset_A: 191293.875
+weight (mg): 1835965
+referenceUnit: 0.3979335511982571
+read time (s): 1.632
+Tamb: 28.375
+set_offset_A: 191293.875
+weight (mg): 1835943
+referenceUnit: 0.39792211328976035
+read time (s): 1.637
+Tamb: 28.375
+set_offset_A: 191370.25
+weight (mg): 1835906
+referenceUnit: 0.3978616557734205
+read time (s): 1.68
+Tamb: 28.25
+set_offset_A: 191446.625
+weight (mg): 1836008
+referenceUnit: 0.39784586056644883
+read time (s): 1.677
+Tamb: 28.125
+set_offset_A: 191485.118
+weight (mg): 1835889
+referenceUnit: 0.3978142701525054
+read time (s): 1.698
+Tamb: 28.062
+set_offset_A: 191523.0
+weight (mg): 1835899
+referenceUnit: 0.3977788671023965
+read time (s): 1.63
+Tamb: 28.0
+set_offset_A: 191523.0
+weight (mg): 1835907
+referenceUnit: 0.3977717864923747
+read time (s): 1.677
+Tamb: 28.0
+set_offset_A: 191599.375
+weight (mg): 1835999
+referenceUnit: 0.39769335511982573
+read time (s): 1.733
+Tamb: 27.875
+set_offset_A: 191637.868
+weight (mg): 1835983
+referenceUnit: 0.39763616557734205
+read time (s): 1.688
+Tamb: 27.812
+set_offset_A: 191637.868
+weight (mg): 1835983
+referenceUnit: 0.3976247276688453
+read time (s): 1.665
+Tamb: 27.812
+set_offset_A: 191675.75
+weight (mg): 1836003
+referenceUnit: 0.39757788671023964
+read time (s): 1.644
+Tamb: 27.75
+set_offset_A: 191675.75
+weight (mg): 1835943
+referenceUnit: 0.39757788671023964
+read time (s): 1.673
+Tamb: 27.75
+set_offset_A: 191752.125
+weight (mg): 1835975
+referenceUnit: 0.397520697167756
+read time (s): 1.689
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835942
+referenceUnit: 0.3975283224400871
+read time (s): 1.701
+Tamb: 27.625
+set_offset_A: 191790.618
+weight (mg): 1836011
+referenceUnit: 0.39749237472766885
+read time (s): 1.643
+Tamb: 27.562
+set_offset_A: 191828.5
+weight (mg): 1835969
+referenceUnit: 0.3974934640522876
+read time (s): 1.68
+Tamb: 27.5
+set_offset_A: 191866.993
+weight (mg): 1836035
+referenceUnit: 0.3975049019607843
+read time (s): 1.723
+Tamb: 27.437
+set_offset_A: 191904.875
+weight (mg): 1835925
+referenceUnit: 0.3975354030501089
+read time (s): 1.664
+Tamb: 27.375
+set_offset_A: 192057.625
+weight (mg): 1836003
+referenceUnit: 0.39748202614379086
+read time (s): 1.682
+Tamb: 27.125
+set_offset_A: 192057.625
+weight (mg): 1835890
+referenceUnit: 0.39752614379084966
+read time (s): 1.722
+Tamb: 27.125
+set_offset_A: 192057.625
+weight (mg): 1835981
+referenceUnit: 0.3975021786492375
+read time (s): 1.706
+Tamb: 27.125
+set_offset_A: 192057.625
+weight (mg): 1835971
+referenceUnit: 0.397520697167756
+read time (s): 1.736
+Tamb: 27.125
+set_offset_A: 192057.625
+weight (mg): 1835996
+referenceUnit: 0.3974874727668845
+read time (s): 1.627
+Tamb: 27.125
+set_offset_A: 192057.625
+weight (mg): 1836026
+referenceUnit: 0.3974842047930283
+read time (s): 1.623
+Tamb: 27.125
+set_offset_A: 192057.625
+weight (mg): 1836094
+referenceUnit: 0.3974782135076253
+read time (s): 1.928
+Tamb: 27.125
+set_offset_A: 192134.0
+weight (mg): 1835937
+referenceUnit: 0.3974297385620915
+read time (s): 1.719
+Tamb: 27.0
+set_offset_A: 192172.493
+weight (mg): 1835984
+referenceUnit: 0.3974123093681917
+read time (s): 1.698
+Tamb: 26.937
+set_offset_A: 192172.493
+weight (mg): 1835870
+referenceUnit: 0.39739705882352944
+read time (s): 1.692
+Tamb: 26.937
+set_offset_A: 192210.375
+weight (mg): 1836019
+referenceUnit: 0.39736220043572984
+read time (s): 1.668
+Tamb: 26.875
+set_offset_A: 192210.375
+weight (mg): 1835951
+referenceUnit: 0.3973529411764706
+read time (s): 1.691
+Tamb: 26.875
+set_offset_A: 192286.75
+weight (mg): 1835963
+referenceUnit: 0.39729575163398695
+read time (s): 1.623
+Tamb: 26.75
+set_offset_A: 192286.75
+weight (mg): 1836021
+referenceUnit: 0.39727832244008715
+read time (s): 1.677
+Tamb: 26.75
+set_offset_A: 192286.75
+weight (mg): 1835998
+referenceUnit: 0.3972995642701525
+read time (s): 1.676
+Tamb: 26.75
+set_offset_A: 192325.243
+weight (mg): 1835974
+referenceUnit: 0.3972941176470588
+read time (s): 1.683
+Tamb: 26.687
+set_offset_A: 192363.125
+weight (mg): 1835969
+referenceUnit: 0.39728322440087144
+read time (s): 1.682
+Tamb: 26.625
+set_offset_A: 192401.618
+weight (mg): 1835948
+referenceUnit: 0.3973420479302832
+read time (s): 1.69
+Tamb: 26.562
+set_offset_A: 192439.5
+weight (mg): 1835951
+referenceUnit: 0.3974106753812636
+read time (s): 1.699
+Tamb: 26.5
+set_offset_A: 192515.875
+weight (mg): 1835827
+referenceUnit: 0.39744989106753814
+read time (s): 1.625
+Tamb: 26.375
+set_offset_A: 192515.875
+weight (mg): 1836023
+referenceUnit: 0.3974346405228758
+read time (s): 1.641
+Tamb: 26.375
+set_offset_A: 192515.875
+weight (mg): 1836023
+referenceUnit: 0.3974373638344227
+read time (s): 1.681
+Tamb: 26.375
+set_offset_A: 192592.25
+weight (mg): 1835929
+referenceUnit: 0.39741666666666664
+read time (s): 1.637
+Tamb: 26.25
+set_offset_A: 192630.743
+weight (mg): 1835943
+referenceUnit: 0.39740740740740743
+read time (s): 1.703
+Tamb: 26.187
+set_offset_A: 192668.625
+weight (mg): 1836016
+referenceUnit: 0.39739270152505446
+read time (s): 1.674
+Tamb: 26.125
+set_offset_A: 192745.0
+weight (mg): 1836008
+referenceUnit: 0.39735185185185184
+read time (s): 1.651
+Tamb: 26.0
+set_offset_A: 192745.0
+weight (mg): 1836005
+referenceUnit: 0.3973442265795207
+read time (s): 1.718
+Tamb: 26.0
+set_offset_A: 192745.0
+weight (mg): 1836050
+referenceUnit: 0.3973159041394336
+read time (s): 1.691
+Tamb: 26.0
+set_offset_A: 192821.375
+weight (mg): 1836029
+referenceUnit: 0.3972619825708061
+read time (s): 1.678
+Tamb: 25.875
+set_offset_A: 192821.375
+weight (mg): 1835997
+referenceUnit: 0.3972434640522876
+read time (s): 1.61
+Tamb: 25.875
+set_offset_A: 192859.868
+weight (mg): 1835925
+referenceUnit: 0.3972429193899782
+read time (s): 1.65
+Tamb: 25.812
+set_offset_A: 192859.868
+weight (mg): 1835990
+referenceUnit: 0.39719444444444446
+read time (s): 1.624
+Tamb: 25.812
+set_offset_A: 192936.243
+weight (mg): 1836012
+referenceUnit: 0.39713289760348586
+read time (s): 1.673
+Tamb: 25.687
+set_offset_A: 192974.125
+weight (mg): 1835975
+referenceUnit: 0.3971220043572985
+read time (s): 1.731
+Tamb: 25.625
+set_offset_A: 192974.125
+weight (mg): 1835896
+referenceUnit: 0.3971176470588235
+read time (s): 1.633
+Tamb: 25.625
+set_offset_A: 192974.125
+weight (mg): 1836060
+referenceUnit: 0.3970871459694989
+read time (s): 1.633
+Tamb: 25.625
+set_offset_A: 193050.5
+weight (mg): 1836004
+referenceUnit: 0.3970751633986928
+read time (s): 1.614
+Tamb: 25.5
+set_offset_A: 193050.5
+weight (mg): 1836072
+referenceUnit: 0.39706862745098037
+read time (s): 1.717
+Tamb: 25.5
+set_offset_A: 193126.875
+weight (mg): 1835975
+referenceUnit: 0.39703213507625273
+read time (s): 1.652
+Tamb: 25.375
+set_offset_A: 193165.368
+weight (mg): 1836042
+referenceUnit: 0.39700544662309367
+read time (s): 1.661
+Tamb: 25.312
+set_offset_A: 193203.25
+weight (mg): 1836042
+referenceUnit: 0.3969814814814815
+read time (s): 1.679
+Tamb: 25.25
+set_offset_A: 193241.743
+weight (mg): 1835970
+referenceUnit: 0.3969711328976035
+read time (s): 1.628
+Tamb: 25.187
+set_offset_A: 193318.118
+weight (mg): 1835874
+referenceUnit: 0.39694444444444443
+read time (s): 1.679
+Tamb: 25.062
+set_offset_A: 193318.118
+weight (mg): 1835919
+referenceUnit: 0.3969477124183007
+read time (s): 1.733
+Tamb: 25.062
+set_offset_A: 193356.0
+weight (mg): 1835940
+referenceUnit: 0.3969330065359477
+read time (s): 1.685
+Tamb: 25.0
+set_offset_A: 193356.0
+weight (mg): 1835967
+referenceUnit: 0.3969286492374728
+read time (s): 1.649
+Tamb: 25.0
+set_offset_A: 193394.493
+weight (mg): 1836006
+referenceUnit: 0.3969161220043573
+read time (s): 1.617
+Tamb: 24.937
+set_offset_A: 193432.375
+weight (mg): 1836085
+referenceUnit: 0.3968937908496732
+read time (s): 1.655
+Tamb: 24.875
+set_offset_A: 193432.375
+weight (mg): 1836009
+referenceUnit: 0.39692211328976035
+read time (s): 1.643
+Tamb: 24.875
+set_offset_A: 193470.868
+weight (mg): 1835988
+referenceUnit: 0.39692701525054463
+read time (s): 1.65
+Tamb: 24.812
+set_offset_A: 193470.868
+weight (mg): 1835952
+referenceUnit: 0.39697875816993466
+read time (s): 1.716
+Tamb: 24.812
+set_offset_A: 193470.868
+weight (mg): 1835822
+referenceUnit: 0.3975038126361656
+read time (s): 1.642
+Tamb: 24.812
+set_offset_A: 193547.243
+weight (mg): 1835992
+referenceUnit: 0.3974493464052288
+read time (s): 1.595
+Tamb: 24.687
+set_offset_A: 193585.125
+weight (mg): 1836115
+referenceUnit: 0.39741666666666664
+read time (s): 1.691
+Tamb: 24.625
+set_offset_A: 193623.618
+weight (mg): 1835963
+referenceUnit: 0.39739596949891065
+read time (s): 1.67
+Tamb: 24.562
+set_offset_A: 193623.618
+weight (mg): 1835966
+referenceUnit: 0.3973948801742919
+read time (s): 1.619
+Tamb: 24.562
+set_offset_A: 193623.618
+weight (mg): 1835933
+referenceUnit: 0.39737636165577345
+read time (s): 1.694
+Tamb: 24.562
+set_offset_A: 193699.993
+weight (mg): 1835947
+referenceUnit: 0.39733823529411766
+read time (s): 1.661
+Tamb: 24.437
+set_offset_A: 193737.875
+weight (mg): 1836166
+referenceUnit: 0.3972979302832244
+read time (s): 1.741
+Tamb: 24.375
+set_offset_A: 193776.368
+weight (mg): 1836034
+referenceUnit: 0.3972826797385621
+read time (s): 1.715
+Tamb: 24.312
+set_offset_A: 193814.25
+weight (mg): 1835994
+referenceUnit: 0.3972761437908497
+read time (s): 1.698
+Tamb: 24.25
+set_offset_A: 193852.743
+weight (mg): 1835993
+referenceUnit: 0.39722549019607845
+read time (s): 1.625
+Tamb: 24.187
+set_offset_A: 193852.743
+weight (mg): 1836003
+referenceUnit: 0.3972325708061002
+read time (s): 1.742
+Tamb: 24.187
+set_offset_A: 193890.625
+weight (mg): 1836039
+referenceUnit: 0.3971998910675381
+read time (s): 1.674
+Tamb: 24.125
+set_offset_A: 193967.0
+weight (mg): 1835955
+referenceUnit: 0.39716394335511984
+read time (s): 1.615
+Tamb: 24.0
+set_offset_A: 193967.0
+weight (mg): 1835867
+referenceUnit: 0.3971895424836601
+read time (s): 1.665
+Tamb: 24.0
+set_offset_A: 194005.493
+weight (mg): 1835996
+referenceUnit: 0.39713453159041395
+read time (s): 1.718
+Tamb: 23.937
+set_offset_A: 194005.493
+weight (mg): 1835964
+referenceUnit: 0.39714651416122004
+read time (s): 1.68
+Tamb: 23.937
+set_offset_A: 194043.375
+weight (mg): 1835881
+referenceUnit: 0.3971279956427015
+read time (s): 1.659
+Tamb: 23.875
+set_offset_A: 194043.375
+weight (mg): 1835906
+referenceUnit: 0.39712745098039215
+read time (s): 1.648
+Tamb: 23.875
+set_offset_A: 194043.375
+weight (mg): 1835966
+referenceUnit: 0.3971296296296296
+read time (s): 1.728
+Tamb: 23.875
+set_offset_A: 194081.868
+weight (mg): 1835937
+referenceUnit: 0.3971013071895425
+read time (s): 1.633
+Tamb: 23.812
+set_offset_A: 194119.75
+weight (mg): 1836048
+referenceUnit: 0.3970697167755991
+read time (s): 1.625
+Tamb: 23.75
+set_offset_A: 194196.125
+weight (mg): 1836063
+referenceUnit: 0.3970397603485839
+read time (s): 1.632
+Tamb: 23.625
+set_offset_A: 194234.618
+weight (mg): 1835908
+referenceUnit: 0.397031045751634
+read time (s): 1.741
+Tamb: 23.562
+set_offset_A: 194196.125
+weight (mg): 1835977
+referenceUnit: 0.39704684095860565
+read time (s): 1.673
+Tamb: 23.625
+set_offset_A: 194196.125
+weight (mg): 1835992
+referenceUnit: 0.39705882352941174
+read time (s): 1.614
+Tamb: 23.625
+set_offset_A: 194234.618
+weight (mg): 1835963
+referenceUnit: 0.39703812636165575
+read time (s): 1.652
+Tamb: 23.562
+set_offset_A: 194234.618
+weight (mg): 1836011
+referenceUnit: 0.3970392156862745
+read time (s): 1.691
+Tamb: 23.562
+set_offset_A: 194272.5
+weight (mg): 1835936
+referenceUnit: 0.3970272331154684
+read time (s): 1.648
+Tamb: 23.5
+set_offset_A: 194272.5
+weight (mg): 1835981
+referenceUnit: 0.39703159041394337
+read time (s): 1.702
+Tamb: 23.5
+set_offset_A: 194310.993
+weight (mg): 1836005
+referenceUnit: 0.3969945533769063
+read time (s): 1.664
+Tamb: 23.437
+set_offset_A: 194348.875
+weight (mg): 1835988
+referenceUnit: 0.3969858387799564
+read time (s): 1.617
+Tamb: 23.375
+set_offset_A: 194348.875
+weight (mg): 1836008
+referenceUnit: 0.3969738562091503
+read time (s): 1.667
+Tamb: 23.375
+set_offset_A: 194387.368
+weight (mg): 1835951
+referenceUnit: 0.39696623093681915
+read time (s): 1.73
+Tamb: 23.312
+set_offset_A: 194348.875
+weight (mg): 1835877
+referenceUnit: 0.3970087145969499
+read time (s): 1.621
+Tamb: 23.375
+set_offset_A: 194463.743
+weight (mg): 1835986
+referenceUnit: 0.396921568627451
+read time (s): 1.638
+Tamb: 23.187
+set_offset_A: 194463.743
+weight (mg): 1836043
+referenceUnit: 0.39695969498910677
+read time (s): 1.75
+Tamb: 23.187
+set_offset_A: 194501.625
+weight (mg): 1835978
+referenceUnit: 0.39692647058823527
+read time (s): 1.675
+Tamb: 23.125
+set_offset_A: 194501.625
+weight (mg): 1835976
+referenceUnit: 0.3969226579520697
+read time (s): 1.716
+Tamb: 23.125
+set_offset_A: 194540.118
+weight (mg): 1836010
+referenceUnit: 0.39690849673202616
+read time (s): 1.654
+Tamb: 23.062
+set_offset_A: 194540.118
+weight (mg): 1835962
+referenceUnit: 0.39692755991285406
+read time (s): 1.598
+Tamb: 23.062
+set_offset_A: 194578.0
+weight (mg): 1835967
+referenceUnit: 0.3969079520697168
+read time (s): 1.656
+Tamb: 23.0
+set_offset_A: 194578.0
+weight (mg): 1836050
+referenceUnit: 0.39690686274509807
+read time (s): 1.714
+Tamb: 23.0
+set_offset_A: 194616.493
+weight (mg): 1836034
+referenceUnit: 0.39688834422657954
+read time (s): 1.674
+Tamb: 22.937
+set_offset_A: 194616.493
+weight (mg): 1836006
+referenceUnit: 0.3969095860566449
+read time (s): 1.687
+Tamb: 22.937
+set_offset_A: 194654.375
+weight (mg): 1835918
+referenceUnit: 0.3969057734204793
+read time (s): 1.673
+Tamb: 22.875
+set_offset_A: 194692.868
+weight (mg): 1835990
+referenceUnit: 0.3968976034858388
+read time (s): 1.675
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1836134
+referenceUnit: 0.39775054466230936
+read time (s): 1.691
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1835960
+referenceUnit: 0.39774727668845317
+read time (s): 1.684
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1835965
+referenceUnit: 0.39771840958605664
+read time (s): 1.67
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1836058
+referenceUnit: 0.39768464052287583
+read time (s): 1.74
+Tamb: 22.812
+set_offset_A: 194730.75
+weight (mg): 1835983
+referenceUnit: 0.39764923747276687
+read time (s): 1.711
+Tamb: 22.75
+set_offset_A: 194807.125
+weight (mg): 1835883
+referenceUnit: 0.4023540305010893
+read time (s): 1.646
+Tamb: 22.625
+set_offset_A: 194845.618
+weight (mg): 1835941
+referenceUnit: 0.4019771241830065
+read time (s): 1.613
+Tamb: 22.562
+set_offset_A: 194959.875
+weight (mg): 1835953
+referenceUnit: 0.4018523965141612
+read time (s): 1.694
+Tamb: 22.375
+set_offset_A: 194959.875
+weight (mg): 1836005
+referenceUnit: 0.40181971677559913
+read time (s): 1.675
+Tamb: 22.375
+set_offset_A: 194921.993
+weight (mg): 1836062
+referenceUnit: 0.4017532679738562
+read time (s): 1.668
+Tamb: 22.437
+set_offset_A: 194921.993
+weight (mg): 1835965
+referenceUnit: 0.4016998910675381
+read time (s): 1.632
+Tamb: 22.437
+set_offset_A: 194883.5
+weight (mg): 1835954
+referenceUnit: 0.40168191721132895
+read time (s): 1.66
+Tamb: 22.5
+set_offset_A: 194883.5
+weight (mg): 1835899
+referenceUnit: 0.4016350762527233
+read time (s): 1.681
+Tamb: 22.5
+set_offset_A: 194845.618
+weight (mg): 1835991
+referenceUnit: 0.4015860566448802
+read time (s): 1.687
+Tamb: 22.562
+set_offset_A: 194845.618
+weight (mg): 1835984
+referenceUnit: 0.40154084967320264
+read time (s): 1.7
+Tamb: 22.562
+set_offset_A: 194845.618
+weight (mg): 1836013
+referenceUnit: 0.40148856209150324
+read time (s): 1.612
+Tamb: 22.562
+set_offset_A: 194845.618
+weight (mg): 1836056
+referenceUnit: 0.4014389978213508
+read time (s): 1.721
+Tamb: 22.562
+set_offset_A: 194807.125
+weight (mg): 1836007
+referenceUnit: 0.4014313725490196
+read time (s): 1.642
+Tamb: 22.625
+set_offset_A: 194845.618
+weight (mg): 1836031
+referenceUnit: 0.40138997821350764
+read time (s): 1.643
+Tamb: 22.562
+set_offset_A: 194807.125
+weight (mg): 1836017
+referenceUnit: 0.4013714596949891
+read time (s): 1.655
+Tamb: 22.625
+set_offset_A: 194807.125
+weight (mg): 1836000
+referenceUnit: 0.40132843137254903
+read time (s): 1.754
+Tamb: 22.625
+set_offset_A: 194807.125
+weight (mg): 1835985
+referenceUnit: 0.40130392156862743
+read time (s): 1.667
+Tamb: 22.625
+set_offset_A: 194769.243
+weight (mg): 1836044
+referenceUnit: 0.40126960784313725
+read time (s): 1.665
+Tamb: 22.687
+set_offset_A: 194730.75
+weight (mg): 1836058
+referenceUnit: 0.40126416122004355
+read time (s): 1.665
+Tamb: 22.75
+set_offset_A: 194730.75
+weight (mg): 1835928
+referenceUnit: 0.40123583877995644
+read time (s): 1.665
+Tamb: 22.75
+set_offset_A: 194692.868
+weight (mg): 1835938
+referenceUnit: 0.4012156862745098
+read time (s): 1.733
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1835948
+referenceUnit: 0.40119498910675383
+read time (s): 1.639
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1835978
+referenceUnit: 0.4011644880174292
+read time (s): 1.679
+Tamb: 22.812
+set_offset_A: 194654.375
+weight (mg): 1836019
+referenceUnit: 0.4011443355119826
+read time (s): 1.727
+Tamb: 22.875
+set_offset_A: 194654.375
+weight (mg): 1836007
+referenceUnit: 0.4011356209150327
+read time (s): 1.689
+Tamb: 22.875
+set_offset_A: 194578.0
+weight (mg): 1836010
+referenceUnit: 0.4011884531590414
+read time (s): 1.628
+Tamb: 23.0
+set_offset_A: 194616.493
+weight (mg): 1835959
+referenceUnit: 0.4011437908496732
+read time (s): 1.748
+Tamb: 22.937
+set_offset_A: 194578.0
+weight (mg): 1836025
+referenceUnit: 0.4011546840958606
+read time (s): 1.681
+Tamb: 23.0
+set_offset_A: 194578.0
+weight (mg): 1836045
+referenceUnit: 0.4011132897603486
+read time (s): 1.683
+Tamb: 23.0
+set_offset_A: 194540.118
+weight (mg): 1835960
+referenceUnit: 0.4011454248366013
+read time (s): 1.719
+Tamb: 23.062
+set_offset_A: 194501.625
+weight (mg): 1835991
+referenceUnit: 0.4011530501089325
+read time (s): 1.665
+Tamb: 23.125
+set_offset_A: 194501.625
+weight (mg): 1835969
+referenceUnit: 0.4011165577342048
+read time (s): 1.619
+Tamb: 23.125
+set_offset_A: 194463.743
+weight (mg): 1835981
+referenceUnit: 0.4011220043572985
+read time (s): 1.741
+Tamb: 23.187
+set_offset_A: 194463.743
+weight (mg): 1835983
+referenceUnit: 0.4011105664488017
+read time (s): 1.647
+Tamb: 23.187
+set_offset_A: 194425.25
+weight (mg): 1835895
+referenceUnit: 0.4011279956427015
+read time (s): 1.664
+Tamb: 23.25
+set_offset_A: 194387.368
+weight (mg): 1835934
+referenceUnit: 0.4011105664488017
+read time (s): 1.665
+Tamb: 23.312
+set_offset_A: 194348.875
+weight (mg): 1835998
+referenceUnit: 0.4011089324618736
+read time (s): 1.672
+Tamb: 23.375
+set_offset_A: 194348.875
+weight (mg): 1835968
+referenceUnit: 0.4011013071895425
+read time (s): 1.739
+Tamb: 23.375
+set_offset_A: 194348.875
+weight (mg): 1836045
+referenceUnit: 0.4010664488017429
+read time (s): 1.718
+Tamb: 23.375
+set_offset_A: 194272.5
+weight (mg): 1835994
+referenceUnit: 0.40109368191721134
+read time (s): 1.688
+Tamb: 23.5
+set_offset_A: 194272.5
+weight (mg): 1836044
+referenceUnit: 0.4010490196078431
+read time (s): 1.656
+Tamb: 23.5
+set_offset_A: 194272.5
+weight (mg): 1835971
+referenceUnit: 0.4010664488017429
+read time (s): 1.683
+Tamb: 23.5
+set_offset_A: 194234.618
+weight (mg): 1836046
+referenceUnit: 0.40105718954248365
+read time (s): 1.724
+Tamb: 23.562
+set_offset_A: 194234.618
+weight (mg): 1835976
+referenceUnit: 0.40103540305010893
+read time (s): 1.653
+Tamb: 23.562
+set_offset_A: 194196.125
+weight (mg): 1836002
+referenceUnit: 0.4010223311546841
+read time (s): 1.67
+Tamb: 23.625
+set_offset_A: 194119.75
+weight (mg): 1835896
+referenceUnit: 0.40105555555555555
+read time (s): 1.674
+Tamb: 23.75
+set_offset_A: 194043.375
+weight (mg): 1836131
+referenceUnit: 0.40104193899782137
+read time (s): 1.662
+Tamb: 23.875
+set_offset_A: 193967.0
+weight (mg): 1835988
+referenceUnit: 0.4010669934640523
+read time (s): 1.687
+Tamb: 24.0
+set_offset_A: 193967.0
+weight (mg): 1835935
+referenceUnit: 0.40103050108932464
+read time (s): 1.725
+Tamb: 24.0
+set_offset_A: 193852.743
+weight (mg): 1835911
+referenceUnit: 0.40109531590413944
+read time (s): 1.648
+Tamb: 24.187
+set_offset_A: 193776.368
+weight (mg): 1836014
+referenceUnit: 0.40106917211328974
+read time (s): 1.647
+Tamb: 24.312
+set_offset_A: 193699.993
+weight (mg): 1835970
+referenceUnit: 0.40108169934640525
+read time (s): 1.623
+Tamb: 24.437
+set_offset_A: 193623.618
+weight (mg): 1836008
+referenceUnit: 0.4010925925925926
+read time (s): 1.672
+Tamb: 24.562
+set_offset_A: 193547.243
+weight (mg): 1835935
+referenceUnit: 0.4010800653594771
+read time (s): 1.682
+Tamb: 24.687
+set_offset_A: 193432.375
+weight (mg): 1836059
+referenceUnit: 0.4010811546840959
+read time (s): 1.65
+Tamb: 24.875
+set_offset_A: 193318.118
+weight (mg): 1835947
+referenceUnit: 0.40108169934640525
+read time (s): 1.654
+Tamb: 25.062
+set_offset_A: 193241.743
+weight (mg): 1835951
+referenceUnit: 0.4010544662309368
+read time (s): 1.625
+Tamb: 25.187
+set_offset_A: 193126.875
+weight (mg): 1836015
+referenceUnit: 0.40103540305010893
+read time (s): 1.731
+Tamb: 25.375
+set_offset_A: 193012.618
+weight (mg): 1835946
+referenceUnit: 0.40100762527233114
+read time (s): 1.638
+Tamb: 25.562
+set_offset_A: 192897.75
+weight (mg): 1835996
+referenceUnit: 0.40100272331154685
+read time (s): 1.693
+Tamb: 25.75
+set_offset_A: 192745.0
+weight (mg): 1836005
+referenceUnit: 0.4009918300653595
+read time (s): 1.613
+Tamb: 26.0
+set_offset_A: 192668.625
+weight (mg): 1836003
+referenceUnit: 0.40093572984749454
+read time (s): 1.613
+Tamb: 26.125
+set_offset_A: 192554.368
+weight (mg): 1835989
+referenceUnit: 0.40091503267973855
+read time (s): 1.658
+Tamb: 26.312
+set_offset_A: 192477.993
+weight (mg): 1835958
+referenceUnit: 0.4008888888888889
+read time (s): 1.675
+Tamb: 26.437
+set_offset_A: 192363.125
+weight (mg): 1836012
+referenceUnit: 0.40088071895424837
+read time (s): 1.669
+Tamb: 26.625
+set_offset_A: 192286.75
+weight (mg): 1836100
+referenceUnit: 0.40085729847494556
+read time (s): 1.636
+Tamb: 26.75
+set_offset_A: 192210.375
+weight (mg): 1835989
+referenceUnit: 0.40086220043572984
+read time (s): 1.676
+Tamb: 26.875
+set_offset_A: 192096.118
+weight (mg): 1836042
+referenceUnit: 0.40085729847494556
+read time (s): 1.663
+Tamb: 27.062
+set_offset_A: 191981.25
+weight (mg): 1836092
+referenceUnit: 0.40085729847494556
+read time (s): 1.622
+Tamb: 27.25
+set_offset_A: 191981.25
+weight (mg): 1835969
+referenceUnit: 0.40083986928104576
+read time (s): 1.682
+Tamb: 27.25
+set_offset_A: 191828.5
+weight (mg): 1835896
+referenceUnit: 0.4008867102396514
+read time (s): 1.639
+Tamb: 27.5
+set_offset_A: 191752.125
+weight (mg): 1836037
+referenceUnit: 0.40086220043572984
+read time (s): 1.657
+Tamb: 27.625
+set_offset_A: 191714.243
+weight (mg): 1835937
+referenceUnit: 0.40087581699346403
+read time (s): 1.661
+Tamb: 27.687
+set_offset_A: 191637.868
+weight (mg): 1836000
+referenceUnit: 0.40084858387799566
+read time (s): 1.642
+Tamb: 27.812
+set_offset_A: 191675.75
+weight (mg): 1836001
+referenceUnit: 0.40080501089324616
+read time (s): 1.601
+Tamb: 27.75
+set_offset_A: 191561.493
+weight (mg): 1835981
+referenceUnit: 0.40085348583877994
+read time (s): 1.694
+Tamb: 27.937
+set_offset_A: 191446.625
+weight (mg): 1836116
+referenceUnit: 0.4008480392156863
+read time (s): 1.636
+Tamb: 28.125
+set_offset_A: 191485.118
+weight (mg): 1835905
+referenceUnit: 0.40083823529411766
+read time (s): 1.642
+Tamb: 28.062
+set_offset_A: 191446.625
+weight (mg): 1835971
+referenceUnit: 0.4007979302832244
+read time (s): 1.739
+Tamb: 28.125
+set_offset_A: 191370.25
+weight (mg): 1836029
+referenceUnit: 0.4008376906318083
+read time (s): 1.642
+Tamb: 28.25
+set_offset_A: 191293.875
+weight (mg): 1836038
+referenceUnit: 0.40080174291938997
+read time (s): 1.658
+Tamb: 28.375
+set_offset_A: 191293.875
+weight (mg): 1836013
+referenceUnit: 0.40080228758169933
+read time (s): 1.63
+Tamb: 28.375
+set_offset_A: 191255.993
+weight (mg): 1836120
+referenceUnit: 0.40075381263616555
+read time (s): 1.691
+Tamb: 28.437
+set_offset_A: 191179.618
+weight (mg): 1835881
+referenceUnit: 0.40077124183006535
+read time (s): 1.658
+Tamb: 28.562
+set_offset_A: 191179.618
+weight (mg): 1835969
+referenceUnit: 0.40076633986928106
+read time (s): 1.625
+Tamb: 28.562
+set_offset_A: 191179.618
+weight (mg): 1835894
+referenceUnit: 0.4007309368191721
+read time (s): 1.678
+Tamb: 28.562
+set_offset_A: 191103.243
+weight (mg): 1836019
+referenceUnit: 0.4007058823529412
+read time (s): 1.722
+Tamb: 28.687
+set_offset_A: 191141.125
+weight (mg): 1836055
+referenceUnit: 0.4007031590413943
+read time (s): 1.686
+Tamb: 28.625
+set_offset_A: 191141.125
+weight (mg): 1836005
+referenceUnit: 0.40066993464052286
+read time (s): 1.643
+Tamb: 28.625
+set_offset_A: 191141.125
+weight (mg): 1835902
+referenceUnit: 0.4006791938997821
+read time (s): 1.676
+Tamb: 28.625
+set_offset_A: 191141.125
+weight (mg): 1835875
+referenceUnit: 0.4006791938997821
+read time (s): 1.661
+Tamb: 28.625
+set_offset_A: 191103.243
+weight (mg): 1835805
+referenceUnit: 0.4006868191721133
+read time (s): 1.617
+Tamb: 28.687
+set_offset_A: 191103.243
+weight (mg): 1835922
+referenceUnit: 0.40066993464052286
+read time (s): 1.59
+Tamb: 28.687
+set_offset_A: 191064.75
+weight (mg): 1836133
+referenceUnit: 0.4006247276688453
+read time (s): 1.673
+Tamb: 28.75
+set_offset_A: 191064.75
+weight (mg): 1836003
+referenceUnit: 0.400599128540305
+read time (s): 1.676
+Tamb: 28.75
+set_offset_A: 191064.75
+weight (mg): 1835941
+referenceUnit: 0.4006427015250545
+read time (s): 1.669
+Tamb: 28.75
+set_offset_A: 191064.75
+weight (mg): 1835938
+referenceUnit: 0.4006383442265795
+read time (s): 1.644
+Tamb: 28.75
+set_offset_A: 191026.868
+weight (mg): 1835960
+referenceUnit: 0.4006721132897603
+read time (s): 1.617
+Tamb: 28.812
+set_offset_A: 191026.868
+weight (mg): 1836008
+referenceUnit: 0.400619825708061
+read time (s): 1.671
+Tamb: 28.812
+set_offset_A: 191064.75
+weight (mg): 1836028
+referenceUnit: 0.40064814814814814
+read time (s): 1.706
+Tamb: 28.75
+set_offset_A: 191026.868
+weight (mg): 1835995
+referenceUnit: 0.4006563180827887
+read time (s): 1.679
+Tamb: 28.812
+set_offset_A: 190988.375
+weight (mg): 1835919
+referenceUnit: 0.4006470588235294
+read time (s): 1.668
+Tamb: 28.875
+set_offset_A: 190988.375
+weight (mg): 1835972
+referenceUnit: 0.40070370370370373
+read time (s): 1.667
+Tamb: 28.875
+set_offset_A: 190950.493
+weight (mg): 1836046
+referenceUnit: 0.40073039215686274
+read time (s): 1.732
+Tamb: 28.937
+set_offset_A: 190912.0
+weight (mg): 1835985
+referenceUnit: 0.40074618736383444
+read time (s): 1.711
+Tamb: 29.0
+set_offset_A: 190874.118
+weight (mg): 1835905
+referenceUnit: 0.40076089324618736
+read time (s): 1.601
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835967
+referenceUnit: 0.40076089324618736
+read time (s): 1.68
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835922
+referenceUnit: 0.40072984749455337
+read time (s): 1.658
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835920
+referenceUnit: 0.40073148148148147
+read time (s): 1.652
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835937
+referenceUnit: 0.4006269063180828
+read time (s): 1.618
+Tamb: 29.062
+set_offset_A: 190874.118
+weight (mg): 1835900
+referenceUnit: 0.4006928104575163
+read time (s): 1.67
+Tamb: 29.062
+set_offset_A: 190835.625
+weight (mg): 1835981
+referenceUnit: 0.400687908496732
+read time (s): 1.637
+Tamb: 29.125
+set_offset_A: 190835.625
+weight (mg): 1836048
+referenceUnit: 0.40063779956427015
+read time (s): 1.682
+Tamb: 29.125
+set_offset_A: 190835.625
+weight (mg): 1835966
+referenceUnit: 0.4006367102396514
+read time (s): 1.641
+Tamb: 29.125
+set_offset_A: 190835.625
+weight (mg): 1835983
+referenceUnit: 0.4005653594771242
+read time (s): 1.68
+Tamb: 29.125
+set_offset_A: 190797.743
+weight (mg): 1835973
+referenceUnit: 0.40059531590413944
+read time (s): 1.634
+Tamb: 29.187
+set_offset_A: 190797.743
+weight (mg): 1836086
+referenceUnit: 0.4005811546840959
+read time (s): 1.689
+Tamb: 29.187
+set_offset_A: 190797.743
+weight (mg): 1836018
+referenceUnit: 0.4005490196078431
+read time (s): 1.64
+Tamb: 29.187
+set_offset_A: 190797.743
+weight (mg): 1836001
+referenceUnit: 0.4005185185185185
+read time (s): 1.67
+Tamb: 29.187
+set_offset_A: 190797.743
+weight (mg): 1835991
+referenceUnit: 0.4004978213507625
+read time (s): 1.614
+Tamb: 29.187
+set_offset_A: 190797.743
+weight (mg): 1835966
+referenceUnit: 0.4004564270152505
+read time (s): 1.595
+Tamb: 29.187
+set_offset_A: 190797.743
+weight (mg): 1835973
+referenceUnit: 0.4004210239651416
+read time (s): 1.668
+Tamb: 29.187
+set_offset_A: 190950.493
+weight (mg): 1835996
+referenceUnit: 0.4045947712418301
+read time (s): 1.728
+Tamb: 28.937
+set_offset_A: 190912.0
+weight (mg): 1835960
+referenceUnit: 0.4034210239651416
+read time (s): 1.709
+Tamb: 29.0
+set_offset_A: 190912.0
+weight (mg): 1836060
+referenceUnit: 0.4032794117647059
+read time (s): 1.69
+Tamb: 29.0
+set_offset_A: 190912.0
+weight (mg): 1835943
+referenceUnit: 0.4032102396514161
+read time (s): 1.659
+Tamb: 29.0
+set_offset_A: 190950.493
+weight (mg): 1835964
+referenceUnit: 0.4031252723311547
+read time (s): 1.724
+Tamb: 28.937
+set_offset_A: 190988.375
+weight (mg): 1836019
+referenceUnit: 0.40303485838779957
+read time (s): 1.714
+Tamb: 28.875
+set_offset_A: 190988.375
+weight (mg): 1836044
+referenceUnit: 0.4029787581699346
+read time (s): 1.624
+Tamb: 28.875
+set_offset_A: 190988.375
+weight (mg): 1836059
+referenceUnit: 0.40290468409586055
+read time (s): 1.652
+Tamb: 28.875
+set_offset_A: 191026.868
+weight (mg): 1836047
+referenceUnit: 0.40282244008714596
+read time (s): 1.694
+Tamb: 28.812
+set_offset_A: 191026.868
+weight (mg): 1836080
+referenceUnit: 0.4027788671023965
+read time (s): 1.594
+Tamb: 28.812
+set_offset_A: 191064.75
+weight (mg): 1835961
+referenceUnit: 0.4027222222222222
+read time (s): 1.736
+Tamb: 28.75
+set_offset_A: 191103.243
+weight (mg): 1836044
+referenceUnit: 0.4026296296296296
+read time (s): 1.692
+Tamb: 28.687
+set_offset_A: 191103.243
+weight (mg): 1836052
+referenceUnit: 0.40258769063180827
+read time (s): 1.647
+Tamb: 28.687
+set_offset_A: 191141.125
+weight (mg): 1835955
+referenceUnit: 0.4025054466230937
+read time (s): 1.616
+Tamb: 28.625
+set_offset_A: 191179.618
+weight (mg): 1835976
+referenceUnit: 0.40243736383442263
+read time (s): 1.678
+Tamb: 28.562
+set_offset_A: 191217.5
+weight (mg): 1835986
+referenceUnit: 0.4023529411764706
+read time (s): 1.651
+Tamb: 28.5
+set_offset_A: 191255.993
+weight (mg): 1835920
+referenceUnit: 0.40228867102396515
+read time (s): 1.645
+Tamb: 28.437
+set_offset_A: 191255.993
+weight (mg): 1835935
+referenceUnit: 0.4022657952069717
+read time (s): 1.667
+Tamb: 28.437
+set_offset_A: 191293.875
+weight (mg): 1835891
+referenceUnit: 0.4022124183006536
+read time (s): 1.662
+Tamb: 28.375
+set_offset_A: 191293.875
+weight (mg): 1835933
+referenceUnit: 0.4021938997821351
+read time (s): 1.669
+Tamb: 28.375
+set_offset_A: 191293.875
+weight (mg): 1835973
+referenceUnit: 0.4021781045751634
+read time (s): 1.695
+Tamb: 28.375
+set_offset_A: 191255.993
+weight (mg): 1835868
+referenceUnit: 0.40215849673202614
+read time (s): 1.676
+Tamb: 28.437
+set_offset_A: 191255.993
+weight (mg): 1836030
+referenceUnit: 0.4021149237472767
+read time (s): 1.615
+Tamb: 28.437
+set_offset_A: 191293.875
+weight (mg): 1835896
+referenceUnit: 0.40207298474945535
+read time (s): 1.713
+Tamb: 28.375
+set_offset_A: 191255.993
+weight (mg): 1835938
+referenceUnit: 0.40203376906318083
+read time (s): 1.713
+Tamb: 28.437
+set_offset_A: 191293.875
+weight (mg): 1835891
+referenceUnit: 0.40196623093681916
+read time (s): 1.705
+Tamb: 28.375
+set_offset_A: 191332.368
+weight (mg): 1835984
+referenceUnit: 0.40189869281045754
+read time (s): 1.617
+Tamb: 28.312
+set_offset_A: 191293.875
+weight (mg): 1835913
+referenceUnit: 0.4019052287581699
+read time (s): 1.631
+Tamb: 28.375
+set_offset_A: 191332.368
+weight (mg): 1835954
+referenceUnit: 0.4018703703703704
+read time (s): 1.735
+Tamb: 28.312
+set_offset_A: 191332.368
+weight (mg): 1835964
+referenceUnit: 0.40186220043572984
+read time (s): 1.616
+Tamb: 28.312
+set_offset_A: 191332.368
+weight (mg): 1835989
+referenceUnit: 0.40188398692810456
+read time (s): 1.658
+Tamb: 28.312
+set_offset_A: 191408.743
+weight (mg): 1836006
+referenceUnit: 0.40185729847494556
+read time (s): 1.706
+Tamb: 28.187
+set_offset_A: 191408.743
+weight (mg): 1836088
+referenceUnit: 0.4018523965141612
+read time (s): 1.647
+Tamb: 28.187
+set_offset_A: 191446.625
+weight (mg): 1835961
+referenceUnit: 0.40183823529411766
+read time (s): 1.602
+Tamb: 28.125
+set_offset_A: 191485.118
+weight (mg): 1835937
+referenceUnit: 0.40181045751633987
+read time (s): 1.676
+Tamb: 28.062
+set_offset_A: 191485.118
+weight (mg): 1835945
+referenceUnit: 0.40180610021786495
+read time (s): 1.648
+Tamb: 28.062
+set_offset_A: 191523.0
+weight (mg): 1835903
+referenceUnit: 0.4017734204793028
+read time (s): 1.622
+Tamb: 28.0
+set_offset_A: 191561.493
+weight (mg): 1836054
+referenceUnit: 0.4017222222222222
+read time (s): 1.624
+Tamb: 27.937
+set_offset_A: 191599.375
+weight (mg): 1836019
+referenceUnit: 0.40169771241830066
+read time (s): 1.73
+Tamb: 27.875
+set_offset_A: 191599.375
+weight (mg): 1835957
+referenceUnit: 0.4016917211328976
+read time (s): 1.612
+Tamb: 27.875
+set_offset_A: 191675.75
+weight (mg): 1835859
+referenceUnit: 0.4016367102396514
+read time (s): 1.717
+Tamb: 27.75
+set_offset_A: 191675.75
+weight (mg): 1836021
+referenceUnit: 0.4016192810457516
+read time (s): 1.735
+Tamb: 27.75
+set_offset_A: 191714.243
+weight (mg): 1835972
+referenceUnit: 0.4015947712418301
+read time (s): 1.643
+Tamb: 27.687
+set_offset_A: 191752.125
+weight (mg): 1836030
+referenceUnit: 0.40158496732026144
+read time (s): 1.689
+Tamb: 27.625
+set_offset_A: 191790.618
+weight (mg): 1836006
+referenceUnit: 0.4015299564270153
+read time (s): 1.776
+Tamb: 27.562
+set_offset_A: 191866.993
+weight (mg): 1835973
+referenceUnit: 0.40148529411764705
+read time (s): 1.719
+Tamb: 27.437
+set_offset_A: 191866.993
+weight (mg): 1836017
+referenceUnit: 0.4014842047930283
+read time (s): 1.728
+Tamb: 27.437
+set_offset_A: 191943.368
+weight (mg): 1835929
+referenceUnit: 0.40143572984749454
+read time (s): 1.634
+Tamb: 27.312
+set_offset_A: 191943.368
+weight (mg): 1835997
+referenceUnit: 0.401417211328976
+read time (s): 1.674
+Tamb: 27.312
+set_offset_A: 191981.25
+weight (mg): 1835964
+referenceUnit: 0.4013992374727669
+read time (s): 1.656
+Tamb: 27.25
+set_offset_A: 192019.743
+weight (mg): 1835956
+referenceUnit: 0.401359477124183
+read time (s): 1.672
+Tamb: 27.187
+set_offset_A: 192096.118
+weight (mg): 1835932
+referenceUnit: 0.4013131808278867
+read time (s): 1.685
+Tamb: 27.062
+set_offset_A: 192096.118
+weight (mg): 1835937
+referenceUnit: 0.4013066448801743
+read time (s): 1.631
+Tamb: 27.062
+set_offset_A: 192134.0
+weight (mg): 1835993
+referenceUnit: 0.4012739651416122
+read time (s): 1.662
+Tamb: 27.0
+set_offset_A: 192210.375
+weight (mg): 1836007
+referenceUnit: 0.40122113289760347
+read time (s): 1.653
+Tamb: 26.875
+set_offset_A: 192210.375
+weight (mg): 1835939
+referenceUnit: 0.40123420479302835
+read time (s): 1.665
+Tamb: 26.875
+set_offset_A: 192286.75
+weight (mg): 1835948
+referenceUnit: 0.4011797385620915
+read time (s): 1.638
+Tamb: 26.75
+set_offset_A: 192325.243
+weight (mg): 1835969
+referenceUnit: 0.40116176470588233
+read time (s): 1.671
+Tamb: 26.687
+set_offset_A: 192325.243
+weight (mg): 1836014
+referenceUnit: 0.4011399782135076
+read time (s): 1.612
+Tamb: 26.687
+set_offset_A: 192363.125
+weight (mg): 1835932
+referenceUnit: 0.4011312636165577
+read time (s): 1.699
+Tamb: 26.625
+set_offset_A: 192439.5
+weight (mg): 1835902
+referenceUnit: 0.40106753812636164
+read time (s): 1.641
+Tamb: 26.5
+set_offset_A: 192439.5
+weight (mg): 1835946
+referenceUnit: 0.4010664488017429
+read time (s): 1.592
+Tamb: 26.5
+set_offset_A: 192515.875
+weight (mg): 1836005
+referenceUnit: 0.4010168845315904
+read time (s): 1.698
+Tamb: 26.375
+set_offset_A: 192515.875
+weight (mg): 1836053
+referenceUnit: 0.40099727668845314
+read time (s): 1.683
+Tamb: 26.375
+set_offset_A: 192554.368
+weight (mg): 1835917
+referenceUnit: 0.4010049019607843
+read time (s): 1.679
+Tamb: 26.312
+set_offset_A: 192554.368
+weight (mg): 1836054
+referenceUnit: 0.4009842047930283
+read time (s): 1.624
+Tamb: 26.312
+set_offset_A: 192592.25
+weight (mg): 1835942
+referenceUnit: 0.4009569716775599
+read time (s): 1.734
+Tamb: 26.25
+set_offset_A: 192592.25
+weight (mg): 1836057
+referenceUnit: 0.40093082788671025
+read time (s): 1.655
+Tamb: 26.25
+set_offset_A: 192630.743
+weight (mg): 1835844
+referenceUnit: 0.40093681917211327
+read time (s): 1.68
+Tamb: 26.187
+set_offset_A: 192668.625
+weight (mg): 1835946
+referenceUnit: 0.40089651416122
+read time (s): 1.592
+Tamb: 26.125
+set_offset_A: 192707.118
+weight (mg): 1835932
+referenceUnit: 0.4008703703703704
+read time (s): 1.706
+Tamb: 26.062
+set_offset_A: 192783.493
+weight (mg): 1836089
+referenceUnit: 0.40081372549019606
+read time (s): 1.673
+Tamb: 25.937
+set_offset_A: 192821.375
+weight (mg): 1836044
+referenceUnit: 0.4007805010893246
+read time (s): 1.637
+Tamb: 25.875
+set_offset_A: 192821.375
+weight (mg): 1835942
+referenceUnit: 0.4007892156862745
+read time (s): 1.699
+Tamb: 25.875
+set_offset_A: 192859.868
+weight (mg): 1836028
+referenceUnit: 0.40075054466230936
+read time (s): 1.687
+Tamb: 25.812
+set_offset_A: 192897.75
+weight (mg): 1835813
+referenceUnit: 0.4007570806100218
+read time (s): 1.638
+Tamb: 25.75
+set_offset_A: 192936.243
+weight (mg): 1836004
+referenceUnit: 0.4007015250544662
+read time (s): 1.686
+Tamb: 25.687
+set_offset_A: 192936.243
+weight (mg): 1836032
+referenceUnit: 0.40067864923747276
+read time (s): 1.686
+Tamb: 25.687
+set_offset_A: 192974.125
+weight (mg): 1836055
+referenceUnit: 0.4006541394335512
+read time (s): 1.595
+Tamb: 25.625
+set_offset_A: 192974.125
+weight (mg): 1835940
+referenceUnit: 0.4006470588235294
+read time (s): 1.721
+Tamb: 25.625
+set_offset_A: 192974.125
+weight (mg): 1835855
+referenceUnit: 0.40064324618736386
+read time (s): 1.642
+Tamb: 25.625
+set_offset_A: 192974.125
+weight (mg): 1836105
+referenceUnit: 0.4005925925925926
+read time (s): 1.679
+Tamb: 25.625
+set_offset_A: 193012.618
+weight (mg): 1836058
+referenceUnit: 0.4005686274509804
+read time (s): 1.715
+Tamb: 25.562
+set_offset_A: 193012.618
+weight (mg): 1835973
+referenceUnit: 0.40057026143790847
+read time (s): 1.659
+Tamb: 25.562
+set_offset_A: 193050.5
+weight (mg): 1835901
+referenceUnit: 0.400541394335512
+read time (s): 1.702
+Tamb: 25.5
+set_offset_A: 193050.5
+weight (mg): 1835971
+referenceUnit: 0.40051742919389977
+read time (s): 1.681
+Tamb: 25.5
+set_offset_A: 193050.5
+weight (mg): 1835996
+referenceUnit: 0.40050980392156865
+read time (s): 1.637
+Tamb: 25.5
+set_offset_A: 193088.993
+weight (mg): 1835963
+referenceUnit: 0.4004929193899782
+read time (s): 1.689
+Tamb: 25.437
+set_offset_A: 193088.993
+weight (mg): 1835898
+referenceUnit: 0.4004918300653595
+read time (s): 1.654
+Tamb: 25.437
+set_offset_A: 193088.993
+weight (mg): 1836040
+referenceUnit: 0.4004673202614379
+read time (s): 1.66
+Tamb: 25.437
+set_offset_A: 193165.368
+weight (mg): 1836012
+referenceUnit: 0.40042211328976035
+read time (s): 1.65
+Tamb: 25.312
+set_offset_A: 193165.368
+weight (mg): 1836049
+referenceUnit: 0.40041176470588236
+read time (s): 1.68
+Tamb: 25.312
+set_offset_A: 193203.25
+weight (mg): 1835972
+referenceUnit: 0.40040740740740743
+read time (s): 1.681
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1835929
+referenceUnit: 0.4003888888888889
+read time (s): 1.62
+Tamb: 25.25
+set_offset_A: 193241.743
+weight (mg): 1836031
+referenceUnit: 0.400369825708061
+read time (s): 1.714
+Tamb: 25.187
+set_offset_A: 193279.625
+weight (mg): 1835909
+referenceUnit: 0.40034694989106756
+read time (s): 1.635
+Tamb: 25.125
+set_offset_A: 193279.625
+weight (mg): 1836011
+referenceUnit: 0.40032407407407405
+read time (s): 1.601
+Tamb: 25.125
+set_offset_A: 193356.0
+weight (mg): 1836057
+referenceUnit: 0.4002881263616558
+read time (s): 1.643
+Tamb: 25.0
+set_offset_A: 193394.493
+weight (mg): 1836026
+referenceUnit: 0.4002674291938998
+read time (s): 1.656
+Tamb: 24.937
+set_offset_A: 193356.0
+weight (mg): 1835928
+referenceUnit: 0.4002941176470588
+read time (s): 1.677
+Tamb: 25.0
+set_offset_A: 193394.493
+weight (mg): 1835984
+referenceUnit: 0.4002657952069717
+read time (s): 1.705
+Tamb: 24.937
+set_offset_A: 193394.493
+weight (mg): 1836056
+referenceUnit: 0.40025054466230936
+read time (s): 1.64
+Tamb: 24.937
+set_offset_A: 193470.868
+weight (mg): 1835900
+referenceUnit: 0.4002429193899782
+read time (s): 1.668
+Tamb: 24.812
+set_offset_A: 193508.75
+weight (mg): 1835921
+referenceUnit: 0.4002069716775599
+read time (s): 1.654
+Tamb: 24.75
+set_offset_A: 193508.75
+weight (mg): 1836008
+referenceUnit: 0.40020370370370373
+read time (s): 1.622
+Tamb: 24.75
+set_offset_A: 193547.243
+weight (mg): 1835962
+referenceUnit: 0.40019934640522875
+read time (s): 1.717
+Tamb: 24.687
+set_offset_A: 193585.125
+weight (mg): 1835970
+referenceUnit: 0.4001704793028322
+read time (s): 1.69
+Tamb: 24.625
+set_offset_A: 193585.125
+weight (mg): 1835940
+referenceUnit: 0.40016122004357296
+read time (s): 1.677
+Tamb: 24.625
+set_offset_A: 193623.618
+weight (mg): 1836126
+referenceUnit: 0.4001111111111111
+read time (s): 1.684
+Tamb: 24.562
+set_offset_A: 193661.5
+weight (mg): 1836059
+referenceUnit: 0.40011546840958606
+read time (s): 1.697
+Tamb: 24.5
+set_offset_A: 193699.993
+weight (mg): 1835993
+referenceUnit: 0.4001078431372549
+read time (s): 1.626
+Tamb: 24.437
+set_offset_A: 193699.993
+weight (mg): 1835970
+referenceUnit: 0.4001029411764706
+read time (s): 1.661
+Tamb: 24.437
+set_offset_A: 193737.875
+weight (mg): 1836008
+referenceUnit: 0.40008660130718954
+read time (s): 1.613
+Tamb: 24.375
+set_offset_A: 193776.368
+weight (mg): 1835939
+referenceUnit: 0.4000664488017429
+read time (s): 1.75
+Tamb: 24.312
+set_offset_A: 193814.25
+weight (mg): 1836014
+referenceUnit: 0.40004411764705883
+read time (s): 1.638
+Tamb: 24.25
+set_offset_A: 193852.743
+weight (mg): 1836018
+referenceUnit: 0.40003322440087147
+read time (s): 1.697
+Tamb: 24.187
+set_offset_A: 193852.743
+weight (mg): 1835933
+referenceUnit: 0.4000375816993464
+read time (s): 1.661
+Tamb: 24.187
+set_offset_A: 193890.625
+weight (mg): 1836006
+referenceUnit: 0.4000125272331155
+read time (s): 1.648
+Tamb: 24.125
+set_offset_A: 193929.118
+weight (mg): 1836002
+referenceUnit: 0.3999945533769063
+read time (s): 1.648
+Tamb: 24.062
+set_offset_A: 193967.0
+weight (mg): 1835905
+referenceUnit: 0.3999874727668845
+read time (s): 1.665
+Tamb: 24.0
+set_offset_A: 193967.0
+weight (mg): 1835995
+referenceUnit: 0.39997821350762525
+read time (s): 1.746
+Tamb: 24.0
+set_offset_A: 194043.375
+weight (mg): 1836069
+referenceUnit: 0.399931917211329
+read time (s): 1.649
+Tamb: 23.875
+set_offset_A: 194043.375
+weight (mg): 1835894
+referenceUnit: 0.3999553376906318
+read time (s): 1.711
+Tamb: 23.875
+set_offset_A: 194081.868
+weight (mg): 1836038
+referenceUnit: 0.39992647058823527
+read time (s): 1.721
+Tamb: 23.812
+set_offset_A: 194119.75
+weight (mg): 1835943
+referenceUnit: 0.3999041394335512
+read time (s): 1.655
+Tamb: 23.75
+set_offset_A: 194119.75
+weight (mg): 1836023
+referenceUnit: 0.39989106753812637
+read time (s): 1.696
+Tamb: 23.75
+set_offset_A: 194158.243
+weight (mg): 1836024
+referenceUnit: 0.3998769063180828
+read time (s): 1.667
+Tamb: 23.687
+set_offset_A: 194196.125
+weight (mg): 1836022
+referenceUnit: 0.3998671023965142
+read time (s): 1.645
+Tamb: 23.625
+set_offset_A: 194234.618
+weight (mg): 1836053
+referenceUnit: 0.3998425925925926
+read time (s): 1.713
+Tamb: 23.562
+set_offset_A: 194234.618
+weight (mg): 1836013
+referenceUnit: 0.39985185185185185
+read time (s): 1.703
+Tamb: 23.562
+set_offset_A: 194272.5
+weight (mg): 1835986
+referenceUnit: 0.39982135076252723
+read time (s): 1.716
+Tamb: 23.5
+set_offset_A: 194310.993
+weight (mg): 1835927
+referenceUnit: 0.3998186274509804
+read time (s): 1.638
+Tamb: 23.437
+set_offset_A: 194348.875
+weight (mg): 1836030
+referenceUnit: 0.3997837690631808
+read time (s): 1.717
+Tamb: 23.375
+set_offset_A: 194387.368
+weight (mg): 1836042
+referenceUnit: 0.39977287581699344
+read time (s): 1.605
+Tamb: 23.312
+set_offset_A: 194387.368
+weight (mg): 1836017
+referenceUnit: 0.3997772331154684
+read time (s): 1.625
+Tamb: 23.312
+set_offset_A: 194425.25
+weight (mg): 1835894
+referenceUnit: 0.39979030501089324
+read time (s): 1.736
+Tamb: 23.25
+set_offset_A: 194425.25
+weight (mg): 1835864
+referenceUnit: 0.3997924836601307
+read time (s): 1.61
+Tamb: 23.25
+set_offset_A: 194463.743
+weight (mg): 1836018
+referenceUnit: 0.3997429193899782
+read time (s): 1.656
+Tamb: 23.187
+set_offset_A: 194501.625
+weight (mg): 1836023
+referenceUnit: 0.39974891067538126
+read time (s): 1.722
+Tamb: 23.125
+set_offset_A: 194540.118
+weight (mg): 1836015
+referenceUnit: 0.39974727668845317
+read time (s): 1.681
+Tamb: 23.062
+set_offset_A: 194578.0
+weight (mg): 1835992
+referenceUnit: 0.39975381263616555
+read time (s): 1.657
+Tamb: 23.0
+set_offset_A: 194616.493
+weight (mg): 1835961
+referenceUnit: 0.39972875816993464
+read time (s): 1.717
+Tamb: 22.937
+set_offset_A: 194616.493
+weight (mg): 1835961
+referenceUnit: 0.3997276688453159
+read time (s): 1.647
+Tamb: 22.937
+set_offset_A: 194692.868
+weight (mg): 1835953
+referenceUnit: 0.39969335511982573
+read time (s): 1.661
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1835965
+referenceUnit: 0.39970315904139436
+read time (s): 1.641
+Tamb: 22.812
+set_offset_A: 194730.75
+weight (mg): 1835923
+referenceUnit: 0.39972331154684093
+read time (s): 1.661
+Tamb: 22.75
+set_offset_A: 194769.243
+weight (mg): 1835984
+referenceUnit: 0.3997069716775599
+read time (s): 1.667
+Tamb: 22.687
+set_offset_A: 194807.125
+weight (mg): 1836067
+referenceUnit: 0.3996868191721133
+read time (s): 1.713
+Tamb: 22.625
+set_offset_A: 194845.618
+weight (mg): 1835913
+referenceUnit: 0.399687908496732
+read time (s): 1.676
+Tamb: 22.562
+set_offset_A: 194921.993
+weight (mg): 1836033
+referenceUnit: 0.3996427015250545
+read time (s): 1.653
+Tamb: 22.437
+set_offset_A: 194959.875
+weight (mg): 1836040
+referenceUnit: 0.3996089324618736
+read time (s): 1.712
+Tamb: 22.375
+set_offset_A: 194959.875
+weight (mg): 1836033
+referenceUnit: 0.3996045751633987
+read time (s): 1.71
+Tamb: 22.375
+set_offset_A: 194998.368
+weight (mg): 1835999
+referenceUnit: 0.39956917211328974
+read time (s): 1.626
+Tamb: 22.312
+set_offset_A: 194998.368
+weight (mg): 1835952
+referenceUnit: 0.399588779956427
+read time (s): 1.617
+Tamb: 22.312
+set_offset_A: 195036.25
+weight (mg): 1835892
+referenceUnit: 0.39957026143790847
+read time (s): 1.729
+Tamb: 22.25
+set_offset_A: 195036.25
+weight (mg): 1836112
+referenceUnit: 0.3995501089324619
+read time (s): 1.647
+Tamb: 22.25
+set_offset_A: 195074.743
+weight (mg): 1835991
+referenceUnit: 0.3995446623093682
+read time (s): 1.653
+Tamb: 22.187
+set_offset_A: 195112.625
+weight (mg): 1836043
+referenceUnit: 0.3995141612200436
+read time (s): 1.685
+Tamb: 22.125
+set_offset_A: 195112.625
+weight (mg): 1835973
+referenceUnit: 0.399510348583878
+read time (s): 1.611
+Tamb: 22.125
+set_offset_A: 195151.118
+weight (mg): 1836090
+referenceUnit: 0.39949564270152504
+read time (s): 1.71
+Tamb: 22.062
+set_offset_A: 195151.118
+weight (mg): 1835940
+referenceUnit: 0.39950871459694987
+read time (s): 1.646
+Tamb: 22.062
+set_offset_A: 195151.118
+weight (mg): 1835942
+referenceUnit: 0.3995141612200436
+read time (s): 1.688
+Tamb: 22.062
+set_offset_A: 195189.0
+weight (mg): 1835937
+referenceUnit: 0.39949727668845314
+read time (s): 1.637
+Tamb: 22.0
+set_offset_A: 195227.493
+weight (mg): 1835871
+referenceUnit: 0.3994934640522876
+read time (s): 1.679
+Tamb: 21.937
+set_offset_A: 195265.375
+weight (mg): 1836069
+referenceUnit: 0.39944281045751634
+read time (s): 1.721
+Tamb: 21.875
+set_offset_A: 195265.375
+weight (mg): 1836022
+referenceUnit: 0.3994651416122004
+read time (s): 1.703
+Tamb: 21.875
+set_offset_A: 195265.375
+weight (mg): 1835921
+referenceUnit: 0.39947058823529413
+read time (s): 1.681
+Tamb: 21.875
+set_offset_A: 195265.375
+weight (mg): 1835969
+referenceUnit: 0.39946132897603487
+read time (s): 1.671
+Tamb: 21.875
+set_offset_A: 195265.375
+weight (mg): 1835984
+referenceUnit: 0.39946132897603487
+read time (s): 1.661
+Tamb: 21.875
+set_offset_A: 195303.868
+weight (mg): 1835995
+referenceUnit: 0.3994488017429194
+read time (s): 1.639
+Tamb: 21.812
+set_offset_A: 195303.868
+weight (mg): 1835945
+referenceUnit: 0.39944281045751634
+read time (s): 1.612
+Tamb: 21.812
+set_offset_A: 195303.868
+weight (mg): 1836171
+referenceUnit: 0.39939596949891065
+read time (s): 1.693
+Tamb: 21.812
+set_offset_A: 195341.75
+weight (mg): 1836028
+referenceUnit: 0.3994155773420479
+read time (s): 1.69
+Tamb: 21.75
+set_offset_A: 195303.868
+weight (mg): 1835915
+referenceUnit: 0.3994493464052288
+read time (s): 1.693
+Tamb: 21.812
+set_offset_A: 195341.75
+weight (mg): 1835948
+referenceUnit: 0.3994297385620915
+read time (s): 1.605
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1836021
+referenceUnit: 0.3994106753812636
+read time (s): 1.706
+Tamb: 21.75
+set_offset_A: 195380.243
+weight (mg): 1836052
+referenceUnit: 0.39939814814814817
+read time (s): 1.702
+Tamb: 21.687
+set_offset_A: 195341.75
+weight (mg): 1836041
+referenceUnit: 0.399406862745098
+read time (s): 1.703
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1836053
+referenceUnit: 0.3994106753812636
+read time (s): 1.609
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1835948
+referenceUnit: 0.3994286492374728
+read time (s): 1.717
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1835941
+referenceUnit: 0.3994183006535948
+read time (s): 1.725
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1835978
+referenceUnit: 0.3994183006535948
+read time (s): 1.624
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1836121
+referenceUnit: 0.3993888888888889
+read time (s): 1.737
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1835958
+referenceUnit: 0.3993954248366013
+read time (s): 1.661
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1836018
+referenceUnit: 0.3993954248366013
+read time (s): 1.661
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1836023
+referenceUnit: 0.3993834422657952
+read time (s): 1.662
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1835958
+referenceUnit: 0.39936492374727667
+read time (s): 1.734
+Tamb: 21.75
+set_offset_A: 195303.868
+weight (mg): 1836065
+referenceUnit: 0.3993665577342048
+read time (s): 1.671
+Tamb: 21.812
+set_offset_A: 195303.868
+weight (mg): 1836018
+referenceUnit: 0.39935348583877994
+read time (s): 1.671
+Tamb: 21.812
+set_offset_A: 195303.868
+weight (mg): 1836045
+referenceUnit: 0.3993540305010893
+read time (s): 1.657
+Tamb: 21.812
+set_offset_A: 195265.375
+weight (mg): 1835946
+referenceUnit: 0.39937200435729847
+read time (s): 1.683
+Tamb: 21.875
+set_offset_A: 195265.375
+weight (mg): 1836037
+referenceUnit: 0.39932679738562094
+read time (s): 1.75
+Tamb: 21.875
+set_offset_A: 195265.375
+weight (mg): 1836009
+referenceUnit: 0.3993202614379085
+read time (s): 1.633
+Tamb: 21.875
+set_offset_A: 195227.493
+weight (mg): 1836011
+referenceUnit: 0.3993360566448802
+read time (s): 1.671
+Tamb: 21.937
+set_offset_A: 195227.493
+weight (mg): 1836024
+referenceUnit: 0.3993202614379085
+read time (s): 1.69
+Tamb: 21.937
+set_offset_A: 195189.0
+weight (mg): 1836018
+referenceUnit: 0.3993099128540305
+read time (s): 1.727
+Tamb: 22.0
+set_offset_A: 195151.118
+weight (mg): 1835982
+referenceUnit: 0.39931753812636167
+read time (s): 1.663
+Tamb: 22.062
+set_offset_A: 195112.625
+weight (mg): 1835906
+referenceUnit: 0.3993360566448802
+read time (s): 1.691
+Tamb: 22.125
+set_offset_A: 195112.625
+weight (mg): 1835951
+referenceUnit: 0.3993425925925926
+read time (s): 1.71
+Tamb: 22.125
+set_offset_A: 195112.625
+weight (mg): 1836054
+referenceUnit: 0.39931808278867104
+read time (s): 1.67
+Tamb: 22.125
+set_offset_A: 195074.743
+weight (mg): 1836011
+referenceUnit: 0.39931209150326796
+read time (s): 1.685
+Tamb: 22.187
+set_offset_A: 195074.743
+weight (mg): 1835921
+referenceUnit: 0.39930936819172114
+read time (s): 1.695
+Tamb: 22.187
+set_offset_A: 195074.743
+weight (mg): 1836001
+referenceUnit: 0.39931045751633987
+read time (s): 1.635
+Tamb: 22.187
+set_offset_A: 195074.743
+weight (mg): 1835916
+referenceUnit: 0.39935348583877994
+read time (s): 1.747
+Tamb: 22.187
+set_offset_A: 195036.25
+weight (mg): 1836027
+referenceUnit: 0.3993436819172113
+read time (s): 1.651
+Tamb: 22.25
+set_offset_A: 195036.25
+weight (mg): 1835997
+referenceUnit: 0.3993159041394336
+read time (s): 1.652
+Tamb: 22.25
+set_offset_A: 194998.368
+weight (mg): 1836099
+referenceUnit: 0.39930882352941177
+read time (s): 1.632
+Tamb: 22.312
+set_offset_A: 194959.875
+weight (mg): 1835965
+referenceUnit: 0.3993349673202614
+read time (s): 1.674
+Tamb: 22.375
+set_offset_A: 194883.5
+weight (mg): 1836091
+referenceUnit: 0.39931808278867104
+read time (s): 1.723
+Tamb: 22.5
+set_offset_A: 194883.5
+weight (mg): 1835919
+referenceUnit: 0.3993257080610022
+read time (s): 1.684
+Tamb: 22.5
+set_offset_A: 194845.618
+weight (mg): 1835986
+referenceUnit: 0.39934477124183004
+read time (s): 1.627
+Tamb: 22.562
+set_offset_A: 194807.125
+weight (mg): 1835972
+referenceUnit: 0.3993289760348584
+read time (s): 1.751
+Tamb: 22.625
+set_offset_A: 194769.243
+weight (mg): 1835949
+referenceUnit: 0.39935348583877994
+read time (s): 1.663
+Tamb: 22.687
+set_offset_A: 194730.75
+weight (mg): 1836001
+referenceUnit: 0.39935348583877994
+read time (s): 1.652
+Tamb: 22.75
+set_offset_A: 194654.375
+weight (mg): 1836024
+referenceUnit: 0.3993480392156863
+read time (s): 1.621
+Tamb: 22.875
+set_offset_A: 194616.493
+weight (mg): 1835949
+referenceUnit: 0.3993611111111111
+read time (s): 1.662
+Tamb: 22.937
+set_offset_A: 194540.118
+weight (mg): 1836007
+referenceUnit: 0.3993611111111111
+read time (s): 1.686
+Tamb: 23.062
+set_offset_A: 194463.743
+weight (mg): 1835941
+referenceUnit: 0.3993850762527233
+read time (s): 1.692
+Tamb: 23.187
+set_offset_A: 194387.368
+weight (mg): 1836034
+referenceUnit: 0.39938943355119827
+read time (s): 1.663
+Tamb: 23.312
+set_offset_A: 194272.5
+weight (mg): 1835994
+referenceUnit: 0.39942701525054464
+read time (s): 1.606
+Tamb: 23.5
+set_offset_A: 194158.243
+weight (mg): 1835889
+referenceUnit: 0.3994624183006536
+read time (s): 1.697
+Tamb: 23.687
+set_offset_A: 194005.493
+weight (mg): 1836031
+referenceUnit: 0.39948529411764705
+read time (s): 1.645
+Tamb: 23.937
+set_offset_A: 193890.625
+weight (mg): 1835911
+referenceUnit: 0.3995168845315904
+read time (s): 1.652
+Tamb: 24.125
+set_offset_A: 193814.25
+weight (mg): 1836034
+referenceUnit: 0.39947494553376905
+read time (s): 1.675
+Tamb: 24.25
+set_offset_A: 193737.875
+weight (mg): 1835955
+referenceUnit: 0.3994694989106754
+read time (s): 1.687
+Tamb: 24.375
+set_offset_A: 193623.618
+weight (mg): 1835973
+referenceUnit: 0.3994624183006536
+read time (s): 1.684
+Tamb: 24.562
+set_offset_A: 193508.75
+weight (mg): 1835923
+referenceUnit: 0.39948910675381266
+read time (s): 1.707
+Tamb: 24.75
+set_offset_A: 193394.493
+weight (mg): 1835916
+referenceUnit: 0.3994874727668845
+read time (s): 1.644
+Tamb: 24.937
+set_offset_A: 193279.625
+weight (mg): 1835968
+referenceUnit: 0.3994814814814815
+read time (s): 1.62
+Tamb: 25.125
+set_offset_A: 193165.368
+weight (mg): 1835886
+referenceUnit: 0.3994667755991285
+read time (s): 1.65
+Tamb: 25.312
+set_offset_A: 193088.993
+weight (mg): 1836050
+referenceUnit: 0.3994259259259259
+read time (s): 1.71
+Tamb: 25.437
+set_offset_A: 192974.125
+weight (mg): 1835970
+referenceUnit: 0.39944389978213507
+read time (s): 1.658
+Tamb: 25.625
+set_offset_A: 192897.75
+weight (mg): 1835910
+referenceUnit: 0.3994297385620915
+read time (s): 1.631
+Tamb: 25.75
+set_offset_A: 192745.0
+weight (mg): 1835992
+referenceUnit: 0.39943954248366015
+read time (s): 1.74
+Tamb: 26.0
+set_offset_A: 192668.625
+weight (mg): 1835968
+referenceUnit: 0.39943572984749454
+read time (s): 1.641
+Tamb: 26.125
+set_offset_A: 192554.368
+weight (mg): 1835954
+referenceUnit: 0.3994580610021786
+read time (s): 1.704
+Tamb: 26.312
+set_offset_A: 192477.993
+weight (mg): 1835932
+referenceUnit: 0.39947331154684096
+read time (s): 1.691
+Tamb: 26.437
+set_offset_A: 192401.618
+weight (mg): 1835971
+referenceUnit: 0.39947222222222223
+read time (s): 1.687
+Tamb: 26.562
+set_offset_A: 192325.243
+weight (mg): 1836014
+referenceUnit: 0.39945261437908497
+read time (s): 1.699
+Tamb: 26.687
+set_offset_A: 192286.75
+weight (mg): 1836018
+referenceUnit: 0.39943409586056644
+read time (s): 1.676
+Tamb: 26.75
+set_offset_A: 192210.375
+weight (mg): 1835974
+referenceUnit: 0.39945751633986926
+read time (s): 1.676
+Tamb: 26.875
+set_offset_A: 192172.493
+weight (mg): 1835994
+referenceUnit: 0.3994384531590414
+read time (s): 1.721
+Tamb: 26.937
+set_offset_A: 192096.118
+weight (mg): 1835912
+referenceUnit: 0.39946132897603487
+read time (s): 1.734
+Tamb: 27.062
+set_offset_A: 192019.743
+weight (mg): 1835958
+referenceUnit: 0.3994449891067538
+read time (s): 1.688
+Tamb: 27.187
+set_offset_A: 191904.875
+weight (mg): 1835928
+referenceUnit: 0.399489651416122
+read time (s): 1.671
+Tamb: 27.375
+set_offset_A: 191904.875
+weight (mg): 1836005
+referenceUnit: 0.39944117647058824
+read time (s): 1.648
+Tamb: 27.375
+set_offset_A: 191904.875
+weight (mg): 1835990
+referenceUnit: 0.3994694989106754
+read time (s): 1.734
+Tamb: 27.375
+set_offset_A: 191866.993
+weight (mg): 1836028
+referenceUnit: 0.3994760348583878
+read time (s): 1.699
+Tamb: 27.437
+set_offset_A: 191866.993
+weight (mg): 1835995
+referenceUnit: 0.3994400871459695
+read time (s): 1.642
+Tamb: 27.437
+set_offset_A: 191828.5
+weight (mg): 1836036
+referenceUnit: 0.3994281045751634
+read time (s): 1.655
+Tamb: 27.5
+set_offset_A: 191752.125
+weight (mg): 1835992
+referenceUnit: 0.39945315904139433
+read time (s): 1.647
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835982
+referenceUnit: 0.3994384531590414
+read time (s): 1.709
+Tamb: 27.625
+set_offset_A: 191714.243
+weight (mg): 1835944
+referenceUnit: 0.39943681917211327
+read time (s): 1.701
+Tamb: 27.687
+set_offset_A: 191675.75
+weight (mg): 1835908
+referenceUnit: 0.3994286492374728
+read time (s): 1.666
+Tamb: 27.75
+set_offset_A: 191714.243
+weight (mg): 1835942
+referenceUnit: 0.3993932461873638
+read time (s): 1.641
+Tamb: 27.687
+set_offset_A: 191714.243
+weight (mg): 1836044
+referenceUnit: 0.3993671023965142
+read time (s): 1.656
+Tamb: 27.687
+set_offset_A: 191752.125
+weight (mg): 1836000
+referenceUnit: 0.3993687363834423
+read time (s): 1.638
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1836007
+referenceUnit: 0.39933714596949893
+read time (s): 1.631
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835990
+referenceUnit: 0.39934313725490195
+read time (s): 1.694
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1836060
+referenceUnit: 0.3993556644880174
+read time (s): 1.61
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835864
+referenceUnit: 0.3993643790849673
+read time (s): 1.725
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835980
+referenceUnit: 0.39932625272331157
+read time (s): 1.677
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1836020
+referenceUnit: 0.3993442265795207
+read time (s): 1.657
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835950
+referenceUnit: 0.39933823529411766
+read time (s): 1.689
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835842
+referenceUnit: 0.3993316993464052
+read time (s): 1.626
+Tamb: 27.625
+set_offset_A: 191790.618
+weight (mg): 1835981
+referenceUnit: 0.3993131808278867
+read time (s): 1.705
+Tamb: 27.562
+set_offset_A: 191752.125
+weight (mg): 1835955
+referenceUnit: 0.3993300653594771
+read time (s): 1.633
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835972
+referenceUnit: 0.39932625272331157
+read time (s): 1.666
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1835930
+referenceUnit: 0.39930882352941177
+read time (s): 1.684
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1836047
+referenceUnit: 0.39929466230936816
+read time (s): 1.721
+Tamb: 27.625
+set_offset_A: 191752.125
+weight (mg): 1836087
+referenceUnit: 0.3992875816993464
+read time (s): 1.634
+Tamb: 27.625
+set_offset_A: 191714.243
+weight (mg): 1835934
+referenceUnit: 0.39930936819172114
+read time (s): 1.628
+Tamb: 27.687
+set_offset_A: 191714.243
+weight (mg): 1835889
+referenceUnit: 0.3992467320261438
+read time (s): 1.619
+Tamb: 27.687
+set_offset_A: 191637.868
+weight (mg): 1835945
+referenceUnit: 0.39924727668845317
+read time (s): 1.695
+Tamb: 27.812
+set_offset_A: 191637.868
+weight (mg): 1835973
+referenceUnit: 0.3992145969498911
+read time (s): 1.675
+Tamb: 27.812
+set_offset_A: 191637.868
+weight (mg): 1836058
+referenceUnit: 0.39917265795206974
+read time (s): 1.651
+Tamb: 27.812
+set_offset_A: 191637.868
+weight (mg): 1835908
+referenceUnit: 0.3991797385620915
+read time (s): 1.631
+Tamb: 27.812
+set_offset_A: 191599.375
+weight (mg): 1836104
+referenceUnit: 0.3991704793028322
+read time (s): 1.686
+Tamb: 27.875
+set_offset_A: 191637.868
+weight (mg): 1836003
+referenceUnit: 0.39914488017429195
+read time (s): 1.674
+Tamb: 27.812
+set_offset_A: 191637.868
+weight (mg): 1835970
+referenceUnit: 0.39913779956427015
+read time (s): 1.695
+Tamb: 27.812
+set_offset_A: 191599.375
+weight (mg): 1836062
+referenceUnit: 0.39914651416122005
+read time (s): 1.737
+Tamb: 27.875
+set_offset_A: 191599.375
+weight (mg): 1836017
+referenceUnit: 0.399130174291939
+read time (s): 1.729
+Tamb: 27.875
+set_offset_A: 191561.493
+weight (mg): 1835891
+referenceUnit: 0.39916884531590413
+read time (s): 1.71
+Tamb: 27.937
+set_offset_A: 191561.493
+weight (mg): 1836056
+referenceUnit: 0.3991470588235294
+read time (s): 1.689
+Tamb: 27.937
+set_offset_A: 191561.493
+weight (mg): 1835924
+referenceUnit: 0.39917592592592593
+read time (s): 1.66
+Tamb: 27.937
+set_offset_A: 191561.493
+weight (mg): 1836016
+referenceUnit: 0.39915196078431375
+read time (s): 1.718
+Tamb: 27.937
+set_offset_A: 191599.375
+weight (mg): 1835994
+referenceUnit: 0.39917701525054466
+read time (s): 1.685
+Tamb: 27.875
+set_offset_A: 191637.868
+weight (mg): 1835955
+referenceUnit: 0.3991650326797386
+read time (s): 1.706
+Tamb: 27.812
+set_offset_A: 191637.868
+weight (mg): 1835938
+referenceUnit: 0.3991677559912854
+read time (s): 1.63
+Tamb: 27.812
+set_offset_A: 191675.75
+weight (mg): 1835951
+referenceUnit: 0.3991650326797386
+read time (s): 1.648
+Tamb: 27.75
+set_offset_A: 191637.868
+weight (mg): 1836106
+referenceUnit: 0.3991606753812636
+read time (s): 1.682
+Tamb: 27.812
+set_offset_A: 191714.243
+weight (mg): 1835969
+referenceUnit: 0.3991089324618736
+read time (s): 1.701
+Tamb: 27.687
+set_offset_A: 191675.75
+weight (mg): 1836001
+referenceUnit: 0.39915359477124185
+read time (s): 1.629
+Tamb: 27.75
+set_offset_A: 191714.243
+weight (mg): 1835992
+referenceUnit: 0.39911002178649235
+read time (s): 1.641
+Tamb: 27.687
+set_offset_A: 191752.125
+weight (mg): 1836015
+referenceUnit: 0.3991072984749455
+read time (s): 1.656
+Tamb: 27.625
+set_offset_A: 191714.243
+weight (mg): 1835964
+referenceUnit: 0.39912037037037035
+read time (s): 1.693
+Tamb: 27.687
+set_offset_A: 191714.243
+weight (mg): 1835982
+referenceUnit: 0.39912418300653596
+read time (s): 1.639
+Tamb: 27.687
+set_offset_A: 191790.618
+weight (mg): 1836059
+referenceUnit: 0.39908660130718954
+read time (s): 1.687
+Tamb: 27.562
+set_offset_A: 191790.618
+weight (mg): 1836039
+referenceUnit: 0.39910566448801743
+read time (s): 1.656
+Tamb: 27.562
+set_offset_A: 191828.5
+weight (mg): 1835929
+referenceUnit: 0.3991209150326797
+read time (s): 1.649
+Tamb: 27.5
+set_offset_A: 191904.875
+weight (mg): 1836040
+referenceUnit: 0.3991018518518519
+read time (s): 1.747
+Tamb: 27.375
+set_offset_A: 191904.875
+weight (mg): 1836053
+referenceUnit: 0.39910511982570807
+read time (s): 1.666
+Tamb: 27.375
+set_offset_A: 191981.25
+weight (mg): 1836095
+referenceUnit: 0.39909803921568626
+read time (s): 1.68
+Tamb: 27.25
+set_offset_A: 192019.743
+weight (mg): 1836008
+referenceUnit: 0.39911710239651416
+read time (s): 1.721
+Tamb: 27.187
+set_offset_A: 192057.625
+weight (mg): 1835986
+referenceUnit: 0.39912745098039215
+read time (s): 1.659
+Tamb: 27.125
+set_offset_A: 192057.625
+weight (mg): 1835981
+referenceUnit: 0.3991546840958606
+read time (s): 1.618
+Tamb: 27.125
+set_offset_A: 192096.118
+weight (mg): 1835977
+referenceUnit: 0.39915087145969497
+read time (s): 1.687
+Tamb: 27.062
+set_offset_A: 192134.0
+weight (mg): 1835882
+referenceUnit: 0.39914106753812634
+read time (s): 1.751
+Tamb: 27.0
+set_offset_A: 192172.493
+weight (mg): 1836046
+referenceUnit: 0.3991416122004357
+read time (s): 1.639
+Tamb: 26.937
+set_offset_A: 192172.493
+weight (mg): 1835999
+referenceUnit: 0.39915958605664487
+read time (s): 1.675
+Tamb: 26.937
+set_offset_A: 192248.868
+weight (mg): 1836086
+referenceUnit: 0.3991105664488017
+read time (s): 1.601
+Tamb: 26.812
+set_offset_A: 192210.375
+weight (mg): 1835964
+referenceUnit: 0.3991459694989107
+read time (s): 1.685
+Tamb: 26.875
+set_offset_A: 192248.868
+weight (mg): 1836075
+referenceUnit: 0.3991220043572985
+read time (s): 1.611
+Tamb: 26.812
+set_offset_A: 192325.243
+weight (mg): 1835962
+referenceUnit: 0.39908823529411763
+read time (s): 1.693
+Tamb: 26.687
+set_offset_A: 192325.243
+weight (mg): 1835937
+referenceUnit: 0.3991269063180828
+read time (s): 1.712
+Tamb: 26.687
+set_offset_A: 192363.125
+weight (mg): 1835967
+referenceUnit: 0.3991247276688453
+read time (s): 1.652
+Tamb: 26.625
+set_offset_A: 192401.618
+weight (mg): 1836016
+referenceUnit: 0.3991116557734205
+read time (s): 1.595
+Tamb: 26.562
+set_offset_A: 192477.993
+weight (mg): 1835965
+referenceUnit: 0.3991045751633987
+read time (s): 1.726
+Tamb: 26.437
+set_offset_A: 192515.875
+weight (mg): 1835930
+referenceUnit: 0.3991013071895425
+read time (s): 1.702
+Tamb: 26.375
+set_offset_A: 192515.875
+weight (mg): 1835905
+referenceUnit: 0.3990942265795207
+read time (s): 1.698
+Tamb: 26.375
+set_offset_A: 192554.368
+weight (mg): 1835934
+referenceUnit: 0.39908932461873636
+read time (s): 1.6
+Tamb: 26.312
+set_offset_A: 192592.25
+weight (mg): 1835937
+referenceUnit: 0.39907298474945535
+read time (s): 1.678
+Tamb: 26.25
+set_offset_A: 192592.25
+weight (mg): 1835997
+referenceUnit: 0.3990490196078431
+read time (s): 1.679
+Tamb: 26.25
+set_offset_A: 192630.743
+weight (mg): 1836001
+referenceUnit: 0.3990185185185185
+read time (s): 1.687
+Tamb: 26.187
+set_offset_A: 192668.625
+weight (mg): 1836044
+referenceUnit: 0.39900871459694986
+read time (s): 1.617
+Tamb: 26.125
+set_offset_A: 192668.625
+weight (mg): 1836089
+referenceUnit: 0.3990032679738562
+read time (s): 1.736
+Tamb: 26.125
+set_offset_A: 192707.118
+weight (mg): 1836035
+referenceUnit: 0.3989901960784314
+read time (s): 1.688
+Tamb: 26.062
+set_offset_A: 192745.0
+weight (mg): 1836085
+referenceUnit: 0.39895152505446624
+read time (s): 1.644
+Tamb: 26.0
+set_offset_A: 192783.493
+weight (mg): 1835921
+referenceUnit: 0.39895424836601306
+read time (s): 1.612
+Tamb: 25.937
+set_offset_A: 192821.375
+weight (mg): 1836069
+referenceUnit: 0.3989330065359477
+read time (s): 1.691
+Tamb: 25.875
+set_offset_A: 192897.75
+weight (mg): 1836071
+referenceUnit: 0.3988948801742919
+read time (s): 1.686
+Tamb: 25.75
+set_offset_A: 192936.243
+weight (mg): 1835954
+referenceUnit: 0.39890032679738563
+read time (s): 1.658
+Tamb: 25.687
+set_offset_A: 193012.618
+weight (mg): 1835971
+referenceUnit: 0.3988769063180828
+read time (s): 1.707
+Tamb: 25.562
+set_offset_A: 193088.993
+weight (mg): 1835985
+referenceUnit: 0.39888071895424837
+read time (s): 1.662
+Tamb: 25.437
+set_offset_A: 193126.875
+weight (mg): 1836103
+referenceUnit: 0.3988660130718954
+read time (s): 1.74
+Tamb: 25.375
+set_offset_A: 193203.25
+weight (mg): 1836075
+referenceUnit: 0.39882788671023967
+read time (s): 1.733
+Tamb: 25.25
+set_offset_A: 193356.0
+weight (mg): 1835862
+referenceUnit: 0.3987952069716776
+read time (s): 1.686
+Tamb: 25.0
+set_offset_A: 193432.375
+weight (mg): 1835914
+referenceUnit: 0.39879575163398695
+read time (s): 1.623
+Tamb: 24.875
+set_offset_A: 193508.75
+weight (mg): 1835948
+referenceUnit: 0.3987821350762527
+read time (s): 1.71
+Tamb: 24.75
+set_offset_A: 193547.243
+weight (mg): 1836090
+referenceUnit: 0.39875599128540307
+read time (s): 1.703
+Tamb: 24.687
+set_offset_A: 193547.243
+weight (mg): 1836040
+referenceUnit: 0.398760348583878
+read time (s): 1.753
+Tamb: 24.687
+set_offset_A: 193585.125
+weight (mg): 1835932
+referenceUnit: 0.39875925925925926
+read time (s): 1.658
+Tamb: 24.625
+set_offset_A: 193623.618
+weight (mg): 1836006
+referenceUnit: 0.3987309368191721
+read time (s): 1.666
+Tamb: 24.562
+set_offset_A: 193661.5
+weight (mg): 1835986
+referenceUnit: 0.3987244008714597
+read time (s): 1.691
+Tamb: 24.5
+set_offset_A: 193699.993
+weight (mg): 1835867
+referenceUnit: 0.39872167755991283
+read time (s): 1.738
+Tamb: 24.437
+set_offset_A: 193737.875
+weight (mg): 1836015
+referenceUnit: 0.3986917211328976
+read time (s): 1.683
+Tamb: 24.375
+set_offset_A: 193737.875
+weight (mg): 1835980
+referenceUnit: 0.3987178649237473
+read time (s): 1.645
+Tamb: 24.375
+set_offset_A: 193814.25
+weight (mg): 1836047
+referenceUnit: 0.3986710239651416
+read time (s): 1.621
+Tamb: 24.25
+set_offset_A: 193852.743
+weight (mg): 1836026
+referenceUnit: 0.3986617647058823
+read time (s): 1.6
+Tamb: 24.187
+set_offset_A: 193890.625
+weight (mg): 1835976
+referenceUnit: 0.3986590413943355
+read time (s): 1.674
+Tamb: 24.125
+set_offset_A: 193890.625
+weight (mg): 1835863
+referenceUnit: 0.3986808278867102
+read time (s): 1.672
+Tamb: 24.125
+set_offset_A: 193929.118
+weight (mg): 1835985
+referenceUnit: 0.39866122004357296
+read time (s): 1.688
+Tamb: 24.062
+set_offset_A: 193967.0
+weight (mg): 1836030
+referenceUnit: 0.3986372549019608
+read time (s): 1.621
+Tamb: 24.0
+set_offset_A: 193967.0
+weight (mg): 1835962
+referenceUnit: 0.39865196078431375
+read time (s): 1.723
+Tamb: 24.0
+set_offset_A: 194043.375
+weight (mg): 1835941
+referenceUnit: 0.39862908496732025
+read time (s): 1.636
+Tamb: 23.875
+set_offset_A: 194119.75
+weight (mg): 1835973
+referenceUnit: 0.3985915032679739
+read time (s): 1.684
+Tamb: 23.75
+set_offset_A: 194119.75
+weight (mg): 1835986
+referenceUnit: 0.39860239651416124
+read time (s): 1.729
+Tamb: 23.75
+set_offset_A: 194158.243
+weight (mg): 1836080
+referenceUnit: 0.3985757080610022
+read time (s): 1.721
+Tamb: 23.687
+set_offset_A: 194196.125
+weight (mg): 1836027
+referenceUnit: 0.39857897603485837
+read time (s): 1.694
+Tamb: 23.625
+set_offset_A: 194234.618
+weight (mg): 1835958
+referenceUnit: 0.39858496732026144
+read time (s): 1.651
+Tamb: 23.562
+set_offset_A: 194272.5
+weight (mg): 1835989
+referenceUnit: 0.39862418300653596
+read time (s): 1.744
+Tamb: 23.5
+set_offset_A: 194310.993
+weight (mg): 1836000
+referenceUnit: 0.39856427015250545
+read time (s): 1.666
+Tamb: 23.437
+set_offset_A: 194310.993
+weight (mg): 1835922
+referenceUnit: 0.39858605664488017
+read time (s): 1.684
+Tamb: 23.437
+set_offset_A: 194387.368
+weight (mg): 1836039
+referenceUnit: 0.3985430283224401
+read time (s): 1.713
+Tamb: 23.312
+set_offset_A: 194387.368
+weight (mg): 1835929
+referenceUnit: 0.3985533769063181
+read time (s): 1.648
+Tamb: 23.312
+set_offset_A: 194425.25
+weight (mg): 1836032
+referenceUnit: 0.3985299564270153
+read time (s): 1.68
+Tamb: 23.25
+set_offset_A: 194540.118
+weight (mg): 1836017
+referenceUnit: 0.3984901960784314
+read time (s): 1.726
+Tamb: 23.062
+set_offset_A: 194540.118
+weight (mg): 1836042
+referenceUnit: 0.3985092592592593
+read time (s): 1.701
+Tamb: 23.062
+set_offset_A: 194501.625
+weight (mg): 1836071
+referenceUnit: 0.398531045751634
+read time (s): 1.662
+Tamb: 23.125
+set_offset_A: 194578.0
+weight (mg): 1836000
+referenceUnit: 0.39850599128540304
+read time (s): 1.616
+Tamb: 23.0
+set_offset_A: 194578.0
+weight (mg): 1835997
+referenceUnit: 0.3985152505446623
+read time (s): 1.596
+Tamb: 23.0
+set_offset_A: 194616.493
+weight (mg): 1835954
+referenceUnit: 0.398520697167756
+read time (s): 1.69
+Tamb: 22.937
+set_offset_A: 194654.375
+weight (mg): 1836049
+referenceUnit: 0.3985
+read time (s): 1.736
+Tamb: 22.875
+set_offset_A: 194692.868
+weight (mg): 1835938
+referenceUnit: 0.3985005446623094
+read time (s): 1.644
+Tamb: 22.812
+set_offset_A: 194730.75
+weight (mg): 1835991
+referenceUnit: 0.39849237472766885
+read time (s): 1.661
+Tamb: 22.75
+set_offset_A: 194730.75
+weight (mg): 1836116
+referenceUnit: 0.3984776688453159
+read time (s): 1.596
+Tamb: 22.75
+set_offset_A: 194769.243
+weight (mg): 1835934
+referenceUnit: 0.3984847494553377
+read time (s): 1.662
+Tamb: 22.687
+set_offset_A: 194807.125
+weight (mg): 1835949
+referenceUnit: 0.3984967320261438
+read time (s): 1.703
+Tamb: 22.625
+set_offset_A: 194845.618
+weight (mg): 1835976
+referenceUnit: 0.39846296296296296
+read time (s): 1.668
+Tamb: 22.562
+set_offset_A: 194845.618
+weight (mg): 1835953
+referenceUnit: 0.39846840958605667
+read time (s): 1.625
+Tamb: 22.562
+set_offset_A: 194921.993
+weight (mg): 1836015
+referenceUnit: 0.3984493464052288
+read time (s): 1.687
+Tamb: 22.437
+set_offset_A: 194959.875
+weight (mg): 1836096
+referenceUnit: 0.39843082788671025
+read time (s): 1.678
+Tamb: 22.375
+set_offset_A: 194998.368
+weight (mg): 1836027
+referenceUnit: 0.3984139433551198
+read time (s): 1.687
+Tamb: 22.312
+set_offset_A: 195036.25
+weight (mg): 1836007
+referenceUnit: 0.39842919389978215
+read time (s): 1.606
+Tamb: 22.25
+set_offset_A: 195074.743
+weight (mg): 1835888
+referenceUnit: 0.39843518518518517
+read time (s): 1.714
+Tamb: 22.187
+set_offset_A: 195074.743
+weight (mg): 1836036
+referenceUnit: 0.39844389978213507
+read time (s): 1.656
+Tamb: 22.187
+set_offset_A: 195112.625
+weight (mg): 1836124
+referenceUnit: 0.3984144880174292
+read time (s): 1.679
+Tamb: 22.125
+set_offset_A: 195189.0
+weight (mg): 1835910
+referenceUnit: 0.39841339869281045
+read time (s): 1.632
+Tamb: 22.0
+set_offset_A: 195227.493
+weight (mg): 1836082
+referenceUnit: 0.398411220043573
+read time (s): 1.683
+Tamb: 21.937
+set_offset_A: 195265.375
+weight (mg): 1835994
+referenceUnit: 0.3984330065359477
+read time (s): 1.659
+Tamb: 21.875
+set_offset_A: 195303.868
+weight (mg): 1835943
+referenceUnit: 0.3984199346405229
+read time (s): 1.642
+Tamb: 21.812
+set_offset_A: 195341.75
+weight (mg): 1835973
+referenceUnit: 0.3984232026143791
+read time (s): 1.659
+Tamb: 21.75
+set_offset_A: 195380.243
+weight (mg): 1836070
+referenceUnit: 0.39840141612200436
+read time (s): 1.748
+Tamb: 21.687
+set_offset_A: 195418.125
+weight (mg): 1835965
+referenceUnit: 0.3983932461873638
+read time (s): 1.691
+Tamb: 21.625
+set_offset_A: 195456.618
+weight (mg): 1835835
+referenceUnit: 0.398400871459695
+read time (s): 1.709
+Tamb: 21.562
+set_offset_A: 195494.5
+weight (mg): 1836026
+referenceUnit: 0.39837254901960784
+read time (s): 1.643
+Tamb: 21.5
+set_offset_A: 195532.993
+weight (mg): 1835922
+referenceUnit: 0.39838235294117647
+read time (s): 1.678
+Tamb: 21.437
+set_offset_A: 195532.993
+weight (mg): 1836080
+referenceUnit: 0.39837254901960784
+read time (s): 1.654
+Tamb: 21.437
+set_offset_A: 195570.875
+weight (mg): 1835945
+referenceUnit: 0.3983954248366013
+read time (s): 1.721
+Tamb: 21.375
+set_offset_A: 195609.368
+weight (mg): 1835966
+referenceUnit: 0.3983834422657952
+read time (s): 1.711
+Tamb: 21.312
+set_offset_A: 195609.368
+weight (mg): 1836037
+referenceUnit: 0.39838126361655773
+read time (s): 1.621
+Tamb: 21.312
+set_offset_A: 195647.25
+weight (mg): 1836004
+referenceUnit: 0.3983643790849673
+read time (s): 1.627
+Tamb: 21.25
+set_offset_A: 195685.743
+weight (mg): 1835858
+referenceUnit: 0.39839161220043573
+read time (s): 1.739
+Tamb: 21.187
+set_offset_A: 195723.625
+weight (mg): 1835963
+referenceUnit: 0.3983627450980392
+read time (s): 1.661
+Tamb: 21.125
+set_offset_A: 195723.625
+weight (mg): 1835961
+referenceUnit: 0.3983540305010893
+read time (s): 1.7
+Tamb: 21.125
+set_offset_A: 195762.118
+weight (mg): 1835962
+referenceUnit: 0.39835021786492375
+read time (s): 1.64
+Tamb: 21.062
+set_offset_A: 195762.118
+weight (mg): 1835972
+referenceUnit: 0.39836056644880175
+read time (s): 1.673
+Tamb: 21.062
+set_offset_A: 195762.118
+weight (mg): 1835995
+referenceUnit: 0.3983643790849673
+read time (s): 1.712
+Tamb: 21.062
+set_offset_A: 195838.493
+weight (mg): 1835991
+referenceUnit: 0.39832788671023966
+read time (s): 1.694
+Tamb: 20.937
+set_offset_A: 195838.493
+weight (mg): 1836064
+referenceUnit: 0.39836383442265794
+read time (s): 1.636
+Tamb: 20.937
+set_offset_A: 195876.375
+weight (mg): 1836007
+referenceUnit: 0.39833551198257083
+read time (s): 1.685
+Tamb: 20.875
+set_offset_A: 195914.868
+weight (mg): 1835968
+referenceUnit: 0.39833823529411766
+read time (s): 1.655
+Tamb: 20.812
+set_offset_A: 195914.868
+weight (mg): 1835970
+referenceUnit: 0.3983507625272331
+read time (s): 1.742
+Tamb: 20.812
+set_offset_A: 195952.75
+weight (mg): 1835943
+referenceUnit: 0.3983562091503268
+read time (s): 1.673
+Tamb: 20.75
+set_offset_A: 195991.243
+weight (mg): 1836035
+referenceUnit: 0.39833278867102395
+read time (s): 1.686
+Tamb: 20.687
+set_offset_A: 196029.125
+weight (mg): 1836133
+referenceUnit: 0.3983300653594771
+read time (s): 1.699
+Tamb: 20.625
+set_offset_A: 196029.125
+weight (mg): 1835894
+referenceUnit: 0.3983578431372549
+read time (s): 1.63
+Tamb: 20.625
+set_offset_A: 196067.618
+weight (mg): 1835953
+referenceUnit: 0.39833986928104576
+read time (s): 1.661
+Tamb: 20.562
+set_offset_A: 196067.618
+weight (mg): 1835986
+referenceUnit: 0.3983496732026144
+read time (s): 1.698
+Tamb: 20.562
+set_offset_A: 196105.5
+weight (mg): 1836064
+referenceUnit: 0.3983300653594771
+read time (s): 1.634
+Tamb: 20.5
+set_offset_A: 196143.993
+weight (mg): 1836023
+referenceUnit: 0.3983235294117647
+read time (s): 1.68
+Tamb: 20.437
+set_offset_A: 196143.993
+weight (mg): 1836038
+referenceUnit: 0.3983523965141612
+read time (s): 1.721
+Tamb: 20.437
+set_offset_A: 196181.875
+weight (mg): 1835983
+referenceUnit: 0.39833442265795205
+read time (s): 1.677
+Tamb: 20.375
+set_offset_A: 196220.368
+weight (mg): 1835904
+referenceUnit: 0.3983464052287582
+read time (s): 1.654
+Tamb: 20.312
+set_offset_A: 196220.368
+weight (mg): 1835931
+referenceUnit: 0.3983442265795207
+read time (s): 1.632
+Tamb: 20.312
+set_offset_A: 196258.25
+weight (mg): 1835864
+referenceUnit: 0.39835893246187365
+read time (s): 1.724
+Tamb: 20.25
+set_offset_A: 196258.25
+weight (mg): 1835977
+referenceUnit: 0.3983507625272331
+read time (s): 1.72
+Tamb: 20.25
+set_offset_A: 196258.25
+weight (mg): 1836067
+referenceUnit: 0.39834694989106756
+read time (s): 1.712
+Tamb: 20.25
+set_offset_A: 196258.25
+weight (mg): 1835962
+referenceUnit: 0.39836056644880175
+read time (s): 1.718
+Tamb: 20.25
+set_offset_A: 196296.743
+weight (mg): 1835920
+referenceUnit: 0.39836546840958603
+read time (s): 1.7
+Tamb: 20.187
+set_offset_A: 196296.743
+weight (mg): 1835940
+referenceUnit: 0.39837799564270154
+read time (s): 1.679
+Tamb: 20.187
+set_offset_A: 196296.743
+weight (mg): 1836028
+referenceUnit: 0.3983818082788671
+read time (s): 1.652
+Tamb: 20.187
+set_offset_A: 196296.743
+weight (mg): 1836051
+referenceUnit: 0.3983932461873638
+read time (s): 1.647
+Tamb: 20.187
+set_offset_A: 196334.625
+weight (mg): 1835946
+referenceUnit: 0.398380174291939
+read time (s): 1.636
+Tamb: 20.125
+set_offset_A: 196373.118
+weight (mg): 1835975
+referenceUnit: 0.39835729847494555
+read time (s): 1.665
+Tamb: 20.062
+set_offset_A: 196411.0
+weight (mg): 1836033
+referenceUnit: 0.39833660130718956
+read time (s): 1.699
+Tamb: 20.0
+set_offset_A: 196449.493
+weight (mg): 1835989
+referenceUnit: 0.39835185185185185
+read time (s): 1.718
+Tamb: 19.937
+set_offset_A: 196449.493
+weight (mg): 1835931
+referenceUnit: 0.398380174291939
+read time (s): 1.648
+Tamb: 19.937
+set_offset_A: 196487.375
+weight (mg): 1836009
+referenceUnit: 0.3983480392156863
+read time (s): 1.671
+Tamb: 19.875
+set_offset_A: 196525.868
+weight (mg): 1835953
+referenceUnit: 0.39835457516339867
+read time (s): 1.707
+Tamb: 19.812
+set_offset_A: 196525.868
+weight (mg): 1835990
+referenceUnit: 0.3983785403050109
+read time (s): 1.652
+Tamb: 19.812
+set_offset_A: 196602.243
+weight (mg): 1835969
+referenceUnit: 0.3983703703703704
+read time (s): 1.609
+Tamb: 19.687
+set_offset_A: 196563.75
+weight (mg): 1835873
+referenceUnit: 0.3984564270152505
+read time (s): 1.665
+Tamb: 19.75
+set_offset_A: 196640.125
+weight (mg): 1836025
+referenceUnit: 0.39839814814814817
+read time (s): 1.737
+Tamb: 19.625
+set_offset_A: 196640.125
+weight (mg): 1835912
+referenceUnit: 0.3984362745098039
+read time (s): 1.672
+Tamb: 19.625
+set_offset_A: 196678.618
+weight (mg): 1836069
+referenceUnit: 0.3984128540305011
+read time (s): 1.662
+Tamb: 19.562
+set_offset_A: 196716.5
+weight (mg): 1835906
+referenceUnit: 0.398421568627451
+read time (s): 1.634
+Tamb: 19.5
+set_offset_A: 196678.618
+weight (mg): 1835968
+referenceUnit: 0.39842647058823527
+read time (s): 1.644
+Tamb: 19.562
+set_offset_A: 196754.993
+weight (mg): 1835998
+referenceUnit: 0.3983747276688453
+read time (s): 1.67
+Tamb: 19.437
+set_offset_A: 196716.5
+weight (mg): 1835949
+referenceUnit: 0.39842047930283225
+read time (s): 1.657
+Tamb: 19.5
+set_offset_A: 196678.618
+weight (mg): 1835991
+referenceUnit: 0.39842374727668844
+read time (s): 1.647
+Tamb: 19.562
+set_offset_A: 196640.125
+weight (mg): 1836050
+referenceUnit: 0.3984449891067538
+read time (s): 1.625
+Tamb: 19.625
+set_offset_A: 196640.125
+weight (mg): 1836070
+referenceUnit: 0.39844716775599126
+read time (s): 1.646
+Tamb: 19.625
+set_offset_A: 196602.243
+weight (mg): 1836065
+referenceUnit: 0.3984493464052288
+read time (s): 1.727
+Tamb: 19.687
+set_offset_A: 196602.243
+weight (mg): 1835942
+referenceUnit: 0.3984580610021787
+read time (s): 1.724
+Tamb: 19.687
+set_offset_A: 196602.243
+weight (mg): 1836009
+referenceUnit: 0.3984417211328976
+read time (s): 1.617
+Tamb: 19.687
+set_offset_A: 196602.243
+weight (mg): 1836017
+referenceUnit: 0.39844117647058824
+read time (s): 1.601
+Tamb: 19.687
+set_offset_A: 196602.243
+weight (mg): 1835999
+referenceUnit: 0.39842919389978215
+read time (s): 1.683
+Tamb: 19.687
+set_offset_A: 196678.618
+weight (mg): 1835981
+referenceUnit: 0.39845261437908497
+read time (s): 1.697
+Tamb: 19.562
+set_offset_A: 196754.993
+weight (mg): 1835975
+referenceUnit: 0.3984694989106754
+read time (s): 1.64
+Tamb: 19.437
+set_offset_A: 196831.368
+weight (mg): 1835994
+referenceUnit: 0.39851742919389976
+read time (s): 1.605
+Tamb: 19.312
+set_offset_A: 196984.118
+weight (mg): 1835924
+referenceUnit: 0.3985735294117647
+read time (s): 1.713
+Tamb: 19.062
+set_offset_A: 196984.118
+weight (mg): 1836000
+referenceUnit: 0.3986525054466231
+read time (s): 1.642
+Tamb: 19.062
+set_offset_A: 197022.0
+weight (mg): 1835895
+referenceUnit: 0.39871840958605664
+read time (s): 1.674
+Tamb: 19.0
+set_offset_A: 197098.375
+weight (mg): 1835959
+referenceUnit: 0.39871840958605664
+read time (s): 1.62
+Tamb: 18.875
+set_offset_A: 197289.618
+weight (mg): 1836041
+referenceUnit: 0.39868028322440086
+read time (s): 1.682
+Tamb: 18.562
+set_offset_A: 197289.618
+weight (mg): 1836044
+referenceUnit: 0.39879575163398695
+read time (s): 1.676
+Tamb: 18.562
+set_offset_A: 197289.618
+weight (mg): 1835981
+referenceUnit: 0.3988643790849673
+read time (s): 1.655
+Tamb: 18.562
+set_offset_A: 197213.243
+weight (mg): 1835999
+referenceUnit: 0.398900871459695
+read time (s): 1.694
+Tamb: 18.687
+set_offset_A: 197213.243
+weight (mg): 1835967
+referenceUnit: 0.3988992374727669
+read time (s): 1.663
+Tamb: 18.687
+set_offset_A: 197174.75
+weight (mg): 1835988
+referenceUnit: 0.39896132897603487
+read time (s): 1.624
+Tamb: 18.75
+set_offset_A: 197136.868
+weight (mg): 1835973
+referenceUnit: 0.39897058823529413
+read time (s): 1.697
+Tamb: 18.812
+set_offset_A: 197098.375
+weight (mg): 1836029
+referenceUnit: 0.3989281045751634
+read time (s): 1.631
+Tamb: 18.875
+set_offset_A: 197022.0
+weight (mg): 1835975
+referenceUnit: 0.39896459694989106
+read time (s): 1.636
+Tamb: 19.0
+set_offset_A: 196984.118
+weight (mg): 1836123
+referenceUnit: 0.3989052287581699
+read time (s): 1.621
+Tamb: 19.062
+set_offset_A: 196945.625
+weight (mg): 1835993
+referenceUnit: 0.39889869281045753
+read time (s): 1.678
+Tamb: 19.125
+set_offset_A: 196907.743
+weight (mg): 1835941
+referenceUnit: 0.4015648148148148
+read time (s): 1.633
+Tamb: 19.187
+set_offset_A: 196869.25
+weight (mg): 1835964
+referenceUnit: 0.40139433551198256
+read time (s): 1.687
+Tamb: 19.25
+set_offset_A: 196831.368
+weight (mg): 1836012
+referenceUnit: 0.40132625272331157
+read time (s): 1.63
+Tamb: 19.312
+set_offset_A: 196831.368
+weight (mg): 1835977
+referenceUnit: 0.40127124183006535
+read time (s): 1.672
+Tamb: 19.312
+set_offset_A: 196792.875
+weight (mg): 1835993
+referenceUnit: 0.40125653594771243
+read time (s): 1.695
+Tamb: 19.375
+set_offset_A: 196754.993
+weight (mg): 1835925
+referenceUnit: 0.4012265795206972
+read time (s): 1.628
+Tamb: 19.437
+set_offset_A: 196754.993
+weight (mg): 1835943
+referenceUnit: 0.4011911764705882
+read time (s): 1.639
+Tamb: 19.437
+set_offset_A: 196754.993
+weight (mg): 1835980
+referenceUnit: 0.4011334422657952
+read time (s): 1.662
+Tamb: 19.437
+set_offset_A: 196716.5
+weight (mg): 1836019
+referenceUnit: 0.40105228758169936
+read time (s): 1.731
+Tamb: 19.5
+set_offset_A: 196640.125
+weight (mg): 1835985
+referenceUnit: 0.4010582788671024
+read time (s): 1.716
+Tamb: 19.625
+set_offset_A: 196602.243
+weight (mg): 1835967
+referenceUnit: 0.40103485838779956
+read time (s): 1.682
+Tamb: 19.687
+set_offset_A: 196563.75
+weight (mg): 1835963
+referenceUnit: 0.40101633986928104
+read time (s): 1.649
+Tamb: 19.75
+set_offset_A: 196525.868
+weight (mg): 1835960
+referenceUnit: 0.40098039215686276
+read time (s): 1.695
+Tamb: 19.812
+set_offset_A: 196449.493
+weight (mg): 1835919
+referenceUnit: 0.4009934640522876
+read time (s): 1.717
+Tamb: 19.937
+set_offset_A: 196411.0
+weight (mg): 1835923
+referenceUnit: 0.40095588235294116
+read time (s): 1.649
+Tamb: 20.0
+set_offset_A: 196373.118
+weight (mg): 1835912
+referenceUnit: 0.40094281045751634
+read time (s): 1.646
+Tamb: 20.062
+set_offset_A: 196296.743
+weight (mg): 1835946
+referenceUnit: 0.400942265795207
+read time (s): 1.723
+Tamb: 20.187
+set_offset_A: 196296.743
+weight (mg): 1835961
+referenceUnit: 0.40089814814814817
+read time (s): 1.701
+Tamb: 20.187
+set_offset_A: 196220.368
+weight (mg): 1835989
+referenceUnit: 0.4009025054466231
+read time (s): 1.655
+Tamb: 20.312
+set_offset_A: 196181.875
+weight (mg): 1836075
+referenceUnit: 0.4008616557734205
+read time (s): 1.602
+Tamb: 20.375
+set_offset_A: 196105.5
+weight (mg): 1835964
+referenceUnit: 0.40089433551198256
+read time (s): 1.722
+Tamb: 20.5
+set_offset_A: 196143.993
+weight (mg): 1836003
+referenceUnit: 0.4008316993464052
+read time (s): 1.725
+Tamb: 20.437
+set_offset_A: 196143.993
+weight (mg): 1835945
+referenceUnit: 0.40079302832244007
+read time (s): 1.713
+Tamb: 20.437
+set_offset_A: 196105.5
+weight (mg): 1835916
+referenceUnit: 0.40081917211328977
+read time (s): 1.738
+Tamb: 20.5
+set_offset_A: 196105.5
+weight (mg): 1835909
+referenceUnit: 0.4007788671023965
+read time (s): 1.689
+Tamb: 20.5
+set_offset_A: 196029.125
+weight (mg): 1836015
+referenceUnit: 0.4007717864923747
+read time (s): 1.703
+Tamb: 20.625
+set_offset_A: 195991.243
+weight (mg): 1836022
+referenceUnit: 0.40076252723311545
+read time (s): 1.667
+Tamb: 20.687
+set_offset_A: 195952.75
+weight (mg): 1836013
+referenceUnit: 0.4007614379084967
+read time (s): 1.669
+Tamb: 20.75
+set_offset_A: 195952.75
+weight (mg): 1836073
+referenceUnit: 0.4007352941176471
+read time (s): 1.657
+Tamb: 20.75
+set_offset_A: 195914.868
+weight (mg): 1836043
+referenceUnit: 0.40073039215686274
+read time (s): 1.712
+Tamb: 20.812
+set_offset_A: 195876.375
+weight (mg): 1835934
+referenceUnit: 0.40074891067538126
+read time (s): 1.641
+Tamb: 20.875
+set_offset_A: 195838.493
+weight (mg): 1836024
+referenceUnit: 0.40075653594771243
+read time (s): 1.69
+Tamb: 20.937
+set_offset_A: 195762.118
+weight (mg): 1835985
+referenceUnit: 0.4007984749455338
+read time (s): 1.716
+Tamb: 21.062
+set_offset_A: 195723.625
+weight (mg): 1835971
+referenceUnit: 0.4007952069716776
+read time (s): 1.727
+Tamb: 21.125
+set_offset_A: 195723.625
+weight (mg): 1835936
+referenceUnit: 0.4007527233115468
+read time (s): 1.642
+Tamb: 21.125
+set_offset_A: 195685.743
+weight (mg): 1835986
+referenceUnit: 0.4007788671023965
+read time (s): 1.643
+Tamb: 21.187
+set_offset_A: 195609.368
+weight (mg): 1836014
+referenceUnit: 0.4007924836601307
+read time (s): 1.724
+Tamb: 21.312
+set_offset_A: 195570.875
+weight (mg): 1835973
+referenceUnit: 0.40080337690631807
+read time (s): 1.689
+Tamb: 21.375
+set_offset_A: 195532.993
+weight (mg): 1836057
+referenceUnit: 0.40079357298474944
+read time (s): 1.641
+Tamb: 21.437
+set_offset_A: 195456.618
+weight (mg): 1835983
+referenceUnit: 0.40085348583877994
+read time (s): 1.672
+Tamb: 21.562
+set_offset_A: 195303.868
+weight (mg): 1836033
+referenceUnit: 0.4008665577342048
+read time (s): 1.694
+Tamb: 21.812
+set_offset_A: 195189.0
+weight (mg): 1835973
+referenceUnit: 0.4008611111111111
+read time (s): 1.608
+Tamb: 22.0
+set_offset_A: 195112.625
+weight (mg): 1835939
+referenceUnit: 0.4008349673202614
+read time (s): 1.598
+Tamb: 22.125
+set_offset_A: 194998.368
+weight (mg): 1836044
+referenceUnit: 0.4008888888888889
+read time (s): 1.694
+Tamb: 22.312
+set_offset_A: 194959.875
+weight (mg): 1835920
+referenceUnit: 0.4009199346405229
+read time (s): 1.664
+Tamb: 22.375
+set_offset_A: 194883.5
+weight (mg): 1836024
+referenceUnit: 0.40086056644880175
+read time (s): 1.692
+Tamb: 22.5
+set_offset_A: 194730.75
+weight (mg): 1836083
+referenceUnit: 0.40089270152505446
+read time (s): 1.593
+Tamb: 22.75
+set_offset_A: 194616.493
+weight (mg): 1835941
+referenceUnit: 0.40088126361655774
+read time (s): 1.744
+Tamb: 22.937
+set_offset_A: 194463.743
+weight (mg): 1836001
+referenceUnit: 0.400921568627451
+read time (s): 1.724
+Tamb: 23.187
+set_offset_A: 194348.875
+weight (mg): 1836090
+referenceUnit: 0.40090631808278865
+read time (s): 1.696
+Tamb: 23.375
+set_offset_A: 194348.875
+weight (mg): 1836005
+referenceUnit: 0.40090904139433553
+read time (s): 1.66
+Tamb: 23.375
+set_offset_A: 194234.618
+weight (mg): 1835983
+referenceUnit: 0.4009057734204793
+read time (s): 1.711
+Tamb: 23.562
+set_offset_A: 194043.375
+weight (mg): 1836066
+referenceUnit: 0.40093954248366015
+read time (s): 1.71
+Tamb: 23.875
+set_offset_A: 194043.375
+weight (mg): 1836007
+referenceUnit: 0.4009019607843137
+read time (s): 1.707
+Tamb: 23.875
+set_offset_A: 193967.0
+weight (mg): 1836055
+referenceUnit: 0.40090631808278865
+read time (s): 1.675
+Tamb: 24.0
+set_offset_A: 193929.118
+weight (mg): 1836022
+referenceUnit: 0.40090468409586055
+read time (s): 1.719
+Tamb: 24.062
+set_offset_A: 193852.743
+weight (mg): 1836078
+referenceUnit: 0.4009041394335512
+read time (s): 1.644
+Tamb: 24.187
+set_offset_A: 193814.25
+weight (mg): 1835984
+referenceUnit: 0.40089596949891065
+read time (s): 1.638
+Tamb: 24.25
+set_offset_A: 193776.368
+weight (mg): 1835997
+referenceUnit: 0.40085729847494556
+read time (s): 1.629
+Tamb: 24.312
+set_offset_A: 193661.5
+weight (mg): 1835964
+referenceUnit: 0.40092701525054464
+read time (s): 1.706
+Tamb: 24.5
+set_offset_A: 193623.618
+weight (mg): 1835924
+referenceUnit: 0.40092538126361654
+read time (s): 1.674
+Tamb: 24.562
+set_offset_A: 193585.125
+weight (mg): 1835950
+referenceUnit: 0.4009406318082789
+read time (s): 1.639
+Tamb: 24.625
+set_offset_A: 193547.243
+weight (mg): 1835930
+referenceUnit: 0.400921568627451
+read time (s): 1.694
+Tamb: 24.687
+set_offset_A: 193508.75
+weight (mg): 1836110
+referenceUnit: 0.400927559912854
+read time (s): 1.73
+Tamb: 24.75
+set_offset_A: 193470.868
+weight (mg): 1836030
+referenceUnit: 0.40090904139433553
+read time (s): 1.695
+Tamb: 24.812
+set_offset_A: 193508.75
+weight (mg): 1836033
+referenceUnit: 0.40087962962962964
+read time (s): 1.669
+Tamb: 24.75
+set_offset_A: 193508.75
+weight (mg): 1835938
+referenceUnit: 0.40087091503267974
+read time (s): 1.657
+Tamb: 24.75
+set_offset_A: 193508.75
+weight (mg): 1835886
+referenceUnit: 0.4008790849673203
+read time (s): 1.633
+Tamb: 24.75
+set_offset_A: 193508.75
+weight (mg): 1836058
+referenceUnit: 0.4008665577342048
+read time (s): 1.687
+Tamb: 24.75
+set_offset_A: 193470.868
+weight (mg): 1836043
+referenceUnit: 0.40086928104575165
+read time (s): 1.649
+Tamb: 24.812
+set_offset_A: 193470.868
+weight (mg): 1836003
+referenceUnit: 0.4008932461873638
+read time (s): 1.625
+Tamb: 24.812
+set_offset_A: 193432.375
+weight (mg): 1835982
+referenceUnit: 0.4009025054466231
+read time (s): 1.595
+Tamb: 24.875
+set_offset_A: 193432.375
+weight (mg): 1835879
+referenceUnit: 0.40092919389978215
+read time (s): 1.687
+Tamb: 24.875
+set_offset_A: 193432.375
+weight (mg): 1835937
+referenceUnit: 0.4009193899782135
+read time (s): 1.693
+Tamb: 24.875
+set_offset_A: 193470.868
+weight (mg): 1836025
+referenceUnit: 0.40088997821350764
+read time (s): 1.689
+Tamb: 24.812
+set_offset_A: 193356.0
+weight (mg): 1836092
+referenceUnit: 0.40093954248366015
+read time (s): 1.674
+Tamb: 25.0
+set_offset_A: 193394.493
+weight (mg): 1835961
+referenceUnit: 0.40094444444444444
+read time (s): 1.659
+Tamb: 24.937
+set_offset_A: 193356.0
+weight (mg): 1835975
+referenceUnit: 0.4009564270152505
+read time (s): 1.637
+Tamb: 25.0
+set_offset_A: 193318.118
+weight (mg): 1835940
+referenceUnit: 0.40098910675381266
+read time (s): 1.662
+Tamb: 25.062
+set_offset_A: 193318.118
+weight (mg): 1835972
+referenceUnit: 0.40100435729847494
+read time (s): 1.739
+Tamb: 25.062
+set_offset_A: 193279.625
+weight (mg): 1836076
+referenceUnit: 0.40102342047930284
+read time (s): 1.68
+Tamb: 25.125
+set_offset_A: 193318.118
+weight (mg): 1835985
+referenceUnit: 0.4010223311546841
+read time (s): 1.634
+Tamb: 25.062
+set_offset_A: 193279.625
+weight (mg): 1836006
+referenceUnit: 0.40102505446623093
+read time (s): 1.669
+Tamb: 25.125
+set_offset_A: 193241.743
+weight (mg): 1836013
+referenceUnit: 0.40105119825708063
+read time (s): 1.708
+Tamb: 25.187
+set_offset_A: 193241.743
+weight (mg): 1836063
+referenceUnit: 0.4010392156862745
+read time (s): 1.656
+Tamb: 25.187
+set_offset_A: 193203.25
+weight (mg): 1836067
+referenceUnit: 0.40107788671023964
+read time (s): 1.658
+Tamb: 25.25
+set_offset_A: 193241.743
+weight (mg): 1836083
+referenceUnit: 0.40103322440087147
+read time (s): 1.685
+Tamb: 25.187
+set_offset_A: 193165.368
+weight (mg): 1836004
+referenceUnit: 0.4010544662309368
+read time (s): 1.727
+Tamb: 25.312
+set_offset_A: 193203.25
+weight (mg): 1835992
+referenceUnit: 0.4010283224400871
+read time (s): 1.67
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1836022
+referenceUnit: 0.4010343137254902
+read time (s): 1.613
+Tamb: 25.25
+set_offset_A: 193165.368
+weight (mg): 1835992
+referenceUnit: 0.4010223311546841
+read time (s): 1.724
+Tamb: 25.312
+set_offset_A: 193165.368
+weight (mg): 1836022
+referenceUnit: 0.4010272331154684
+read time (s): 1.658
+Tamb: 25.312
+set_offset_A: 193203.25
+weight (mg): 1836072
+referenceUnit: 0.4010228758169935
+read time (s): 1.676
+Tamb: 25.25
+set_offset_A: 193165.368
+weight (mg): 1836036
+referenceUnit: 0.40105174291939
+read time (s): 1.601
+Tamb: 25.312
+set_offset_A: 193126.875
+weight (mg): 1836015
+referenceUnit: 0.40105718954248365
+read time (s): 1.693
+Tamb: 25.375
+set_offset_A: 193126.875
+weight (mg): 1836003
+referenceUnit: 0.4010604575163399
+read time (s): 1.706
+Tamb: 25.375
+set_offset_A: 193126.875
+weight (mg): 1836137
+referenceUnit: 0.40103649237472766
+read time (s): 1.619
+Tamb: 25.375
+set_offset_A: 193126.875
+weight (mg): 1835911
+referenceUnit: 0.40106100217864926
+read time (s): 1.627
+Tamb: 25.375
+set_offset_A: 193126.875
+weight (mg): 1836045
+referenceUnit: 0.40102450980392157
+read time (s): 1.65
+Tamb: 25.375
+set_offset_A: 193165.368
+weight (mg): 1836009
+referenceUnit: 0.40100762527233114
+read time (s): 1.692
+Tamb: 25.312
+set_offset_A: 193203.25
+weight (mg): 1836002
+referenceUnit: 0.4009934640522876
+read time (s): 1.647
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1835945
+referenceUnit: 0.4010185185185185
+read time (s): 1.598
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1835935
+referenceUnit: 0.401041394335512
+read time (s): 1.72
+Tamb: 25.25
+set_offset_A: 193241.743
+weight (mg): 1835958
+referenceUnit: 0.40101797385620913
+read time (s): 1.657
+Tamb: 25.187
+set_offset_A: 193241.743
+weight (mg): 1836026
+referenceUnit: 0.4010343137254902
+read time (s): 1.699
+Tamb: 25.187
+set_offset_A: 193241.743
+weight (mg): 1835958
+referenceUnit: 0.40105119825708063
+read time (s): 1.662
+Tamb: 25.187
+set_offset_A: 193241.743
+weight (mg): 1835988
+referenceUnit: 0.40105718954248365
+read time (s): 1.694
+Tamb: 25.187
+set_offset_A: 193203.25
+weight (mg): 1836022
+referenceUnit: 0.40108061002178647
+read time (s): 1.629
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1835972
+referenceUnit: 0.4010974945533769
+read time (s): 1.662
+Tamb: 25.25
+set_offset_A: 193165.368
+weight (mg): 1836034
+referenceUnit: 0.4011013071895425
+read time (s): 1.661
+Tamb: 25.312
+set_offset_A: 193126.875
+weight (mg): 1835913
+referenceUnit: 0.4011476034858388
+read time (s): 1.675
+Tamb: 25.375
+set_offset_A: 193088.993
+weight (mg): 1835978
+referenceUnit: 0.4011269063180828
+read time (s): 1.655
+Tamb: 25.437
+set_offset_A: 193050.5
+weight (mg): 1836001
+referenceUnit: 0.4011383442265795
+read time (s): 1.749
+Tamb: 25.5
+set_offset_A: 193012.618
+weight (mg): 1836056
+referenceUnit: 0.4011606753812636
+read time (s): 1.606
+Tamb: 25.562
+set_offset_A: 193050.5
+weight (mg): 1835941
+referenceUnit: 0.4011557734204793
+read time (s): 1.713
+Tamb: 25.5
+set_offset_A: 193050.5
+weight (mg): 1835979
+referenceUnit: 0.4011644880174292
+read time (s): 1.723
+Tamb: 25.5
+set_offset_A: 193126.875
+weight (mg): 1836060
+referenceUnit: 0.401140522875817
+read time (s): 1.653
+Tamb: 25.375
+set_offset_A: 193203.25
+weight (mg): 1836024
+referenceUnit: 0.40113071895424834
+read time (s): 1.621
+Tamb: 25.25
+set_offset_A: 193241.743
+weight (mg): 1835953
+referenceUnit: 0.4011220043572985
+read time (s): 1.71
+Tamb: 25.187
+set_offset_A: 193241.743
+weight (mg): 1836083
+referenceUnit: 0.4011563180827887
+read time (s): 1.691
+Tamb: 25.187
+set_offset_A: 193279.625
+weight (mg): 1836018
+referenceUnit: 0.4011661220043573
+read time (s): 1.651
+Tamb: 25.125
+set_offset_A: 193241.743
+weight (mg): 1836011
+referenceUnit: 0.4011917211328976
+read time (s): 1.608
+Tamb: 25.187
+set_offset_A: 193203.25
+weight (mg): 1835870
+referenceUnit: 0.4012173202614379
+read time (s): 1.603
+Tamb: 25.25
+set_offset_A: 193165.368
+weight (mg): 1835917
+referenceUnit: 0.40125054466230936
+read time (s): 1.661
+Tamb: 25.312
+set_offset_A: 193203.25
+weight (mg): 1836017
+referenceUnit: 0.40119498910675383
+read time (s): 1.621
+Tamb: 25.25
+set_offset_A: 193165.368
+weight (mg): 1835967
+referenceUnit: 0.40124455337690634
+read time (s): 1.685
+Tamb: 25.312
+set_offset_A: 193165.368
+weight (mg): 1835959
+referenceUnit: 0.4012440087145969
+read time (s): 1.643
+Tamb: 25.312
+set_offset_A: 193203.25
+weight (mg): 1836017
+referenceUnit: 0.40122712418300654
+read time (s): 1.681
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1835940
+referenceUnit: 0.40123148148148147
+read time (s): 1.64
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1836034
+referenceUnit: 0.401229302832244
+read time (s): 1.698
+Tamb: 25.25
+set_offset_A: 193203.25
+weight (mg): 1835957
+referenceUnit: 0.4012467320261438
+read time (s): 1.67
+Tamb: 25.25
+set_offset_A: 193241.743
+weight (mg): 1836021
+referenceUnit: 0.40121840958605665
+read time (s): 1.617
+Tamb: 25.187
+set_offset_A: 193241.743
+weight (mg): 1835986
+referenceUnit: 0.40123583877995644
+read time (s): 1.678
+Tamb: 25.187
+set_offset_A: 193279.625
+weight (mg): 1835951
+referenceUnit: 0.40123039215686274
+read time (s): 1.685
+Tamb: 25.125
+set_offset_A: 193279.625
+weight (mg): 1836091
+referenceUnit: 0.40121350762527236
+read time (s): 1.675
+Tamb: 25.125
+set_offset_A: 193318.118
+weight (mg): 1835965
+referenceUnit: 0.4012244008714597
+read time (s): 1.597
+Tamb: 25.062
+set_offset_A: 193318.118
+weight (mg): 1836005
+referenceUnit: 0.401229302832244
+read time (s): 1.686
+Tamb: 25.062
+set_offset_A: 193356.0
+weight (mg): 1836052
+referenceUnit: 0.4012145969498911
+read time (s): 1.692
+Tamb: 25.0
+set_offset_A: 193356.0
+weight (mg): 1836040
+referenceUnit: 0.4012249455337691
+read time (s): 1.703
+Tamb: 25.0
+set_offset_A: 193394.493
+weight (mg): 1836061
+referenceUnit: 0.4012156862745098
+read time (s): 1.664
+Tamb: 24.937
+set_offset_A: 193394.493
+weight (mg): 1835959
+referenceUnit: 0.4012467320261438
+read time (s): 1.673
+Tamb: 24.937
+set_offset_A: 193432.375
+weight (mg): 1835984
+referenceUnit: 0.40125054466230936
+read time (s): 1.601
+Tamb: 24.875
+set_offset_A: 193470.868
+weight (mg): 1835933
+referenceUnit: 0.4012456427015251
+read time (s): 1.661
+Tamb: 24.812
+set_offset_A: 193508.75
+weight (mg): 1836021
+referenceUnit: 0.40123420479302835
+read time (s): 1.709
+Tamb: 24.75
+set_offset_A: 193508.75
+weight (mg): 1835956
+referenceUnit: 0.40126525054466233
+read time (s): 1.663
+Tamb: 24.75
+set_offset_A: 193547.243
+weight (mg): 1836002
+referenceUnit: 0.40124782135076253
+read time (s): 1.627
+Tamb: 24.687
+set_offset_A: 193623.618
+weight (mg): 1836113
+referenceUnit: 0.4012336601307189
+read time (s): 1.63
+Tamb: 24.562
+set_offset_A: 193585.125
+weight (mg): 1835992
+referenceUnit: 0.4012690631808279
+read time (s): 1.716
+Tamb: 24.625
+set_offset_A: 193623.618
+weight (mg): 1836043
+referenceUnit: 0.4012772331154684
+read time (s): 1.646
+Tamb: 24.562
+set_offset_A: 193661.5
+weight (mg): 1836011
+referenceUnit: 0.40126688453159043
+read time (s): 1.657
+Tamb: 24.5
+set_offset_A: 193737.875
+weight (mg): 1835950
+referenceUnit: 0.401239651416122
+read time (s): 1.691
+Tamb: 24.375
+set_offset_A: 193737.875
+weight (mg): 1836085
+referenceUnit: 0.40124891067538127
+read time (s): 1.632
+Tamb: 24.375
+set_offset_A: 193776.368
+weight (mg): 1835927
+referenceUnit: 0.40126470588235297
+read time (s): 1.75
+Tamb: 24.312
+set_offset_A: 193814.25
+weight (mg): 1836037
+referenceUnit: 0.4012598039215686
+read time (s): 1.683
+Tamb: 24.25
+set_offset_A: 193814.25
+weight (mg): 1835999
+referenceUnit: 0.40126525054466233
+read time (s): 1.665
+Tamb: 24.25
+set_offset_A: 193852.743
+weight (mg): 1836043
+referenceUnit: 0.4012412854030501
+read time (s): 1.717
+Tamb: 24.187
+set_offset_A: 193890.625
+weight (mg): 1836076
+referenceUnit: 0.4012363834422658
+read time (s): 1.706
+Tamb: 24.125
+set_offset_A: 193890.625
+weight (mg): 1836066
+referenceUnit: 0.4012614379084967
+read time (s): 1.698
+Tamb: 24.125
+set_offset_A: 193929.118
+weight (mg): 1835950
+referenceUnit: 0.4012456427015251
+read time (s): 1.618
+Tamb: 24.062
+set_offset_A: 193967.0
+weight (mg): 1836010
+referenceUnit: 0.40124346405228756
+read time (s): 1.626
+Tamb: 24.0
+set_offset_A: 194005.493
+weight (mg): 1836024
+referenceUnit: 0.4012145969498911
+read time (s): 1.737
+Tamb: 23.937
+set_offset_A: 194005.493
+weight (mg): 1835969
+referenceUnit: 0.40123747276688454
+read time (s): 1.606
+Tamb: 23.937
+set_offset_A: 194081.868
+weight (mg): 1836013
+referenceUnit: 0.4012075163398693
+read time (s): 1.705
+Tamb: 23.812
+set_offset_A: 194081.868
+weight (mg): 1836055
+referenceUnit: 0.40121350762527236
+read time (s): 1.66
+Tamb: 23.812
+set_offset_A: 194119.75
+weight (mg): 1835986
+referenceUnit: 0.40121296296296294
+read time (s): 1.629
+Tamb: 23.75
+set_offset_A: 194196.125
+weight (mg): 1835925
+referenceUnit: 0.4012058823529412
+read time (s): 1.704
+Tamb: 23.625
+set_offset_A: 194196.125
+weight (mg): 1836007
+referenceUnit: 0.4012124183006536
+read time (s): 1.668
+Tamb: 23.625
+set_offset_A: 194234.618
+weight (mg): 1836058
+referenceUnit: 0.4012015250544662
+read time (s): 1.665
+Tamb: 23.562
+set_offset_A: 194234.618
+weight (mg): 1835951
+referenceUnit: 0.40123311546840956
+read time (s): 1.642
+Tamb: 23.562
+set_offset_A: 194272.5
+weight (mg): 1835991
+referenceUnit: 0.40122331154684093
+read time (s): 1.678
+Tamb: 23.5
+set_offset_A: 194310.993
+weight (mg): 1835963
+referenceUnit: 0.4012075163398693
+read time (s): 1.68
+Tamb: 23.437
+set_offset_A: 194348.875
+weight (mg): 1836020
+referenceUnit: 0.40121677559912855
+read time (s): 1.745
+Tamb: 23.375
+set_offset_A: 194387.368
+weight (mg): 1835917
+referenceUnit: 0.401208605664488
+read time (s): 1.61
+Tamb: 23.312
+set_offset_A: 194387.368
+weight (mg): 1836034
+referenceUnit: 0.40120806100217865
+read time (s): 1.731
+Tamb: 23.312
+set_offset_A: 194425.25
+weight (mg): 1836049
+referenceUnit: 0.4011895424836601
+read time (s): 1.599
+Tamb: 23.25
+set_offset_A: 194463.743
+weight (mg): 1836083
+referenceUnit: 0.4011971677559913
+read time (s): 1.726
+Tamb: 23.187
+set_offset_A: 194501.625
+weight (mg): 1836053
+referenceUnit: 0.4011895424836601
+read time (s): 1.684
+Tamb: 23.125
+set_offset_A: 194540.118
+weight (mg): 1836065
+referenceUnit: 0.4011955337690632
+read time (s): 1.644
+Tamb: 23.062
+set_offset_A: 194578.0
+weight (mg): 1835890
+referenceUnit: 0.4011938997821351
+read time (s): 1.604
+Tamb: 23.0
+set_offset_A: 194578.0
+weight (mg): 1836030
+referenceUnit: 0.4012031590413943
+read time (s): 1.743
+Tamb: 23.0
+set_offset_A: 194654.375
+weight (mg): 1836007
+referenceUnit: 0.4011791938997821
+read time (s): 1.715
+Tamb: 22.875
+set_offset_A: 194654.375
+weight (mg): 1835992
+referenceUnit: 0.4011928104575163
+read time (s): 1.671
+Tamb: 22.875
+set_offset_A: 194692.868
+weight (mg): 1835983
+referenceUnit: 0.4011911764705882
+read time (s): 1.598
+Tamb: 22.812
+set_offset_A: 194692.868
+weight (mg): 1836010
+referenceUnit: 0.401218954248366
+read time (s): 1.625
+Tamb: 22.812
+set_offset_A: 194730.75
+weight (mg): 1835943
+referenceUnit: 0.40122276688453157
+read time (s): 1.743
+Tamb: 22.75
+set_offset_A: 194730.75
+weight (mg): 1836050
+referenceUnit: 0.40121677559912855
+read time (s): 1.64
+Tamb: 22.75
+set_offset_A: 194807.125
+weight (mg): 1835950
+referenceUnit: 0.4011928104575163
+read time (s): 1.661
+Tamb: 22.625
+set_offset_A: 194845.618
+weight (mg): 1836058
+referenceUnit: 0.40118300653594774
+read time (s): 1.712
+Tamb: 22.562
+set_offset_A: 194883.5
+weight (mg): 1835862
+referenceUnit: 0.4011851851851852
+read time (s): 1.685
+Tamb: 22.5
+set_offset_A: 194921.993
+weight (mg): 1836015
+referenceUnit: 0.40116394335511985
+read time (s): 1.665
+Tamb: 22.437
+set_offset_A: 194921.993
+weight (mg): 1836047
+referenceUnit: 0.40117538126361657
+read time (s): 1.718
+Tamb: 22.437
+set_offset_A: 194959.875
+weight (mg): 1835923
+referenceUnit: 0.40119226579520695
+read time (s): 1.712
+Tamb: 22.375
+set_offset_A: 194998.368
+weight (mg): 1836002
+referenceUnit: 0.4011851851851852
+read time (s): 1.614
+Tamb: 22.312
+set_offset_A: 194998.368
+weight (mg): 1836029
+referenceUnit: 0.4011797385620915
+read time (s): 1.608
+Tamb: 22.312
+set_offset_A: 195036.25
+weight (mg): 1835935
+referenceUnit: 0.40118736383442266
+read time (s): 1.691
+Tamb: 22.25
+set_offset_A: 195074.743
+weight (mg): 1835943
+referenceUnit: 0.40116993464052286
+read time (s): 1.703
+Tamb: 22.187
+set_offset_A: 195112.625
+weight (mg): 1835971
+referenceUnit: 0.40117047930283223
+read time (s): 1.713
+Tamb: 22.125
+set_offset_A: 195151.118
+weight (mg): 1835992
+referenceUnit: 0.4011530501089325
+read time (s): 1.644
+Tamb: 22.062
+set_offset_A: 195151.118
+weight (mg): 1835888
+referenceUnit: 0.4011835511982571
+read time (s): 1.671
+Tamb: 22.062
+set_offset_A: 195151.118
+weight (mg): 1836094
+referenceUnit: 0.40117047930283223
+read time (s): 1.708
+Tamb: 22.062
+set_offset_A: 195151.118
+weight (mg): 1835955
+referenceUnit: 0.40119825708061
+read time (s): 1.647
+Tamb: 22.062
+set_offset_A: 195189.0
+weight (mg): 1835978
+referenceUnit: 0.40117864923747276
+read time (s): 1.686
+Tamb: 22.0
+set_offset_A: 195265.375
+weight (mg): 1835959
+referenceUnit: 0.40115958605664487
+read time (s): 1.635
+Tamb: 21.875
+set_offset_A: 195227.493
+weight (mg): 1836011
+referenceUnit: 0.4011938997821351
+read time (s): 1.64
+Tamb: 21.937
+set_offset_A: 195303.868
+weight (mg): 1835923
+referenceUnit: 0.40118191721132895
+read time (s): 1.717
+Tamb: 21.812
+set_offset_A: 195341.75
+weight (mg): 1835966
+referenceUnit: 0.4011748366013072
+read time (s): 1.686
+Tamb: 21.75
+set_offset_A: 195341.75
+weight (mg): 1835893
+referenceUnit: 0.4011900871459695
+read time (s): 1.69
+Tamb: 21.75
+set_offset_A: 195418.125
+weight (mg): 1836074
+referenceUnit: 0.40116557734204794
+read time (s): 1.603
+Tamb: 21.625
+set_offset_A: 195418.125
+weight (mg): 1835860
+referenceUnit: 0.4012015250544662
+read time (s): 1.718
+Tamb: 21.625
+set_offset_A: 195456.618
+weight (mg): 1835926
+referenceUnit: 0.40120098039215685
+read time (s): 1.605
+Tamb: 21.562
+set_offset_A: 195494.5
+weight (mg): 1836034
+referenceUnit: 0.4011721132897603
+read time (s): 1.739
+Tamb: 21.5
+set_offset_A: 195494.5
+weight (mg): 1836014
+referenceUnit: 0.4012004357298475
+read time (s): 1.683
+Tamb: 21.5
+set_offset_A: 195532.993
+weight (mg): 1835960
+referenceUnit: 0.4011988017429194
+read time (s): 1.638
+Tamb: 21.437
+set_offset_A: 195570.875
+weight (mg): 1836013
+referenceUnit: 0.40118899782135076
+read time (s): 1.604
+Tamb: 21.375
+set_offset_A: 195570.875
+weight (mg): 1836060
+referenceUnit: 0.401208605664488
+read time (s): 1.673
+Tamb: 21.375
+set_offset_A: 195609.368
+weight (mg): 1836017
+referenceUnit: 0.4012145969498911
+read time (s): 1.66
+Tamb: 21.312
+set_offset_A: 195647.25
+weight (mg): 1835862
+referenceUnit: 0.401229302832244
+read time (s): 1.654
+Tamb: 21.25
+set_offset_A: 195647.25
+weight (mg): 1836047
+referenceUnit: 0.40122331154684093
+read time (s): 1.645
+Tamb: 21.25
+set_offset_A: 195685.743
+weight (mg): 1836043
+referenceUnit: 0.40123202614379083
+read time (s): 1.678
+Tamb: 21.187
+set_offset_A: 195723.625
+weight (mg): 1835809
+referenceUnit: 0.4012570806100218
+read time (s): 1.687
+Tamb: 21.125
+set_offset_A: 195723.625
+weight (mg): 1835961
+referenceUnit: 0.4012532679738562
+read time (s): 1.711
+Tamb: 21.125
+set_offset_A: 195800.0
+weight (mg): 1835963
+referenceUnit: 0.401229302832244
+read time (s): 1.64
+Tamb: 21.0
+set_offset_A: 195838.493
+weight (mg): 1835971
+referenceUnit: 0.4012282135076253
+read time (s): 1.674
+Tamb: 20.937
+set_offset_A: 195838.493
+weight (mg): 1836006
+referenceUnit: 0.40124618736383444
+read time (s): 1.721
+Tamb: 20.937
+set_offset_A: 195876.375
+weight (mg): 1835974
+referenceUnit: 0.4012282135076253
+read time (s): 1.647
+Tamb: 20.875
+set_offset_A: 195876.375
+weight (mg): 1835807
+referenceUnit: 0.4012739651416122
+read time (s): 1.613
+Tamb: 20.875
+set_offset_A: 195876.375
+weight (mg): 1835972
+referenceUnit: 0.40127505446623096
+read time (s): 1.653
+Tamb: 20.875
+set_offset_A: 195876.375
+weight (mg): 1835939
+referenceUnit: 0.4012875816993464
+read time (s): 1.712
+Tamb: 20.875
+set_offset_A: 195952.75
+weight (mg): 1835993
+referenceUnit: 0.40127559912854033
+read time (s): 1.717
+Tamb: 20.75
+set_offset_A: 195952.75
+weight (mg): 1835953
+referenceUnit: 0.4012897603485839
+read time (s): 1.7
+Tamb: 20.75
+set_offset_A: 195952.75
+weight (mg): 1836001
+referenceUnit: 0.401281045751634
+read time (s): 1.645
+Tamb: 20.75
+set_offset_A: 196029.125
+weight (mg): 1835992
+referenceUnit: 0.40126089324618736
+read time (s): 1.709
+Tamb: 20.625
+set_offset_A: 195991.243
+weight (mg): 1835940
+referenceUnit: 0.40129575163398695
+read time (s): 1.689
+Tamb: 20.687
+set_offset_A: 196067.618
+weight (mg): 1835979
+referenceUnit: 0.4012826797385621
+read time (s): 1.668
+Tamb: 20.562
+set_offset_A: 196067.618
+weight (mg): 1836023
+referenceUnit: 0.40129901960784314
+read time (s): 1.651
+Tamb: 20.562
+set_offset_A: 196105.5
+weight (mg): 1835984
+referenceUnit: 0.40129738562091505
+read time (s): 1.731
+Tamb: 20.5
+set_offset_A: 196105.5
+weight (mg): 1836001
+referenceUnit: 0.4013169934640523
+read time (s): 1.72
+Tamb: 20.5
+set_offset_A: 196143.993
+weight (mg): 1836070
+referenceUnit: 0.4012881263616558
+read time (s): 1.648
+Tamb: 20.437
+set_offset_A: 196181.875
+weight (mg): 1835913
+referenceUnit: 0.40130936819172114
+read time (s): 1.674
+Tamb: 20.375
+set_offset_A: 196181.875
+weight (mg): 1835973
+referenceUnit: 0.4013169934640523
+read time (s): 1.709
+Tamb: 20.375
+set_offset_A: 196181.875
+weight (mg): 1836048
+referenceUnit: 0.40133823529411766
+read time (s): 1.613
+Tamb: 20.375
+set_offset_A: 196220.368
+weight (mg): 1836026
+referenceUnit: 0.4013273420479303
+read time (s): 1.666
+Tamb: 20.312
+set_offset_A: 196258.25
+weight (mg): 1835972
+referenceUnit: 0.40132788671023967
+read time (s): 1.634
+Tamb: 20.25
+set_offset_A: 196296.743
+weight (mg): 1835963
+referenceUnit: 0.4013169934640523
+read time (s): 1.69
+Tamb: 20.187
+set_offset_A: 196296.743
+weight (mg): 1835881
+referenceUnit: 0.4013360566448802
+read time (s): 1.66
+Tamb: 20.187
+set_offset_A: 196334.625
+weight (mg): 1835998
+referenceUnit: 0.40133006535947713
+read time (s): 1.736
+Tamb: 20.125
+set_offset_A: 196296.743
+weight (mg): 1835986
+referenceUnit: 0.40135729847494556
+read time (s): 1.676
+Tamb: 20.187
+set_offset_A: 196334.625
+weight (mg): 1835914
+referenceUnit: 0.40136383442265794
+read time (s): 1.671
+Tamb: 20.125
+set_offset_A: 196373.118
+weight (mg): 1835982
+referenceUnit: 0.4013507625272331
+read time (s): 1.603
+Tamb: 20.062
+set_offset_A: 196411.0
+weight (mg): 1835993
+referenceUnit: 0.4013409586056645
+read time (s): 1.619
+Tamb: 20.0
+set_offset_A: 196411.0
+weight (mg): 1835995
+referenceUnit: 0.4013567538126362
+read time (s): 1.717
+Tamb: 20.0
+set_offset_A: 196411.0
+weight (mg): 1835985
+referenceUnit: 0.40137527233115466
+read time (s): 1.671
+Tamb: 20.0
+set_offset_A: 196411.0
+weight (mg): 1835943
+referenceUnit: 0.4013877995642702
+read time (s): 1.672
+Tamb: 20.0
+set_offset_A: 196449.493
+weight (mg): 1836024
+referenceUnit: 0.40137254901960784
+read time (s): 1.674
+Tamb: 19.937
+set_offset_A: 196449.493
+weight (mg): 1835932
+referenceUnit: 0.40139814814814817
+read time (s): 1.699
+Tamb: 19.937
+set_offset_A: 196487.375
+weight (mg): 1836034
+referenceUnit: 0.4013567538126362
+read time (s): 1.621
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1835967
+referenceUnit: 0.4013867102396514
+read time (s): 1.736
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1835957
+referenceUnit: 0.4014041394335512
+read time (s): 1.621
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1835862
+referenceUnit: 0.40141339869281045
+read time (s): 1.743
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1836017
+referenceUnit: 0.40140631808278865
+read time (s): 1.927
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1835840
+referenceUnit: 0.4014139433551198
+read time (s): 1.745
+Tamb: 19.875
+set_offset_A: 196449.493
+weight (mg): 1835981
+referenceUnit: 0.401427559912854
+read time (s): 1.656
+Tamb: 19.937
+set_offset_A: 196487.375
+weight (mg): 1836017
+referenceUnit: 0.4014161220043573
+read time (s): 1.667
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1836007
+referenceUnit: 0.40140631808278865
+read time (s): 1.677
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1835982
+referenceUnit: 0.4014297385620915
+read time (s): 1.686
+Tamb: 19.875
+set_offset_A: 196525.868
+weight (mg): 1835906
+referenceUnit: 0.4014183006535948
+read time (s): 1.702
+Tamb: 19.812
+set_offset_A: 196525.868
+weight (mg): 1835933
+referenceUnit: 0.40301579520697167
+read time (s): 1.702
+Tamb: 19.812
+set_offset_A: 196487.375
+weight (mg): 1835987
+referenceUnit: 0.4029264705882353
+read time (s): 1.605
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1835994
+referenceUnit: 0.4028763616557734
+read time (s): 1.708
+Tamb: 19.875
+set_offset_A: 196449.493
+weight (mg): 1835952
+referenceUnit: 0.4028720043572985
+read time (s): 1.652
+Tamb: 19.937
+set_offset_A: 196487.375
+weight (mg): 1835962
+referenceUnit: 0.4035136165577342
+read time (s): 1.678
+Tamb: 19.875
+set_offset_A: 196487.375
+weight (mg): 1835932
+referenceUnit: 0.4034776688453159
+read time (s): 1.735
+Tamb: 19.875
+set_offset_A: 196449.493
+weight (mg): 1836024
+referenceUnit: 0.40338289760348583
+read time (s): 1.745
+Tamb: 19.937
+set_offset_A: 196449.493
+weight (mg): 1835999
+referenceUnit: 0.4037260348583878
+read time (s): 1.633
+Tamb: 19.937
+set_offset_A: 196373.118
+weight (mg): 1836020
+referenceUnit: 0.4037162309368192
+read time (s): 1.706
+Tamb: 20.062
+set_offset_A: 196373.118
+weight (mg): 1835896
+referenceUnit: 0.40369607843137256
+read time (s): 1.674
+Tamb: 20.062
+set_offset_A: 196334.625
+weight (mg): 1835961
+referenceUnit: 0.40368899782135076
+read time (s): 1.658
+Tamb: 20.125

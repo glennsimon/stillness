@@ -12,15 +12,15 @@ LINE5="4 - quit"
 HEADERS_1=("" "" "T amb" "T boil" "T sthd" "T cool" "T cool" "T sthd" "jar" "amt coll")
 HEADERS_2=("Time" "PWM" "(C)" "(C)" "(C)" "in (C)" "out(C)" "tgt(C)" "#" "(ml)")
 VSEP="-----------------------------------------------------------------------------------------"
-SPACINGS=(10 4 7 7 7 7 7 7 4 9)
+SPACINGS=(10 6 7 7 7 7 7 7 4 9)
 # ENTER_LINE="Enter name for data file: "
-DESIREDSTILLHEADTEMP=76.5
-PWM=40
-KPWM=40000
+DESIREDSTILLHEADTEMP=75.0
+PWM=35
+KPWM=35000
 JAR=0
 DATA_ROW=("TBD" $PWM "TBD" "TBD" "TBD" "TBD" "TBD" $DESIREDSTILLHEADTEMP $JAR)
 SECONDS=10
-PREVSHT=76500
+PREVSHT=75000
 LAST_TEN_DTEMPS=()
 LAST_TEN_PWMS=()
 
@@ -158,7 +158,7 @@ adjust_power()
   PWMAVG=$((PWMSUM / COUNT))
   if [ $DIFFAVG -ne 0 ]
   then
-    INT=$(((UDSHT-USHT)*(PWM-PWMAVG)/DIFFAVG))
+    INT=$(((UDSHT-USHT)*(PWM-PWMAVG)/DIFFAVG/10))
   else
     INT=0
   fi

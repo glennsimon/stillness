@@ -12,6 +12,7 @@ headers2=("Time" "PWM" "(C)" "tgt(C)" "#" "(ml)")
 horizLine="---------------------------------------------------------"
 spacings=(10 6 7 7 7 7 7 7 4 9)
 boilerTarget=75
+# mPrevBoilerTgt=$(( boilerTarget * 1000 ))
 PWM=35
 mPWM=$(( PWM * 1000 ))
 jar=0
@@ -113,6 +114,8 @@ adjust_power()
 {
   mStillHeadTemp="$(convert_to_thousandths $boilerTemp)"
   mTgtStillHeadTemp="$(convert_to_thousandths $boilerTarget)"
+  echo $mStillHeadTemp
+  echo $mTgtStillHeadTemp
 
   # proportional adjustment
   stepChange="$((mPrevStillHeadTemp - mStillHeadTemp))"
@@ -138,6 +141,7 @@ adjust_power()
   fi
 
   mPWM=$((mPWM + stepChange + diff + integral))
+  echo $mPWM
   if [[ "${mPWM:0:1}" == "-" ]] || [[ "${#mPWM}" -le 3 ]]
   then 
     PWM=1

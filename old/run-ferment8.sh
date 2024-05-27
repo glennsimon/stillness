@@ -2,7 +2,7 @@
 
 # INSTRUCTIONS:
 # First, start runPWM.py from shell prompt as follows: 'python runPWM.py &'
-# Then, start this file: './run-still.sh'
+# Then, start this file: './run-ferment<N>.sh'
 
 instructions=(
   'Enter a number below to make a change (q to quit):',
@@ -15,34 +15,30 @@ instructions=(
   '7 - enter ETOH remaining at 100% abv'
   '8 - set PWM for boiler heater'
 )
-headers1=('' '' '' '' '' '' '' '' '' '' 'flow' 'amt' 'pct' 'amt' 'ETOH')
-headers2=('' '' 'T amb' 'T boil' 'T sthd' 'T cool' 'T cool' 'T boil' 'jar' '' 'rate' 'coll' 'alc' '100abv' 'rem')
-headers3=('Time' 'PWM' '(C)' '(C)' '(C)' 'in (C)' 'out(C)' 'tgt(C)' '#' 'PHASE' 'ml/min' '(ml)' 'out' '(ml)' '(ml)')
-horizLine="--------------------------------------------------------------------------------------------------------------------------------------"
-spacings=(10 6 7 7 7 7 7 7 4 7 7 7 7 7 7)
+headers1=('' '' '' '' '')
+headers2=('' '' 'T amb' 'T boil' 'Tboil')
+headers3=('Time' 'PWM' '(C)' '(C)' 'tgt(C)')
+horizLine="-----------------------------------------------"
+spacings=(10 6 7 7 7)
 boilerTarget="65"
-PWM="1"
+PWM="25"
 mPWM=$(( PWM * 1000 ))
-distillateFlowrate="0"
-percentABV="0"
-jar="0"
-phase="ferment"
-distillateVol=0
-extracted=0
-remaining=0
-mRemaining=$(( remaining * 1000 ))
 now=$( date '+%H:%M:%S' )
 prevNowNs=$( date '+%s%N' )
 prevNowMs=$(( prevNowNs / 1000000 ))
 startTimeNs=$( date '+%s%N' )
 startTimeMs=$(( startTimeNs / 1000000))
-dataRow=($now $PWM "TBD" "TBD" "TBD" "TBD" "TBD" $boilerTarget $jar $phase $distillateFlowrate $distillateVol $percentABV $extracted $remaining)
+dataRow=($now $PWM "TBD" "TBD" $boilerTarget)
 SECONDS=10
 mDeltaTArray=()
-mPWMArray=()
 fixedPWM=""
 
-dataFilename="$( date '+%F' )_run.txt"
+# PID constants, must have 3 places after decimal
+K_p="1.000"
+K_i="0.300"
+K_d="1.000"
+
+dataFilename="$( date '+%F' )_ferment.txt"
 
 write_row()
 {
@@ -84,7 +80,7 @@ convert_to_thousandths()
 
 reset_display()
 {
-  echo `clear`
+  clear
   for ((i=0; i < ${#instructions[@]}; i++)); do
     echo "${instructions[i]}"
   done
@@ -94,10 +90,23 @@ reset_display()
   echo $horizLine >&1
   write_row dataRow >&1
   echo ""
+  echo "fixedPWM = " $fixedPWM
   echo "PWM = " $PWM
-  echo "stepChange = " $stepChange
-  echo "diff = " $diff
-  echo "N = " $count "; mPWM = " $mPWM "; mPWMAvg = " $mPWMAvg "; integral = " $integral
+  echo "mError = " $mError
+  echo ""
+  echo "mK_p = " $mK_p
+  echo "mProp = " $mProp
+  echo ""
+  echo "mK_d = " $mK_d
+  echo "mDeltaTArray = " ${mDeltaTArray[@]}
+  echo "diffLastTwo = " $diffLastTwo
+  echo "mDiff = " $mDiff
+  echo ""
+  echo "mK_i = " $mK_i
+  echo "mDiffAvg = " $mDiffAvg
+  echo "mIntegral = " $mIntegral
+  echo ""
+  echo "N = " $count "; mPWM = " $mPWM
 }
 
 get_temp()
@@ -107,8 +116,7 @@ get_temp()
     mTempPattern='[^t]+t=(.+)'
     fracPart="999"
     wholePart="99"
-    if [[ $sensorOutput =~ $mTempPattern ]]
-    then
+    if [[ $sensorOutput =~ $mTempPattern ]]; then
       mTemp="${BASH_REMATCH[1]}"
       fracPart="${mTemp:(-3)}"
       wholePart="$((mTemp/1000))"
@@ -122,62 +130,66 @@ get_temp()
 # PID controller used to adjust power
 adjust_power()
 {
-  if [[ -z $fixedPWM ]]; then
-    mBoilerTemp="$(convert_to_thousandths $boilerTemp)"
-    mTgtBoilerTemp="$(convert_to_thousandths $boilerTarget)"
+  mBoilerTemp="$(convert_to_thousandths $boilerTemp)"
+  mTgtBoilerTemp="$(convert_to_thousandths $boilerTarget)"
+  mError="$((mTgtBoilerTemp - mBoilerTemp))"
+  count=${#mDeltaTArray[@]}
+  mPWM="$(convert_to_thousandths $PWM)"
 
-    # proportional adjustment
-    stepChange="$((mPrevBoilerTemp - mBoilerTemp))"
-    # differential adjustment
-    diff="$(((mTgtBoilerTemp - mBoilerTemp)/3))"
+  # Proportional adjustment
+  mK_p="$(convert_to_thousandths $K_p)"
+  mProp="$((mK_p * mError / 1000))"
 
-    # integral adjustment
-    mPWM="$(convert_to_thousandths $PWM)"
-    diffSum=0
-    mPWMSum=0
+  # Differential adjustment
+  mK_d="$(convert_to_thousandths $K_d)"
+  if [[ "$count" -ge 2 ]]; then
+    diffLastTwo=$((mDeltaTArray[-1] - mDeltaTArray[-2]))
+    mDiff="$((mK_d * diffLastTwo / 1000))"
+  else
+    mDiff="0"
+  fi
+
+  # Integral adjustment
+  mK_i="$(convert_to_thousandths $K_i)"
+  if [[ "$count" -ge 1 ]]; then
+    mDiffSum="0"
     for i in "${!mDeltaTArray[@]}"; do
-      diffSum=$((diffSum + mDeltaTArray[$i]))
-      mPWMSum=$((mPWMSum + mPWMArray[$i]))
+      mDiffSum=$((mDiffSum + mDeltaTArray[$i]))
     done
-    count=${#mDeltaTArray[@]}
-    diffAvg=$((diffSum / count))
-    mPWMAvg=$((mPWMSum / count))
-    if [ $diffAvg -ne 0 ]
-    then
-      integral=$(((mTgtBoilerTemp-mBoilerTemp)*(mPWM-mPWMAvg)/diffAvg/10))
-    else
-      integral=0
-    fi
-
-    mPWM=$((mPWM + stepChange + diff + integral))
-    if [[ "${mPWM:0:1}" == "-" ]] || [[ "${#mPWM}" -le 3 ]]
-    then 
-      PWM=1
-    elif [[ "${#mPWM}" -ge 3 ]] && [[ "${mPWM::-3}" -ge 99 ]]
-    then
-      PWM=99
-    else
-      PWM="${mPWM:0:(-3)}.${mPWM:(-3)}"
-    fi
+    mDiffAvg=$((mDiffSum / count))
+  else
+    mDiffAvg="0"
+  fi
+  if [[ $mDiffAvg -ne 0 ]]; then
+    mIntegral=$((mK_i * mDiffAvg / 1000))
+  else
+    mIntegral="0"
+  fi
+  mPWM=$((mPWM + mDiff + mProp + mIntegral))
+  if [[ "${mPWM:0:1}" == "-" ]] || [[ "${#mPWM}" -le 3 ]]; then
+    PWM=1
+  # Linear approximation of power vs PWM intersects 100% at 85% due to 
+  # non-linearity of power controller, setting at 85 makes PID controller
+  # more responsive on the high end
+  elif [[ "${#mPWM}" -ge 3 ]] && [[ "${mPWM::-3}" -ge 85 ]]; then
+    PWM=85
+  else
+    PWM="${mPWM:0:(-3)}.${mPWM:(-3)}"
+  fi
+  if [[ -z $fixedPWM ]]; then
     echo $PWM > pwm_setting
-    mPrevBoilerTemp=$mBoilerTemp
   fi
 }
 
 update_arrays()
 {
-  if [ ${#mDeltaTArray[@]} -ge 10 ]
-  then
-    for i in {1..10}
-    do
+  if [ ${#mDeltaTArray[@]} -ge 10 ]; then
+    for i in {1..10}; do
       mDeltaTArray[$i-1]=${mDeltaTArray[$i]}
-      mPWMArray[$i-1]=${mPWMArray[$i]}
     done
     mDeltaTArray[9]=$((mTgtBoilerTemp - mBoilerTemp))
-    mPWMArray[9]=$mPWM
   else
     mDeltaTArray+=($((mTgtBoilerTemp - mBoilerTemp)))
-    mPWMArray+=($mPWM)
   fi
 }
 
@@ -198,7 +210,6 @@ help()
   echo
 }
 
-clear
 write_row headers1 >> $dataFilename
 write_row headers2 >> $dataFilename
 write_row headers3 >> $dataFilename
@@ -212,7 +223,9 @@ main()
       1)
         clear
         echo "Enter the desired boiler temperature: "
-        read boilerTarget ;;
+        read boilerTarget         
+        mDeltaTArray=()
+        mDeltaTArray[0]=$((boilerTarget * 1000 - mBoilerTemp)) ;;
       2)
         clear
         echo "Enter the amount of distillate: "
@@ -242,43 +255,32 @@ main()
       8)
         clear
         echo "Enter the PWM (0-99), or <CR> for PID controlled PWM: "
-        read PWM
-        fixedPWM="$PWM"    
-        mPWM=$(( PWM * 1000 ))
-        mPWMArray=($mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM)
-        mDeltaTArray=(0 0 0 0 0 0 0 0 0 0)
-        echo $PWM > pwm_setting ;;
+        read fixedPWM 
+        if [[ -n $fixedPWM ]]; then
+          echo $fixedPWM > pwm_setting 
+        fi ;;
       "q" | "Q")
         exit ;;
     esac
   
-    if [ $SECONDS -gt 8 ]
-    then
+    if [ $SECONDS -gt 8 ]; then
       input=""
       now=$( date '+%H:%M:%S' )
       nowNs=$( date '+%s%N' )
       nowMs=$(( nowNs / 1000000 ))
       ambTemp="$(get_temp '28-032197797f0c')"
       boilerTemp="$(get_temp '28-032197792401')"
-      # stillheadTemp="$(get_temp '28-032197794fef')"
-      stillheadTemp="N/A"
-      # coolInletTemp="$(get_temp '28-0321977926b2')"
-      coolInletTemp="N/A"
-      # coolOutletTemp="$(get_temp '28-032197797070')"
-      coolOutletTemp="N/A"
-      mDeltaDistVol=$(( distillateFlowrate * (nowMs - prevNowMs) / 60 ))
-      mDistillateVol=$(( mDistillateVol + mDeltaDistVol ))
-      distillateVol=$(( mDistillateVol / 1000 ))
-      mExtracted=$(( mDeltaDistVol * percentABV / 100 ))
-      extracted=$(( mExtracted / 1000 ))
-      mRemaining=$(( mRemaining - mExtracted ))
-      remaining=$(( mRemaining / 1000 ))
-      dataRow=($now $PWM $ambTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $boilerTarget $jar $phase $distillateFlowrate $distillateVol $percentABV $extracted $remaining)
-      clear
+      stillheadTemp="$(get_temp '28-032197794fef')"
+      coolInletTemp="$(get_temp '28-0321977926b2')"
+      coolOutletTemp="$(get_temp '28-032197797070')"
+      if [[ -z $fixedPWM ]]; then
+        dataRow=($now $PWM $ambTemp $boilerTemp $boilerTarget)
+      else
+        dataRow=($now $fixedPWM $ambTemp $boilerTemp $boilerTarget)
+      fi
       reset_display
       i=0
-      for datum in ${dataRow[@]}
-      do
+      for datum in ${dataRow[@]}; do
         printf "%${spacings[i]}s |" $datum >> $dataFilename
         i=$(( i + 1 ))
       done
@@ -297,9 +299,9 @@ while getopts "ht:c:f:j:p:a:r:d:" option; do
       help
       exit ;;
     t) # boiler target
-      boilerTarget=$OPTARG 
-      mPWMArray=( $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM )
-      mDeltaTArray=( 0 0 0 0 0 0 0 0 0 0 ) ;;
+      boilerTarget=$OPTARG
+      mDeltaTArray=()
+      mDeltaTArray[0]=$((boilerTarget * 1000 - mBoilerTemp)) ;;
     c) # amount collected
       distillateVol=$OPTARG
       mDistillateVol=$(( distillateVol * 1000 )) ;;
@@ -315,12 +317,8 @@ while getopts "ht:c:f:j:p:a:r:d:" option; do
       remaining=$OPTARG
       mRemaining=$(( remaining * 1000 )) ;;
     d) # duty cycle (PWM)
-      PWM=$OPTARG 
-      mPWM=$(( PWM * 1000 ))
-      fixedPWM="$PWM"    
-      mDeltaTArray=($mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM $mPWM)
-      mPWMArray=(0 0 0 0 0 0 0 0 0 0)
-      echo $PWM > pwm_setting ;;
+      fixedPWM=$OPTARG 
+      echo $fixedPWM > pwm_setting ;;
    \?) # invalid
       echo "Error: Invalid option"
       exit ;;

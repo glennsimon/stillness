@@ -18,7 +18,7 @@ PWM=40
 mPWM=$(( PWM * 1000 ))
 jar=0
 dataRow=("TBD" $PWM "TBD" "TBD" "TBD" "TBD" "TBD" $stillheadTarget $jar)
-SECONDS=10
+SECONDS=8
 mDeltaTArray=()
 mPWMArray=()
 
@@ -200,7 +200,7 @@ do
     break
   fi
 
-  if [ $SECONDS -gt 8 ]
+  if [ $SECONDS -gt 5 ]
   then
     input=""
     now=$( date '+%H:%M:%S' )

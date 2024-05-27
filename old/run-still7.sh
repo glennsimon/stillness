@@ -113,9 +113,9 @@ get_temp()
       fracPart="${mTemp:(-3)}"
       wholePart="$((mTemp/1000))"
     fi
-    echo "$wholePart.$fracPart"
+    echo "$wholePart.$fracPart" 
   else
-    echo 'absent'
+    echo 'absent' 
   fi
 }
 
@@ -151,7 +151,7 @@ adjust_power()
 
     mPWM=$((mPWM + stepChange + diff + integral))
     if [[ "${mPWM:0:1}" == "-" ]] || [[ "${#mPWM}" -le 3 ]]
-    then
+    then 
       PWM=1
     elif [[ "${#mPWM}" -ge 3 ]] && [[ "${mPWM::-3}" -ge 99 ]]
     then
@@ -203,7 +203,7 @@ write_row headers2 >> $dataFilename
 write_row headers3 >> $dataFilename
 echo $horizLine >> $dataFilename
 
-main()
+main() 
 {
   while true ; do
     read -rsn 1 -t 0.1 input
@@ -236,18 +236,18 @@ main()
       7)
         clear
         echo "Enter the remaining ethanol: "
-        read remaining
+        read remaining 
         mRemaining=$(( remaining * 1000 )) ;;
       8)
         clear
         echo "Enter the PWM (0-99), or <CR> for PID controlled PWM: "
-        read PWM
+        read PWM 
         fixedPWM="$PWM"
         echo $PWM > pwm_setting ;;
       "q" | "Q")
         exit ;;
     esac
-
+  
     if [ $SECONDS -gt 6 ]
     then
       input=""
@@ -306,8 +306,8 @@ while getopts "ht:c:f:j:p:a:r:d:" option; do
       remaining=$OPTARG
       mRemaining=$(( remaining * 1000 )) ;;
     d) # duty cycle (PWM)
-      PWM=$OPTARG
-      fixedPWM="$PWM"
+      PWM=$OPTARG 
+      fixedPWM="$PWM"    
       echo $PWM > pwm_setting ;;
    \?) # invalid
       echo "Error: Invalid option"

@@ -1,58 +1,54 @@
 #!/bin/bash
 
-# INSTRUCTIONS:
-# First, start runPWM.py from shell prompt as follows: 'python runPWM.py &'
-# Then, start this file: './run-still<N>.sh'
+help()
+{
+  #Display help
+  echo 'Syntax: run-still.sh -h | -r <rem ETOH> [-p <phase>] [-c <amount coll>] [-j <jar #>]'
+  echo 'where:'
+  echo '  -h is help'
+  echo '  -r <rem ETOH> sets remaining ethanol in the boiler (ml)'
+  echo '  -p <phase> sets phase of run (heat, equil, FORE, HEADS, HEARTS, TAILS, cool)'
+  echo '  -c <amount coll>  sets the amount of distillate collected'
+  echo '  -j <jar #>  sets the jar number'
+  echo
+  echo 'At least one argument is required, either -h or -r <rem ETOH>, others optional'
+}
 
-instructions=(
-  'Enter a number below to make a change (q to quit):',
-  '1 - change desired stillhead temperature',
-  '2 - enter the amount of distillate collected',
-  '3 - enter the flow rate',
-  '4 - enter the jar number',
-  '5 - enter the phase (E, H, MR, T)',
-  '6 - enter the percent alc emerging',
-  '7 - enter ETOH remaining at 100% abv'
-  '8 - set PWM for boiler heater'
+
+TOP_DISPLAY=(
+  'Enter a letter below to make a change (q to quit):'
+  'p - enter the phase (HEAT, EQUIL, FORE, HEADS, HEARTS, TAILS, COOL)'
+  'r - enter ETOH remaining at 100% abv'
+  'c - enter the amount of distillate collected'
+  'j - enter the jar number'
 )
-headers1=('' '' '' '' '' '' '' '' '' '' 'flow' 'amt' 'pct' 'amt' 'ETOH')
-headers2=('' '' 'T amb' 'T boil' 'T sthd' 'T cool' 'T cool' 'T sthd' 'jar' '' 'rate' 'coll' 'alc' '100abv' 'rem')
-headers3=('Time' 'PWM' '(C)' '(C)' '(C)' 'in (C)' 'out(C)' 'tgt(C)' '#' 'PHASE' 'ml/min' '(ml)' 'out' '(ml)' '(ml)')
-horizLine="--------------------------------------------------------------------------------------------------------------------------------------"
-spacings=(10 6 7 7 7 7 7 7 4 7 7 7 7 7 7)
-stillHeadTarget="91"
-PWM="1"
-mPWM=$(( PWM * 1000 ))
-distillateFlowrate="10"
-percentABV="80"
+HEADERS_1=('' '' '' '' '' '' '' '' 'flow' 'amt' 'pct' 'ETOH')
+HEADERS_2=('' 'Parrot' 'T boil' 'T sthd' 'T cool' 'T cool' 'jar' '' 'rate' 'coll' 'alc' 'rem')
+HEADERS_3=('Time' 'T (C)' '(C)' '(C)' 'in (C)' 'out(C)' '#' 'PHASE' 'ml/min' '(ml)' 'out' '(ml)')
+H_LINE="--------------------------------------------------------------------------------------------------------------------------------------"
+SPACINGS=(16 7 7 7 7 7 4 7 7 7 7 7)
+LOOP_TIME="10"
+distillateFlowrate="TBD"
+percentABV="TBD"
 jar="0"
-phase="E"
+phase="HEAT"
 distillateVol="0"
-extracted="0"
 remaining="3000"
-mRemaining=$(( remaining * 1000 ))
-now=$( date '+%H:%M:%S' )
-prevNowNs=$( date '+%s%N' )
-prevNowMs=$(( prevNowNs / 1000000 ))
-startTimeNs=$( date '+%s%N' )
-startTimeMs=$(( startTimeNs / 1000000))
-dataRow=($now $PWM "TBD" "TBD" "TBD" "TBD" "TBD" $stillHeadTarget $jar $phase $distillateFlowrate $distillateVol $percentABV $extracted $remaining)
-SECONDS=10
-mDeltaTArray=()
-fixedPWM=""
-
-# PID constants, must have 3 places after decimal
-K_p="5.000"
-K_i="0.300"
-K_d="3.000"
+mRemaining="$(( remaining * 1000 ))"
+now="$( date '+%m-%d %H:%M:%S' )"
+startTimeMs="$(( $(date '+%s%N') / 1000000))"
+prevNowMs="$startTimeMs"
+dataRow=($now "TBD" "TBD" "TBD" "TBD" "TBD" $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
+dScaleArray=(0)
+pScaleArray=(0)
 
 dataFilename="./runs/$( date '+%F' )_run.txt"
 
-write_row()
+writeRow()
 {
   local -n ary=$1
   for ((i=0; i < ${#ary[@]}; i++)); do
-    printf "%${spacings[i]}s |" "${ary[i]}"
+    printf "%${SPACINGS[i]}s |" "${ary[i]}"
   done
   echo ""
 }
@@ -86,24 +82,17 @@ convert_to_thousandths()
   echo "$thousandths"
 }
 
-reset_display()
+resetDisplay()
 {
   clear
-  for ((i=0; i < ${#instructions[@]}; i++)); do
-    echo "${instructions[i]}"
+  for ((i=0; i < ${#TOP_DISPLAY[@]}; i++)); do
+    echo "${TOP_DISPLAY[i]}"
   done
-  write_row headers1 >&1
-  write_row headers2 >&1
-  write_row headers3 >&1
-  echo $horizLine >&1
-  write_row dataRow >&1
-  echo ""
-  echo "fixedPWM = " $fixedPWM
-  echo "PWM = " $PWM
-  echo "mDiff = " $mDiff
-  echo "mProp = " $mProp
-  echo "mIntegral = " $mIntegral
-  echo "N = " $count "; mPWM = " $mPWM
+  writeRow HEADERS_1 >&1
+  writeRow HEADERS_2 >&1
+  writeRow HEADERS_3 >&1
+  echo $H_LINE >&1
+  writeRow dataRow >&1
 }
 
 get_temp()
@@ -124,208 +113,160 @@ get_temp()
   fi
 }
 
-# PID controller used to adjust power
-adjust_power()
+# usage: $(updateArray <array to update> <value to add to end> [<array length>])
+# array holds 10 values max unless optional <array length> option is used
+updateArray()
 {
-  mStillHeadTemp="$(convert_to_thousandths $stillheadTemp)"
-  mTgtStillHeadTemp="$(convert_to_thousandths $stillHeadTarget)"
-  mError="$((mTgtStillHeadTemp - mStillHeadTemp))"
-  count=${#mDeltaTArray[@]}
-  mPWM="$(convert_to_thousandths $PWM)"
-
-  # Proportional adjustment
-  mK_p="$(convert_to_thousandths $K_p)"
-  mProp="$((mK_p * mError / 1000))"
-
-  # Differential adjustment
-  mK_d="$(convert_to_thousandths $K_d)"
-  if [[ "$count" -ge 2 ]]; then
-    lastMinusFirst=$((mDeltaTArray[-1] - mDeltaTArray[0]))
-    mDiff="$((mK_d * lastMinusFirst / 1000))"
-  else
-    mDiff="0"
-  fi
-  
-  # Integral adjustment
-  mK_i="$(convert_to_thousandths $K_i)"
-  if [[ "$count" -ge 1 ]]; then
-    mDiffSum="0"
-    for i in "${!mDeltaTArray[@]}"; do
-      mDiffSum=$((mDiffSum + mDeltaTArray[$i]))
+  local -n ary=$1
+  length="${3:-10}"
+  if [[ "${#ary[@]}" -ge "$length" ]]; then
+    for ((i = 1 ; i < "$length" ; i++)); do
+      ary[$i-1]="${ary[$i]}"
     done
-    mDiffAvg=$((mDiffSum / count))
+    ary[9]="$2"
   else
-    mDiffAvg="0"
-  fi
-  if [[ $mDiffAvg -ne 0 ]]; then
-    mIntegral=$((mK_i * mDiffAvg / 1000))
-  else
-    mIntegral="0"
-  fi
-  mPWM=$((mPWM + mDiff + mProp + mIntegral))
-  if [[ "${mPWM:0:1}" == "-" ]] || [[ "${#mPWM}" -le 3 ]]; then
-    PWM=1
-  # Linear approximation of power vs PWM intersects 100% at 85% due to 
-  # non-linearity of power controller, setting at 85 makes PID controller
-  # more responsive on the high end
-  elif [[ "${#mPWM}" -ge 3 ]] && [[ "${mPWM::-3}" -ge 85 ]]; then
-    PWM=85
-  else
-    PWM="${mPWM:0:(-3)}.${mPWM:(-3)}"
-  fi
-  if [[ -z $fixedPWM ]]; then
-    echo $PWM > pwm_setting
+    ary+=("$2")
   fi
 }
 
-update_arrays()
+cleanUpAndClose()
 {
-  if [ ${#mDeltaTArray[@]} -ge 10 ]; then
-    for i in {1..10}; do
-      mDeltaTArray[$i-1]=${mDeltaTArray[$i]}
-    done
-    mDeltaTArray[9]=$((mTgtStillHeadTemp - mStillHeadTemp))
+  # Careful, this will kill all python scripts running on the computer
+  pid=$(pidof python)
+  while [[ -n "$pid" ]]; do
+    kill -9 $pid
+    pid=$(pidof python)
+  done
+  exit
+}
+
+dScaleIncreasing()
+{
+  if [[ "${#dScaleArray[@]}" -ge 10]]; then
+    mDiff="$(( dScaleArray[9] - dScaleArray[0] ))"
+    if [[ "$mDiff" -ge 1000 ]]; then
+      echo 0 # true
+    fi
   else
-    mDeltaTArray+=($((mTgtStillHeadTemp - mStillHeadTemp)))
+    echo 1 # false
   fi
 }
 
-help()
+dScaleDrop()
 {
-  #Display help
-  echo "Syntax: run-still [-h|t|c|f|j|p|a|r|d]"
-  echo "options:"
-  echo "h         Print these help instructions"
-  echo "t <temp>  Set desired stillhead temperature"
-  echo "c <coll>  Set the amount of distillate collected"
-  echo "f <rate>  Set the distillate flow rate"
-  echo "j <jar#>  Set the jar number"
-  echo "p <phase> Phase of run (E, H, MR, T)"
-  echo "a <abv>   Percent ABV of the distillate"
-  echo "r <rem>   Remaining alcohol at 100% ABV"
-  echo "d <PWM>   Set to a fixed PWM for the heater"
-  echo
+  if [[ "${#dScaleArray[@]}" -ge 10]]; then
+    mDiff="$(( dScaleArray[0] - dScaleArray[9] ))"
+    if [[ "$mDiff" -ge 10000 ]]; then
+      echo 0 # true
+    fi
+  else
+    echo 1 # false
+  fi
 }
-
-write_row headers1 >> $dataFilename
-write_row headers2 >> $dataFilename
-write_row headers3 >> $dataFilename
-echo $horizLine >> $dataFilename
 
 main()
-{
+{ #try
+  echo "Need to write calcs.py script - include re-tare for weight drop on dScale"
+  cleanUpAndClose
+  python calcs.py $LOOP_TIME &
+  resetDisplay
+  writeRow HEADERS_1 >> $dataFilename
+  writeRow HEADERS_2 >> $dataFilename
+  writeRow HEADERS_3 >> $dataFilename
+  echo $H_LINE >> $dataFilename
+  now="$( date '+%m-%d %H:%M:%S' )"
+  parrotTemp="$(get_temp '28-3ce104578c29')"
+  boilerTemp="$(get_temp '28-032197792401')"
+  stillheadTemp="$(get_temp '28-032197794fef')"
+  coolInletTemp="$(get_temp '28-0321977926b2')"
+  coolOutletTemp="$(get_temp '28-032197797070')"
   while true ; do
-    read -rsn 1 -t 0.1 input
-    case $input in
-      1)
-        clear
-        echo "Enter the desired stillhead temperature: "
-        read stillHeadTarget
-        mDeltaTArray=()
-        mDeltaTArray[0]=$((stillHeadTarget * 1000 - mStillHeadTemp)) ;;
-      2)
-        clear
-        echo "Enter the amount of distillate: "
-        read distillateVol
-        mDistillateVol=$(( distillateVol * 1000 )) ;;
-      3)
-        clear
-        echo "Enter the distillate flow rate: "
-        read distillateFlowrate ;;
-      4)
-        clear
-        echo "Enter the jar number: "
-        read jar ;;
-      5)
-        clear
-        echo "Enter the phase (E, H, MR, T): "
-        read phase ;;
-      6)
-        clear
-        echo "Enter the percent ABV: "
-        read percentABV ;;
-      7)
-        clear
-        echo "Enter the remaining ethanol: "
-        read remaining
-        mRemaining=$(( remaining * 1000 )) ;;
-      8)
-        clear
-        echo "Enter the PWM (0-99), or <CR> for PID controlled PWM: "
-        read fixedPWM
-        if [[ -n $fixedPWM ]]; then
-          echo $fixedPWM > pwm_setting 
-        fi ;;
-      "q" | "Q")
-        exit ;;
-    esac
-
-    if [ $SECONDS -gt 6 ]; then
-      input=""
-      now=$( date '+%H:%M:%S' )
-      nowNs=$( date '+%s%N' )
-      nowMs=$(( nowNs / 1000000 ))
-      ambTemp="$(get_temp '28-032197797f0c')"
-      boilerTemp="$(get_temp '28-032197792401')"
-      stillheadTemp="$(get_temp '28-032197794fef')"
-      coolInletTemp="$(get_temp '28-0321977926b2')"
-      coolOutletTemp="$(get_temp '28-032197797070')"
-      mDeltaDistVol=$(( distillateFlowrate * (nowMs - prevNowMs) / 60 ))
-      mDistillateVol=$(( mDistillateVol + mDeltaDistVol ))
-      distillateVol=$(( mDistillateVol / 1000 ))
-      mExtracted=$(( mDeltaDistVol * percentABV / 100 ))
-      extracted=$(( mExtracted / 1000 ))
-      mRemaining=$(( mRemaining - mExtracted ))
-      remaining=$(( mRemaining / 1000 ))
-      if [[ -z $fixedPWM ]]; then
-        dataRow=($now $PWM $ambTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $stillHeadTarget $jar $phase $distillateFlowrate $distillateVol $percentABV $extracted $remaining)
-      else
-        dataRow=($now $fixedPWM $ambTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $stillHeadTarget $jar $phase $distillateFlowrate $distillateVol $percentABV $extracted $remaining)
+    nowMs="$(( $(date '+%s%N') / 1000000))"
+    if [[ $nowMs -lt $((LOOP_TIME * 1000 + prevNowMs)) ]]; then
+      read -rsn 1 -t 0.1 input
+      case $input in
+        p)
+          clear
+          echo "Enter the phase (E, H, MR, T): "
+          read phase ;;
+        r)
+          clear
+          echo "Enter the remaining ethanol: "
+          read remaining
+          mRemaining=$(( remaining * 1000 )) ;;
+        c)
+          clear
+          echo "Enter the amount of distillate: "
+          read distillateVol
+          mDistillateVol=$(( distillateVol * 1000 )) ;;
+        j)
+          clear
+          echo "Enter the jar number: "
+          read jar ;;
+        "q" | "Q")
+          cleanUpAndClose ;;
+      esac
+    else
+      # get the latest scale values and append to array
+      if [[ -e "./temp/pScale.txt" ]]; then
+        value=`cat ./temp/pScale.txt`
+        $(updateArray $pScaleArray $value)
       fi
-      reset_display
-      i=0
-      for datum in ${dataRow[@]}; do
-        printf "%${spacings[i]}s |" $datum >> $dataFilename
-        i=$(( i + 1 ))
-      done
-      echo "" >> $dataFilename
-      update_arrays
-      adjust_power
-      SECONDS=0
+      if [[ -e "./temp/dScale.txt" ]]; then
+        value=`cat ./temp/dScale.txt`
+        $(updateArray $dScaleArray $value)
+      fi
+      if dScaleDrop; then
+        jar+=1
+        dScaleArray=(0)
+        # python tareScale.py 24 25 & - NO! do this in the python script if dScale weight drops
+      fi
+      if dScaleIncreasing; then
+        # python script calculates density, %ABV, collected volume, flow rate, and remaining ETOH
+        if [[ -e "./temp/flowrate.txt" ]]; then
+          distillateFlowrate=`cat ./temp/flowrate.txt`
+        fi
+        if [[ -e "./temp/collected.txt" ]]; then
+          distillateVol=`cat ./temp/collected.txt`
+        fi
+        if [[ -e "./temp/percentABV.txt" ]]; then
+          percentABV=`cat ./temp/percentABV.txt`
+        fi
+        if [[ -e "./temp/remaining.txt" ]]; then
+          remaining=`cat ./temp/remaining.txt`
+        fi
+      fi
       prevNowMs=$nowMs
     fi
   done
+  dataRow=($now $parrotTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
+  for ((i = 0 ; i < ${#dataRow[@]} ; i++)); do
+    printf "%${SPACINGS[i]}s |" ${dataRow[i]} >> $dataFilename
+  done
+  echo "" >> $dataFilename
+  resetDisplay
+} || { #catch (not sure if this works)
+  cleanUpAndClose
 }
 
-while getopts "ht:c:f:j:p:a:r:d:" option; do
+while getopts "hc:j:p:r:" option; do
   case $option in
     h) # display help
       help
       exit ;;
-    t) # stillhead target
-      stillHeadTarget=$OPTARG
-      mDeltaTArray=()
-      mDeltaTArray[0]=$((stillHeadTarget * 1000 - mStillHeadTemp)) ;;
     c) # amount collected
       distillateVol=$OPTARG
       mDistillateVol=$(( distillateVol * 1000 )) ;;
-    f) # distillate flow rate
-      distillateFlowrate=$OPTARG ;;
     j) # jar number
       jar=$OPTARG ;;
     p) # phase
       phase=$OPTARG ;;
-    a) # percent ABV of distillate
-      percentABV=$OPTARG ;;
     r) # remaining alcohol
       remaining=$OPTARG
       mRemaining=$(( remaining * 1000 )) ;;
-    d) # duty cycle (PWM)
-      fixedPWM=$OPTARG
-      echo $fixedPWM > pwm_setting ;;
    \?) # invalid
       echo "Error: Invalid option"
-      exit ;;
+      cleanUpAndClose ;;
   esac
 done
 

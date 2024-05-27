@@ -12,13 +12,13 @@ HEADERS_2=("Time" "PWM" "(C)" "tgt(C)" "#" "(ml)")
 VSEP="----------------------------------------------------------"
 SPACINGS=(10 6 7 7 7 7 7 7 4 9)
 # ENTER_LINE="Enter name for data file: "
-DESIREDSTILLHEADTEMP=75.0
+DESIREDSTILLHEADTEMP=60.0
 PWM=35
 KPWM=35000
 JAR=0
 DATA_ROW=("TBD" $PWM "TBD" "TBD" "TBD" "TBD" "TBD" $DESIREDSTILLHEADTEMP $JAR)
 SECONDS=10
-PREVSHT=75000
+PREVSHT=60000
 LAST_TEN_DTEMPS=()
 LAST_TEN_PWMS=()
 

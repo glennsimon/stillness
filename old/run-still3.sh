@@ -11,7 +11,7 @@ LINE4="3 - enter the jar number"
 LINE5="4 - quit"
 HEADERS_1=("" "" "T boil" "T sthd" "T sthd" "jar" "amt coll")
 HEADERS_2=("Time" "PWM" "(C)" "(C)" "tgt(C)" "#" "(ml)")
-VSEP="-----------------------------------------------------------------"
+VSEP="--------------------------------------------------------------"
 SPACINGS=(10 4 7 7 7 4 9)
 ENTER_LINE="Enter name for data file: "
 DESIREDSTILLHEADTEMP=76.5
@@ -36,7 +36,7 @@ done
 echo "" >> $DATAFILENAME
 for ((i=0; i < ${#HEADERS_2[@]}; i++))
 do
-  printf "%${SPACINGS[$i]}s |" "${HEADERS_2[$i]}" >> $DATAFILENAME
+  printf "%${SPACINGS[$i]}s |" "${HEADERS_2[$i]}" >> $DATAFILENAME 
 done
 echo "" >> $DATAFILENAME
 echo $VSEP >> $DATAFILENAME

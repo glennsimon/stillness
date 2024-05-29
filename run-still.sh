@@ -196,7 +196,7 @@ main()
       now="$( date '+%m-%d %H:%M:%S' )"
       dataRow=("$now" $parrotTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
       for ((i = 0 ; i < ${#dataRow[@]} ; i++)); do
-        printf "%${SPACINGS[i]}s |" ${dataRow[i]} >> $dataFilename
+        printf "%${SPACINGS[i]}s |" "${dataRow[i]}" >> $dataFilename
       done
       echo "" >> $dataFilename
       resetDisplay

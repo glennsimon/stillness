@@ -25,7 +25,7 @@ TOP_DISPLAY=(
 HEADERS_1=('' '' '' '' '' '' '' '' 'flow' 'amt' 'pct' 'ETOH')
 HEADERS_2=('' 'Parrot' 'T boil' 'T sthd' 'T cool' 'T cool' 'jar' '' 'rate' 'coll' 'alc' 'rem')
 HEADERS_3=('Time' 'T (C)' '(C)' '(C)' 'in (C)' 'out(C)' '#' 'PHASE' 'ml/min' '(ml)' 'out' '(ml)')
-H_LINE="--------------------------------------------------------------------------------------------------------------------------------------"
+H_LINE="-------------------------------------------------------------------------------------------------------------------"
 SPACINGS=(16 7 7 7 7 7 4 7 7 7 7 7)
 LOOP_TIME="10"
 distillateFlowrate="TBD"
@@ -34,13 +34,10 @@ jar="0"
 phase="HEAT"
 distillateVol="0"
 remaining="3000"
-mRemaining="$(( remaining * 1000 ))"
 now="$( date '+%m-%d %H:%M:%S' )"
 startTimeMs="$(( $(date '+%s%N') / 1000000))"
 prevNowMs="$startTimeMs"
-dataRow=($now "TBD" "TBD" "TBD" "TBD" "TBD" $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
-dScaleArray=(0)
-pScaleArray=(0)
+dataRow=("$now" "TBD" "TBD" "TBD" "TBD" "TBD" $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
 
 dataFilename="./runs/$( date '+%F' )_run.txt"
 
@@ -53,15 +50,10 @@ writeRow()
   echo ""
 }
 
-convert_to_thousandths()
+truncate()
 {
   decimal=$1
-  frac="000"
-  sign=""
-  if [[ "${decimal:0:1}" == "-" ]]; then
-    sign="-"
-    decimal="${decimal:1}"
-  fi
+  frac=""
   if [[ "$decimal" =~ \. ]]; then
     whole="${decimal%%.*}"
     frac="${decimal#*.}"
@@ -69,17 +61,7 @@ convert_to_thousandths()
   else
     whole="$decimal"
   fi
-  while [[ "${#frac}" -lt 3 ]]; do
-    frac=0"$frac"
-  done
-  thousandths="$whole$frac"
-  while [[ "${thousandths:0:1}" == "0" ]] && [[ "${#thousandths}" -gt 1 ]]; do
-    thousandths="${thousandths:1}"
-  done
-  if [[ "$thousandths" -ne 0 ]]; then
-    thousandths="$sign$thousandths"
-  fi
-  echo "$thousandths"
+  echo "$whole.$frac"
 }
 
 resetDisplay()
@@ -127,6 +109,7 @@ updateArray()
   else
     ary+=("$2")
   fi
+  echo $ary
 }
 
 cleanUpAndClose()
@@ -140,35 +123,10 @@ cleanUpAndClose()
   exit
 }
 
-dScaleIncreasing()
-{
-  if [[ "${#dScaleArray[@]}" -ge 10]]; then
-    mDiff="$(( dScaleArray[9] - dScaleArray[0] ))"
-    if [[ "$mDiff" -ge 1000 ]]; then
-      echo 0 # true
-    fi
-  else
-    echo 1 # false
-  fi
-}
-
-dScaleDrop()
-{
-  if [[ "${#dScaleArray[@]}" -ge 10]]; then
-    mDiff="$(( dScaleArray[0] - dScaleArray[9] ))"
-    if [[ "$mDiff" -ge 10000 ]]; then
-      echo 0 # true
-    fi
-  else
-    echo 1 # false
-  fi
-}
-
 main()
 { #try
-  echo "Need to write calcs.py script - include re-tare for weight drop on dScale"
-  cleanUpAndClose
-  python calcs.py $LOOP_TIME &
+  python runPWM.py &
+  python hx711py/calcs.py &
   resetDisplay
   writeRow HEADERS_1 >> $dataFilename
   writeRow HEADERS_2 >> $dataFilename
@@ -182,69 +140,68 @@ main()
   coolOutletTemp="$(get_temp '28-032197797070')"
   while true ; do
     nowMs="$(( $(date '+%s%N') / 1000000))"
-    if [[ $nowMs -lt $((LOOP_TIME * 1000 + prevNowMs)) ]]; then
+    if [[ "$nowMs" -lt $((LOOP_TIME * 1000 + prevNowMs)) ]]; then
       read -rsn 1 -t 0.1 input
       case $input in
         p)
           clear
           echo "Enter the phase (E, H, MR, T): "
-          read phase ;;
+          read phase
+          resetDisplay ;;
         r)
           clear
           echo "Enter the remaining ethanol: "
           read remaining
-          mRemaining=$(( remaining * 1000 )) ;;
+          echo $remaining > "./temp/remaining.txt"
+          resetDisplay ;;
         c)
           clear
           echo "Enter the amount of distillate: "
           read distillateVol
-          mDistillateVol=$(( distillateVol * 1000 )) ;;
+          echo $distillateVol > "./temp/distillate.txt"
+          mDistillateVol=$(( distillateVol * 1000 ))
+          resetDisplay ;;
         j)
           clear
           echo "Enter the jar number: "
-          read jar ;;
+          read jar
+          resetDisplay ;;
         "q" | "Q")
           cleanUpAndClose ;;
       esac
     else
-      # get the latest scale values and append to array
-      if [[ -e "./temp/pScale.txt" ]]; then
-        value=`cat ./temp/pScale.txt`
-        $(updateArray $pScaleArray $value)
+      parrotTemp="$(get_temp '28-3ce104578c29')"
+      boilerTemp="$(get_temp '28-032197792401')"
+      stillheadTemp="$(get_temp '28-032197794fef')"
+      coolInletTemp="$(get_temp '28-0321977926b2')"
+      coolOutletTemp="$(get_temp '28-032197797070')"
+      if [[ -e "./temp/flowrate.txt" ]]; then
+        distillateFlowrate=`cat ./temp/flowrate.txt`
+        distillateFlowrate="$(truncate $distillateFlowrate)"
       fi
-      if [[ -e "./temp/dScale.txt" ]]; then
-        value=`cat ./temp/dScale.txt`
-        $(updateArray $dScaleArray $value)
+      if [[ -e "./temp/collected.txt" ]]; then
+        distillateVol=`cat ./temp/collected.txt`
+        distillateVol="$(truncate $distillateVol)"
       fi
-      if dScaleDrop; then
-        jar+=1
-        dScaleArray=(0)
-        # python tareScale.py 24 25 & - NO! do this in the python script if dScale weight drops
+      if [[ -e "./temp/percentABV.txt" ]]; then
+        percentABV=`cat ./temp/percentABV.txt`
+        percentABV="$(truncate $percentABV)"
       fi
-      if dScaleIncreasing; then
-        # python script calculates density, %ABV, collected volume, flow rate, and remaining ETOH
-        if [[ -e "./temp/flowrate.txt" ]]; then
-          distillateFlowrate=`cat ./temp/flowrate.txt`
-        fi
-        if [[ -e "./temp/collected.txt" ]]; then
-          distillateVol=`cat ./temp/collected.txt`
-        fi
-        if [[ -e "./temp/percentABV.txt" ]]; then
-          percentABV=`cat ./temp/percentABV.txt`
-        fi
-        if [[ -e "./temp/remaining.txt" ]]; then
-          remaining=`cat ./temp/remaining.txt`
-        fi
+      if [[ -e "./temp/remaining.txt" ]]; then
+        remaining=`cat ./temp/remaining.txt`
+        remaining="$(truncate $remaining)"
       fi
-      prevNowMs=$nowMs
+      # fi
+      prevNowMs="$nowMs"
+      now="$( date '+%m-%d %H:%M:%S' )"
+      dataRow=("$now" $parrotTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
+      for ((i = 0 ; i < ${#dataRow[@]} ; i++)); do
+        printf "%${SPACINGS[i]}s |" ${dataRow[i]} >> $dataFilename
+      done
+      echo "" >> $dataFilename
+      resetDisplay
     fi
   done
-  dataRow=($now $parrotTemp $boilerTemp $stillheadTemp $coolInletTemp $coolOutletTemp $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
-  for ((i = 0 ; i < ${#dataRow[@]} ; i++)); do
-    printf "%${SPACINGS[i]}s |" ${dataRow[i]} >> $dataFilename
-  done
-  echo "" >> $dataFilename
-  resetDisplay
 } || { #catch (not sure if this works)
   cleanUpAndClose
 }
@@ -255,18 +212,18 @@ while getopts "hc:j:p:r:" option; do
       help
       exit ;;
     c) # amount collected
-      distillateVol=$OPTARG
+      distillateVol=${OPTARG%.*}
+      echo $distillateVol > "./temp/distillate.txt"
       mDistillateVol=$(( distillateVol * 1000 )) ;;
     j) # jar number
       jar=$OPTARG ;;
     p) # phase
       phase=$OPTARG ;;
     r) # remaining alcohol
-      remaining=$OPTARG
-      mRemaining=$(( remaining * 1000 )) ;;
+      remaining=${OPTARG%.*}
+      echo $remaining > "./temp/remaining.txt" ;;
    \?) # invalid
-      echo "Error: Invalid option"
-      cleanUpAndClose ;;
+      echo "Error: Invalid option" ;;
   esac
 done
 

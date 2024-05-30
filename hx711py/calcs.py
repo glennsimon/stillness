@@ -2,6 +2,7 @@ import time
 import sys
 import RPi.GPIO as GPIO
 from hx711 import HX711
+from pathlib import Path
 
 # usage: python calcs.py
 
@@ -21,35 +22,24 @@ hFlowrate = ""
 hCollected = ""
 hRemaining = ""
 
-
 weightList56 = []
 weightList2425 = []
 timeListMin = []
 
 def cleanAndExit():
-  hPercentABV = open("./temp/percentABV.txt", "w")
-  hPercentABV.write("0")
-  hPercentABV.close()
-  hFlowrate = open("./temp/flowrate.txt", "w")
-  hFlowrate.write("0")
-  hFlowrate.close()
-  hCollected = open("./temp/collected.txt", "w")
-  hCollected.write("0")
-  hCollected.close()
-  hRemaining = open("./temp/remaining.txt", "w")
-  hRemaining.write("0")
-  hRemaining.close()
-  hJar = open("./temp/jar.txt", "w")
-  hJar.write("0")
-  hJar.close()
+  Path("./temp/percentABV.txt").unlink()
+  Path("./temp/flowrate.txt").unlink()
+  Path("./temp/collected.txt").unlink()
+  Path("./temp/remaining.txt").unlink()
+  Path("./temp/jar.txt").unlink()
   sys.exit()
 
 def dScaleDrop():
-  if len(weightList2425) == 10 and weightList2425[0] - weightList2425[9] > 100:
+  if len(weightList2425) > 1 and weightList2425[-2] - weightList2425[-1] > 50:
     return True
 
 def dScaleIncreasing():
-  if len(weightList2425) > 1 and weightList2425[-1] > weightList2425[0] + 0.5:
+  if len(weightList2425) > 1 and weightList2425[-1] > weightList2425[-2] + 0.1:
     return True
 
 def calculateVals(T):
@@ -57,14 +47,18 @@ def calculateVals(T):
     hx2425.tare()
     hx2425.reset()
     # calculate jar
-    hJar = open("./temp/jar.txt", "r+")
-    jar = int(hJar.read())
+    jarFile = Path("./temp/jar.txt")
+    if jarFile.is_file():
+      mJar = open("./temp/jar.txt", "r+")
+      jar = int(mJar.read()) + 1
+      mJar.seek(0)
+    else:
+      mJar = open("./temp/jar.txt", "w")
+      jar = 1
+    mJar.write(str(jar))
+    mJar.close()
     # print("Jar: " + str(jar))
-    hJar.seek(0)
-    hJar.write(str(jar + 1))
-    hJar.truncate()
-    hJar.close()
-    weightList2425.clear()
+    # weightList2425.clear()
   if dScaleIncreasing():
     if len(sys.argv) > 1:
       V = float(sys.argv[1])
@@ -113,21 +107,36 @@ def calculateVals(T):
     hFlowrate.close()
 
     # calculate collected
-    hCollected = open("./temp/collected.txt", "r+")
-    collected = float(hCollected.read())
-    # print("Collected: " + str(collected))
-    hCollected.seek(0)
-    hCollected.write(str(collected + dVolDiff))
-    hCollected.truncate()
-    hCollected.close()
+    if Path("./temp/collected.txt").is_file():
+      mCollected = open("./temp/collected.txt", "r+")
+      collected = float(mCollected.read())
+      mCollected.seek(0)
+      mCollected.truncate()
+    else:
+      collected = 0.0
+      mCollected = open("./temp/collected.txt", "w")
+    mCollected.write(str(collected + dVolDiff))
+    mCollected.close()
 
-    hRemaining = open("./temp/remaining.txt", "r+")
-    remaining = float(hRemaining.read())
-    # print("Remaining: " + str(remaining))
-    hRemaining.seek(0)
-    hRemaining.write(str(remaining - dVolDiff * percentABV / 100))
-    hRemaining.truncate()
-    hRemaining.close()
+    # calculate remaining
+    if Path("./temp/remaining.txt").is_file():
+      mRemaining = open("./temp/remaining.txt", "r+")
+      try:
+        remaining = float(mRemaining.read())
+        remaining = int(remaining - dVolDiff * percentABV / 100)
+      except:
+        remaining = "unknown"
+      mRemaining.seek(0)
+      mRemaining.write(str(remaining))
+      mRemaining.truncate()
+    else:
+      mRemaining = open("./temp/remaining.txt", "w")
+      mRemaining.write("unknown")
+    mRemaining.close()
+  else:
+    mFlowrate = open("./temp/flowrate.txt", "w")
+    mFlowrate.write("0")
+    mFlowrate.close()
 
 hx56.set_reference_unit(referenceUnit56)
 hx2425.set_reference_unit(referenceUnit2425)

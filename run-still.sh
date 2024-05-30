@@ -3,9 +3,10 @@
 help()
 {
   #Display help
-  echo 'Syntax: run-still.sh -h | -r <rem ETOH> [-p <phase>] [-c <amount coll>] [-j <jar #>]'
+  echo 'Syntax: run-still.sh -h | -r <rem ETOH> [-x] [-p <phase>] [-c <amount coll>] [-j <jar #>]'
   echo 'where:'
   echo '  -h is help'
+  echo '  -x clears all temp files and starts new run with all zeros'
   echo '  -r <rem ETOH> sets remaining ethanol in the boiler (ml)'
   echo '  -p <phase> sets phase of run (heat, equil, FORE, HEADS, HEARTS, TAILS, cool)'
   echo '  -c <amount coll>  sets the amount of distillate collected'
@@ -52,16 +53,17 @@ writeRow()
 
 truncate()
 {
-  decimal=$1
+  decimal="$1"
+  digits="${2:-3}"
   frac=""
   if [[ "$decimal" =~ \. ]]; then
     whole="${decimal%%.*}"
     frac="${decimal#*.}"
-    frac="${frac:0:3}"
+    frac="${frac:0:digits}"
+    echo "$whole.$frac"
   else
-    whole="$decimal"
+    echo "$decimal"
   fi
-  echo "$whole.$frac"
 }
 
 resetDisplay()
@@ -117,7 +119,7 @@ cleanUpAndClose()
   # Careful, this will kill all python scripts running on the computer
   pid=$(pidof python)
   while [[ -n "$pid" ]]; do
-    kill -9 $pid
+    kill $pid
     pid=$(pidof python)
   done
   exit
@@ -147,27 +149,32 @@ main()
           clear
           echo "Enter the phase (E, H, MR, T): "
           read phase
-          resetDisplay ;;
+          resetDisplay
+          ;;
         r)
           clear
           echo "Enter the remaining ethanol: "
           read remaining
           echo $remaining > "./temp/remaining.txt"
-          resetDisplay ;;
+          resetDisplay
+          ;;
         c)
           clear
           echo "Enter the amount of distillate: "
           read distillateVol
-          echo $distillateVol > "./temp/distillate.txt"
-          mDistillateVol=$(( distillateVol * 1000 ))
-          resetDisplay ;;
+          echo $distillateVol > "./temp/collected.txt"
+          resetDisplay
+          ;;
         j)
           clear
           echo "Enter the jar number: "
           read jar
-          resetDisplay ;;
+          echo $jar > "./temp/jar.txt"
+          resetDisplay
+          ;;
         "q" | "Q")
-          cleanUpAndClose ;;
+          cleanUpAndClose
+          ;;
       esac
     else
       parrotTemp="$(get_temp '28-3ce104578c29')"
@@ -181,7 +188,7 @@ main()
       fi
       if [[ -e "./temp/collected.txt" ]]; then
         distillateVol=`cat ./temp/collected.txt`
-        distillateVol="$(truncate $distillateVol)"
+        distillateVol="$(truncate $distillateVol 1)"
       fi
       if [[ -e "./temp/percentABV.txt" ]]; then
         percentABV=`cat ./temp/percentABV.txt`
@@ -190,6 +197,9 @@ main()
       if [[ -e "./temp/remaining.txt" ]]; then
         remaining=`cat ./temp/remaining.txt`
         remaining="$(truncate $remaining)"
+      fi
+      if [[ -e "./temp/jar.txt" ]]; then
+        jar=`cat ./temp/jar.txt`
       fi
       # fi
       prevNowMs="$nowMs"
@@ -206,24 +216,35 @@ main()
   cleanUpAndClose
 }
 
-while getopts "hc:j:p:r:" option; do
+while getopts "hxc:j:p:r:" option; do
   case $option in
     h) # display help
       help
-      exit ;;
+      exit
+      ;;
+    x) # clear all temp files
+      rm ./temp/collected.txt
+      rm ./temp/flowrate.txt
+      rm ./temp/jar.txt
+      rm ./temp/percentABV.txt
+      ;;
     c) # amount collected
       distillateVol=${OPTARG%.*}
-      echo $distillateVol > "./temp/distillate.txt"
-      mDistillateVol=$(( distillateVol * 1000 )) ;;
+      echo $distillateVol > "./temp/collected.txt"
+      ;;
     j) # jar number
-      jar=$OPTARG ;;
+      jar=$OPTARG
+      ;;
     p) # phase
-      phase=$OPTARG ;;
+      phase=$OPTARG
+      ;;
     r) # remaining alcohol
       remaining=${OPTARG%.*}
-      echo $remaining > "./temp/remaining.txt" ;;
+      echo $remaining > "./temp/remaining.txt"
+      ;;
    \?) # invalid
-      echo "Error: Invalid option" ;;
+      echo "Error: Invalid option"
+      ;;
   esac
 done
 

@@ -116,12 +116,14 @@ updateArray()
 
 cleanUpAndClose()
 {
-  # Careful, this will kill all python scripts running on the computer
-  pid=$(pidof python)
-  while [[ -n "$pid" ]]; do
-    kill $pid
-    pid=$(pidof python)
-  done
+  pattern='^[^0-9]+([0-9]+).+?python (runPWM.py|hx711py\/calcs.py)'
+  pythonPids=`ps -ef | grep python`
+  while read line; do
+    if [[ $line =~ $pattern ]]; then 
+      kill -9 ${BASH_REMATCH[1]}
+      echo "python process ${BASH_REMATCH[1]} killed"
+    fi
+  done <<< $pythonPids
   exit
 }
 

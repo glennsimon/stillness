@@ -27,11 +27,6 @@ weightList2425 = []
 timeListMin = []
 
 def cleanAndExit():
-  Path("./temp/percentABV.txt").unlink()
-  Path("./temp/flowrate.txt").unlink()
-  Path("./temp/collected.txt").unlink()
-  Path("./temp/remaining.txt").unlink()
-  Path("./temp/jar.txt").unlink()
   sys.exit()
 
 def dScaleDrop():
@@ -88,11 +83,12 @@ def calculateVals(T):
     # calculate %ABV
     mParrot = weightList56[-1]
     rhoTotal = mParrot / V
+    print("rho_total: ", str(rhoTotal))
     if rhoTotal > rhoH2O:
       percentABV = 0.0
     else:
       percentABV = 100 * (rhoH2O - rhoTotal) / (rhoH2O - rhoETOH)
-    # print("% ABV: " + str(percentABV))
+    print("% ABV: " + str(percentABV))
     hPercentABV = open("./temp/percentABV.txt", "w")
     hPercentABV.write(str(percentABV))
     hPercentABV.close()

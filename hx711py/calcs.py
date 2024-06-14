@@ -34,7 +34,7 @@ def dScaleDrop():
     return True
 
 def dScaleIncreasing():
-  if len(weightList2425) > 1 and weightList2425[-1] > weightList2425[-2] + 0.1:
+  if len(weightList2425) > 1 and weightList2425[-1] > weightList2425[-2] + 0.5:
     return True
 
 def calculateVals(T):
@@ -53,12 +53,13 @@ def calculateVals(T):
     mJar.write(str(jar))
     mJar.close()
     # print("Jar: " + str(jar))
-    # weightList2425.clear()
+    weightList2425.clear()
+    weightList2425.append(hx2425.get_weight(5))
   if dScaleIncreasing():
     if len(sys.argv) > 1:
       V = float(sys.argv[1])
     else:
-      V = 53.228
+      V = 49.0
 
     # calculate water density at temperature T
     a = 2.8054253e-10

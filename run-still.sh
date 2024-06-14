@@ -119,7 +119,7 @@ cleanUpAndClose()
   pattern='^[^0-9]+([0-9]+).+?python (runPWM.py|hx711py\/calcs.py)'
   pythonPids=`ps -ef | grep python`
   while read line; do
-    if [[ $line =~ $pattern ]]; then 
+    if [[ $line =~ $pattern ]]; then
       kill -9 ${BASH_REMATCH[1]}
       echo "python process ${BASH_REMATCH[1]} killed"
     fi

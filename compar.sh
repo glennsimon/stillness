@@ -169,31 +169,30 @@ main()
           read -rsn 1 -t 10 phaseNum
           case $phaseNum in
             1)
-              phase="HEAT"
+              phase = "HEAT"
               ;;
             2)
-              phase="EQUIL"
+              phase = "EQUIL"
               ;;
             3)
-              phase="FORE"
+              phase = "FORE"
               ;;
             4)
-              phase="HEADS"
+              phase = "HEADS"
               ;;
             5)
-              phase="HEARTS"
+              phase = "HEARTS"
               ;;
             6)
-              phase="TAILS"
+              phase = "TAILS"
               ;;
             7)
-              phase="COOL"
+              phase = "COOL"
               ;;
             8)
-              phase="STRIP"
+              phase = "STRIP"
               ;;
           esac
-          echo $phase > "./temp/phase.txt"
           resetDisplay
           ;;
         r)
@@ -257,9 +256,6 @@ main()
         remaining=`cat ./temp/remaining.txt`
         remaining="$(truncate $remaining)"
       fi
-      if [[ -e "./temp/phase.txt" ]]; then
-        phase=`cat ./temp/phase.txt`
-      fi
       if [[ -e "./temp/jar.txt" ]]; then
         jar=`cat ./temp/jar.txt`
       fi
@@ -288,7 +284,6 @@ while getopts "hxc:j:p:r:" option; do
       rm ./temp/collected.txt
       rm ./temp/flowrate.txt
       rm ./temp/jar.txt
-      rm ./temp/phase.txt
       rm ./temp/percentABV.txt
       ;;
     c) # amount collected
@@ -297,11 +292,9 @@ while getopts "hxc:j:p:r:" option; do
       ;;
     j) # jar number
       jar=$OPTARG
-      echo $jar > "./temp/jar.txt"
       ;;
     p) # phase
       phase=$OPTARG
-      echo $phase > "./temp/phase.txt"
       ;;
     r) # remaining alcohol
       remaining=${OPTARG%.*}

@@ -4,21 +4,21 @@
 # Start this file: './run-ferment.sh [-h] | [-t <boiler temp tgt>] [-p <fixed PWM number>]'
 
 instructions=(
-  'Enter a number below to make a change (q to quit):',
+  'Enter a letter below to make a change (q to quit):',
   't - change desired boiler temperature',
-  'p - set PWM for boiler heater'
+  'p - set fixed PWM for boiler heater'
 )
 headers1=('' '' '' '' '')
 headers2=('' '' 'T amb' 'T boil' 'Tboil')
 headers3=('Time' 'PWM' '(C)' '(C)' 'tgt(C)')
-horizLine="-----------------------------------------------"
+horizLine="----------------------------------------------------"
 spacings=(15 6 7 7 7)
 boilerTarget="74"
 PWM="25"
 mPWM=$(( PWM * 1000 ))
 now=$( date '+%H:%M:%S' )
 prevNowNs=$( date '+%s%N' )
-prevNowMs=$(( prevNowNs / 1000000 - 10000))
+prevNowMs=$(( prevNowNs / 1000000 - 10000 ))
 dataRow=("$now" $PWM "TBD" "TBD" $boilerTarget)
 mDeltaTArray=()
 fixedPWM=""
@@ -75,6 +75,9 @@ reset_display()
   echo $horizLine >&1
   write_row dataRow >&1
   echo ""
+  echo "mTgtBoilerTemp = " $mTgtBoilerTemp
+  echo "mAmbTemp = " $mAmbTemp
+  echo ""
   echo "fixedPWM = " $fixedPWM
   echo "PWM = " $PWM
   echo "mPWM = " $mPWM
@@ -111,13 +114,13 @@ adjust_power()
   mAmbTemp="$(convert_to_thousandths $ambTemp)"
   # Thermal resistance from boiler to ambient (C/W, in thousandths)
   mError="$((mTgtBoilerTemp - mBoilerTemp))"
-  
-  if [[ "$mError" -gt 2000 ]]; then
+
+  if [[ "$mError" -gt 1000 ]]; then
     mPWM="99000"
-  elif [[ "$mError" -lt -2000 ]]; then
+  elif [[ "$mError" -lt 0 ]]; then
     mPWM="1000"
   else
-    mPWM=$(( 5000 * mError / 2000 + 1000000 * (mTgtBoilerTemp - mAmbTemp) / 215 / 15910 + 14639 ))
+    mPWM=$(( 2000 + 5000 * mError / 2000 + 1000000 * (mTgtBoilerTemp - mAmbTemp) / 215 / 15910 + 14639 ))
   fi
 
   PWM="${mPWM:0:(-3)}.${mPWM:(-3)}"
@@ -155,7 +158,7 @@ write_row headers2 >> $dataFilename
 write_row headers3 >> $dataFilename
 echo $horizLine >> $dataFilename
 
-main() 
+main()
 {
   while true ; do
     read -rsn 1 -t 0.1 input
@@ -163,23 +166,24 @@ main()
       t)
         clear
         echo "Enter the desired boiler temperature: "
-        read boilerTarget         
+        read boilerTarget
+        mBoilerTgt="$(convert_to_thousandths $boilerTarget)"
         mDeltaTArray=()
-        mDeltaTArray[0]=$((boilerTarget * 1000 - mBoilerTemp))
+        mDeltaTArray[0]=$((mBoilerTgt - mBoilerTemp))
         ;;
       p)
         clear
         echo "Enter the PWM (0-99), or <CR> for PID controlled PWM: "
-        read fixedPWM 
+        read fixedPWM
         if [[ -n $fixedPWM ]]; then
-          echo $fixedPWM > pwm_setting 
+          echo $fixedPWM > pwm_setting
         fi
         ;;
       "q" | "Q")
         pattern='^[^0-9]+([0-9]+).+?python runPWM.py'
         pythonPids=`ps -ef | grep python`
         while read line; do
-          if [[ $line =~ $pattern ]]; then 
+          if [[ $line =~ $pattern ]]; then
             kill -9 ${BASH_REMATCH[1]}
             echo "python process ${BASH_REMATCH[1]} killed"
           fi
@@ -194,7 +198,7 @@ main()
     timeDiff=$(( nowMs - prevNowMs ))
     if [[ "$timeDiff" -ge 10000 ]]; then
       now="$( date '+%m-%d %H:%M:%S' )"
-      ambTemp="$(get_temp '28-032197797f0c')"
+      ambTemp="$(get_temp '28-3ce104572963')"
       boilerTemp="$(get_temp '28-3ce104577969')"
       if [[ -z $fixedPWM ]]; then
         dataRow=("$now" $PWM $ambTemp $boilerTemp $boilerTarget)
@@ -223,11 +227,12 @@ while getopts "ht:p:" option; do
       ;;
     t) # boiler target
       boilerTarget=$OPTARG
+      mBoilerTgt="$(convert_to_thousandths $boilerTarget)"
       mDeltaTArray=()
-      mDeltaTArray[0]=$((boilerTarget * 1000 - mBoilerTemp))
+      mDeltaTArray[0]=$((mBoilerTgt - mBoilerTemp))
       ;;
     p) # duty cycle (PWM)
-      fixedPWM=$OPTARG 
+      fixedPWM=$OPTARG
       echo $fixedPWM > pwm_setting
       ;;
    \?) # invalid

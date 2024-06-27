@@ -152,12 +152,15 @@ def calculateVals(T):
       mRemaining = open("./temp/remaining.txt", "r+")
       try:
         remaining = float(mRemaining.read())
-        remaining = int(remaining - dVolDiff * percentABV / 100)
+        remaining = remaining - dVolDiff * percentABV / 100
+        mRemaining.seek(0)
+        mRemaining.write(str("%.2f" % remaining))
+        mRemaining.truncate()
       except:
         remaining = "unknown"
-      mRemaining.seek(0)
-      mRemaining.write(str(remaining))
-      mRemaining.truncate()
+        mRemaining.seek(0)
+        mRemaining.write(remaining)
+        mRemaining.truncate()
     else:
       mRemaining = open("./temp/remaining.txt", "w")
       mRemaining.write("unknown")

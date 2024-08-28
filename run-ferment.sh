@@ -114,7 +114,7 @@ adjust_power()
   mAmbTemp="$(convert_to_thousandths $ambTemp)"
   # Thermal resistance from boiler to ambient (C/W, in thousandths)
   mError="$((mTgtBoilerTemp - mBoilerTemp))"
-
+  
   if [[ "$mError" -gt 1000 ]]; then
     mPWM="99000"
   elif [[ "$mError" -lt 0 ]]; then
@@ -152,21 +152,20 @@ help()
   echo
 }
 
-python runPWM.py &
-write_row headers1 >> $dataFilename
-write_row headers2 >> $dataFilename
-write_row headers3 >> $dataFilename
-echo $horizLine >> $dataFilename
-
-main()
+main() 
 {
+  python runPWM.py &
+  write_row headers1 >> $dataFilename
+  write_row headers2 >> $dataFilename
+  write_row headers3 >> $dataFilename
+  echo $horizLine >> $dataFilename
   while true ; do
     read -rsn 1 -t 0.1 input
     case $input in
       t)
         clear
         echo "Enter the desired boiler temperature: "
-        read boilerTarget
+        read boilerTarget         
         mBoilerTgt="$(convert_to_thousandths $boilerTarget)"
         mDeltaTArray=()
         mDeltaTArray[0]=$((mBoilerTgt - mBoilerTemp))
@@ -174,16 +173,16 @@ main()
       p)
         clear
         echo "Enter the PWM (0-99), or <CR> for PID controlled PWM: "
-        read fixedPWM
+        read fixedPWM 
         if [[ -n $fixedPWM ]]; then
-          echo $fixedPWM > pwm_setting
+          echo $fixedPWM > pwm_setting 
         fi
         ;;
       "q" | "Q")
         pattern='^[^0-9]+([0-9]+).+?python runPWM.py'
         pythonPids=`ps -ef | grep python`
         while read line; do
-          if [[ $line =~ $pattern ]]; then
+          if [[ $line =~ $pattern ]]; then 
             kill -9 ${BASH_REMATCH[1]}
             echo "python process ${BASH_REMATCH[1]} killed"
           fi
@@ -232,7 +231,7 @@ while getopts "ht:p:" option; do
       mDeltaTArray[0]=$((mBoilerTgt - mBoilerTemp))
       ;;
     p) # duty cycle (PWM)
-      fixedPWM=$OPTARG
+      fixedPWM=$OPTARG 
       echo $fixedPWM > pwm_setting
       ;;
    \?) # invalid
@@ -243,3 +242,4 @@ while getopts "ht:p:" option; do
 done
 
 main
+

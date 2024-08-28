@@ -205,10 +205,8 @@ main()
         dataRow=("$now" $fixedPWM $ambTemp $boilerTemp $boilerTarget)
       fi
       reset_display
-      i=0
-      for datum in ${dataRow[@]}; do
-        printf "%${spacings[i]}s |" $datum >> $dataFilename
-        i=$(( i + 1 ))
+      for ((i = 0 ; i < ${#dataRow[@]} ; i++)); do
+        printf "%${spacings[i]}s |" "${dataRow[i]}" >> $dataFilename
       done
       echo "" >> $dataFilename
       update_arrays

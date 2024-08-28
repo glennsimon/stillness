@@ -45,7 +45,7 @@ def dScaleDrop():
     return True
 
 def dScaleIncreasing():
-  if len(weightList2425) > 1 and weightList2425[-1] > weightList2425[-2] + 0.5:
+  if len(weightList2425) > 2 and weightList2425[-1] > weightList2425[-2] + 0.3 and weightList2425[-2] > weightList2425[-3] + 0.3:
     return True
 
 def calculateVals(T):
@@ -62,15 +62,17 @@ def calculateVals(T):
       mJar.seek(0)
     else:
       mJar = open("./temp/jar.txt", "w")
-      jar = 1
+      jar = 0
     mJar.write(str(jar))
     mJar.close()
     # print("Jar: " + str(jar))
     weightList2425.clear()
-    global SLOPE2425
-    weight2425 = hx2425.get_weight(5)
-    weight2425 = weight2425 - SLOPE2425 * (ambientTemp - tareAmbientTemp)
-    weightList2425.append(weight2425)
+    weightList56.clear()
+    timeListMin.clear()
+    # global SLOPE2425
+    # weight2425 = hx2425.get_weight(5)
+    # weight2425 = weight2425 - SLOPE2425 * (ambientTemp - tareAmbientTemp)
+    # weightList2425.append(weight2425)
   if dScaleIncreasing():
     parrotTempK = T + 273.15
     if len(sys.argv) > 1:

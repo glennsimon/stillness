@@ -4,13 +4,13 @@ import RPi.GPIO as GPIO
 from hx711 import HX711
 from pathlib import Path
 
-# usage: python calcs.py
+# usage: python scale_offset_test.py
 
 GPIO.setwarnings(False)
 SLOPE2425 = 0.86
 SLOPE56 = -1.7
-HEADERS = "time     | tare amb (C) | T amb (C)  | 56 wt unadj  | 2425 wt unadj | 56 wt adj  | 2425 wt adj   |"
-HORIZ_LINE = "--------------------------------------------------------------------------------------------------"
+HEADERS = "time     | tare amb (C) | T amb (C)  | 56 wt unadj  | 2425 wt unadj | 56 wt adj  | 2425 wt adj   |\n"
+HORIZ_LINE = "--------------------------------------------------------------------------------------------------\n"
 
 hx56 = HX711(5, 6)
 hx2425 = HX711(24, 25)
@@ -39,26 +39,28 @@ hLogfile.write(HEADERS)
 hLogfile.write(HORIZ_LINE)
 hLogfile.close()
 
-hAmbientTemp = open("/sys/bus/w1/devices/28-032197797f0c/w1_slave", "r")
+# hAmbientTemp = open("/sys/bus/w1/devices/28-032197797f0c/w1_slave", "r")
+hAmbientTemp = open("/sys/bus/w1/devices/28-3ce104572963/w1_slave", "r")
 hAmbientTemp.readline()
 tareAmbientTemp = hAmbientTemp.readline()
 tareAmbientTemp = float(tareAmbientTemp[29:])/1000
 hAmbientTemp.close()
 
-tareTime = float(time.monotonic_ns()) / 1000000000.0 / 60.0
+tareTime = float(time.monotonic_ns()) / 1000000000.0
 
 while True:
   try:
     hLogfile = open("scale_test_log.txt", "a")
     # write time to logfile
-    currTime = float(time.monotonic_ns()) / 1000000000.0 / 60.0 - tareTime
+    currTime = float(time.monotonic_ns()) / 1000000000.0
     hLogfile.write(str(currTime - tareTime) + " |")
 
     # write tare ambient temp to logfile
     hLogfile.write(str(tareAmbientTemp) + " |")
 
     # get the ambient temperature
-    hAmbientTemp = open("/sys/bus/w1/devices/28-032197797f0c/w1_slave", "r")
+    # hAmbientTemp = open("/sys/bus/w1/devices/28-032197797f0c/w1_slave", "r")
+    hAmbientTemp = open("/sys/bus/w1/devices/28-3ce104572963/w1_slave", "r")
     hAmbientTemp.readline()
     ambientTemp = hAmbientTemp.readline()
     ambientTemp = float(ambientTemp[29:])/1000

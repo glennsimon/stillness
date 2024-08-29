@@ -43,10 +43,24 @@ def cleanAndExit():
 def dScaleDrop():
   if len(weightList2425) > 1 and weightList2425[-2] - weightList2425[-1] > 50:
     return True
+  else:
+    return False
 
 def dScaleIncreasing():
-  if len(weightList2425) > 2 and weightList2425[-1] > weightList2425[-2] + 0.3 and weightList2425[-2] > weightList2425[-3] + 0.3:
-    return True
+  if len(weightList2425) > 9:
+    length = len(weight2425)
+    halfLen = int(length / 2)
+    lastHalfSum = 0
+    firstHalfSum = 0
+    for index in range(halfLen):
+      lastHalfSum += weightList2425[-(index + 1)]
+      firstHalfSum += weightList2425[index]
+    lastHalfAverage = lastHalfSum / halfLen
+    firstHalfAverage = firstHalfSum / halfLen
+    if firstHalfAverage - lastHalfAverage > 0.5:
+      return True
+    else:
+      return False
 
 def calculateVals(T):
   if dScaleDrop():
@@ -220,14 +234,14 @@ while True:
     # hx56.set_reference_unit(referenceUnit56)
 
     # Add current time
-    if len(timeListMin) >= 10:
+    if len(timeListMin) >= 20:
       timeListMin.pop(0)
     timeListMin.append(float(time.monotonic_ns()) / 1000000000.0 / 60.0)
 
     # Add current weight to weightList56
     weight56 = hx56.get_weight(5)
     weight56 = weight56 - SLOPE56 * (ambientTemp - tareAmbientTemp)
-    if len(weightList56) >= 10:
+    if len(weightList56) >= 20:
       weightList56.pop(0)
     weightList56.append(weight56)
     # print("weightList56: ", weightList56)
@@ -235,7 +249,7 @@ while True:
     # Add current weight to weightList2425
     weight2425 = hx2425.get_weight(5)
     weight2425 = weight2425 - SLOPE2425 * (ambientTemp - tareAmbientTemp)
-    if len(weightList2425) >= 10:
+    if len(weightList2425) >= 20:
       weightList2425.pop(0)
     weightList2425.append(weight2425)
     # print("weightList2425: ", weightList2425)
@@ -245,7 +259,7 @@ while True:
     hx56.reset()
     hx2425.reset()
     # delta_sec = round((time.monotonic_ns() - now)/1000000000.0, 3)
-    time.sleep(5)
+    # time.sleep(5)
 
   except (KeyboardInterrupt, SystemExit):
     cleanAndExit()

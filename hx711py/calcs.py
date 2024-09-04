@@ -8,7 +8,7 @@ from pathlib import Path
 
 GPIO.setwarnings(False)
 SLOPE2425 = 0.86
-SLOPE56 = -1.7
+SLOPE56 = -1.72
 volAdjust = 0.5
 
 hx56 = HX711(5, 6)
@@ -41,14 +41,17 @@ def cleanAndExit():
   sys.exit()
 
 def dScaleDrop():
+  # print(str(weightList2425))
   if len(weightList2425) > 1 and weightList2425[-2] - weightList2425[-1] > 50:
+    # print("scaleDrop: true")
     return True
   else:
+    # print("scaleDrop: false")
     return False
 
 def dScaleIncreasing():
   if len(weightList2425) > 9:
-    length = len(weight2425)
+    length = len(weightList2425)
     halfLen = int(length / 2)
     lastHalfSum = 0
     firstHalfSum = 0
@@ -57,9 +60,11 @@ def dScaleIncreasing():
       firstHalfSum += weightList2425[index]
     lastHalfAverage = lastHalfSum / halfLen
     firstHalfAverage = firstHalfSum / halfLen
-    if firstHalfAverage - lastHalfAverage > 0.5:
+    if lastHalfAverage - firstHalfAverage > 0.5:
+      # print("scaleIncr: true")
       return True
     else:
+      # print("scaleIncr: false")
       return False
 
 def calculateVals(T):
@@ -93,7 +98,7 @@ def calculateVals(T):
       V = float(sys.argv[1])
     else:
       global volAdjust
-      print("volAdjust: " + str(volAdjust))
+      # print("volAdjust: " + str(volAdjust))
       V = 53.8 + volAdjust
 
     # calculate water density at temperature T
@@ -119,7 +124,7 @@ def calculateVals(T):
     # calculate %ABV
     mParrot = weightList56[-1]
     rhoTotal = mParrot / V
-    print("rho_total: ", str(rhoTotal))
+    # print("rho_total: ", str(rhoTotal))
     wtPct = wtPercent(parrotTempK, "full", rhoTotal)
     if wtPct < 25:
       wtPct = wtPercent(parrotTempK, "Q1", rhoTotal)
@@ -203,21 +208,27 @@ hx2425.reset()
 
 prevTareTime = time.monotonic_ns()/1000000000.0/60/60 + 1
 
-hAmbientTemp = open("/sys/bus/w1/devices/28-032197797f0c/w1_slave", "r")
-hAmbientTemp.readline()
-tareAmbientTemp = hAmbientTemp.readline()
-tareAmbientTemp = float(tareAmbientTemp[29:])/1000
-hAmbientTemp.close()
+tareAmbientArray = []
+
+for element in (1, 10):
+  hAmbientTemp = open("/sys/bus/w1/devices/28-032197794fef/w1_slave", "r")
+  hAmbientTemp.readline()
+  tareAmbientTemp = hAmbientTemp.readline()
+  tareAmbientTemp = float(tareAmbientTemp[29:])/1000
+  tareAmbientArray.append(tareAmbientTemp)
+  hAmbientTemp.close()
+
+tareAmbientTemp = sum(tareAmbientArray) / len(tareAmbientArray)
 
 while True:
   try:
-    # get the ambient temperature
-    hAmbientTemp = open("/sys/bus/w1/devices/28-032197797f0c/w1_slave", "r")
+    # get the scale beam temperature
+    hAmbientTemp = open("/sys/bus/w1/devices/28-032197794fef/w1_slave", "r")
     hAmbientTemp.readline()
     ambientTemp = hAmbientTemp.readline()
     ambientTemp = float(ambientTemp[29:])/1000
     hAmbientTemp.close()
-    # print("ambientTemp: ", ambientTemp, "degC")
+    # print("scaleTemp: ", ambientTemp, "degC")
 
     # get the parrot temperature
     hParrotTemp = open("/sys/bus/w1/devices/28-3ce104578c29/w1_slave", "r")

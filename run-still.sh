@@ -12,7 +12,6 @@ help()
   echo '  -c <amount coll>  sets the amount of distillate collected'
   echo '  -j <jar #>  sets the jar number'
   echo
-  echo 'At least one argument is required, either -h or -r <rem ETOH>, others optional'
 }
 
 
@@ -145,7 +144,7 @@ main()
   now="$( date '+%m-%d %H:%M:%S' )"
   parrotTemp="$(get_temp '28-3ce104578c29')"
   boilerTemp="$(get_temp '28-032197792401')"
-  stillheadTemp="$(get_temp '28-032197794fef')"
+  stillheadTemp="$(get_temp '28-3ce10457a1f8')"
   coolInletTemp="$(get_temp '28-0321977926b2')"
   coolOutletTemp="$(get_temp '28-032197797070')"
   while true ; do
@@ -238,7 +237,7 @@ main()
     else
       parrotTemp="$(get_temp '28-3ce104578c29')"
       boilerTemp="$(get_temp '28-032197792401')"
-      stillheadTemp="$(get_temp '28-032197794fef')"
+      stillheadTemp="$(get_temp '28-3ce10457a1f8')"
       coolInletTemp="$(get_temp '28-0321977926b2')"
       coolOutletTemp="$(get_temp '28-032197797070')"
       if [[ -e "./temp/flowrate.txt" ]]; then
@@ -287,7 +286,7 @@ while getopts "hxc:j:p:r:" option; do
     x) # clear all temp files
       rm ./temp/collected.txt
       rm ./temp/flowrate.txt
-      rm ./temp/jar.txt
+      echo 0 > ./temp/jar.txt
       rm ./temp/phase.txt
       rm ./temp/percentABV.txt
       ;;

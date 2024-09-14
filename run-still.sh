@@ -40,7 +40,13 @@ startTimeMs="$(( $(date '+%s%N') / 1000000))"
 prevNowMs="$startTimeMs"
 dataRow=("$now" "TBD" "TBD" "TBD" "TBD" "TBD" $jar $phase $distillateFlowrate $distillateVol $percentABV $remaining)
 
-dataFilename="./runs/$( date '+%F' )_run.txt"
+if [[ -e "./temp/filename.txt" ]]; then
+  dataFilename=`cat ./temp/filename.txt`
+else
+  dataFilename="./runs/$( date '+%F' )_run.txt"
+  echo "$dataFilename" > "./temp/remaining.txt"
+fi
+      
 
 writeRow()
 {
@@ -289,6 +295,7 @@ while getopts "hxc:j:p:r:" option; do
       echo 0 > ./temp/jar.txt
       rm ./temp/phase.txt
       rm ./temp/percentABV.txt
+      rm ./temp/filename.txt
       ;;
     c) # amount collected
       distillateVol=${OPTARG%.*}

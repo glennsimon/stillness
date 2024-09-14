@@ -66,8 +66,6 @@ def dScaleIncreasing():
     else:
       # print("scaleIncr: false")
       return False
-  else:
-    return False
 
 def calculateVals(T):
   if dScaleDrop():
@@ -149,27 +147,14 @@ def calculateVals(T):
     hPercentABV.close()
 
     # calculate flowrate
-    length = len(weightList2425)
-    halfLen = int(length / 2)
-    lastHalfSum = 0
-    firstHalfSum = 0
-    for index in range(halfLen):
-      lastHalfSum += weightList2425[-(index + 1)]
-      firstHalfSum += weightList2425[index]
-    lastHalfAverage = lastHalfSum / halfLen
-    firstHalfAverage = firstHalfSum / halfLen
-    avgWeightDiff = lastHalfAverage - firstHalfAverage
-    avgVolDiff = avgWeightDiff / rhoTotal
-    # dMassDiff = weightList2425[-1] - weightList2425[-2]
-    # dVolDiff = dMassDiff / rhoTotal
-    # flowrate = dVolDiff / (timeListMin[-1] - timeListMin[-2])
-    flowrate = avgVolDiff / (timeListMin[-1] - timeListMin[-(halfLen + 1)])
+    dMassDiff = weightList2425[-1] - weightList2425[-2]
+    dVolDiff = dMassDiff / rhoTotal
+    flowrate = dVolDiff / (timeListMin[-1] - timeListMin[-2])
     # print("Flowrate: " + str(flowrate))
     hFlowrate = open("./temp/flowrate.txt", "w")
     hFlowrate.write(str(flowrate))
     hFlowrate.close()
     volAdjust = flowrate / 50
-    avgVolIncrement = avgVolDiff / halfLen
 
     # calculate collected
     if Path("./temp/collected.txt").is_file():
@@ -180,7 +165,7 @@ def calculateVals(T):
     else:
       collected = 0.0
       mCollected = open("./temp/collected.txt", "w")
-    mCollected.write(str(collected + avgVolIncrement))
+    mCollected.write(str(collected + dVolDiff))
     mCollected.close()
 
     # calculate remaining
@@ -188,7 +173,7 @@ def calculateVals(T):
       mRemaining = open("./temp/remaining.txt", "r+")
       try:
         remaining = float(mRemaining.read())
-        remaining = remaining - avgVolIncrement * percentABV / 100
+        remaining = remaining - dVolDiff * percentABV / 100
         mRemaining.seek(0)
         mRemaining.write(str("%.2f" % remaining))
         mRemaining.truncate()

@@ -1,6 +1,7 @@
 import time
 import sys
 import RPi.GPIO as GPIO
+import numpy as np
 from hx711 import HX711
 from pathlib import Path
 
@@ -60,7 +61,7 @@ def dScaleIncreasing():
       firstHalfSum += weightList2425[index]
     lastHalfAverage = lastHalfSum / halfLen
     firstHalfAverage = firstHalfSum / halfLen
-    if lastHalfAverage - firstHalfAverage > 0.5:
+    if lastHalfAverage - firstHalfAverage > 1.0:
       # print("scaleIncr: true")
       return True
     else:
@@ -144,6 +145,7 @@ def calculateVals(T):
       percentABV = 100 * volETOH / V
       # percentABV = 100 * (rhoH2O - rhoTotal) / (rhoH2O - rhoETOH)
     print("% ABV: " + str(percentABV))
+    # print("wt 2425: " + str(weightList2425))
     hPercentABV = open("./temp/percentABV.txt", "w")
     hPercentABV.write(str(percentABV))
     hPercentABV.close()
@@ -281,6 +283,10 @@ while True:
     # print("weightList2425: ", weightList2425)
 
     calculateVals(parrotTemp)
+
+    mArray = open("./temp/wt2425.txt", "a")
+    mArray.write(np.round(weightList2425, 1) + "\n")
+    mArray.close()
 
     hx56.reset()
     hx2425.reset()

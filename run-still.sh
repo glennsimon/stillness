@@ -44,9 +44,8 @@ if [[ -e "./temp/filename.txt" ]]; then
   dataFilename=`cat ./temp/filename.txt`
 else
   dataFilename="./runs/$( date '+%F' )_run.txt"
-  echo "$dataFilename" > "./temp/remaining.txt"
+  echo "$dataFilename" > "./temp/filename.txt"
 fi
-      
 
 writeRow()
 {
@@ -140,7 +139,13 @@ cleanUpAndClose()
 
 main()
 { #try
-  # python runPWM.py &
+  if [[ -e "./temp/filename.txt" ]]; then
+    dataFilename=`cat ./temp/filename.txt`
+  else
+    dataFilename="./runs/$( date '+%F' )_run.txt"
+    echo "$dataFilename" > "./temp/filename.txt"
+  fi
+
   python hx711py/calcs.py &
   resetDisplay
   writeRow HEADERS_1 >> $dataFilename
@@ -296,6 +301,7 @@ while getopts "hxc:j:p:r:" option; do
       rm ./temp/phase.txt
       rm ./temp/percentABV.txt
       rm ./temp/filename.txt
+      rm ./temp/wt2425.txt
       ;;
     c) # amount collected
       distillateVol=${OPTARG%.*}
